@@ -17,10 +17,10 @@ typeDisplay:
   book:
     featuresBare:
       - book
-      - bookshort
+      - book_short
   word:
     featuresBare:
-      - gloss
+      - gloss_EN
     features:
       - lemma
       - strongs
