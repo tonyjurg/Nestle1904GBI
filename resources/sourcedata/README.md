@@ -1,11 +1,11 @@
 # Sourcedata
 
-This repository contains the TextFabric product as it was created from GBI trees (XML nodes).
-The source data for the conversion are the XML node files representing the macula-greek version of the Nestle Aland 1904 Greek New Testment (Public Domain). This directory contains a copy of the actual XML files used for the conversion and can be used in combination with the converter to recreate the TextFabric product. The most recent source data for the "MACULA Greek Linguistic Datasets, available at https://github.com/Clear-Bible/macula-greek/".
+This directory contains a copy of the GBI trees XML files used for the conversion. This set of files can be used in combination with the converter to recreate the TextFabric product.
+The source data for the conversion are the XML node files representing the macula-greek version of the Nestle Aland 1904 Greek New Testment (Public Domain).  The most recent source data for the "MACULA Greek Linguistic Datasets, available at https://github.com/Clear-Bible/macula-greek/.
 
-Further attribution and legal notices:
+# Further attribution and legal notices
 
-# MACULA Greek Linguistic Datasets
+## MACULA Greek Linguistic Datasets
 
 In addition to datasets from Clear, MACULA contains data from the following datasets:
 
