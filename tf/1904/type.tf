@@ -1,15 +1,18 @@
 @node
-@Author=Nestle & Aland
-@Converter=Tony Jurg
-@Editors=Clear Bible
-@Name=NA1904
-@Note=?
-@Source:=https://github.com/Clear-Bible/macula-greek/tree/main/Nestle1904/nodes
+@Availability=Creative Commons Attribution 4.0 International (CC BY 4.0)
+@Converter_author=Tony Jurg, Vrije Universiteit Amsterdam, Netherlands
+@Converter_execution=Tony Jurg, Vrije Universiteit Amsterdam, Netherlands
+@Converter_version=0.1 (Initial)
+@Convertor_source=https://github.com/tonyjurg/NA1904/tree/main/resources/converter
+@Data source=MACULA Greek Linguistic Datasets, available at https://github.com/Clear-Bible/macula-greek/tree/main/Nestle1904/nodes
+@Editors=Nestle & Aland
+@Name=Greek New Testament (NA1904)
+@TextFabric version=11.2.3
 @Version=1904
-@description=type - not clear what to do with this
+@description=Gramatical type  of noun or pronoun (e.g. Common, Personal)
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-03-08T16:34:23Z
+@dateWritten=2023-03-21T20:50:45Z
 
 Common
 Common

@@ -1,18 +1,22 @@
 @node
-@Author=Nestle & Aland
-@Converter=Tony Jurg
-@Editors=Clear Bible
-@Name=NA1904
-@Note=?
-@Source:=https://github.com/Clear-Bible/macula-greek/tree/main/Nestle1904/nodes
+@Availability=Creative Commons Attribution 4.0 International (CC BY 4.0)
+@Converter_author=Tony Jurg, Vrije Universiteit Amsterdam, Netherlands
+@Converter_execution=Tony Jurg, Vrije Universiteit Amsterdam, Netherlands
+@Converter_version=0.1 (Initial)
+@Convertor_source=https://github.com/tonyjurg/NA1904/tree/main/resources/converter
+@Data source=MACULA Greek Linguistic Datasets, available at https://github.com/Clear-Bible/macula-greek/tree/main/Nestle1904/nodes
+@Editors=Nestle & Aland
+@Name=Greek New Testament (NA1904)
+@TextFabric version=11.2.3
 @Version=1904
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-03-08T16:34:23Z
+@dateWritten=2023-03-21T20:50:44Z
 
 1-137779	word
 137780-137806	book
 137807-138066	chapter
-138067-156544	clause
-156545-163226	sentence
-163227-171170	verse
+138067-154190	clause
+154191-230605	phrase
+230606-236325	sentence
+236326-244269	verse
