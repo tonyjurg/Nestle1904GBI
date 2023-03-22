@@ -9,3 +9,5 @@ The following directories contain the TextFabric data:
  
  Additionaly provided:
  * resources: data and tools used for production
+ 
+ See [here](https://github.com/tonyjurg/NA1904/tree/main/resources/sourcedata) for licence of the source data.
