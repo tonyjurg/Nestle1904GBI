@@ -1,3 +1,5 @@
 # Feature: clause
 
-Clause number (counted per chapter)
+Datatype: `integer`
+
+Feature description: Clause number (counted per chapter).
