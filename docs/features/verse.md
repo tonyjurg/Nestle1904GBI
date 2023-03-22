@@ -2,6 +2,6 @@
 
 Datatype: `integer`
 
-Available for nodetype(s): `word`
+Available for nodetype(s): [`word`](wordnodefeatures.md) [`verse`](versenodefeatures.md) 
 
 Feature description: Verse number in chapter.
