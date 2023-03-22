@@ -1,3 +1,5 @@
 # Feature: normalized
 
-Surface word stripped of punctations
+Datatype: `string`
+
+Feature description: Surface word stripped of punctations.
