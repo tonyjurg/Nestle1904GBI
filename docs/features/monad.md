@@ -1,3 +1,5 @@
 # Feature: monad
 
-Monad
+Datatype: `string`
+
+Feature description: Monad
