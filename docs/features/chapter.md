@@ -1,3 +1,5 @@
 # Feature: chapter
 
-Chapter number inside book
+Datatype: `integer`
+
+Feature description: Chapter number inside book.
