@@ -1,3 +1,7 @@
 # Feature: phrasefunction_long
 
-Phrase function (long description)
+Datatype: `string`
+
+Available for nodetype(s): [`phrase`](phrasenodefeatures.md)
+
+Feature description: Phrase function (long description)
