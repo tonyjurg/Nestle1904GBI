@@ -1,3 +1,5 @@
 # Feature: phrase
 
-Phrase number (counted per chapter)
+Datatype: `integer`
+
+Feature description: Phrase number (counted per chapter).
