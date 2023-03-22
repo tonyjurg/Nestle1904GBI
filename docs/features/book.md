@@ -1,3 +1,5 @@
 # Feature: book
 
-Book
+Datatype: `string`
+
+Feature description: Book
