@@ -1,3 +1,5 @@
 # Feature: lemma
 
-Lexeme (lemma)
+Datatype: `string`
+
+Feature description: Lexeme (lemma)
