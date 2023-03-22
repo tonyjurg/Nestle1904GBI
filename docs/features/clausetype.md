@@ -1,3 +1,7 @@
 # Feature: clausetype
 
-Clause type information (verb, verbless, elided, minor, etc.)
+Datatype: `string`
+
+Feature description: Clause type information 
+
+Examples: verb, verbless, elided, minor, etc.
