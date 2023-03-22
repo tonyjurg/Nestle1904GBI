@@ -4,10 +4,9 @@
 
 Greek New Testament, edited by Eberhard Nestle, published in 1904 by the British and Foreign Bible Society. Transcription by Diego Santos, morphology by Ulrik Sandborg-Petersen, markup by Jonathan Robie. 
 
-# Sourcedata
+## Sourcedata
 
-This directory contains a copy of the GBI trees XML files used for the conversion. This set of files can be used in combination with the converter to recreate the TextFabric product.
-The source data for the conversion are the XML node files representing the macula-greek version of the Nestle Aland 1904 Greek New Testment (Public Domain).  The most recent source data for the "MACULA Greek Linguistic Datasets, available at https://github.com/Clear-Bible/macula-greek/tree/main/Nestle1904/nodes.
+The TextFabric files were created based upon the GBI trees XML files. The source data for the conversion are the XML node files representing the macula-greek version of the Nestle Aland 1904 Greek New Testment.  The most recent source data for the "MACULA Greek Linguistic Datasets is available at https://github.com/Clear-Bible/macula-greek/tree/main/Nestle1904/nodes.
 
 # Further attribution and legal notices
 
@@ -43,5 +42,3 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
 
 No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
-
-
