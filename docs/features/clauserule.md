@@ -1,3 +1,5 @@
 # Feature: clauserule
 
-Clause rule information
+Datatype: `string`
+
+Feature description: Clause rule information.
