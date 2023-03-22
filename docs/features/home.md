@@ -1,4 +1,5 @@
 # Features of NA1904 TextFabric
+###### Features per: [`Word`](wordnodefeatures.md) [`Phrase`](phrasenodefeatures.md) [`Clause`](clausenodefeatures.md) [`Sentence`](sentencenodefeatures.md) [`Chapter`](chapternodefeatures.md) [`Book`](booknodefeatures.md)
 
 Feature | Type | Short description
 --- | --- | ---
