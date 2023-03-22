@@ -2,4 +2,6 @@
 
 Datatype: `string`
 
-Feature description:
+Available for nodetype(s): [`word`](wordnodefeatures.md)
+
+Feature description: Subject reference (to nodeID in XML source data, not yet post-processes)
