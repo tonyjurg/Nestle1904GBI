@@ -1,3 +1,5 @@
 # Feature: number
 
-Gramatical number of the verb
+Datatype: `string`
+
+Feature description: Gramatical number of the verb.
