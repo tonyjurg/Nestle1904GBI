@@ -1,3 +1,7 @@
 # Feature: person
 
-Gramatical person of the verb (first, second, third)
+Datatype: `string`
+
+Feature description: Gramatical person of the verb.
+
+Possible values: first, second, third.
