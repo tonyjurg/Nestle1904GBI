@@ -1,3 +1,7 @@
 # Feature: ln
 
-Lauw-Nida lexical classification (not present everywhere?)
+Datatype: `string`
+
+Feature description: Lauw-Nida lexical classification 
+
+Note: not present everywhere?
