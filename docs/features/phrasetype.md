@@ -1,6 +1,6 @@
 # Feature: phrasetype
 
-Datatype: string
+Datatype: `string`
 
-Phrase type information
+Feature description: Phrase type information
 
