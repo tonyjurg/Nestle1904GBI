@@ -1,5 +1,5 @@
 # Feature: verse
 
-Datatype: `string`
+Datatype: `integer`
 
 Feature description: Verse number in chapter.
