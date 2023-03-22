@@ -5,7 +5,8 @@ See Jupyter Notebook of conversion process on [nbviewer](https://nbviewer.org/gi
 
 The following directories contain the TextFabric data:
  * [app](https://github.com/tonyjurg/NA1904/tree/main/app): app config data
- * [tf/1904](https://github.com/tonyjurg/NA1904/tree/main/tf/1904): content data
+ * [tf/1904](https://github.com/tonyjurg/NA1904/tree/main/tf/1904): the actual dataset
+ * [doc](https://github.com/tonyjurg/NA1904/tree/main/docs): the documentation for the dataset
  
  Additionaly provided:
  * [resources](https://github.com/tonyjurg/NA1904/tree/main/resources#readme): data and tools used for production
