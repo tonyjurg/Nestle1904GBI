@@ -4,4 +4,7 @@ Datatype: `string`
 
 Available for nodetype(s): [`word`](wordnodefeatures.md)
 
-Feature description: Lexeme (lemma)
+Feature description: Lexeme (lemma).
+
+---
+###### [Click here for list of all features](home.md)
