@@ -1,3 +1,5 @@
 # Feature: formaltag
 
-Formal tag (Sandborg-Petersen morphology)
+Datatype: `string`
+
+Feature description: Formal tag according to Sandborg-Petersen morphology.
