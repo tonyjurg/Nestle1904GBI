@@ -1,3 +1,5 @@
 # Feature: gloss_EN
 
-English gloss
+Datatype: `string`
+
+Feature description: English gloss.
