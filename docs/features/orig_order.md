@@ -1,5 +1,5 @@
 # Feature: orig_order
 
-Datatype: `string`
+Datatype: `integer`
 
 Feature description: Word order within corpus.
