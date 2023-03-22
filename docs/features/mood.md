@@ -7,3 +7,6 @@ Available for nodetype(s): [`word`](wordnodefeatures.md)
 Feature description: Gramatical mood of the verb.
 
 Example: passive, etc.
+
+---
+###### [Click here for list of all features](home.md)
