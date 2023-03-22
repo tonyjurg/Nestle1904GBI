@@ -1,0 +1,3 @@
+# Feature: lemma
+
+Lexeme (lemma)
