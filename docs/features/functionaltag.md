@@ -1,3 +1,5 @@
 # Feature: functionaltag
 
-Functional tag (Sandborg-Petersen morphology)
+Datatype: `string`
+
+Feature description: Functional tag according to Sandborg-Petersen morphology.
