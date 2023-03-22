@@ -1,3 +1,5 @@
 # Feature: book_long
 
-Book name (fully spelled out)
+Datatype: `string`
+
+Feature description: Book name (fully spelled out)
