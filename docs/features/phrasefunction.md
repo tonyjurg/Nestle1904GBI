@@ -1,3 +1,5 @@
 # Feature: phrasefunction
 
-Phrase function (abbreviated)
+Datatype: `string`
+
+Feature description: Phrase function (abbreviated)
