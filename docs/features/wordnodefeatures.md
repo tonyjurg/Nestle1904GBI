@@ -1,4 +1,5 @@
 # Wordnode Features of NA1904 TextFabric
+###### [Click here for list of all features](home.md)
 
 Feature | Type | Short description
 --- | --- | ---
