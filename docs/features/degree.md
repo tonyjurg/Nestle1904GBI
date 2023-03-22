@@ -1,3 +1,7 @@
 # Feature: degree
 
-Degree (e.g. Comparitative, Superlative)
+Datatype: `string`
+
+Feature description: Degree.
+
+Examples: Comparitative, Superlative.
