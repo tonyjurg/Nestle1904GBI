@@ -9,3 +9,6 @@ Feature description: Lexical domain according to Semantic Dictionary of Biblical
 Example:
 
 Note: not present everywhere?
+
+---
+###### [Click here for list of all features](home.md)
