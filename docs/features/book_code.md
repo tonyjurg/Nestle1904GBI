@@ -1,3 +1,7 @@
 # Feature: book_code
 
-Short book abbreviation
+Datatype: `string`
+
+Feature description: Short book abbreviation
+
+Examples: 'Matt', 'Mark', ..., '1Thess', etc.
