@@ -1,3 +1,7 @@
 # Feature: gn
 
-Gramatical gender (Masculine, Feminine, Neuter)
+Datatype: `string`
+
+Feature description: Gramatical gender.
+
+Example: Masculine, Feminine, Neuter.
