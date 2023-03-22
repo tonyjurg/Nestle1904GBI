@@ -1,5 +1,5 @@
 # Feature: monad
 
-Datatype: `string`
+Datatype: `integer`
 
 Feature description: Monad
