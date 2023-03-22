@@ -2,6 +2,6 @@
 
 Datatype: `string`
 
-Available for nodetype(s): `phrase`
+Available for nodetype(s): [`phrase`](phrasenodefeatures.md)
 
 Feature description: Phrase function (abbreviated)
