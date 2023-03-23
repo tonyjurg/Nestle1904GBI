@@ -4,7 +4,7 @@ Datatype: `string`
 
 Available for nodetype(s): [`word`](wordnodefeatures.md)
 
-Feature description: Part of Speech (abbreviated)
+Feature description: abbreviated Part of Speech description for each wordtype.
 
 Possible values:
 
