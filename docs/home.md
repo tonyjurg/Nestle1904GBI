@@ -1,4 +1,4 @@
-# TextFabric version of Greek New Testament (Nestle Aland 1904)
+# Provenance, Sourcedata & Legal notes
 
 ## Provenance
 
