@@ -22,7 +22,7 @@ Feature | Type | Short description
 [lex_dom](lex_dom.md) | str | Lexical domain according to Semantic Dictionary of Biblical Greek, SDBG (not present everywhere?)
 [ln](ln.md) | str | Lauw-Nida lexical classification (not present everywhere?)
 [monad](monad.md) | int | Monad
-[mood](mood.md) | str | Gramatical mood of the verb (passive, etc)
+[mood](mood.md) | str | Gramatical mood of the verb (Indicative, Optative, etc)
 [nodeID](nodeID.md) | str | Node ID (as in the XML source data, not yet post-processes)
 [normalized](normalized.md) | str | Surface word stripped of punctations
 [nu](nu.md) | str | Gramatical number (Singular, Plural)
