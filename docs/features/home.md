@@ -35,7 +35,7 @@ Feature | Type | Short description
 [phrasefunction_long](phrasefunction_long.md) | str | Phrase function (long description)
 [phrasetype](phrasetype.md) | str | Phrase type information
 [sentence](sentence.md) | int | Sentence number (counted per chapter)
-[sentencetype](sentencetype.md) | str |  sentence type information
+[sentencetype](sentencetype.md) | str |  Sentence type information
 [sp](sp.md) | str | Part of Speech (abbreviated)
 [sp_full](sp_full.md) | str | Part of Speech (long description)
 [strongs](strongs.md) | str | Strongs number
