@@ -4,7 +4,7 @@ Datatype: `string`
 
 Available for nodetype(s): [`word`](wordnodefeatures.md)
 
-Feature description: Louw-Nida lexical classification 
+Feature description: Louw-Nida lexical classification.
 
 Possible values:
 
