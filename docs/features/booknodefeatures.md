@@ -3,7 +3,7 @@
 
 Feature | Type | Short description
 --- | --- | ---
-[book](book.md) | str | Book
+[book](book.md) | str | Book (note: will be merged in next version)
 [book_code](book_code.md) | str | Short book abbreviation
 [book_long](book_long.md) | str |  Book name (fully spelled out)
 [book_short](book_short.md) | str | Book name (abbreviated)
