@@ -11,9 +11,9 @@ Possible values:
 tense (this feature) | Explanation
 --- | ---
 Aorist | Describing a simple action in the past.
-Imperfect | Describes an ongoing action in the past.
-Perfect | Describes a completed action in the present time.
-Pluperfect | Ddescribes a completed action in the past.
+Imperfect | Describing an ongoing action in the past.
+Perfect | Describing a completed action in the present time.
+Pluperfect | Describing a completed action in the past.
 Present | Describing an ongoing action in the present time.
 Future | Describing a simple or ongoing action in the future.
 '' | Empty for any wordtype other than a verb
