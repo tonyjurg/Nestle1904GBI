@@ -8,7 +8,7 @@ Feature description: Part of Speech (long description).
 
 Possible values:
 
-Label ([feature: sp](sp.md)) | Part of Speech Full 
+Label ([feature: sp](sp.md)) | Part of Speech Full (this feature)
 --- | ---
 adj | adjective
 adv | adverb
