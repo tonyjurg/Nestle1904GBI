@@ -8,18 +8,18 @@ Feature description: Part of Speech (long description).
 
 Possible values:
 
-Label ([feature: sp](sp.md)) | Part of Speech Full (this feature)
+Part of Speech Full (this feature) | Label ([feature: sp](sp.md))
 --- | ---
-adj | adjective
-adv | adverb
-conj | conjunction
-det | determiner
-intj | interjection
+adjective | adj
+adverb | adv
+conjunction | conj
+determiner | det
+interjection | intj
 noun | noun
-num | numeral
-prep | preposition
-ptcl | particle
-pron | pronoun
+numeral | num
+preposition | prep
+particle | ptcl
+pronoun | pron
 verb | verb
 
 
