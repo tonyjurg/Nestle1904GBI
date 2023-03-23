@@ -8,7 +8,7 @@ Feature description: NT book number.
 
 Possible values:
 
-Number (this feature)) | Book ([feature: book_short](book_short.md)) | Full name of book  ([feature: book_long](book_long.md))
+Book number (this feature) | Book short name ([feature: book_short](book_short.md)) | Book full name ([feature: book_long](book_long.md))
 --- | --- | --- 
 1 | Matt | Matthew
 2 | Mark | Mark
