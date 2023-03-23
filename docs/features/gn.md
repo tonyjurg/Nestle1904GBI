@@ -8,12 +8,12 @@ Feature description: Gramatical gender for wordtypes nouns, adjectives, pronouns
 
 Possible values:
 
-gn (this feature) | explanation
---- | ---
-Feminine | grammatical gender is feminine
-Masculine | grammatical gender is masculine
-Neuter | grammatical gender is neuter
-'' | empty for any other wordtype
+gn'short'  (TBA) | gn (this feature) | explanation
+--- | --- | ---
+f | Feminine | grammatical gender is feminine
+m | Masculine | grammatical gender is masculine
+n | Neuter | grammatical gender is neuter
+'' | '' | empty for any other wordtype
 
 ---
 ###### [Click here for list of all features](home.md)
