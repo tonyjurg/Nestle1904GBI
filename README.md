@@ -13,3 +13,5 @@ The following directories contain the Text-Fabric data:
  * [resources](resources#readme): data and tools used for production.
  
  See [here](resources/sourcedata#readme) for licence of the source data.
+ 
+ See [here](https://archive.org/details/the-greek-new-testament-nestle-1904-us-edition/mode/2up) a scan of the orginal publication by Eberhard Nestle (Η Καινή Διαθήκη Novum Testamentum Graece, 1904)
