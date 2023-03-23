@@ -8,7 +8,7 @@ Feature description: Short book abbreviation
 
 Possible values:
 
-Book (this feature) | Full name of book ([feature: book_long](book_long.md)) | Number ([feature: booknum](booknum.md))
+Book Code (this feature) | Full name of book ([feature: book_long](book_long.md)) | Number ([feature: booknum](booknum.md))
 --- | --- | --- 
 Matt | Matthew | 1
 Mark | Mark | 2
