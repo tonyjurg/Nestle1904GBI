@@ -10,12 +10,14 @@ Possible values:
 
 type (this feature) | explanation
 ---- | ----
-Common | 
+Common | objects
 Demonstrative | Indicate a specific object ([examples](https://ugg.readthedocs.io/en/latest/determiner_demonstrative.html))
 Interrogative |  Introduces a question ([examples](https://ugg.readthedocs.io/en/latest/determiner_interrogative.html))
-Personal |
-Proper | 
+Personal | Pronoun designating a person (e.g. εγώ, εσύ, etc.)
+Proper | Name of a person, place, thing, etc.
 '' | Empty for wordtypes other than noun or pronoun
+
+Note: table needs evaluation.
 
 ---
 ###### [Click here for list of all features](home.md)
