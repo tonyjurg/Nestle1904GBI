@@ -10,7 +10,7 @@ Possible values:
 
 ln (this feature) | Comment
 --- | --- 
-xx.yy  | one or more Louw-Nida references
+xx.yy  | one or more entries for the Louw-Nida references
 '' | Empty for a limited number of words
 
 Lookup of values for feature ln in [Louw-Nida Lexicon](https://www.laparola.net/greco/louwnida.php).
