@@ -11,7 +11,7 @@ Feature | Type | Short description
 [case](case.md) | str | Gramatical case (Nominative, Genitive, Dative, Accusative, Vocative)
 [chapter](chapter.md) | int | Chapter number inside book
 [clause](clause.md) | int | Clause number (counted per chapter)
-[degree](degree.md) | str | Degree (e.g. Comparitative, Superlative)
+[degree](degree.md) | str | Degree of an comparative or superlative adjective
 [formaltag](formaltag.md) | str | Formal tag (Sandborg-Petersen morphology)
 [functionaltag](functionaltag.md) | str | Functional tag (Sandborg-Petersen morphology)
 [gloss_EN](gloss_EN.md) | str | English gloss
