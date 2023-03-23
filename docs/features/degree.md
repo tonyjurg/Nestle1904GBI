@@ -12,7 +12,7 @@ degree (this feature) | Comment
 --- | --- 
 Comparitative | Comparitative adjective
 Superlative | Superlative adjective
-'' | Any other adjective or other wordtype
+'' | Empty for any other adjectives or other wordtypes
 
 ---
 ###### [Click here for list of all features](home.md)
