@@ -17,5 +17,7 @@ Lookup of values for feature ln in [Louw-Nida Lexicon](https://www.laparola.net/
 
 Note: some wordnodes lack feature ln. Under investigation.
 
+See also: feature [lex_dom](lex_dom.md)
+
 ---
 ###### [Click here for list of all features](home.md)
