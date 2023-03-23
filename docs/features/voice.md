@@ -16,7 +16,7 @@ MiddlePassive |
 Passive | 
 '' | Empty for wordtypes other than verbs
 
-Note: in future:active, middle, passive, middle_or_passive, middle_deponent, passive_deponent, middle_or_passive_deponent, impersonal_active, and no_voice?
+Planned for future version: active, middle, passive, middle_or_passive, middle_deponent, passive_deponent, middle_or_passive_deponent, impersonal_active, and no_voice.
 
 ---
 ###### [Click here for list of all features](home.md)
