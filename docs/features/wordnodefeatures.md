@@ -1,4 +1,4 @@
-# Wordnode features of NA1904 Text-Fabric
+# Features for word nodes in NA1904 Text-Fabric Corpus
 ###### [Click here for list of all features](home.md)
 
 Feature | Type | Short description
