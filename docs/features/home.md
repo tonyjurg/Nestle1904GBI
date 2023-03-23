@@ -19,8 +19,8 @@ Feature | Type | Short description
 [gloss_EN](gloss_EN.md) | str | English gloss
 [gn](gn.md) | str | Gramatical gender (Masculine, Feminine, Neuter)
 [lemma](lemma.md) | str | Lexeme (lemma)
-[lex_dom](lex_dom.md) | str | Lexical domain according to Semantic Dictionary of Biblical Greek, SDBG (not present everywhere?)
-[ln](ln.md) | str | Lauw-Nida lexical classification (not present everywhere?)
+[lex_dom](lex_dom.md) | str | Lexical domain according to Semantic Dictionary of Biblical Greek, SDBG (not present everywhere)
+[ln](ln.md) | str | Louw-Nida lexical classification (not present everywhere)
 [monad](monad.md) | int | Monad
 [mood](mood.md) | str | Gramatical mood of a verb (Indicative, Optative, etc)
 [nodeID](nodeID.md) | str | Node ID (as in the XML source data, not yet post-processes)
