@@ -1,5 +1,6 @@
 # Text-Fabric files for Nestle Aland Greek New Testament (version 1904)
-Ongoing project...
+
+** Warning: this is an ongoing project. Changes will be made. **
 
 See Jupyter Notebook of conversion process on [nbviewer](https://nbviewer.org/github/tonyjurg/NA1904/blob/1d314c138e67aa0e9ed8387c4d9cb92687c56b01/resources/converter/CreateTFfromXML.ipynb).
 
