@@ -15,7 +15,7 @@ dat | Dative | Generaly indicating indirect object of a verb
 gen | Genitive | Generaly indicating possesion
 nom | Nominative | Generaly indicating the subject
 voc | Vocative | Adressee of speech
-'' | '' | any other word type
+'' | '' | Empty for any other word type
 
 ---
 ###### [Click here for list of all features](home.md)
