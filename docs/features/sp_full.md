@@ -4,7 +4,7 @@ Datatype: `string`
 
 Available for nodetype(s): [`word`](wordnodefeatures.md)
 
-Feature description: Part of Speech (long description).
+Feature description: Full Part of Speech description for each wordtype.
 
 Possible values:
 
