@@ -1,4 +1,4 @@
-# Provenance, Sourcedata & Legal notes
+# Provenance, Sourcedata, Legal Notes, and License
 
 ## Provenance
 
