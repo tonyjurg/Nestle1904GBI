@@ -2,13 +2,13 @@
 
 Datatype: `string`
 
-Available for nodetype(s): [`phrase`](phrasenodefeatures.md)
+Available for nodetype(s): [`phrase`](phrasenodefeatures.md#readme)
 
 Feature description: Phrase function (abbreviated)
 
 Possible values:
 
-Abbreviation (this feature) | Long description (feature: [prhasefunction_long](phrasefunction_long.md))
+Abbreviation (this feature) | Long description (feature: [prhasefunction_long](phrasefunction_long.md#readme))
 --- | --- 
 ADV | Adverbial function
 IO | Indirect Object function
@@ -20,4 +20,4 @@ V | Verbal function
 VC | Verbal Copula function
 
 ---
-###### [Click here for list of all features](home.md)
+###### [Click here for list of all features](home.md#readme)
