@@ -2,7 +2,7 @@
 
 Datatype: `string`
 
-Available for nodetype(s): [`book`](booknodefeatures.md)
+Available for nodetype(s): [`book`](booknodefeatures.md#readme)
 
 Feature description: Book
 
