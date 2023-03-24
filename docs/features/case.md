@@ -2,7 +2,7 @@
 
 Datatype: `string`
 
-Available for nodetype(s): [`word`](wordnodefeatures.md)
+Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
 
 Feature description: Gramatical case for wordtypes noun, pronoun, adjective, article, or participle.
 
@@ -18,4 +18,4 @@ voc | Vocative | Adressee of speech | 649
 '' | '' | Empty for any other word type | 58261
 
 ---
-###### [Click here for list of all features](home.md)
+###### [Click here for list of all features](home.md#readme)
