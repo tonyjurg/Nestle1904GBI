@@ -1,5 +1,5 @@
 # All NA1904 Text-Fabric Corpus Features
-###### Features per: [`Word`](wordnodefeatures.md) [`Phrase`](phrasenodefeatures.md) [`Clause`](clausenodefeatures.md) [`Sentence`](sentencenodefeatures.md) [`Verse`](versenodefeatures.md) [`Chapter`](chapternodefeatures.md) [`Book`](booknodefeatures.md)
+###### Features per: [`Word`](wordnodefeatures.md#readme) [`Phrase`](phrasenodefeatures.md#readme) [`Clause`](clausenodefeatures.md#readme) [`Sentence`](sentencenodefeatures.md#readme) [`Verse`](versenodefeatures.md#readme) [`Chapter`](chapternodefeatures.md#readme) [`Book`](booknodefeatures.md#readme)
 
 Feature | Type | Short description
 --- | --- | ---
