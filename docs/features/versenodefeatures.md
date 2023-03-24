@@ -1,6 +1,6 @@
 # Features for verse nodes in NA1904 Text-Fabric Corpus
-###### [Click here for list of all features](home.md)
+###### [Click here for list of all features](home.md#readme)
 
 Feature | Type | Short description
 --- | --- | ---
-[verse](verse.md) | int | Verse number inside chapter
+[verse](verse.md#readme) | int | Verse number inside chapter
