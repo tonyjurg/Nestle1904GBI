@@ -8,10 +8,10 @@ Feature description: Louw-Nida lexical classification.
 
 Possible values:
 
-ln (this feature) | Comment
---- | --- 
-xx.yy  | one or more entries for the Louw-Nida references
-'' | Empty for a limited number of words
+ln (this feature) | Comment | Frequency
+--- | --- | ---
+xx.yy  | one or more entries for the Louw-Nida references | 126756
+'' | Empty | 11023
 
 Lookup of values for feature ln in [Louw-Nida Lexicon](https://www.laparola.net/greco/louwnida.php).
 
