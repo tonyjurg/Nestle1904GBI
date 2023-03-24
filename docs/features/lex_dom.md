@@ -2,7 +2,7 @@
 
 Datatype: `string`
 
-Available for nodetype(s): [`word`](wordnodefeatures.md)
+Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
 
 Feature description: Lexical domain according to Semantic Dictionary of Biblical Greek (SDBG).
 
@@ -11,7 +11,7 @@ Feature lex_dom is equivalent to a numerical representation of feature [ln](ln.m
 
 Note: This data is not present everywhere.
 
-See also: feature [ln](ln.md).
+See also: feature [ln](ln.md#readme).
 
 ---
-###### [Click here for list of all features](home.md)
+###### [Click here for list of all features](home.md#readme)
