@@ -1,11 +1,11 @@
 # Features for word nodes in NA1904 Text-Fabric Corpus
-###### [Click here for list of all features](home.md)
+###### [Click here for list of all features](home.md#readme)
 
 Feature | Type | Short description
 --- | --- | ---
-[book_code](book_code.md) | str | Short book abbreviation
-[book_long](book_long.md) | str |  Book name (fully spelled out)
-[book_short](book_short.md) | str | Book name (abbreviated)
+[book_code](book_code.md#readme) | str | Short book abbreviation
+[book_long](book_long.md#readme) | str |  Book name (fully spelled out)
+[book_short](book_short.md#readme) | str | Book name (abbreviated)
 [booknum](booknum.md) | int |  NT book number (Matthew=1, Mark=2, ..., Revelation=27)
 [case](case.md) | str | Gramatical case (Nominative, Genitive, Dative, Accusative, Vocative)
 [chapter](chapter.md) | int | Chapter number inside book
