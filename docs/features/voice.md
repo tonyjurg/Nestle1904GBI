@@ -2,7 +2,7 @@
 
 Datatype: `string`
 
-Available for nodetype(s): [`word`](wordnodefeatures.md)
+Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
 
 Feature description: Gramatical voice of the verb.
 
@@ -21,4 +21,4 @@ Planned for future version: active, middle, passive, middle_or_passive, middle_d
 Note: This needs further evaluation.
 
 ---
-###### [Click here for list of all features](home.md)
+###### [Click here for list of all features](home.md#readme)
