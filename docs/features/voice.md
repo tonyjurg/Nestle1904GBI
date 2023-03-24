@@ -16,7 +16,7 @@ MiddlePassive | | 1714
 Passive | The subject of the verb is being acted upon | 3493
 '' | Empty for wordtypes other than verbs | 109422
 
-Planned for future version: active, middle, passive, middle_or_passive, middle_deponent, passive_deponent, middle_or_passive_deponent, impersonal_active, and no_voice.
+Planned for future version: active, middle, passive, middle_or_passive, middle_deponent, passive_deponent, middle_or_passive_deponent, impersonal_active, and no_voice. Possibly by just adding a feature 'deponent'?
 
 Note: This needs further evaluation.
 
