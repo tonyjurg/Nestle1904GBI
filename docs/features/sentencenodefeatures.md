@@ -1,7 +1,7 @@
 # Features for sentence nodes in NA1904 Text-Fabric Corpus
-###### [Click here for list of all features](home.md)
+###### [Click here for list of all features](home.md#readme)
 
 Feature | Type | Short description
 --- | --- | ---
-[sentence](sentence.md) | int | Sentence number (counted per chapter)
-[sentencetype](sentencetype.md) | str |  sentence type information
+[sentence](sentence.md#readme) | int | Sentence number (counted per chapter)
+[sentencetype](sentencetype.md#readme) | str |  sentence type information
