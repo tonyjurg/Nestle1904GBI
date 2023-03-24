@@ -2,7 +2,7 @@
 
 Datatype: `string`
 
-Available for nodetype(s): [`word`](wordnodefeatures.md)
+Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
 
 Feature description: Degree of an comparative or superlative adjective.
 
@@ -15,4 +15,4 @@ Superlative | Superlative adjective | 200
 '' | Empty for any other adjectives or other wordtypes | 137266
 
 ---
-###### [Click here for list of all features](home.md)
+###### [Click here for list of all features](home.md#readme)
