@@ -2,7 +2,7 @@
 
 Datatype: `integer`
 
-Available for nodetype(s): [`word`](wordnodefeatures.md)
+Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
 
 Feature description: NT book number.
 
@@ -39,4 +39,4 @@ Book number (this feature) | Book short name ([feature: book_short](book_short.m
 27 | Rev | Revelation
 
 ---
-###### [Click here for list of all features](home.md)
+###### [Click here for list of all features](home.md#readme)
