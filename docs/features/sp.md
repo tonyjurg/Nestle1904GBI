@@ -2,13 +2,13 @@
 
 Datatype: `string`
 
-Available for nodetype(s): [`word`](wordnodefeatures.md)
+Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
 
 Feature description: abbreviated Part of Speech description for each wordtype.
 
 Possible values:
 
-Label (this feature) | Part of Speech Full ([feature: sp_full](sp_full.md)) | frequency
+Label (this feature) | Part of Speech Full ([feature: sp_full](sp_full.md#readme)) | frequency
 --- | --- | ---
 adj | adjective | 8452
 adv | adverb | 6147
@@ -25,4 +25,4 @@ verb | verb | 28357
 
 
 ---
-###### [Click here for list of all features](home.md)
+###### [Click here for list of all features](home.md#readme)
