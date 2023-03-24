@@ -19,7 +19,7 @@ Future | Describing a simple or ongoing action in the future | 1626
 '' | Empty for any wordtype other than a verb | 109422
 
 
-Note: The 'future perfect' tense (Describing a completed action in the future) is not found in the text (???).
+Note: The 'future perfect' tense (Describing a completed action in the future) is not found in the text.
 
 ---
 ###### [Click here for list of all features](home.md#readme)
