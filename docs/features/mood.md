@@ -2,7 +2,7 @@
 
 Datatype: `string`
 
-Available for nodetype(s): [`word`](wordnodefeatures.md)
+Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
 
 Feature description: Gramatical mood of a verb.
 
@@ -19,4 +19,4 @@ sbj | Subjunctive | expresses a probable or desired action | 1856
 '' | '' | Any other wordtype | 109422
 
 ---
-###### [Click here for list of all features](home.md)
+###### [Click here for list of all features](home.md#readme)
