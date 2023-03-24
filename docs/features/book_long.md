@@ -8,7 +8,7 @@ Feature description: Book name (fully spelled out).
 
 Possible values:
 
-Book ([feature: book_short](book_short.md)) | Full name of book  (this feature) | Number ([feature: booknum](booknum.md))
+Book ([feature: book_short](book_short.md#readme)) | Full name of book  (this feature) | Number ([feature: booknum](booknum.md#readme))
 --- | --- | --- 
 Matt | Matthew | 1
 Mark | Mark | 2
