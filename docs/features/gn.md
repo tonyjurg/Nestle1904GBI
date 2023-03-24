@@ -2,7 +2,7 @@
 
 Datatype: `string`
 
-Available for nodetype(s): [`word`](wordnodefeatures.md)
+Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
 
 Feature description: Gramatical gender for wordtypes nouns, adjectives, pronouns, participles, and definite articles.
 
@@ -16,4 +16,4 @@ n | Neuter | grammatical gender is neuter | 13753
 '' | '' | empty for any other wordtype | 63804
 
 ---
-###### [Click here for list of all features](home.md)
+###### [Click here for list of all features](home.md#readme)
