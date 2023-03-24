@@ -8,7 +8,7 @@ Feature description: Full Part of Speech description for each wordtype.
 
 Possible values:
 
-Part of Speech Full (this feature) | Label ([feature: sp](sp.md#readme)) | Frequecny
+Part of Speech Full (this feature) | Label ([feature: sp](sp.md#readme)) | Frequency
 --- | --- | ---
 adjective | adj | 8452
 adverb | adv | 6147
