@@ -1,4 +1,4 @@
-# Text-Fabric files for Nestle Aland Greek New Testament (version 1904)
+# Text-Fabric Nestle Greek New Testament (version 1904, based on GBI XML node)
 
 ### Warning: this is an ongoing project. Changes will be made. ###
 
