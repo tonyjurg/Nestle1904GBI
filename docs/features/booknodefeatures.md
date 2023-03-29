@@ -1,4 +1,4 @@
-# Features for book nodes in NA1904 Text-Fabric Corpus
+# Features for book nodes in Nestle1904 Text-Fabric Corpus
 ###### [Click here for list of all features](home.md#readme)
 
 Feature | Type | Short description
