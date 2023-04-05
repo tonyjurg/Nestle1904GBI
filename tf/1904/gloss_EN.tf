@@ -12,7 +12,7 @@
 @description=English gloss
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-03-21T20:50:42Z
+@dateWritten=2023-04-05T09:35:40Z
 
 [The] book
 of [the] genealogy

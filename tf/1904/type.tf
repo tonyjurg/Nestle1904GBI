@@ -12,7 +12,7 @@
 @description=Gramatical type  of noun or pronoun (e.g. Common, Personal)
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-03-21T20:50:45Z
+@dateWritten=2023-04-05T09:35:43Z
 
 Common
 Common
