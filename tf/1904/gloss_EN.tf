@@ -12,7 +12,7 @@
 @description=English gloss
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-04-05T09:35:40Z
+@dateWritten=2023-04-05T10:04:07Z
 
 [The] book
 of [the] genealogy
@@ -26,13 +26,13 @@ Abraham
 begat
 -
 Isaac
-then
 Isaac
+then
 begat
 -
 Jacob
-then
 Jacob
+then
 begat
 -
 Judah
@@ -40,8 +40,8 @@ and
 the
 brothers
 of him
-then
 Judah
+then
 begat
 -
 Perez
@@ -51,61 +51,61 @@ Zerah
 out of
 -
 Tamar
-then
 Perez
+then
 begat
 -
 Hezron
-then
 Hezron
+then
 begat
 -
 Ram
-then
 Ram
+then
 begat
 -
 Amminadab
-then
 Amminadab
+then
 begat
 -
 Nahshon
-then
 Nahshon
+then
 begat
 -
 Salmon
-then
 Salmon
+then
 begat
 -
 Boaz
 out of
 -
 Rahab
-then
 Boaz
+then
 begat
 -
 Obed
 out of
 -
 Ruth
-then
 Obed
+then
 begat
 -
 Jesse
-then
 Jesse
+then
 begat
 -
 David
 the
 king
-then
 David
+then
 begat
 -
 Solomon
@@ -113,68 +113,68 @@ out of
 the [wife]
 -
 of Uriah
-then
 Solomon
+then
 begat
 -
 Rehoboam
-then
 Rehoboam
+then
 begat
 -
 Abijah
-then
 Abijah
+then
 begat
 -
 Asa
-then
 Asa
+then
 begat
 -
 Jehoshaphat
-then
 Jehoshaphat
+then
 begat
 -
 Joram
-then
 Joram
+then
 begat
 -
 Uzziah
-then
 Uzziah
+then
 begat
 -
 Jotham
-then
 Jotham
+then
 begat
 -
 Ahaz
-then
 Ahaz
+then
 begat
 -
 Hezekiah
-then
 Hezekiah
+then
 begat
 -
 Manasseh
-then
 Manasseh
+then
 begat
 -
 Amos
-then
 Amos
+then
 begat
 -
 Josiah
-then
 Josiah
+then
 begat
 -
 Jechoniah
@@ -186,8 +186,8 @@ at [the time]
 of the
 carrying away
 to Babylon
-then
 After
+then
 the
 carrying away
 to Babylon
@@ -195,58 +195,58 @@ Jechoniah
 begat
 -
 Shealtiel
-then
 Shealtiel
+then
 begat
 -
 Zerubbabel
-then
 Zerubbabel
+then
 begat
 -
 Abiud
-then
 Abiud
+then
 begat
 -
 Eliakim
-then
 Eliakim
+then
 begat
 -
 Azor
-then
 Azor
+then
 begat
 -
 Zadok
-then
 Zadok
+then
 begat
 -
 Achim
-then
 Achim
+then
 begat
 -
 Eliud
-then
 Eliud
+then
 begat
 -
 Eleazar
-then
 Eleazar
+then
 begat
 -
 Matthan
-then
 Matthan
+then
 begat
 -
 Jacob
-then
 Jacob
+then
 begat
 -
 Joseph
@@ -260,8 +260,8 @@ Jesus
 the [One]
 being called
 Christ
-therefore
 All
+therefore
 the
 generations
 from
@@ -289,8 +289,8 @@ the
 Christ
 generations
 fourteen
-Now
 -
+Now
 of Jesus
 Christ
 the
@@ -315,8 +315,8 @@ having [a child]
 out of
 [the] Spirit
 Holy
-now
 Joseph
+now
 the
 husband
 of her
@@ -331,8 +331,8 @@ purposed
 secretly
 to send away
 her
-now
 These things
+now
 of him
 having pondered
 behold
@@ -353,17 +353,17 @@ Mary
 [as] the
 wife
 of you
-for
 that
+for
 in
 her
 having been conceived
 from
 [the] Spirit
-Holy
 is
-then
+Holy
 She will bear
+then
 a son
 and
 you will call
@@ -371,8 +371,8 @@ the
 name
 of Him
 Jesus
-for
 He
+for
 will save
 the
 people
@@ -381,8 +381,8 @@ from
 the
 sins
 of them
-then
 This
+then
 all
 has come to pass
 that
@@ -417,10 +417,10 @@ With
 us
 -
 God
+Having been awoken
 then
 -
 Joseph
-Having been awoken
 from
 the
 sleep
@@ -450,8 +450,8 @@ the
 name
 of Him
 Jesus
-Now
 -
+Now
 Jesus
 having been born
 in
@@ -478,8 +478,8 @@ having been born
 King
 of the
 Jews
-for
 We saw
+for
 of Him
 the
 star
@@ -490,8 +490,8 @@ and
 are come
 to worship
 Him
-then
 Having heard
+then
 -
 King
 Herod
@@ -517,25 +517,25 @@ where
 the
 Christ
 was to be born
-And
 -
+And
 they said
 to him
 In
 Bethlehem
 -
 of Judea
-for
 thus
+for
 has it been written
 through
 the
 prophet
 And
+you
 Bethlehem
 land
 of Judah
-you
 by no means
 least
 are
@@ -543,9 +543,9 @@ among
 the
 rulers
 of Judah
-for
 out
 of you
+for
 will go forth
 [One] leading
 who
@@ -581,8 +581,8 @@ carefully
 for
 the
 Child
-then
 when
+then
 You shall have found [Him]
 bring word back
 to me
@@ -591,8 +591,8 @@ I also
 having come
 may worship
 Him
-And
 -
+And
 having heard
 the
 king
@@ -616,8 +616,8 @@ where
 was
 the
 Child
-now
 Having seen
+now
 the
 star
 they rejoiced [with]
@@ -670,8 +670,8 @@ into
 the
 country
 of them
-then
 Having withdrawn
+then
 of them
 behold
 an angel
@@ -701,8 +701,8 @@ until
 -
 I should tell
 you
-for
 is about
+for
 Herod
 to seek
 the
@@ -710,8 +710,8 @@ Child
 -
 to destroy
 Him
-And
 -
+And
 having arisen
 he took
 the
@@ -794,10 +794,10 @@ Jeremiah
 the
 prophet
 saying
+A voice
 in
 Ramah
 was heard
-A voice
 weeping
 and
 mourning
@@ -814,8 +814,8 @@ be comforted
 because
 no more
 are they
-now
 Having died
+now
 -
 of Herod
 behold
@@ -842,16 +842,16 @@ go
 into
 [the] land
 of Israel
-for
 they have died
+for
 those
 seeking
 the
 life
 of the
 Child
-And
 -
+And
 having arisen
 he took
 the
@@ -865,8 +865,8 @@ came
 into
 [the] land
 of Israel
-now
 Having heard
+now
 that
 Archelaus
 reigns over
@@ -880,8 +880,8 @@ Herod
 he was afraid
 there
 to go
-now
 having been divinely warned
+now
 in
 a dream
 he withdrew
@@ -907,8 +907,8 @@ prophets
 that
 A Nazarene
 He will be called
-then
 In
+then
 the
 days
 those
@@ -924,14 +924,14 @@ wilderness
 of Judea
 saying
 Repent
-for
 has drawn near
+for
 the
 kingdom
 of the
 heavens
-for
 This
+for
 is
 the [One]
 having been spoken of
@@ -954,8 +954,8 @@ make
 the
 paths
 of Him
-now
 Himself
+now
 -
 John
 had
@@ -972,11 +972,11 @@ around
 the
 waist
 of him
-and
 -
+and
 the food
-of him
 was
+of him
 locusts
 and
 honey
@@ -1008,8 +1008,8 @@ confessing
 the
 sins
 of them
-now
 Having seen
+now
 many
 of the
 Pharisees
@@ -1031,8 +1031,8 @@ from
 the
 coming
 wrath
-therefore
 Produce
+therefore
 fruit
 worthy
 -
@@ -1047,8 +1047,8 @@ yourselves
 we have
 -
 Abraham
-for
 I say
+for
 to you
 that
 able is
@@ -1062,8 +1062,8 @@ to raise up
 children
 unto
 Abraham
-now
 Already
+now
 the
 ax
 to
@@ -1072,8 +1072,8 @@ root
 of the
 trees
 is applied
-therefore
 every
+therefore
 tree
 not
 producing
@@ -1084,16 +1084,16 @@ and
 into
 [the] fire
 is thrown
-indeed
 I
+indeed
 you
 baptize
 with
 water
 to
 repentance
-but
 -
+but
 after
 me
 is coming
@@ -1135,8 +1135,8 @@ of Him
 into
 the
 barn
-but
 the
+but
 chaff
 He will burn up
 with fire
@@ -1158,8 +1158,8 @@ John
 to be baptized
 by
 him
-But
 -
+But
 was hindering
 Him
 saying
@@ -1174,16 +1174,16 @@ You
 come
 to
 me
-however
 Answering
+however
 -
 Jesus
 said
 him
 Permit [it]
 presently
-for
 thus
+for
 fitting
 it is
 to us
@@ -1193,8 +1193,8 @@ righteousness
 Then
 he permits
 Him
-now
 Having been baptized
+now
 -
 Jesus
 immediately
@@ -1264,8 +1264,8 @@ the
 he said
 to Him
 If
-You are
 Son
+You are
 -
 of God
 speak
@@ -1275,8 +1275,8 @@ stones
 these
 loaves of bread
 might become
-But
 -
+But
 answering
 He said
 It has been written
@@ -1316,15 +1316,15 @@ and
 says
 to him
 If
-You are
 Son
+You are
 -
 of God
 throw
 Yourself
 down
-for
 it has been written
+for
 -
 To the
 angels
@@ -1382,8 +1382,8 @@ and
 he says
 to Him
 These things
-all
 to You
+all
 will I give
 if
 falling down
@@ -1396,8 +1396,8 @@ to him
 Jesus
 Get you away
 Satan
-for
 it has been written
+for
 [The] Lord
 the
 God
@@ -1419,8 +1419,8 @@ came
 and
 were ministering
 to Him
-now
 Having heard
+now
 that
 John
 had been delivered up
@@ -1472,8 +1472,8 @@ sitting
 in
 darkness
 a light
-great
 have seen
+great
 and
 to those
 sitting
@@ -1494,14 +1494,14 @@ to proclaim
 and
 to say
 Repent
-for
 has drawn near
+for
 the
 kingdom
 of the
 heavens
-now
 Walking
+now
 beside
 the
 Sea
@@ -1524,8 +1524,8 @@ a net
 into
 the
 sea
-for
 they were
+for
 fishermen
 And
 He says
@@ -1538,8 +1538,8 @@ I will make
 you
 fishers
 of men
-And
 -
+And
 immediately
 having left
 the
@@ -1577,8 +1577,8 @@ of them
 and
 He called
 them
-And
 -
+And
 immediately
 having left
 the
@@ -1663,8 +1663,8 @@ and
 beyond
 the
 Jordan
-then
 Having seen
+then
 the
 crowds
 He went up
@@ -1786,8 +1786,8 @@ of you
 in
 the
 heavens
-for
 thus
+for
 they persecuted
 the
 prophets
@@ -1800,8 +1800,8 @@ the
 salt
 of the
 earth
-however
 if
+however
 the
 salt
 becomes tasteless
@@ -1891,8 +1891,8 @@ I have come
 to abolish
 but
 to fulfill
-for
 Truly
+for
 I say
 to you
 until
@@ -1918,9 +1918,9 @@ until
 -
 everything
 should happen
-then
-if
 Whoever
+if
+then
 shall break
 one
 of the
@@ -1940,9 +1940,9 @@ the
 kingdom
 of the
 heavens
+whoever
 now
 -
-whoever
 shall keep
 and
 shall teach [them]
@@ -1954,8 +1954,8 @@ the
 kingdom
 of the
 heavens
-for
 I say
+for
 to you
 that
 if
@@ -1984,16 +1984,16 @@ to the
 ancients
 Not
 you shall murder
+whoever
 now
 -
-whoever
 shall murder
 liable
 will be
 to the
 judgment
-however
 I
+however
 say
 to you
 that
@@ -2007,9 +2007,9 @@ liable
 will be
 to the
 judgment
+whoever
 now
 -
-whoever
 shall say
 to
 brother
@@ -2019,9 +2019,9 @@ liable
 will be
 to the
 Sanhedrin
+whoever
 now
 -
-whoever
 shall say
 Fool
 liable
@@ -2031,8 +2031,8 @@ the
 hell
 -
 of fire
-therefore
 If
+therefore
 you shall offer
 the
 gift
@@ -2121,8 +2121,8 @@ that
 it was said
 Not
 shall you commit adultery
-however
 I
+however
 say
 to you
 that
@@ -2141,8 +2141,8 @@ in
 the
 heart
 of him
-now
 If
+now
 the
 eye
 of you
@@ -2156,8 +2156,8 @@ and
 cast [it]
 from
 you
-indeed
 it is better
+indeed
 for you
 that
 should perish
@@ -2188,8 +2188,8 @@ and
 cast [it]
 from
 you
-indeed
 it is better
+indeed
 for you
 that
 should perish
@@ -2206,10 +2206,10 @@ of you
 into
 hell
 should depart
-also
 It was said
--
+also
 Whoever
+-
 shall divorce
 the
 wife
@@ -2217,8 +2217,8 @@ of him
 let him give
 to her
 a letter of divorce
-however
 I
+however
 say
 to you
 that
@@ -2235,8 +2235,8 @@ causes
 her
 to commit adultery
 And
-if
 whoever
+if
 her having been divorced
 shall marry
 commits adultery
@@ -2248,15 +2248,15 @@ to the
 ancients
 Not
 shall you swear falsely
-now
 you shall keep
+now
 to the
 Lord
 the
 oaths
 of you
-however
 I
+however
 say
 to you
 not
@@ -2267,8 +2267,8 @@ by
 -
 heaven
 because
-it is
 [the] throne
+it is
 -
 of God
 nor
@@ -2276,8 +2276,8 @@ by
 the
 earth
 because
-it is
 [the] footstool
+it is
 of the
 feet
 of Him
@@ -2285,8 +2285,8 @@ nor
 by
 Jerusalem
 because
-it is
 [the] city
+it is
 of the
 great
 King
@@ -2301,12 +2301,12 @@ not
 you are able
 one
 hair
-to make
 white
+to make
 or
 black
-however
 Let it be
+however
 the
 statement
 of you
@@ -2314,8 +2314,8 @@ Yes
 ‘Yes
 [and] ‘No
 No
-however
 The
+however
 more than
 these
 from
@@ -2332,8 +2332,8 @@ and
 tooth
 for
 tooth
-however
 I
+however
 say
 to you
 not
@@ -2403,8 +2403,8 @@ shall hate
 -
 enemy
 of you
-however
 I
+however
 say
 to you
 love
@@ -2441,8 +2441,8 @@ on
 righteous
 and
 unrighteous
-for
 If
+for
 you love
 those
 loving
@@ -2474,8 +2474,8 @@ Gentiles
 the
 same
 do
-therefore
 Shall be
+therefore
 you
 perfect
 as
@@ -2486,8 +2486,8 @@ who [is]
 Heavenly
 perfect
 is
-now
 Beware
+now
 the
 righteousness
 of you
@@ -2500,8 +2500,8 @@ in order
 -
 to be seen
 by them
-now
 if
+now
 otherwise
 reward
 not
@@ -2514,8 +2514,8 @@ who [is]
 in
 the
 heavens
-therefore
 When
+therefore
 you do
 acts of charity
 not
@@ -2545,8 +2545,8 @@ they have
 the
 reward
 of them
-however
 You
+however
 doing
 charity
 not
@@ -2610,9 +2610,9 @@ they have
 the
 reward
 of them
+You
 however
 when
-You
 you pray
 enter
 into
@@ -2643,27 +2643,27 @@ in
 secret
 will reward
 you
-now
 Praying
+now
 not
 do use vain repetitions
 like
 the
 pagans
-for
 they think
+for
 that
 in
 the
 many words
 of them
 they will be heard
-therefore
 Not
+therefore
 be like
 to them
-for
 knows
+for
 the
 Father
 of you
@@ -2675,8 +2675,8 @@ before
 your
 asking
 Him
-therefore
 Thus
+therefore
 pray
 you
 Father
@@ -2736,8 +2736,8 @@ us
 from
 -
 evil
-for
 If
+for
 you forgive
 -
 men
@@ -2752,8 +2752,8 @@ Father
 of you
 -
 Heavenly
-however
 If
+however
 not
 you forgive
 -
@@ -2766,8 +2766,8 @@ will forgive
 the
 trespasses
 of you
-now
 Whenever
+now
 you fast
 not
 be
@@ -2775,8 +2775,8 @@ like
 the
 hypocrites
 gloomy
-for
 they disfigure
+for
 the
 appearance
 of them
@@ -2792,8 +2792,8 @@ they have
 the
 reward
 of them
-however
 You
+however
 fasting
 anoint
 your
@@ -2847,8 +2847,8 @@ thieves
 break in
 and
 steal
-however
 store up
+however
 for yourselves
 treasures
 in
@@ -2866,8 +2866,8 @@ not
 do break in
 nor
 steal
-for
 Where
+for
 is
 the
 treasure
@@ -2885,8 +2885,8 @@ body
 is
 the
 eye
-therefore
 If
+therefore
 is
 the
 eye
@@ -2898,8 +2898,8 @@ body
 of you
 full of light
 will be
-however
 If
+however
 the
 eye
 of you
@@ -2911,8 +2911,8 @@ body
 of you
 full of darkness
 will be
-then
 If
+then
 the
 light
 that [is]
@@ -2928,8 +2928,8 @@ is able
 two
 masters
 to serve
-for
 either
+for
 the
 one
 he will hate
@@ -3010,8 +3010,8 @@ you
 much
 are more valuable
 than they
-now
 Who
+now
 from
 you
 being anxious
@@ -3039,8 +3039,8 @@ they grow
 labor
 nor
 do they spin
-however
 I say
+however
 to you
 that
 not even
@@ -3054,8 +3054,8 @@ was adorned
 like
 one
 of these
-however
 If
+however
 the
 grass
 of the
@@ -3076,8 +3076,8 @@ much
 more
 you
 O [you] of little faith
-therefore
 Not
+therefore
 be anxious
 saying
 What
@@ -3088,14 +3088,14 @@ shall we drink
 Or
 what
 shall we wear
-for
 All
+for
 these things
 the
 Gentiles
 seek after
-for
 knows
+for
 the
 Father
 of you
@@ -3105,8 +3105,8 @@ that
 you have need
 of them
 all
-however
 Seek
+however
 first
 the
 kingdom
@@ -3119,14 +3119,14 @@ these things
 all
 will be added
 to you
-therefore
 Not
+therefore
 be anxious
 about
 things
 tomorrow
-for
 -
+for
 tomorrow
 will be anxious about
 itself
@@ -3141,9 +3141,9 @@ do judge
 that
 not
 you should be judged
-for
 With
 whatever
+for
 verdict
 you judge
 you will be judged
@@ -3154,8 +3154,8 @@ measure
 you measure
 it will be measured again
 to you
-now
 Why
+now
 do you look at
 the
 splinter
@@ -3166,8 +3166,8 @@ eye
 the
 brother
 of you
-and
 -
+and
 the in
 -
 your [own]
@@ -3255,8 +3255,8 @@ knock
 and
 it will be opened
 to you
-for
 Everyone
+for
 -
 asking
 receives
@@ -3269,10 +3269,10 @@ to the [one]
 knocking
 it will be opened
 Or
+which
 is
 of
 you
-which
 a man
 whom
 will ask for
@@ -3292,8 +3292,8 @@ not
 a serpent
 will he give
 him
-therefore
 If
+therefore
 you
 evil
 being
@@ -3318,10 +3318,10 @@ good things
 to those
 asking
 Him
-therefore
 All things
-if
+therefore
 as many as
+if
 you might desire
 that
 should do
@@ -3333,8 +3333,8 @@ also
 you
 do
 to them
-for
 This
+for
 is
 the
 law
@@ -3396,8 +3396,8 @@ you
 in
 clothing
 of sheep
-however
 inwardly
+however
 they are
 wolves
 ravenous
@@ -3423,8 +3423,8 @@ good
 fruits
 good
 produces
-but
 -
+but
 the bad
 tree
 fruits
@@ -3528,8 +3528,8 @@ those
 working
 -
 lawlessness
-therefore
 Everyone
+therefore
 whoever
 hears
 My
@@ -3570,8 +3570,8 @@ upon
 and
 not
 it fell
-for
 it had been founded
+for
 upon
 the
 rock
@@ -3639,8 +3639,8 @@ at
 the
 teaching
 of Him
-for
 He was
+for
 teaching
 them
 as
@@ -3652,8 +3652,8 @@ as
 the
 scribes
 of them
-now
 Having come down
+now
 He
 from
 the
@@ -3714,8 +3714,8 @@ Moses
 for
 a testimony
 to them
-now
 Having entered
+now
 He
 into
 Capernaum
@@ -3743,8 +3743,8 @@ I
 having come
 will heal
 him
-however
 Answering
+however
 the
 centurion
 said
@@ -3753,8 +3753,8 @@ not
 I am
 worthy
 that
-under
 of me
+under
 the
 roof
 You should come
@@ -3767,11 +3767,11 @@ will be healed
 the
 servant
 of me
-for
 Also
+for
 I
-am
 a man
+am
 under
 authority
 having
@@ -3797,8 +3797,8 @@ Do
 this
 and
 he does [it]
-now
 Having heard
+now
 -
 Jesus
 marveled
@@ -3817,8 +3817,8 @@ in
 -
 Israel
 have I found
-now
 I say
+now
 to you
 that
 many
@@ -3840,8 +3840,8 @@ the
 kingdom
 of the
 heavens
-however
 the
+however
 sons
 of the
 kingdom
@@ -3880,9 +3880,9 @@ the
 hour
 that
 And
+having come
 -
 Jesus
-having come
 to
 the
 house
@@ -3909,8 +3909,8 @@ she arose
 and
 was ministering
 to them
-now
 Evening
+now
 having come
 they brought
 to Him
@@ -3945,10 +3945,10 @@ and
 our
 diseases
 bore
+Having seen
 now
 -
 Jesus
-Having seen
 crowd
 around
 Him
@@ -3966,8 +3966,8 @@ to Him
 Teacher
 I will follow
 You
-if
 wherever
+if
 You might go
 And
 says
@@ -3984,8 +3984,8 @@ birds
 of the
 air
 nests
-but
 -
+but
 the Son
 -
 of Man
@@ -3995,8 +3995,8 @@ has
 the
 head
 He might lay
-now
 Another
+now
 of the
 disciples
 said
@@ -4011,8 +4011,8 @@ to bury
 the
 father
 of me
-But
 -
+But
 Jesus
 said
 to him
@@ -4052,8 +4052,8 @@ was being swamped
 by
 the
 waves
-however
 He Himself
+however
 was sleeping
 And
 having come to [Him]
@@ -4082,8 +4082,8 @@ and
 there was
 a calm
 great
-And
 -
+And
 the men
 marveled
 saying
@@ -4146,8 +4146,8 @@ before [the]
 time
 to torment
 us
-now
 There was
+now
 far off
 from
 them
@@ -4155,8 +4155,8 @@ a herd
 of pigs
 many
 feeding
-And
 -
+And
 the demons
 were begging
 Him
@@ -4175,8 +4175,8 @@ And
 He said
 to them
 Go
-And
 -
+And
 having gone out
 they went away
 into
@@ -4199,8 +4199,8 @@ perished
 in
 the
 waters
-now
 Those
+now
 feeding [them]
 fled
 and
@@ -4254,9 +4254,9 @@ on
 a bed
 lying
 And
+having seen
 -
 Jesus
-having seen
 the
 faith
 of them
@@ -4280,9 +4280,9 @@ themselves
 This [man]
 blasphemes
 And
+having known
 -
 Jesus
-having known
 the
 thoughts
 of them
@@ -4295,8 +4295,8 @@ in
 the
 hearts
 of you
-for
 Which
+for
 is
 easier
 to say
@@ -4309,8 +4309,8 @@ to say
 Arise
 and
 walk
-however
 So that
+however
 you may know
 that
 authority
@@ -4346,8 +4346,8 @@ to
 the
 house
 of him
-now
 Having seen
+now
 the
 crowds
 marveled
@@ -4363,9 +4363,9 @@ such
 to men
 And
 passing on
-from there
 -
 Jesus
+from there
 He saw
 a man
 sitting
@@ -4423,22 +4423,22 @@ eats
 the
 Teacher
 of you
-And
 -
+And
 having heard
 He said
 Not
 need
-of a physician
 have
 those
 being strong
+of a physician
 but
 those
 sick
 being
-however
 Having gone
+however
 learn
 what
 is
@@ -4447,8 +4447,8 @@ I desire
 and
 not
 sacrifice
-for
 Not
+for
 I came
 to call
 [the] righteous
@@ -4468,8 +4468,8 @@ and
 the
 Pharisees
 do fast
-however
 the
+however
 disciples
 of You
 not
@@ -4493,8 +4493,8 @@ them
 is
 the
 bridegroom
-however
 Will come
+however
 days
 when
 shall have been taken away
@@ -4505,8 +4505,8 @@ bridegroom
 and
 then
 they will fast
-however
 No one
+however
 puts
 a patch
 of cloth
@@ -4514,8 +4514,8 @@ unshrunk
 on
 clothing
 old
-for
 tears away
+for
 the
 patch
 of it
@@ -4533,8 +4533,8 @@ new
 into
 wineskins
 old
-now
 if
+now
 lest
 are burst
 the
@@ -4608,8 +4608,8 @@ fringe
 of the
 garment
 of Him
-for
 She was saying
+for
 within
 herself
 If
@@ -4619,8 +4619,8 @@ the
 garment
 of Him
 I will be healed
-And
 -
+And
 Jesus
 having turned
 and
@@ -4643,9 +4643,9 @@ the
 hour
 very
 And
+having come
 -
 Jesus
-having come
 into
 the
 house
@@ -4661,8 +4661,8 @@ crowd
 making a commotion
 He says
 Go away
-for
 Not
+for
 is dead
 the
 girl
@@ -4671,8 +4671,8 @@ sleeps
 And
 they began to laugh at
 Him
-now
 When
+now
 had been put outside
 the
 crowd
@@ -4710,8 +4710,8 @@ Have mercy on
 us
 Son
 of David
-now
 Having come
+now
 into
 the
 house
@@ -4759,8 +4759,8 @@ saying
 See that
 no one
 knows
-But
 -
+But
 having gone out
 they make known
 Him
@@ -4769,8 +4769,8 @@ all
 the
 land
 that
-now
 [As] they
+now
 were going out
 behold
 they brought
@@ -4795,8 +4795,8 @@ thus
 in
 -
 Israel
-now
 The
+now
 Pharisees
 were saying
 By
@@ -4835,8 +4835,8 @@ disease
 and
 every
 sickness
-now
 Having seen
+now
 the
 crowds
 He was moved with compassion
@@ -4857,16 +4857,16 @@ He says
 to the
 disciples
 of Him
-indeed
 The
+indeed
 harvest
 [is] plentiful
-however
 the
+however
 workmen
 [are] few
-therefore
 Beseech
+therefore
 the
 Lord
 of the
@@ -4899,8 +4899,8 @@ disease
 and
 every
 sickness
-And
 -
+And
 of the twelve
 apostles
 the
@@ -4972,8 +4972,8 @@ any city
 of [the] Samaritans
 not
 enter
-however
 go
+however
 rather
 to
 those
@@ -4982,8 +4982,8 @@ sheep
 being lost
 of [the] house
 of Israel
-also
 Going on
+also
 proclaim
 saying
 -
@@ -5026,17 +5026,17 @@ nor
 sandals
 nor
 a staff
-for
 worthy [is]
+for
 the
 workman
 of the
 provisions
 of him
-now
--
 Into
 whatever
+now
+-
 city
 or
 village
@@ -5052,16 +5052,16 @@ remain
 until
 -
 you go forth
-now
 Entering
+now
 into
 the
 house
 greet
 it
 And
-indeed
 if
+indeed
 be
 the
 house
@@ -5072,8 +5072,8 @@ peace
 of you
 upon
 it
-however
 if
+however
 not
 it be
 worthy
@@ -5084,8 +5084,8 @@ to
 you
 let return
 And
--
 whoever
+-
 not
 will receive
 you
@@ -5133,8 +5133,8 @@ sheep
 in
 [the] midst
 of wolves
-therefore
 be you
+therefore
 shrewd
 as
 the
@@ -5144,13 +5144,13 @@ innocent
 as
 the
 doves
-however
 Beware
+however
 of
 -
 men
-for
 they will deliver
+for
 you
 into
 courts
@@ -5161,10 +5161,10 @@ synagogues
 of them
 they will flog
 you
-also
 and
 before
 governors
+also
 and
 kings
 you will be brought
@@ -5176,8 +5176,8 @@ to them
 and
 to the
 Gentiles
-then
 When
+then
 they deliver up
 you
 not
@@ -5186,8 +5186,8 @@ how
 or
 what
 you should speak
-for
 it will be given
+for
 you
 in
 that
@@ -5195,8 +5195,8 @@ that
 hour
 what
 you should say
-for
 Not
+for
 you
 are
 those
@@ -5211,8 +5211,8 @@ of you
 speaking
 through
 you
-now
 Will deliver up
+now
 brother
 brother
 to
@@ -5237,15 +5237,15 @@ on account of
 the
 name
 of Me
-however
 the [one]
+however
 having endured
 to
 [the] end
 he
 will be saved
-then
 Whenever
+then
 they persecute
 you
 in
@@ -5256,8 +5256,8 @@ flee
 to
 the
 next
-for
 Truly
+for
 I say
 to you
 no
@@ -5311,12 +5311,12 @@ more
 those
 house members
 of him
-therefore
 Not
+therefore
 you should fear
 them
-for
 nothing
+for
 is
 concealed
 which
@@ -5355,14 +5355,14 @@ those
 killing
 the
 body
+the
 however
+soul
 not
 being able
-the
-soul
 to kill
-however
 you should fear
+however
 rather
 the [One]
 being able
@@ -5391,9 +5391,9 @@ apart from
 the
 Father
 of you
+Of you
 now
 even
-Of you
 the
 hairs
 of the
@@ -5401,15 +5401,15 @@ head
 all
 numbered
 are
-therefore
 Not
+therefore
 you should fear
 than many
 sparrows
 are worth more
 you
-therefore
 Everyone
+therefore
 who
 will confess
 in
@@ -5429,9 +5429,9 @@ who [is]
 in
 the
 heavens
+Whoever
 now
 -
-Whoever
 shall deny
 Me
 before
@@ -5463,8 +5463,8 @@ to bring
 peace
 but
 a sword
-for
 I came
+for
 to set at variance
 A man
 against
@@ -5578,8 +5578,8 @@ the reward
 of a righteous [man]
 will receive
 And
--
 whoever
+-
 shall give to drink
 one
 the
@@ -5621,8 +5621,8 @@ in
 the
 cities
 of them
-And
 -
+And
 John
 having heard
 in
@@ -5678,14 +5678,14 @@ are gospelized
 And
 blessed
 is
-if
 he who
+if
 not
 shall fall away
 in
 Me
-now
 As these
+now
 were going away
 began
 -
@@ -5696,19 +5696,19 @@ crowds
 concerning
 John
 What
-to see
 went you out
 into
 the
 wilderness
+to see
 A reed
 by [the]
 wind
 shaken
 But
 what
-to see
 did you go out
+to see
 A man
 in
 delicate [clothing]
@@ -5767,8 +5767,8 @@ one greater
 than John
 the
 Baptist
-Yet
 -
+Yet
 the least
 in
 the
@@ -5778,8 +5778,8 @@ heavens
 greater
 than he
 is
-then
 From
+then
 the
 days
 of John
@@ -5796,8 +5796,8 @@ and [the]
 violent
 claim
 it
-for
 All
+for
 the
 prophets
 and
@@ -5820,8 +5820,8 @@ The [one]
 having
 ears
 let him hear
-however
 To what
+however
 will I compare
 the
 generation
@@ -5847,8 +5847,8 @@ we sang a dirge
 and
 not
 you did wail
-for
 Came
+for
 John
 neither
 eating
@@ -5873,8 +5873,8 @@ a man
 a glutton
 and
 a drunkard
-a friend
 of tax collectors
+a friend
 and
 of sinners
 But
@@ -5919,8 +5919,8 @@ miracles
 having come to pass
 in
 you
-then
 long ago
+then
 in
 sackcloth
 and
@@ -5940,9 +5940,9 @@ of judgment
 than
 for you
 And
+you
 Capernaum
 not
-you
 to
 heaven
 will be exalted
@@ -5960,8 +5960,8 @@ miracles
 having taken place
 in
 you
--
 it would have remained
+-
 until
 the
 day
@@ -6041,12 +6041,12 @@ not
 the
 Son
 and
-if
 to whom
-to reveal [Him]
+if
 might choose
 the
 Son
+to reveal [Him]
 Come
 to
 Me
@@ -6069,8 +6069,8 @@ learn
 from
 Me
 for
-I am
 gentle
+I am
 and
 humble
 [in] the
@@ -6081,8 +6081,8 @@ rest
 [for] the
 souls
 of you
-for
 The
+for
 yoke
 of Me
 [is] easy
@@ -6104,8 +6104,8 @@ Sabbaths
 through
 the
 grainfields
-and
 -
+and
 the disciples
 of Him
 were hungry
@@ -6115,8 +6115,8 @@ to pluck [the]
 heads of grain
 and
 to eat
-And
 -
+And
 the Pharisees
 having seen
 said
@@ -6127,13 +6127,13 @@ disciples
 of You
 are doing
 what
-to do
 not
 it is lawful
+to do
 on
 Sabbath
-And
 -
+And
 He said
 to them
 Not
@@ -6161,11 +6161,11 @@ of the
 presentation
 they ate
 which
-to eat
 not
 lawful
 it was
 for him
+to eat
 nor
 for those
 with
@@ -6195,8 +6195,8 @@ profane
 and
 guiltless
 are
-however
 I say
+however
 to you
 that
 the
@@ -6204,8 +6204,8 @@ temple
 a greater than
 is
 here
-however
 If
+however
 you had known
 what
 is
@@ -6214,14 +6214,14 @@ I desire
 and
 not
 sacrifice
--
 not
+-
 you would have condemned
 the
 guiltless
+Lord
 for
 is
-Lord
 of the
 Sabbath
 the
@@ -6254,8 +6254,8 @@ to heal
 so that
 they might accuse
 Him
-And
 -
+And
 He said
 to them
 What
@@ -6280,8 +6280,8 @@ will he take hold of
 it
 and
 will raise [it] up
-therefore
 How much
+therefore
 is more valuable
 a man
 than a sheep
@@ -6307,8 +6307,8 @@ sound
 as
 the
 other
-now
 Having gone out
+now
 the
 Pharisees
 a counsel
@@ -6318,8 +6318,8 @@ Him
 how
 Him
 they might destroy
-And
 -
+And
 Jesus
 having known
 withdrew
@@ -6438,8 +6438,8 @@ is
 the
 son
 of David
-And
 -
+And
 the Pharisees
 having heard
 said
@@ -6456,8 +6456,8 @@ Beelzebul
 prince
 of the
 demons
-now
 Having known
+now
 the
 thoughts
 of them
@@ -6489,8 +6489,8 @@ casts out
 against
 himself
 he is divided
-then
 How
+then
 will stand
 the
 kingdom
@@ -6513,10 +6513,10 @@ On account of
 this
 they
 judges
-of you
 will be
-however
+of you
 If
+however
 by [the]
 Spirit
 of God
@@ -6585,16 +6585,16 @@ blasphemy
 will be forgiven
 -
 men
-however
 -
+however
 against
 [the] Spirit
 blasphemy
 not
 will be forgiven
 And
-if
 whoever
+if
 speaks
 a word
 against
@@ -6604,9 +6604,9 @@ Son
 of Man
 it will be forgiven
 him
+whoever
 now
 -
-whoever
 speaks
 against
 -
@@ -6645,8 +6645,8 @@ the
 fruit
 of it
 bad
-for
 by
+for
 the
 fruit
 the
@@ -6660,8 +6660,8 @@ good things
 to speak
 evil
 being
-for
 Out of
+for
 the
 abundance
 of the
@@ -6688,8 +6688,8 @@ evil
 treasure
 puts forth
 evil things
-now
 I say
+now
 to you
 that
 every
@@ -6706,8 +6706,8 @@ an account
 in
 day
 of judgment
-for
 By
+for
 the
 words
 of you
@@ -6733,8 +6733,8 @@ from
 You
 a sign
 to see
-And
 -
+And
 answering
 He said
 to them
@@ -6756,8 +6756,8 @@ sign
 of Jonah
 the
 prophet
-for
 Just as
+for
 was
 Jonah
 in
@@ -6839,8 +6839,8 @@ behold
 greater
 than Solomon
 here
-now
 When
+now
 the
 unclean
 spirit
@@ -6924,8 +6924,8 @@ outside
 seeking
 to Him
 to speak
-now
 Said
+now
 someone
 to Him
 Behold
@@ -6941,8 +6941,8 @@ are standing
 seeking
 to You
 to speak
-And
 -
+And
 answering
 He said
 to the [one]
@@ -6977,9 +6977,9 @@ and
 the
 brothers
 of Me
+Whoever
 for
 -
-Whoever
 shall do
 the
 will
@@ -7001,9 +7001,9 @@ In
 the
 day
 that
+having gone forth
 -
 Jesus
-having gone forth
 [from] the
 house
 was sitting
@@ -7048,8 +7048,8 @@ in
 -
 sowing
 of him
-indeed
 some
+indeed
 fell
 along
 the
@@ -7060,8 +7060,8 @@ the
 birds
 devoured
 them
-now
 Other
+now
 fell
 upon
 the
@@ -7080,8 +7080,8 @@ not
 having
 depth
 of soil
-now
 [the] sun
+now
 having risen
 they were scorched
 and
@@ -7091,8 +7091,8 @@ not
 having
 root
 were dried up
-now
 Other
+now
 fell
 upon
 the
@@ -7104,8 +7104,8 @@ thorns
 and
 choked
 them
-now
 Other
+now
 fell
 upon
 the
@@ -7115,14 +7115,14 @@ good
 and
 were yielding
 fruit
+some
 indeed
-some
 a hundredfold
-now
 some
+now
 sixty
-now
 some
+now
 thirty
 The [one]
 having
@@ -7140,8 +7140,8 @@ in
 parables
 speak You
 to them
-And
 -
+And
 answering
 He said
 Because
@@ -7154,19 +7154,19 @@ of the
 kingdom
 of the
 heavens
-however
 to them
+however
 not
 it has been granted
-for
 Whoever
+for
 has
 will be given
 to him
 and
 he will be in abundance
-now
 whoever
+now
 not
 has
 even
@@ -7212,8 +7212,8 @@ and
 no
 not
 perceive
-for
 Has grown dull
+for
 the
 heart
 of the
@@ -7247,9 +7247,9 @@ should return
 and
 I will heal
 them
+Of you
 however
 blessed
-Of you
 [are] the
 eyes
 because
@@ -7260,8 +7260,8 @@ ears
 of you
 because
 they hear
-for
 Truly
+for
 I say
 to you
 that
@@ -7283,8 +7283,8 @@ you hear
 and
 not
 heard
-therefore
 You
+therefore
 hear
 the
 parable
@@ -7317,8 +7317,8 @@ on
 the
 path
 having been sown
-now
 That which
+now
 upon
 the
 rocky places
@@ -7335,17 +7335,17 @@ with
 joy
 receiving
 it
-now
 no
 he has
+now
 root
 in
 himself
 but
 temporary
 is
-however
 having come
+however
 tribulation
 or
 persecution
@@ -7354,8 +7354,8 @@ the
 word
 immediately
 he falls away
-now
 That which
+now
 among
 the
 thorns
@@ -7382,8 +7382,8 @@ word
 and
 unfruitful
 it becomes
-however
 That
+however
 on
 the
 good
@@ -7397,19 +7397,19 @@ word
 hearing
 and
 understanding
-indeed
 who
+indeed
 brings forth fruit
 and
-indeed
 produces
 some
+indeed
 a hundredfold
-now
 some
+now
 sixty
-now
 some
+now
 thirty
 Another
 parable
@@ -7429,8 +7429,8 @@ in
 the
 field
 of him
-now
 In
+now
 the [time]
 are sleeping
 the
@@ -7448,8 +7448,8 @@ of the
 wheat
 and
 went away
-now
 When
+now
 sprouted
 the
 plants
@@ -7461,8 +7461,8 @@ appeared
 also
 the
 weeds
-now
 Having come to [him]
+now
 the
 servants
 the
@@ -7478,30 +7478,30 @@ in
 -
 your
 field
-then
 How
+then
 has it
 the weeds
-And
 -
+And
 he said
 to them
 An enemy
 a man
 this
 did
-And
 -
+And
 the servants
 to him
 said
-then
 Do you desire
+then
 [that] having gone forth
 we should gather
 them
-And
 -
+And
 he said
 No
 not
@@ -7541,8 +7541,8 @@ in order
 -
 to burn
 them
-and
 -
+and
 the wheat
 gather together
 into
@@ -7570,15 +7570,15 @@ in
 the
 field
 of him
-indeed
 which
 smallest
+indeed
 is
 of all
 the
 seeds
-however
 when
+however
 it is grown
 greater
 than the
@@ -7678,8 +7678,8 @@ of the
 weeds
 of the
 field
-And
 -
+And
 answering
 He said
 The [One]
@@ -7692,14 +7692,14 @@ the
 Son
 -
 of Man
-and
 -
+and
 the field
 is
 the
 world
-and
 -
+and
 the good
 seed
 these
@@ -7708,16 +7708,16 @@ the
 sons
 of the
 kingdom
-and
 -
+and
 the weeds
 are
 the
 sons
 of the
 evil [one]
-and
 -
+and
 the enemy
 -
 having sown
@@ -7725,19 +7725,19 @@ them
 is
 the
 devil
-and
 -
+and
 the harvest
 [the] consummation
 of the age
 is
-and
 -
+and
 the harvesters
 angels
 are
-therefore
 As
+therefore
 is gathered
 the
 weeds
@@ -7794,15 +7794,15 @@ Then
 the
 righteous
 will shine forth
+as
+the
+sun
 in
 the
 kingdom
 of the
 Father
 of them
-as
-the
-sun
 The [one]
 having
 ears
@@ -7848,8 +7848,8 @@ a merchant
 seeking
 fine
 pearls
-now
 having found
+now
 one
 very precious
 pearl
@@ -7892,8 +7892,8 @@ the
 good
 into
 vessels
-and
 the
+and
 bad
 out
 they cast
@@ -7938,8 +7938,8 @@ all
 They say
 to Him
 Yes
-And
 -
+And
 He said
 to them
 Because of
@@ -8033,8 +8033,8 @@ all
 with
 us
 are
-then
 From where
+then
 to this [man]
 these things
 all
@@ -8042,8 +8042,8 @@ And
 they were offended
 at
 Him
-But
 -
+But
 Jesus
 said
 to them
@@ -8105,8 +8105,8 @@ miraculous powers
 are working
 in
 him
-For
 -
+For
 Herod
 having seized
 -
@@ -8124,8 +8124,8 @@ of Philip
 the
 brother
 of him
-for
 Had been saying
+for
 -
 John
 to him
@@ -8146,11 +8146,11 @@ as
 a prophet
 him
 they were holding
-now
 [The] birthday
+now
+having been celebrated
 -
 of Herod
-having been celebrated
 danced
 the
 daughter
@@ -8169,19 +8169,19 @@ oath
 he promised
 to her
 to give
-if
 whatever
+if
 she should ask
-And
 -
+And
 having been urged on
 by
 the
 mother
 of her
-she says
 Give
 me
+she says
 here
 upon
 a platter
@@ -8241,8 +8241,8 @@ having come
 they told
 -
 Jesus
-now
 Having heard
+now
 -
 Jesus
 withdrew
@@ -8278,8 +8278,8 @@ healed
 the
 sick
 of them
-now
 Evening
+now
 having come
 came
 to Him
@@ -8295,8 +8295,8 @@ the
 time
 already
 is gone by
-therefore
 Dismiss
+therefore
 the
 crowds
 that
@@ -8307,8 +8307,8 @@ villages
 they might buy
 for themselves
 food
-And
 -
+And
 Jesus
 said
 to them
@@ -8320,8 +8320,8 @@ Give
 to them
 you
 to eat
-And
 -
+And
 they say
 to Him
 Not
@@ -8334,8 +8334,8 @@ loaves
 and
 two
 fish
-And
 -
+And
 He said
 Bring
 to Me
@@ -8369,8 +8369,8 @@ to the
 disciples
 the
 loaves
-and
 -
+and
 the disciples
 to the
 crowds
@@ -8388,8 +8388,8 @@ fragments
 twelve
 hand-baskets
 full
-then
 Those
+then
 eating
 were
 men
@@ -8430,14 +8430,14 @@ mountain
 by
 Himself
 to pray
-now
 Evening
+now
 having arrived
 alone
 He was
 there
-And
 -
+And
 the boat
 now
 stadia
@@ -8450,13 +8450,13 @@ tossed
 by
 the
 waves
-for
 was
+for
 contrary [was]
 the
 wind
-now
 In [the] fourth
+now
 watch
 of the
 night
@@ -8467,8 +8467,8 @@ walking
 on
 the
 sea
-And
 -
+And
 the disciples
 having seen
 Him
@@ -8486,8 +8486,8 @@ in
 -
 fear
 they cried out
-now
 Immediately
+now
 spoke
 -
 Jesus
@@ -8498,8 +8498,8 @@ I
 it is
 not
 fear
-now
 Answering
+now
 to Him
 -
 Peter
@@ -8516,8 +8516,8 @@ You
 upon
 the
 waters
-And
 -
+And
 He said
 Come
 And
@@ -8535,8 +8535,8 @@ came
 to
 -
 Jesus
-now
 Seeing
+now
 the
 wind
 he was afraid
@@ -8548,8 +8548,8 @@ saying
 Lord
 save
 me
-now
 Immediately
+now
 -
 Jesus
 having stretched out
@@ -8573,8 +8573,8 @@ boat
 ceased
 the
 wind
-then
 Those
+then
 in
 the
 boat
@@ -8649,16 +8649,16 @@ the
 tradition
 of the
 elders
-for
 Not
+for
 they wash
 the
 hands
 when
 bread
 they shall eat
-And
 -
+And
 answering
 He said
 to them
@@ -8675,8 +8675,8 @@ on account of
 the
 tradition
 of you
-For
 -
+For
 God
 commanded
 Honor
@@ -8693,11 +8693,11 @@ or
 mother
 in death
 must end
-however
 You
+however
 say
--
 Whoever
+-
 shall say
 to the
 father
@@ -8705,8 +8705,8 @@ or
 the
 mother
 [It is] a gift
-if
 whatever
+if
 by
 me
 you might be profited
@@ -8744,16 +8744,16 @@ with the
 lips
 Me
 it honors
-however
 the
+however
 heart
 of them
 far away
 is kept
 from
 Me
-then
 in vain
+then
 they worship
 Me
 teaching [as]
@@ -8802,8 +8802,8 @@ having heard
 the
 saying
 were offended
-And
 -
+And
 answering
 He said
 Every
@@ -8819,21 +8819,21 @@ Heavenly
 it will be rooted up
 Leave
 them
-they are
 Blind
+they are
 guides
 of the blind
-now
-if
 Blind
+now
 blind
+if
 they lead
 both
 into
 a pit
 will fall
-then
 Answering
+then
 -
 Peter
 said
@@ -8842,8 +8842,8 @@ Explain
 to us
 the
 parable
-And
 -
+And
 He said
 Still
 also
@@ -8867,8 +8867,8 @@ and
 into
 [the] sewer
 is cast out
-however
 The things
+however
 going forth
 out of
 the
@@ -8881,8 +8881,8 @@ and these
 defile
 the
 man
-for
 Out of
+for
 the
 heart
 come forth
@@ -8900,8 +8900,8 @@ the things
 defiling
 the
 man
-but
 -
+but
 with unwashed
 hands
 to eat
@@ -8942,8 +8942,8 @@ daughter
 of me
 miserably
 is possessed by a demon
-And
 -
+And
 not
 He answered
 her
@@ -8962,8 +8962,8 @@ for
 she cries out
 after
 us
-And
 -
+And
 answering
 He said
 Not
@@ -8977,8 +8977,8 @@ sheep
 being lost
 of [the] house
 of Israel
-And
 -
+And
 having come
 she was worshiping
 Him
@@ -8986,8 +8986,8 @@ saying
 Lord
 help
 me
-And
 -
+And
 answering
 He said
 Not
@@ -9002,13 +9002,13 @@ and
 to cast [it]
 to the
 dogs
-And
 -
+And
 she said
 Yes
 Lord
-however
 even
+however
 the
 dogs
 eat
@@ -9111,8 +9111,8 @@ they glorified
 the
 God
 of Israel
-And
 -
+And
 Jesus
 having called to [him]
 the
@@ -9169,8 +9169,8 @@ Jesus
 How many
 loaves
 have you
-And
 -
+And
 they said
 Seven
 and
@@ -9198,8 +9198,8 @@ and
 was giving
 to
 disciples
-and the
 -
+and the
 disciples
 to the
 crowd
@@ -9213,12 +9213,12 @@ that
 being over and above
 of the
 fragments
+they took up
 seven
 baskets
 full
-they took up
-then
 Those
+then
 eating
 were
 four thousand
@@ -9256,8 +9256,8 @@ out of
 heaven
 to show
 them
-And
 -
+And
 answering
 He said
 to them
@@ -9265,28 +9265,28 @@ Evening
 having come
 you say
 Fair weather
-for
 is red
+for
 the
 sky
 And
 in the morning
 Today
 a storm
-for
 is red
+for
 being overcast
 the
 sky
-indeed
 The
+indeed
 appearance
 of the
 sky
-to discern
 you know [how]
-but
+to discern
 -
+but
 the signs
 of the
 times
@@ -9313,17 +9313,17 @@ having left
 them
 He went away
 And
+having come
 the
 disciples
-having come
 to
 the
 other side
 they forgot
 bread
 to take
-And
 -
+And
 Jesus
 said
 to them
@@ -9337,8 +9337,8 @@ of the
 Pharisees
 and
 Sadducees
-And
 -
+And
 they were reasoning
 among
 themselves
@@ -9347,8 +9347,8 @@ Because
 bread
 not
 we took
-however
 Having known [this]
+however
 -
 Jesus
 said
@@ -9393,8 +9393,8 @@ concerning
 bread
 I spoke
 to you
-also
 to beware
+also
 of
 the
 leaven
@@ -9421,10 +9421,10 @@ of the
 Pharisees
 and
 Sadducees
+Having come
 then
 -
 Jesus
-Having come
 into
 the
 district
@@ -9436,28 +9436,28 @@ the
 disciples
 of Him
 saying
+Whom
 do pronounce
 -
 men
-Whom
 to be
 the
 Son
 of
 man
-And
 -
+And
 they said
-indeed
 Some
+indeed
 John
 the
 Baptist
-now
 others
+now
 Elijah
-now
 others
+now
 Jeremiah
 or
 one
@@ -9465,14 +9465,14 @@ of the
 prophets
 He says
 to them
-but
 You
+but
 whom
 Me
-to be
 do you pronounce
-now
+to be
 Answering
+now
 Simon
 Peter
 said
@@ -9486,8 +9486,8 @@ of
 God
 the
 living
-now
 Answering
+now
 -
 Jesus
 said
@@ -9511,8 +9511,8 @@ who [is]
 in
 the
 heavens
-now
 I also
+now
 to you
 say
 that
@@ -9543,8 +9543,8 @@ kingdom
 of the
 heavens
 and
-if
 whatever
+if
 you might bind
 on
 the
@@ -9555,8 +9555,8 @@ in
 the
 heavens
 and
-if
 whatever
+if
 you might loose
 on
 the
@@ -9627,8 +9627,8 @@ not
 will be
 to You
 this
-And
 -
+And
 having turned
 He said
 -
@@ -9638,8 +9638,8 @@ behind
 Me
 Satan
 A stumbling block
-to Me
 you are
+to Me
 For
 not
 your thoughts are of
@@ -9673,9 +9673,9 @@ of him
 and
 follow
 Me
+Whoever
 for
 if
-Whoever
 might desire
 the
 life
@@ -9683,9 +9683,9 @@ of him
 to save
 will lose
 it
+whoever
 however
 -
-whoever
 might lose
 the
 life
@@ -9694,8 +9694,8 @@ on account of
 Me
 will find
 it
-for
 What
+for
 will it profit
 a man
 if
@@ -9703,8 +9703,8 @@ the
 world
 whole
 he gains
-but
 -
+but
 the soul
 of him
 loses
@@ -9716,8 +9716,8 @@ a man
 the
 soul
 of him
-for
 Is about
+for
 the
 Son
 of the
@@ -9803,8 +9803,8 @@ of Him
 like
 the
 sun
-and
 -
+and
 the clothes
 of Him
 became
@@ -9822,8 +9822,8 @@ Elijah
 talking
 with
 Him
-now
 Answering
+now
 -
 Peter
 said
@@ -9899,8 +9899,8 @@ Rise up
 and
 not
 be afraid
-and
 Having lifted up
+and
 the
 eyes
 of them
@@ -9941,28 +9941,28 @@ Him
 the
 disciples
 saying
-then
 Why
+then
 the
 scribes
 say
 that
-it behooves
 Elijah
+it behooves
 to come
 first
-And
 -
+And
 answering
 He said
-indeed
 Elijah
+indeed
 comes
 and
 will restore
 all things
-however
 I say
+however
 to you
 that
 Elijah
@@ -10021,8 +10021,8 @@ he is epileptic
 and
 miserably
 suffers
-for
 often
+for
 he falls
 into
 the
@@ -10043,8 +10043,8 @@ not
 they were able
 him
 to heal
-now
 Answering
+now
 -
 Jesus
 said
@@ -10086,9 +10086,9 @@ the
 hour
 that
 Then
+having come
 the
 disciples
-having come
 -
 to Jesus
 in
@@ -10101,16 +10101,16 @@ not
 were able
 to cast out
 it
-And
 -
+And
 He said
 to them
 Because of
 the
 little faith
 of you
-for
 Truly
+for
 I say
 to you
 If
@@ -10132,8 +10132,8 @@ And
 nothing
 will be impossible
 for you
-now
 Were abiding
+now
 they
 in
 -
@@ -10162,8 +10162,8 @@ He will be raised up
 And
 they were grieved
 deeply
-now
 Having come
+now
 they
 to
 Capernaum
@@ -10176,10 +10176,10 @@ collecting
 to Peter
 and
 said
-not
 The
 Teacher
 of you
+not
 does he pay
 didrachmas
 He says
@@ -10216,8 +10216,8 @@ or
 from
 -
 strangers
-now
 He having said
+now
 From
 the
 strangers
@@ -10230,8 +10230,8 @@ free
 are
 the
 sons
-however
 That
+however
 not
 we might offend
 them
@@ -10271,8 +10271,8 @@ disciples
 -
 to Jesus
 saying
-then
 Who
+then
 [the] greatest
 is
 in
@@ -10309,8 +10309,8 @@ the
 kingdom
 of the
 heavens
-therefore
 Whoever
+therefore
 will humble
 himself
 as
@@ -10327,8 +10327,8 @@ kingdom
 of the
 heavens
 And
-if
 whoever
+if
 shall receive
 one
 little child
@@ -10339,9 +10339,9 @@ name
 of Me
 Me
 receives
+Whoever
 then
 -
-Whoever
 shall cause to stumble
 one
 of the
@@ -10374,8 +10374,8 @@ world
 because of
 the
 causes of sin
-for
 Necessary [are]
+for
 to come
 the
 stumbling blocks
@@ -10388,8 +10388,8 @@ whom
 the
 offense
 comes
-now
 If
+now
 the
 hand
 of you
@@ -10466,8 +10466,8 @@ one
 of the
 little ones
 of these
-for
 I say
+for
 to you
 that
 the
@@ -10551,8 +10551,8 @@ one
 of the
 little ones
 of these
-now
 If
+now
 sins
 the
 brother
@@ -10572,8 +10572,8 @@ you have gained
 the
 brother
 of you
-however
 If
+however
 not
 he will hear
 take
@@ -10587,21 +10587,21 @@ that
 upon
 [the] testimony
 of two
+witnesses
 or
 of three
-witnesses
 may be strengthened
 every
 word
-now
 If
+now
 he fails to listen
 to them
 tell [it]
 to the
 church
-now
 If
+now
 also
 to the
 church
@@ -10617,8 +10617,8 @@ tax collector
 Truly
 I say
 to you
-if
 how many
+if
 you shall bind
 on
 the
@@ -10628,8 +10628,8 @@ bound
 in
 heaven
 and
-if
 how many
+if
 you shall loose
 on
 the
@@ -10638,24 +10638,24 @@ shall have been
 loosed
 in
 heaven
-truly
 Again
+truly
 I say
 to you
 that
 if
 two
+might agree
 of
 you
-might agree
 on
 the
 earth
 concerning
 any
 matter
-if
 that
+if
 they shall ask
 it will be done
 for them
@@ -10666,13 +10666,13 @@ of Me
 who [is]
 in
 [the] heavens
-for
 Where
+for
 are
-gathered together
 two
 or
 three
+gathered together
 unto
 -
 My
@@ -10731,26 +10731,26 @@ with
 the
 servants
 of him
-then
 Having begun
+then
 he
 to settle
 was brought
-to him
 one
+to him
 a debtor
 of ten thousand
 talents
-now
 Nothing
 having
+now
 he
 to pay
 commanded
+him
 the
 master
 to be sold
-him
 and
 the
 wife
@@ -10763,8 +10763,8 @@ as many as
 he had
 and
 payment to be made
-therefore
 Having fallen down
+therefore
 the
 servant
 was bowing on his knees
@@ -10777,8 +10777,8 @@ and
 all
 I will pay
 to you
-now
 Having been moved with compassion
+now
 the
 master
 of the
@@ -10791,8 +10791,8 @@ the
 debt
 forgave
 him
-however
 Having gone out
+however
 the
 servant
 same
@@ -10815,8 +10815,8 @@ Pay
 if
 any
 you owe
-therefore
 Having fallen down
+therefore
 the
 fellow servant
 of him
@@ -10829,8 +10829,8 @@ me
 and
 I will pay
 you
-But
 -
+But
 not
 he was willing
 rather
@@ -10843,11 +10843,11 @@ until
 he should pay
 that which
 was owing
+Having seen
 therefore
 the
 fellow servants
 of him
-Having seen
 the things
 having taken place
 they were grieved
@@ -10977,8 +10977,8 @@ to him
 for
 every
 cause
-now
 Which
+now
 answering
 He said
 Not
@@ -11023,8 +11023,8 @@ two
 but
 flesh
 one
-therefore
 What
+therefore
 -
 God
 united together
@@ -11033,8 +11033,8 @@ not
 let separate
 They say
 to Him
-then
 Why
+then
 Moses
 did command
 to give
@@ -11056,18 +11056,18 @@ to divorce
 the
 wives
 of you
-however
 from [the]
 beginning
+however
 not
 was [it]
 this way
-now
 I say
+now
 to you
 that
--
 whoever
+-
 shall divorce
 -
 wife
@@ -11096,8 +11096,8 @@ wife
 not
 it is better
 to marry
-And
 -
+And
 He said
 to them
 Not
@@ -11109,8 +11109,8 @@ this
 but only [those]
 to whom
 it has been given
-for
 There are
+for
 eunuchs
 who
 from [the]
@@ -11152,13 +11152,13 @@ He might lay
 on them
 and
 He might pray
-however
 -
+however
 the disciples
 rebuked
 them
-And
 -
+And
 Jesus
 said
 Permit
@@ -11171,8 +11171,8 @@ them
 to come
 to
 Me
-for
 of the
+for
 such kind
 is
 the
@@ -11200,8 +11200,8 @@ that
 I might have
 life
 eternal
-And
 -
+And
 He said
 to him
 Why
@@ -11214,8 +11214,8 @@ Only One
 is
 -
 good
-however
 If
+however
 you desire
 into
 -
@@ -11227,8 +11227,8 @@ commandments
 He says
 to him
 Which
-And
 -
+And
 Jesus
 said
 -
@@ -11288,21 +11288,21 @@ and
 come
 follow
 Me
+Having heard
 now
 the
 young man
-Having heard
 the
 statement
 he went away
 grieving
-for
 he was [one]
+for
 having
 possessions
 many
-And
 -
+And
 Jesus
 said
 to the
@@ -11320,8 +11320,8 @@ the
 kingdom
 of the
 heavens
-now
 Again
+now
 I say
 to you
 easier for
@@ -11338,19 +11338,19 @@ the
 kingdom
 of
 God
-now
 Having heard
+now
 the
 disciples
 were astonished
 exceedingly
 saying
-then
 Who
+then
 is able
 to be saved
-now
 Having looked on [them]
+now
 -
 Jesus
 said
@@ -11360,8 +11360,8 @@ men
 this
 impossible
 is
-however
 with
+however
 God
 all things [are]
 possible
@@ -11378,12 +11378,12 @@ all things
 and
 followed
 You
-then
 what
+then
 will be
 to us
-And
 -
+And
 Jesus
 said
 to them
@@ -11447,16 +11447,16 @@ and
 life
 eternal
 will inherit
-however
 Many
-first
+however
 will be
+first
 last
 and
 last
 first
-for
 Like
+for
 is
 the
 kingdom
@@ -11474,8 +11474,8 @@ for
 the
 vineyard
 of him
-then
 Having agreed
+then
 with
 the
 workmen
@@ -11511,17 +11511,17 @@ into
 the
 vineyard
 and
-if
 whatever
+if
 might be
 right
 I will give
 you
-And
 -
+And
 they went
-then
 Again
+then
 having gone out
 about [the]
 sixth
@@ -11530,8 +11530,8 @@ ninth
 hour
 he did
 likewise
-then
 About
+then
 the
 eleventh
 having gone out
@@ -11562,8 +11562,8 @@ You
 into
 the
 vineyard
-then
 Evening
+then
 having arrived
 says
 the
@@ -11587,8 +11587,8 @@ last
 unto
 the
 first
-And
 having come
+And
 those [hired]
 about
 the
@@ -11612,8 +11612,8 @@ each
 a denarius
 also
 themselves
-now
 Having received
+now
 they were grumbling
 against
 the
@@ -11628,8 +11628,8 @@ have worked
 and
 equal
 them
-you have made
 to us
+you have made
 those
 having borne
 the
@@ -11639,8 +11639,8 @@ day
 and
 the
 scorching heat
-And
 -
+And
 answering
 to one
 of them
@@ -11658,8 +11658,8 @@ what [is]
 yours
 and
 go
-now
 I desire
+now
 to this
 -
 last
@@ -11695,10 +11695,10 @@ and
 the
 first
 last
-And
-Jesus
 
+And
 going up
+Jesus
 to
 Jerusalem
 He took
@@ -11766,8 +11766,8 @@ asking
 something
 from
 Him
-And
 -
+And
 He said
 to her
 What
@@ -11794,8 +11794,8 @@ in
 the
 kingdom
 of You
-now
 Answering
+now
 -
 Jesus
 said
@@ -11808,21 +11808,21 @@ to drink
 the
 cup
 which
-to drink
 I
 am about
+to drink
 They say
 to Him
 We are able
 He says
 to them
-Indeed
 -
+Indeed
 the cup
 of Me
 You will drink
-but
 -
+but
 to sit
 on
 [the] right hand
@@ -11851,8 +11851,8 @@ about
 the
 two
 brothers
-And
 -
+And
 Jesus
 having called to [him]
 them
@@ -11876,8 +11876,8 @@ will it be
 among
 you
 but
-if
 whoever
+if
 wishes
 among
 you
@@ -11887,8 +11887,8 @@ he will be
 your
 servant
 and
--
 whoever
+-
 wishes
 among
 you
@@ -11938,26 +11938,26 @@ Jesus
 is passing by
 cried out
 saying
+Lord
 Have mercy on
 us
-Lord
 Son
 of David
-And
 -
+And
 the crowd
 rebuked
 them
 that
 they should be silent
-But
 -
+But
 all the more
 they cried out
 saying
+Lord
 have mercy on
 us
-Lord
 Son
 of David
 And
@@ -11968,8 +11968,8 @@ called
 them
 and
 said
-do you desire
 What
+do you desire
 I should do
 unto you
 They say
@@ -11980,8 +11980,8 @@ might be opened
 the
 eyes
 of us
-then
 Having been moved with compassion
+then
 -
 Jesus
 touched
@@ -12047,12 +12047,12 @@ Lord
 of them
 need
 has
-then
 Immediately
+then
 he will send
 them
-then
 This
+then
 came to pass
 that
 it might be fulfilled
@@ -12082,10 +12082,10 @@ upon
 a colt
 [the] foal
 of a beast of burden
+Having gone
 then
 the
 disciples
-Having gone
 and
 having done
 as
@@ -12109,8 +12109,8 @@ and
 He sat
 on
 them
-now
 The
+now
 very great
 crowd
 spread
@@ -12120,8 +12120,8 @@ cloaks
 on
 the
 road
-now
 others
+now
 were cutting down
 branches
 from
@@ -12132,8 +12132,8 @@ were spreading [them]
 on
 the
 road
-now
 The
+now
 crowds
 -
 going before
@@ -12170,8 +12170,8 @@ saying
 Who
 is
 this
-And
 -
+And
 the crowds
 were saying
 This
@@ -12201,11 +12201,11 @@ in
 the
 temple
 and
-He overturned
 the
 tables
 of the
 money changers
+He overturned
 and
 the
 seats
@@ -12223,8 +12223,8 @@ of Me
 a house
 of prayer
 will be called
-however
 You
+however
 it
 have made
 a den
@@ -12241,13 +12241,13 @@ temple
 and
 He healed
 them
+Having seen
 now
 the
 chief priests
 and
 the
 scribes
-Having seen
 the
 wonders
 that
@@ -12274,8 +12274,8 @@ Hear you
 what
 these
 say
-And
 -
+And
 Jesus
 says
 to them
@@ -12302,8 +12302,8 @@ Bethany
 and
 He passed the night
 there
-then
 In the morning
+then
 having come back
 into
 the
@@ -12356,8 +12356,8 @@ so quickly
 withered
 the
 fig tree
-now
 Answering
+now
 -
 Jesus
 said
@@ -12392,8 +12392,8 @@ sea
 it will come to pass
 And
 all things
--
 as many as
+-
 you might ask
 in
 -
@@ -12429,8 +12429,8 @@ gave
 the
 authority
 this
-now
 Answering
+now
 -
 Jesus
 said
@@ -12440,8 +12440,8 @@ you
 I also
 thing
 one
-if
 which
+if
 you tell
 Me
 I also
@@ -12463,8 +12463,8 @@ heaven
 or
 from
 men
-And
 -
+And
 they were reasoning
 with
 themselves
@@ -12475,22 +12475,22 @@ From
 heaven
 He will say
 to us
-then
 Because of
 why
+then
 not
 did you believe
 him
-however
 If
+however
 we should say
 From
 men
 we fear
 the
 multitude
-for
 all
+for
 as
 a prophet
 hold
@@ -12516,8 +12516,8 @@ what
 authority
 these things
 I do
-however
 What
+however
 you
 think
 A man
@@ -12535,8 +12535,8 @@ work
 in
 the
 vineyard
-And
 -
+And
 answering
 he said
 will I
@@ -12544,14 +12544,14 @@ master
 however
 Not
 he went
-then
 Having come
+then
 to the
 second
 he said
 likewise
-And
 -
+And
 answering
 he said
 I [will]
@@ -12591,8 +12591,8 @@ the
 kingdom
 -
 of God
-for
 Came
+for
 John
 to
 you
@@ -12603,16 +12603,16 @@ and
 not
 you did believe
 him
-however
 -
+however
 the tax collectors
 and
 the
 prostitutes
 believed
 him
-then
 you
+then
 having seen
 not even
 did repent
@@ -12647,8 +12647,8 @@ it
 to farmers
 and
 traveled abroad
-then
 When
+then
 drew near
 the
 season
@@ -12672,14 +12672,14 @@ farmers
 the
 servants
 of him
+one
 -
-one
 they beat
-then
 one
+then
 they killed
-then
 one
+then
 they stoned
 Again
 he sent
@@ -12692,8 +12692,8 @@ and
 they did
 to them
 likewise
-then
 Afterward
+then
 he sent
 to
 them
@@ -12705,8 +12705,8 @@ They will respect
 the
 son
 of me
-But
 -
+But
 the farmers
 having seen
 the
@@ -12735,8 +12735,8 @@ the
 vineyard
 and
 killed [him]
-therefore
 When
+therefore
 shall come
 the
 master
@@ -12824,20 +12824,20 @@ the
 stone
 this
 will be broken
-but
 on
--
 whomever
+but
+-
 it shall fall
 it will grind to powder
 him
 And
+having heard
 the
 chief priests
 and
 the
 Pharisees
-having heard
 the
 parables
 of Him
@@ -12923,24 +12923,24 @@ come
 to
 the
 wedding feast
-And
 -
+And
 having paid no attention
 they went away
--
 one
+-
 to
 the
 own
 field
-then
 one
+then
 to
 the
 business
 of him
-And
 -
+And
 the rest
 having laid hold of
 the
@@ -12949,8 +12949,8 @@ of him
 mistreated
 and
 killed [them]
-And
 -
+And
 the king
 was angry
 and
@@ -12972,37 +12972,37 @@ he says
 to
 servants
 of him
-indeed
 The
+indeed
 wedding feast
 ready
 is
-however
 those
+however
 having been invited
 not
 were
 worthy
-therefore
 Go
+therefore
 into
 the
 thoroughfares
 of the
 highways
 and
-if
 as many as
+if
 you shall find
 invite
 to
 the
 wedding feast
 And
+having gone out
 the
 servants
 those
-having gone out
 into
 the
 highways
@@ -13010,8 +13010,8 @@ they brought together
 all
 as many as
 they found
-both
 evil
+both
 and
 good
 and
@@ -13019,10 +13019,10 @@ became full
 the
 wedding hall
 of those reclining
+Having entered in
 then
 the
 king
-Having entered in
 to see
 those
 reclining
@@ -13044,8 +13044,8 @@ not
 having
 garment
 of wedding
-And
 -
+And
 he was speechless
 Then
 the
@@ -13074,12 +13074,12 @@ the
 gnashing
 of the
 teeth
-for
 Many
+for
 are
 called
-however
 few
+however
 chosen
 Then
 having gone out
@@ -13121,14 +13121,14 @@ there is care
 to You
 about
 no one
-for
 not
+for
 You look
 on [the]
 appearance
 of men
-therefore
 Tell
+therefore
 us
 what
 You
@@ -13139,10 +13139,10 @@ tribute
 to Caesar
 or
 not
+Having known
 however
 -
 Jesus
-Having known
 the
 malice
 of them
@@ -13157,8 +13157,8 @@ the
 coin
 of the
 tribute
-And
 -
+And
 they presented
 to Him
 a denarius
@@ -13177,8 +13177,8 @@ Caesar’s
 Then
 He says
 to them
-therefore
 Give back
+therefore
 the things
 of Caesar
 to Caesar
@@ -13232,8 +13232,8 @@ offspring
 for the
 brother
 of him
-now
 There were
+now
 among
 us
 seven
@@ -13264,27 +13264,27 @@ third
 unto
 the
 seventh
-then
 Last
+then
 of all
 died
 the
 woman
-therefore
 In
 the
 resurrection
+therefore
 of which
 of the
 seven
-wife
 will she be
-for
+wife
 All
+for
 had
 her
-now
 Answering
+now
 -
 Jesus
 said
@@ -13299,8 +13299,8 @@ the
 power
 -
 of God
-for
 In
+for
 the
 resurrection
 neither
@@ -13314,8 +13314,8 @@ in
 -
 heaven
 they are
-now
 Concerning
+now
 the
 resurrection
 of the
@@ -13358,8 +13358,8 @@ at
 the
 teaching
 of Him
-And
 -
+And
 the Pharisees
 having heard
 that
@@ -13385,8 +13385,8 @@ commandment
 in
 the
 law
-And
 -
+And
 He said
 to him
 You shall love
@@ -13439,8 +13439,8 @@ hangs
 and
 the
 Prophets
-now
 Having been assembled together
+now
 the
 Pharisees
 questioned
@@ -13463,8 +13463,8 @@ to Him
 Of David
 He says
 to them
-then
 How
+then
 David
 in
 spirit
@@ -13491,8 +13491,8 @@ of You
 for the
 feet
 of You
-therefore
 If
+therefore
 David
 calls
 Him
@@ -13538,29 +13538,29 @@ scribes
 and
 the
 Pharisees
-therefore
 All things
-if
+therefore
 how many
+if
 they might tell
 you
 keep
 and
 observe
-however
 After
+however
 the
 works
 of them
 not
 do
-for
 They speak
+for
 and
 not
 act
--
 They tie up
+-
 burdens
 heavy
 and
@@ -13570,8 +13570,8 @@ the
 shoulders
 -
 of men
-however
 themselves
+however
 with
 finger
 of them
@@ -13579,8 +13579,8 @@ not
 are they willing
 to move
 them
-now
 All
+now
 the
 deeds
 of them
@@ -13590,8 +13590,8 @@ in order
 to be seen
 -
 by men
-for
 They broaden
+for
 the
 phylacteries
 of them
@@ -13599,8 +13599,8 @@ and
 enlarge
 their
 tassels
-now
 They love
+now
 the
 chief place
 at
@@ -13624,32 +13624,32 @@ by
 -
 men
 Rabbi
-however
 You
+however
 not
 shall be called
 Rabbi
-for
 One
+for
 is
 of you
 the
 Teacher
-now
 all
+now
 you
 brothers
 are
 And
 father
-of you
 no [one]
 call
+of you
 on
 the
 earth
-for
 One
+for
 is
 of you
 the
@@ -13666,15 +13666,15 @@ is
 One
 the
 Christ
-And
 -
+And
 the greatest
 among you
 will be
 your
 servant
-then
 He who
+then
 shall exalt
 himself
 will be humbled
@@ -13683,8 +13683,8 @@ whoever
 shall humble
 himself
 will be exalted
-however
 Woe
+however
 to you
 scribes
 and
@@ -13699,15 +13699,15 @@ heavens
 before
 -
 men
-for
 You
+for
 neither
 enter
 nor even
 those who
 are entering
-to go in
 do you allow
+to go in
 Woe
 to you
 scribes
@@ -13739,17 +13739,17 @@ guides
 blind
 those
 saying
--
 Whoever
+-
 shall swear
 by
 the
 temple
 nothing
 it is
+whoever
 however
 -
-whoever
 shall swear
 by
 the
@@ -13760,8 +13760,8 @@ is bound by his oath
 Foolish
 and
 blind
-for
 Which
+for
 greater
 is
 the
@@ -13774,17 +13774,17 @@ having sanctified
 the
 gold
 And [you say]
--
 Whoever
+-
 shall swear
 by
 the
 altar
 nothing
 it is
+whoever
 however
 -
-whoever
 shall swear
 by
 the
@@ -13794,8 +13794,8 @@ upon
 it
 he is bound by his oath
 You blind men
-for
 Which
+for
 [is] greater
 the
 gift
@@ -13806,8 +13806,8 @@ altar
 sanctifying
 the
 gift
-therefore
 The [one]
+therefore
 having sworn
 by
 the
@@ -13883,9 +13883,9 @@ mercy
 and
 -
 faithfulness
+These
 now
 it behooved you
-These
 to do
 those
 not
@@ -13896,8 +13896,8 @@ Those
 straining out
 the
 gnat
-however
 the
+however
 camel
 swallowing
 Woe
@@ -13915,8 +13915,8 @@ cup
 and
 of the
 dish
-however
 inside
+however
 they are full
 of
 greed
@@ -13947,13 +13947,13 @@ For
 you are like
 tombs
 having been whitewashed
-indeed
 which
 outwardly
+indeed
 appear
 beautiful
-however
 Inside
+however
 they are full
 of bones
 of [the] dead
@@ -13963,14 +13963,14 @@ impurity
 Thus
 also
 you
-indeed
 outwardly
+indeed
 appear
 -
 to men
 righteous
-however
 inwardly
+however
 you are
 full
 of hypocrisy
@@ -14004,8 +14004,8 @@ days
 of the
 fathers
 of us
--
 not
+-
 we would have been
 with them
 partakers
@@ -14018,8 +14018,8 @@ Thus
 you bear witness
 to yourselves
 that
-you are
 sons
+you are
 of those
 having murdered
 the
@@ -14042,9 +14042,9 @@ the
 sentence
 -
 of hell
-behold
 Because of
 this
+behold
 I
 send
 to
@@ -14151,8 +14151,8 @@ to you
 the
 house
 of you
-for
 I say
+for
 to you
 no
 not
@@ -14170,9 +14170,9 @@ in [the]
 name
 of [the] Lord
 And
+having gone forth
 -
 Jesus
-having gone forth
 from
 the
 temple
@@ -14188,8 +14188,8 @@ the
 buildings
 of the
 temple
-And
 -
+And
 answering
 He said
 to them
@@ -14204,14 +14204,14 @@ none
 not even
 shall be left
 here
-upon
 stone
+upon
 stone
 which
 not
 will be thrown down
-now
 [As] was sitting
+now
 He
 upon
 the
@@ -14252,8 +14252,8 @@ lest
 anyone
 you
 mislead
-for
 Many
+for
 will come
 in
 the
@@ -14267,8 +14267,8 @@ Christ
 and
 many
 they will mislead
-then
 You will begin
+then
 to hear of
 wars
 and
@@ -14277,16 +14277,16 @@ of wars
 Behold
 not
 be alarmed
-for
 it is necessary
+for
 to take place
 but
 not yet
 is
 the
 end
-for
 Will rise up
+for
 nation
 against
 nation
@@ -14301,8 +14301,8 @@ and
 earthquakes
 in
 [various] places
-then
 All
+then
 these [are]
 [the] beginning
 of birth pains
@@ -14353,8 +14353,8 @@ the
 love
 of the
 many
-however
 The [one]
+however
 having endured
 to [the]
 end
@@ -14381,8 +14381,8 @@ then
 will come
 the
 end
-therefore
 When
+therefore
 you shall see
 the
 abomination
@@ -14434,8 +14434,8 @@ to take
 the
 cloak
 of him
-then
 Woe
+then
 to those
 in
 womb
@@ -14447,8 +14447,8 @@ in
 those
 the
 days
-however
 Pray
+however
 that
 not
 might be
@@ -14458,8 +14458,8 @@ of you
 in winter
 nor
 on a Sabbath
-for
 There will be
+for
 then
 tribulation
 great
@@ -14483,21 +14483,21 @@ had been shortened
 the
 days
 those
--
 not
+-
 there would have been saved
 any
 flesh
-however
 because of
+however
 the
 elect
 will be shortened
 the
 days
 those
-if
 Then
+if
 anyone
 to you
 says
@@ -14509,8 +14509,8 @@ or
 Here
 not
 believe [it]
-for
 There will arise
+for
 false Christs
 and
 false prophets
@@ -14530,8 +14530,8 @@ elect
 Behold
 I have foretold [it]
 to you
-therefore
 If
+therefore
 they say
 to you
 Behold
@@ -14547,8 +14547,8 @@ the
 inner rooms
 not
 believe [it]
-for
 Just as
+for
 the
 lightning
 comes forth
@@ -14566,8 +14566,8 @@ of the
 Son
 -
 of Man
-if
 For wherever
+if
 may be
 the
 carcass
@@ -14575,8 +14575,8 @@ there
 will be gathered
 the
 vultures
-then
 Immediately
+then
 after
 the
 tribulation
@@ -14666,8 +14666,8 @@ of the heavens
 to
 ends
 of them
-now
 Of
+now
 the
 fig tree
 learn
@@ -14723,20 +14723,20 @@ and
 the
 earth
 will pass away
-but
 -
+but
 the words
 of Me
 no
 not
 shall pass away
-however
 Concerning
+however
 the
 day
+that
 and
 hour
-that
 no one
 knows
 not even
@@ -14752,8 +14752,8 @@ not
 the
 Father
 only
-for
 As [were]
+for
 the
 days
 -
@@ -14766,8 +14766,9 @@ of the
 Son
 -
 of Man
-for
 As
+for
+they were
 in
 the
 days
@@ -14776,7 +14777,6 @@ those
 before
 the
 flood
-they were
 eating
 and
 drinking
@@ -14831,8 +14831,8 @@ is taken
 and
 one
 is left
-therefore
 Keep watch
+therefore
 for
 not
 you know
@@ -14842,8 +14842,8 @@ the
 Lord
 of you
 comes
-then
 This
+then
 know
 that
 if
@@ -14855,11 +14855,11 @@ time of night
 the
 thief
 comes
--
 he would have watched
-and
 -
+and
 not
+-
 have allowed
 to be broken into
 the
@@ -14881,14 +14881,14 @@ Son
 -
 of Man
 comes
-then
 Who
+then
 is
 the
 faithful
+servant
 and
 wise
-servant
 whom
 has set
 the
@@ -14909,13 +14909,13 @@ the
 servant
 that
 whom
-thus
-doing
 having come
 the
 master
 of him
 will find
+thus
+doing
 Truly
 I say
 to you
@@ -14927,8 +14927,8 @@ possessing
 of him
 he will set
 him
-however
 If
+however
 should say
 the
 evil
@@ -14948,8 +14948,8 @@ to beat
 the
 fellow servants
 of him
-then
 to eat
+then
 and
 to drink
 with
@@ -15010,8 +15010,8 @@ to
 meet
 the
 bridegroom
-now
 Five
+now
 of
 them
 were
@@ -15019,8 +15019,8 @@ foolish
 and
 five
 wise
-for
 The
+for
 foolish
 having taken
 the
@@ -15030,8 +15030,8 @@ did take
 with
 them
 oil
-but
 -
+but
 the wise
 took
 oil
@@ -15042,16 +15042,16 @@ with
 the
 lamps
 of them
-then
 Tarrying
+then
 the
 bridegroom
 they became drowsy
 all
 and
 were sleeping
-then
 At middle
+then
 of [the] night
 a cry
 there was
@@ -15072,8 +15072,8 @@ trimmed
 the
 lamps
 of them
-And
 -
+And
 the foolish
 to the
 wise
@@ -15089,8 +15089,8 @@ the
 lamps
 of us
 are going out
-then
 Answered
+then
 the
 wise
 saying
@@ -15110,8 +15110,8 @@ selling
 and
 buy
 for yourselves
-then
 [While] are going away
+then
 they
 to buy
 came
@@ -15130,8 +15130,8 @@ and
 was shut
 the
 door
-then
 Afterward
+then
 come
 also
 the
@@ -15142,8 +15142,8 @@ Lord
 Lord
 open
 to us
-And
 -
+And
 answering
 he said
 Truly
@@ -15152,8 +15152,8 @@ to you
 not
 I do know
 you
-therefore
 Watch
+therefore
 for
 neither
 do you know
@@ -15162,8 +15162,8 @@ day
 nor
 the
 hour
-for
 [It is] like
+for
 a man
 going on a journey
 [who] called
@@ -15177,16 +15177,16 @@ the
 possessing
 of him
 And
-indeed
 to one
+indeed
 he gave
 five
 talents
-then
 to one
+then
 two
-then
 to one
+then
 one
 to each
 according to
@@ -15216,8 +15216,8 @@ two
 gained
 more
 two
-however
 The [one]
+however
 -
 one
 having received
@@ -15231,8 +15231,8 @@ money
 of the
 master
 of him
-then
 After
+then
 much
 time
 comes
@@ -15335,8 +15335,8 @@ joy
 of the
 master
 of you
-then
 Having come
+then
 also
 the [one]
 the
@@ -15348,8 +15348,8 @@ Master
 I knew
 you
 that
-you are
 hard
+you are
 a man
 reaping
 where
@@ -15374,15 +15374,15 @@ Behold
 you have
 what [is]
 yours
-now
 Answering
+now
 the
 master
 of him
 said
 to him
-servant
 Wicked
+servant
 and
 lazy
 You knew
@@ -15396,9 +15396,9 @@ gather
 from where
 not
 I scattered
-therefore
 It behooved
 you
+therefore
 to put
 the
 money
@@ -15406,16 +15406,16 @@ of me
 to the
 bankers
 and
--
 having come
 I
 would have received
 -
+-
 my own
 with
 interest
-therefore
 Take
+therefore
 from
 him
 the
@@ -15427,15 +15427,15 @@ having
 the
 ten
 talents
-For
 -
+For
 having
 to everyone
 will be given
 and
 he will have in abundance
-however
 the [one]
+however
 not
 having
 even
@@ -15463,8 +15463,8 @@ the
 gnashing
 of the
 teeth
-then
 When
+then
 comes
 the
 Son
@@ -15508,15 +15508,15 @@ from
 the
 goats
 And
-indeed
 He will set
 -
+indeed
 the sheep
 on
 [the] right hand
 of Him
-and
 -
+and
 the goats
 on
 [the] left
@@ -15538,12 +15538,12 @@ inherit
 the
 having been prepared
 for you
+kingdom
 from [the]
 foundation
 of [the] world
-kingdom
-for
 I hungered
+for
 and
 you gave
 Me
@@ -15580,8 +15580,8 @@ righteous
 saying
 Lord
 when
-saw we
 You
+saw we
 hungering
 and
 fed [You]
@@ -15589,10 +15589,10 @@ Or
 thirsting
 and
 gave [You] to drink
-now
 When
-saw we
+now
 You
+saw we
 a stranger
 and
 took [You] in
@@ -15600,10 +15600,10 @@ Or
 naked
 and
 clothed [You]
-now
 When
-saw we
+now
 You
+saw we
 ailing
 or
 in
@@ -15639,10 +15639,10 @@ also
 to those
 on
 [the] left
-being cursed
 Depart
 from
 Me
+being cursed
 into
 the
 fire
@@ -15656,8 +15656,8 @@ and
 the
 angels
 of him
-for
 I hungered
+for
 and
 nothing
 you gave
@@ -15694,8 +15694,8 @@ themselves
 saying
 Lord
 when
-saw we
 You
+saw we
 hungering
 or
 thirsting
@@ -15736,8 +15736,8 @@ these
 into
 punishment
 eternal
-but
 -
+but
 the righteous
 into
 life
@@ -15799,8 +15799,8 @@ by guile
 they might seize
 and
 kill
-however
 They were saying
+however
 Not
 during
 the
@@ -15812,8 +15812,8 @@ there be
 among
 the
 people
-And
 -
+And
 of Jesus
 having been
 in
@@ -15837,8 +15837,8 @@ the
 head
 of Him
 [as] He is reclining
-then
 Having seen
+then
 the
 disciples
 became indignant
@@ -15848,16 +15848,16 @@ purpose
 [is] the
 waste
 this
-for
 Could
+for
 this
 have been sold
 for much
 and
 have been given
 to [the] poor
-now
 Having known [this]
+now
 -
 Jesus
 said
@@ -15867,27 +15867,27 @@ trouble
 do you cause
 to the
 woman
-for
 A work
+for
 beautiful
 she did
 to
 Me
-for
 Always
+for
 the
 poor
 you have
 with
 you
-however
 Me
+however
 not
 always
 you have
+In pouring
 for
 this [woman]
-In pouring
 the
 fragrant oil
 this
@@ -15903,8 +15903,8 @@ she did [it]
 Truly
 I say
 to you
-if
 wherever
+if
 shall be proclaimed
 the
 gospel
@@ -15922,6 +15922,7 @@ for
 a memorial
 of her
 Then
+having gone
 one
 of the
 Twelve
@@ -15929,21 +15930,20 @@ the [one]
 being called
 Judas
 Iscariot
-having gone
 to
 the
 chief priests
 he said
-are you willing
 What
+are you willing
 me
 to give
 and I
 to you
 will betray
 Him
-And
 -
+And
 they appointed
 to him
 thirty
@@ -15956,8 +15956,8 @@ an opportunity
 that
 Him
 he might betray
-now
 On the
+now
 first [day]
 of the
 unleavened [bread]
@@ -15967,15 +15967,15 @@ disciples
 -
 to Jesus
 saying
-wish you [that]
 Where
+wish you [that]
 we should prepare
 for You
 to eat
 the
 Passover
-And
 -
+And
 He said
 Go
 into
@@ -16017,8 +16017,8 @@ and
 prepared
 the
 Passover
-now
 Evening
+now
 having arrived
 He was reclining
 with
@@ -16050,8 +16050,8 @@ Not
 I
 is it
 Lord
-And
 -
+And
 answering
 He said
 The [one]
@@ -16066,8 +16066,8 @@ dish
 he
 Me
 will betray
-Indeed
 -
+Indeed
 the Son
 -
 of Man
@@ -16076,8 +16076,8 @@ as
 it has been written
 about
 Him
-however
 woe
+however
 -
 the man
 to that
@@ -16097,8 +16097,8 @@ had been born
 the
 man
 that
-now
 Answering
+now
 Judas
 who
 was betraying
@@ -16112,12 +16112,12 @@ He says
 to him
 You
 have said
-now
 [As] they were eating
+now
 of them
+having taken
 -
 Jesus
-having taken
 bread
 and
 having blessed
@@ -16146,8 +16146,8 @@ Drink
 of
 it
 all of you
-for
 This
+for
 is
 the
 blood
@@ -16161,8 +16161,8 @@ being poured out
 for
 forgiveness
 of sins
-now
 I say
+now
 to you
 no
 not
@@ -16213,8 +16213,8 @@ during
 the
 night
 this
-for
 It has been written
+for
 I will strike
 the
 shepherd
@@ -16224,8 +16224,8 @@ the
 sheep
 of the
 flock
-however
 After
+however
 -
 being raised
 I
@@ -16234,8 +16234,8 @@ you
 into
 -
 Galilee
-now
 Answering
+now
 -
 Peter
 said
@@ -16394,12 +16394,12 @@ not
 you enter
 into
 temptation
-indeed
 The
+indeed
 spirit
 [is] willing
-but
 -
+but
 the flesh
 weak
 Again
@@ -16429,12 +16429,12 @@ again
 He finds
 them
 sleeping
-for
 were
-heavy
+for
 of them
 the
 eyes
+heavy
 And
 having left
 them
@@ -16506,16 +16506,16 @@ and
 elders
 of the
 people
-then
 The [one]
+then
 betraying
 Him
 gave
 them
 a sign
 saying
--
 Whomever
+-
 I shall kiss
 He
 it is
@@ -16532,8 +16532,8 @@ Rabbi
 and
 kissed
 Him
-And
 -
+And
 Jesus
 said
 to him
@@ -16588,8 +16588,8 @@ into
 the
 place
 of it
-for
 all
+for
 those
 having taken
 [the] sword
@@ -16613,8 +16613,8 @@ more than
 twelve
 legions
 of angels
-then
 How
+then
 should be fulfilled
 the
 Scriptures
@@ -16652,8 +16652,8 @@ and
 not
 you did seize
 Me
-then
 This
+then
 all
 is come to pass
 that
@@ -16669,8 +16669,8 @@ all
 having forsaken
 Him
 fled
-then
 Those
+then
 having seized
 -
 Jesus
@@ -16686,8 +16686,8 @@ and
 the
 elders
 were assembled
-And
 -
+And
 Peter
 was following
 Him
@@ -16708,8 +16708,8 @@ guards
 to see
 the
 outcome
-And
 -
+And
 the chief priests
 and
 the
@@ -16727,10 +16727,10 @@ but
 not any
 they found
 of many
-false witnesses
 having come forward as
-then
+false witnesses
 At last
+then
 having come forward
 two
 they said
@@ -16759,8 +16759,8 @@ What
 these
 you
 do witness against
-And
 -
+And
 Jesus
 was silent
 And
@@ -16827,8 +16827,8 @@ He has blasphemed
 why
 any more
 need
-of witnesses
 have we
+of witnesses
 Behold
 now
 you have heard
@@ -16837,8 +16837,8 @@ blasphemy
 What
 you
 do think
-And
 -
+And
 answering
 they said
 Deserving
@@ -16853,8 +16853,8 @@ of Him
 and
 struck
 Him
-then
 Others
+then
 slapped [Him]
 saying
 Prophesy
@@ -16865,8 +16865,8 @@ is
 the [one]
 having struck
 You
-And
 -
+And
 Peter
 was sitting
 outside
@@ -16886,8 +16886,8 @@ with
 Jesus
 the
 Galilean
-And
 -
+And
 he denied
 before
 all
@@ -16896,8 +16896,8 @@ Not
 I know
 what
 you say
-then
 Having gone out
+then
 to
 the
 porch
@@ -16924,9 +16924,9 @@ Not
 I know
 the
 man
-also
 After
 a little while
+also
 having come to [him]
 those
 standing by
@@ -16939,8 +16939,8 @@ you
 of
 them
 are
-for
 even
+for
 the
 speech
 of you
@@ -16981,8 +16981,8 @@ having gone
 out
 he wept
 bitterly
-then
 Morning
+then
 having arrived
 counsel
 took
@@ -17010,11 +17010,11 @@ Pilate
 the
 governor
 Then
+having seen
 Judas
 the [one]
 having delivered up
 Him
-having seen
 that
 He was condemned
 having regretted [it]
@@ -17031,8 +17031,8 @@ I sinned
 having betrayed
 blood
 innocent
-Then
 -
+Then
 they said
 What [is that]
 to
@@ -17050,8 +17050,8 @@ he withdrew
 and
 having gone away
 hanged himself
-And
 -
+And
 the chief priests
 having taken
 the
@@ -17068,8 +17068,8 @@ since [the]
 price
 of blood
 it is
-then
 Counsel
+then
 having taken
 they bought
 with
@@ -17127,8 +17127,8 @@ as
 directed
 me
 [the] Lord
-And
 -
+And
 Jesus
 stood
 before
@@ -17146,8 +17146,8 @@ the
 King
 of the
 Jews
-And
 -
+And
 Jesus
 said
 You
@@ -17187,35 +17187,35 @@ to amaze
 the
 governor
 exceedingly
-now
 At
+now
 [the] feast
 was accustomed
 the
 governor
 to release
+one
 to the
 multitude
-one
 prisoner
 whom
 they were wishing
-now
 They were holding
+now
 at that time
 a prisoner
 notable
 called
 Barabbas
-therefore
 Being gathered together
+therefore
 of them
 said
 to them
 -
 Pilate
-will you [that]
 Whom
+will you [that]
 I shall release
 to you
 Barabbas
@@ -17224,15 +17224,15 @@ Jesus
 who
 is called
 Christ
-for
 He knew
+for
 that
 through
 envy
 they delivered up
 him
-now
 As was sitting
+now
 he
 on
 the
@@ -17250,16 +17250,16 @@ and
 the
 righteous [man]
 that
-for
 many things
+for
 I suffered
 today
 in
 a dream
 because of
 Him
-And
 -
+And
 the chief priests
 and
 the
@@ -17271,25 +17271,25 @@ that
 they should ask for
 -
 Barabbas
-and
 -
+and
 Jesus
 should destroy
-now
 Answering
+now
 the
 governor
 said
 to them
-do you desire
 Which
+do you desire
 of
 the
 two
 I release
 to you
-And
 -
+And
 they said
 -
 Barabbas
@@ -17297,8 +17297,8 @@ Says
 to them
 -
 Pilate
-then
 What
+then
 should I do with
 Jesus
 who
@@ -17307,23 +17307,23 @@ Christ
 They say
 all
 Let [Him] be crucified
-And
 -
+And
 he said
-for
 What
+for
 evil
 did He commit
-And
 -
+And
 all the more
 they kept crying out
 saying
 Let [Him] be crucified
+Having seen
 now
 -
 Pilate
-Having seen
 that
 nothing
 it availed
@@ -17369,8 +17369,8 @@ he released
 to them
 -
 Barabbas
-and
 -
+and
 Jesus
 having flogged
 He delivered up [Him]
@@ -17460,8 +17460,8 @@ Him
 to
 -
 crucify [Him]
-now
 Going forth
+now
 they found
 a man
 of Cyrene
@@ -17482,9 +17482,9 @@ called
 Golgotha
 which
 is
-called
 of a Skull
 Place
+called
 they gave
 Him
 to drink
@@ -17497,8 +17497,8 @@ having tasted
 not
 He was willing
 to drink [it]
-now
 Having crucified
+now
 Him
 they divided
 the
@@ -17541,8 +17541,8 @@ and
 one
 at [the]
 left
-now
 Those
+now
 passing by
 kept railing at
 Him
@@ -17564,8 +17564,8 @@ building [it]
 save
 Yourself
 If
-You are
 [the] Son
+You are
 -
 of God
 also
@@ -17586,9 +17586,9 @@ were saying
 Others
 He saved
 Himself
-to save
 not
 is He able
+to save
 King
 of Israel
 He is
@@ -17610,14 +17610,14 @@ now
 if
 He wants
 Him
-for
 He said
+for
 -
 Of God
-[the] Son
 I am
-And
+[the] Son
 -
+And
 likewise
 even
 the
@@ -17628,8 +17628,8 @@ with
 Him
 were upbraiding
 Him
-then
 From
+then
 [the] sixth
 hour
 darkness
@@ -17641,8 +17641,8 @@ land
 until
 [the] hour
 ninth
-then
 About
+then
 the
 ninth
 hour
@@ -17666,8 +17666,8 @@ so that
 why
 Me
 have you forsaken
-then
 Some
+then
 of those who
 there
 were standing
@@ -17679,23 +17679,23 @@ calls
 this [man]
 And
 immediately
+having run
 one
 of
 them
-having run
 and
 having taken
 a sponge
-and
 having filled [it]
+and
 with vinegar
 and
 having put [it] on
 a reed
 gave to drink
 Him
-And
 -
+And
 the rest
 were saying
 Let be
@@ -17705,8 +17705,8 @@ comes
 Elijah
 to save
 Him
-And
 -
+And
 Jesus
 again
 having cried
@@ -17764,8 +17764,8 @@ city
 and
 appeared
 to many
-And
 -
+And
 the centurion
 and
 those
@@ -17788,8 +17788,8 @@ God’s
 Son
 was
 this
-now
 They were
+now
 there
 women
 many
@@ -17825,8 +17825,8 @@ mother
 of the
 sons
 of Zebedee
-now
 Evening
+now
 having arrived
 came
 a man
@@ -17888,6 +17888,7 @@ door
 of the
 tomb
 he went away
+Was
 now
 there
 Mary
@@ -17897,13 +17898,12 @@ and
 the
 other
 Mary
-Was
 sitting
 opposite
 the
 tomb
-And
 -
+And
 the next day
 which
 is
@@ -17932,8 +17932,8 @@ After
 three
 days
 I arise
-therefore
 Command
+therefore
 to be secured
 the
 tomb
@@ -17974,8 +17974,8 @@ Go
 make [it as] secure
 as
 you know [how]
-And
 -
+And
 having gone
 they made secure
 the
@@ -17986,8 +17986,8 @@ stone
 with
 the
 guard
-then
 After
+then
 [the] Sabbaths
 it
 being dawn
@@ -18008,10 +18008,10 @@ tomb
 And
 behold
 an earthquake
-great
 there was
-for
+great
 an angel
+for
 of [the] Lord
 having descended
 out of
@@ -18025,8 +18025,8 @@ and
 was sitting
 upon
 it
-now
 Was
+now
 the
 appearance
 of him
@@ -18039,8 +18039,8 @@ of him
 white
 as
 snow
-now
 From
+now
 the
 fear
 of him
@@ -18051,8 +18051,8 @@ and
 became
 as
 dead [men]
-now
 Answering
+now
 the
 angel
 said
@@ -18061,8 +18061,8 @@ women
 Not
 fear
 you
-for
 I know
+for
 that
 Jesus
 the [One]
@@ -18071,8 +18071,8 @@ you seek
 Not
 He is
 here
-for
 He is risen
+for
 as
 He said
 Come
@@ -18129,8 +18129,8 @@ met
 them
 saying
 Greetings
-And
 -
+And
 having come to [Him]
 they took hold of
 His
@@ -18159,8 +18159,8 @@ Galilee
 and there
 Me
 will they see
-now
 [As] were going
+now
 they
 behold
 some
@@ -18181,8 +18181,8 @@ having been gathered together
 with
 the
 elders
-then
 counsel
+then
 having taken
 silver pieces
 many
@@ -18214,8 +18214,8 @@ and
 you
 out of trouble
 will keep
-And
 -
+And
 having taken
 money
 they did
@@ -18232,8 +18232,8 @@ until
 the
 present
 day
-And
 -
+And
 the eleven
 disciples
 went
@@ -18252,8 +18252,8 @@ And
 having seen
 Him
 they worshiped
-however
 some
+however
 doubted
 And
 having come to [them]
@@ -18272,8 +18272,8 @@ and
 on
 the
 earth
-therefore
 Having gone
+therefore
 disciple
 all
 the
@@ -18435,8 +18435,8 @@ I
 baptized
 you
 with water
-however
 He
+however
 will baptize
 you
 [the] Spirit
@@ -18577,8 +18577,8 @@ casting a net
 into
 the
 sea
-for
 they were
+for
 fishermen
 And
 said
@@ -18660,8 +18660,8 @@ at
 the
 teaching
 of Him
-for
 He was
+for
 teaching
 them
 as
@@ -18714,12 +18714,12 @@ come forth
 out of
 him
 And
+having thrown into convulsions
+him
 the
 spirit
 -
 unclean
-having thrown into convulsions
-him
 and
 having cried
 in a voice
@@ -18780,8 +18780,8 @@ with
 James
 and
 John
-and
 -
+and
 the mother-in-law
 of Simon
 was laying sick
@@ -18807,8 +18807,8 @@ fever
 and
 she began to minister
 to them
-now
 Evening
+now
 having come
 when
 went down
@@ -18826,10 +18826,10 @@ those
 being possessed by demons
 And
 was
-gathered together
 all
 the
 city
+gathered together
 at
 the
 door
@@ -18897,9 +18897,9 @@ so that
 also
 there
 I might preach
-therefore
 for
 this
+therefore
 have I come forth
 And
 He was going
@@ -18985,8 +18985,8 @@ Moses
 for
 a testimony
 to them
-And
 -
+And
 having gone out
 he began
 to proclaim
@@ -19074,9 +19074,9 @@ the
 paralytic
 was lying
 And
+having seen
 -
 Jesus
-having seen
 the
 faith
 of them
@@ -19088,8 +19088,8 @@ are forgiven
 of you
 the
 sins
-now
 Were
+now
 some
 of the
 scribes
@@ -19117,9 +19117,9 @@ alone
 God
 And
 immediately
+having known
 -
 Jesus
-having known
 in the
 spirit
 of Him
@@ -19157,8 +19157,8 @@ mat
 of you
 and
 walk
-however
 That
+however
 you might know
 that
 authority
@@ -19266,8 +19266,8 @@ and
 the
 disciples
 of Him
-for
 there were
+for
 many
 and
 they were following
@@ -19304,10 +19304,10 @@ says
 to them
 No
 need
-of a physician
 have
 those
 being strong
+of a physician
 but
 those
 sick
@@ -19320,13 +19320,13 @@ but
 sinners
 And
 were
-fasting
 the
 disciples
 of John
 and
 the
 Pharisees
+fasting
 And
 they come
 and
@@ -19343,8 +19343,8 @@ disciples
 of the
 Pharisees
 fast
-but
 -
+but
 Your
 disciples
 not
@@ -19378,8 +19378,8 @@ them
 not
 they are able
 to fast
-however
 Will come
+however
 [the] days
 when
 will have been taken away
@@ -19402,16 +19402,16 @@ sews
 on
 clothing
 old
-now
 if
+now
 not
 tears away
 the
 patch
--
-new
 from
 it
+-
+new
 from the
 old
 And
@@ -19426,8 +19426,8 @@ new
 into
 wineskins
 old
-now
 if
+now
 not
 will burst
 the
@@ -19515,9 +19515,9 @@ of the
 presentation
 ate
 which
-to eat
 not
 it is lawful
+to eat
 if
 not
 for the
@@ -19546,12 +19546,12 @@ on account of
 the
 Sabbath
 So then
+Lord
 is
 the
 Son
 -
 of Man
-Lord
 also even
 of the
 Sabbath
@@ -19585,9 +19585,9 @@ to the
 man
 -
 the
-withered
 hand
 having
+withered
 Arise
 into
 the
@@ -19606,8 +19606,8 @@ Life
 to save
 or
 to kill
-But
 -
+But
 they were silent
 And
 having looked around on
@@ -19711,8 +19711,8 @@ that
 not
 they might press upon
 Him
-for
 Many
+for
 He healed
 so as for
 to press upon
@@ -19866,8 +19866,8 @@ Him
 went out
 to seize
 Him
-for
 they were saying
+for
 -
 He is out of His mind
 And
@@ -19972,23 +19972,23 @@ Truly
 I say
 to you
 that
+all
 will be forgiven
 the
 sons
 the
 of men
-all
 the
 sins
 and
 the
 blasphemies
-if
 as many as
+if
 they shall have blasphemed
+Whoever
 however
 -
-Whoever
 shall blaspheme
 against
 the
@@ -20079,8 +20079,8 @@ and
 the
 brothers
 of Me
--
 Whoever
+-
 shall do
 the
 will
@@ -20151,8 +20151,8 @@ it came to pass
 as
 -
 he sowed
--
 some
+-
 fell
 along
 the
@@ -20264,15 +20264,15 @@ And
 He was saying
 to them
 To you
-has been given
 the
 mystery
+has been given
 of the
 kingdom
 -
 of God
-however
 To those
+however
 who are
 outside
 in
@@ -20317,8 +20317,8 @@ sowing
 the
 word
 sows
-now
 These
+now
 are
 they
 along
@@ -20344,6 +20344,7 @@ having been sown
 in
 them
 And
+these
 are
 likewise
 those
@@ -20351,7 +20352,6 @@ upon
 the
 rocky places
 sown
-these
 who
 when
 they hear
@@ -20419,6 +20419,7 @@ and
 unfruitful
 it becomes
 And
+these
 are
 those
 upon
@@ -20427,7 +20428,6 @@ soil
 -
 good
 having been sown
-these
 such as
 hear
 the
@@ -20467,8 +20467,8 @@ upon
 the
 lampstand
 it might be put
-for
 Nothing
+for
 there is
 which [is]
 hidden
@@ -20505,8 +20505,8 @@ to you
 and
 more will be added
 to you
-for
 Whoever
+for
 may have
 it will be given
 to him
@@ -20567,8 +20567,8 @@ grain
 in
 the
 ear
-then
 When
+then
 offers itself
 the
 fruit
@@ -20591,8 +20591,8 @@ of God
 Or
 in
 what
-parable
 it
+parable
 shall we present
 As
 to a grain
@@ -20632,11 +20632,11 @@ under
 the
 shadow
 of it
-to perch
 the
 birds
 of the
 air
+to perch
 And
 with such
 parables
@@ -20648,15 +20648,15 @@ word
 as
 they were able
 to hear
-then
 Without
+then
 parables
 not
 would He speak
 to them
-however
 in
 private
+however
 to His
 own
 disciples
@@ -20769,8 +20769,8 @@ and
 were saying
 to
 each other
-then
 Who
+then
 this
 is
 that
@@ -20899,14 +20899,14 @@ by God
 not
 me
 torment
-for
 He was saying
+for
 to him
+You come forth
 the
 spirit
 -
 unclean
-You come forth
 out of
 the
 man
@@ -20936,8 +20936,8 @@ He would send
 out of
 the
 country
-now
 There was
+now
 there
 near
 the
@@ -21019,14 +21019,14 @@ and
 see
 the [man]
 possessed by demons
-the [one]
-having had
-the
-legion
 sitting
 clothed
 and
 sound minded
+the [one]
+having had
+the
+legion
 and
 they were afraid
 And
@@ -21219,8 +21219,8 @@ she touched
 the
 clothing
 of Him
-for
 She was saying
+for
 -
 If
 I shall touch
@@ -21264,8 +21264,8 @@ the
 crowd
 said
 Who
-touched
 of Me
+touched
 the
 garments
 And
@@ -21290,8 +21290,8 @@ to see
 the [one]
 this
 having done
-And
 -
+And
 the woman
 having been frightened
 and
@@ -21310,8 +21310,8 @@ Him
 all
 the
 truth
-And
 -
+And
 He said
 to her
 Daughter
@@ -21348,8 +21348,8 @@ still
 trouble you
 the
 Teacher
-And
 -
+And
 Jesus
 having heard
 the
@@ -21412,8 +21412,8 @@ sleeps
 And
 they were laughing at
 Him
-then
 He
+then
 having put out
 all
 takes with [Him]
@@ -21459,8 +21459,8 @@ the
 girl
 and
 began walking
-for
 she was
+for
 of years
 twelve
 And
@@ -21663,8 +21663,8 @@ tunics
 And
 He would say
 to them
-if
 Wherever
+if
 you enter
 into
 a house
@@ -21675,8 +21675,8 @@ until
 you go out
 from there
 And
--
 whatever
+-
 place
 not
 will receive
@@ -21718,8 +21718,8 @@ heard
 -
 King
 Herod
-for
 well known
+for
 became
 the
 name
@@ -21741,14 +21741,14 @@ the
 miraculous powers
 in
 him
-however
 Others
+however
 were saying
 -
 Elijah
 He is
-now
 Others
+now
 were saying
 -
 A prophet
@@ -21756,8 +21756,8 @@ like
 one
 of the
 prophets
-now
 Having heard
+now
 -
 Herod
 was saying
@@ -21767,8 +21767,8 @@ beheaded
 John
 he
 is risen
-for
 Himself
+for
 -
 Herod
 having sent
@@ -21791,8 +21791,8 @@ of him
 because
 her
 he had married
-for
 Had been saying
+for
 -
 John
 -
@@ -21807,8 +21807,8 @@ wife
 of the
 brother
 of you
-And
 -
+And
 Herodias
 held it
 against him
@@ -21819,8 +21819,8 @@ to kill
 and
 not
 was able
-for
 -
+for
 Herod
 was afraid of
 -
@@ -21880,16 +21880,16 @@ Herod
 and
 those
 reclining with [him]
-And
 -
+And
 the king
 said
 to the
 girl
 Ask
 me
-if
 whatever
+if
 you wish
 and
 I will give
@@ -21916,8 +21916,8 @@ mother
 of her
 What
 shall I ask
-And
 -
+And
 she said
 The
 head
@@ -21964,9 +21964,9 @@ her
 And
 immediately
 having sent
-an executioner
 the
 king
+an executioner
 he commanded
 to be brought
 the
@@ -22045,8 +22045,8 @@ place
 and
 rest
 a little
-for
 Were
+for
 those
 coming
 and
@@ -22140,8 +22140,8 @@ they might buy
 for themselves
 something
 to eat
-But
 -
+But
 answering
 He said
 to them
@@ -22161,13 +22161,13 @@ and
 give
 them
 to eat
-And
 -
+And
 He says
 to them
 How many
-loaves
 have you
+loaves
 Go
 see
 And
@@ -22304,8 +22304,8 @@ straining
 in
 the
 rowing
-for
 was
+for
 the
 wind
 contrary
@@ -22326,8 +22326,8 @@ and
 He was wishing
 to pass by
 them
-And
 -
+And
 having seen
 Him
 on
@@ -22340,14 +22340,14 @@ a ghost
 [it] is
 and
 cried out
-for
 All
+for
 Him
 saw
 and
 were troubled
-And
 -
+And
 immediately
 He spoke
 with
@@ -22378,18 +22378,18 @@ abundance
 in
 themselves
 they were amazed
-for
 not
+for
 they understood
 by
 the
 loaves
 but
 had been
-hardened
 of them
 the
 heart
+hardened
 And
 having passed over
 to
@@ -22428,8 +22428,8 @@ they were hearing
 that
 He is
 And
--
 wherever
+-
 He entered
 into
 villages
@@ -22457,8 +22457,8 @@ clothing
 of Him
 they might touch
 and
--
 as many as
+-
 touched
 Him
 were being healed
@@ -22490,8 +22490,8 @@ unwashed
 are eating
 the
 bread
-For
 -
+For
 the Pharisees
 and
 all
@@ -22557,8 +22557,8 @@ hands
 eat
 the
 bread
-And
 -
+And
 He said
 to them
 Rightly
@@ -22578,16 +22578,16 @@ with the
 lips
 Me
 honors
-but
 -
+but
 the heart
 of them
 far away
 is kept
 from
 Me
-now
 In vain
+now
 they worship
 Me
 teaching
@@ -22618,8 +22618,8 @@ the
 tradition
 of you
 you might keep
-for
 Moses
+for
 said
 Honor
 the
@@ -22637,8 +22637,8 @@ or
 mother
 in death
 must end
-however
 You
+however
 say [that]
 if
 says
@@ -22652,8 +22652,8 @@ mother
 that
 is
 a gift
-if
 whatever
+if
 from
 me
 you might be profited
@@ -22757,8 +22757,8 @@ to defile
 because
 not
 it enters
-into
 of him
+into
 the
 heart
 but
@@ -22774,8 +22774,8 @@ purifying
 all
 the
 food
-now
 He was saying
+now
 -
 That
 out of
@@ -22786,8 +22786,8 @@ that
 defiles
 the
 man
-for
 Within
+for
 from
 the
 heart
@@ -22821,8 +22821,8 @@ and
 they defile
 the
 man
-also
 From there
+also
 having risen up
 He went away
 into
@@ -22834,8 +22834,8 @@ having entered
 into
 a house
 no one
-to know [it]
 He was wishing
+to know [it]
 and
 not
 He was able
@@ -22843,14 +22843,14 @@ to be hidden
 But
 immediately
 having heard
+a woman
 about
 Him
-a woman
 of whom
+had
 the
 little daughter
 of her
-had
 spirit
 unclean
 having come
@@ -22859,8 +22859,8 @@ at
 the
 feet
 of Him
-Now
 -
+Now
 the woman
 was
 Gentile
@@ -22886,8 +22886,8 @@ first
 to be satisfied
 the
 children
-for
 not
+for
 it is
 good
 to take
@@ -22899,8 +22899,8 @@ and
 to the
 dogs
 to cast [it]
-But
 -
+But
 she answered
 and
 says
@@ -23042,8 +23042,8 @@ them
 that
 no one
 they should tell
-however
 As much as
+however
 He
 kept instructing
 them
@@ -23058,9 +23058,9 @@ Well
 all things
 He has done
 both
-He makes
 the
 deaf
+He makes
 to hear
 and
 mute
@@ -23124,9 +23124,9 @@ disciples
 of Him
 -
 From where
+these
 will be able
 anyone
-these
 here
 to satisfy
 with bread
@@ -23136,10 +23136,10 @@ And
 He was asking
 them
 How many
-loaves
 have you
-And
+loaves
 -
+And
 they said
 Seven
 And
@@ -23189,8 +23189,8 @@ over and above
 of fragments
 seven
 baskets
-now
 There were
+now
 about
 four thousand
 And
@@ -23412,8 +23412,8 @@ men
 for
 as
 trees
-walking
 I see [them]
+walking
 Then
 again
 He laid
@@ -23469,12 +23469,12 @@ saying
 to them
 Whom
 Me
-to be
 do pronounce
 -
 men
-And
+to be
 -
+And
 they answered
 Him
 saying
@@ -23485,8 +23485,8 @@ Baptist
 and
 others
 Elijah
-now
 others
+now
 -
 one
 of the
@@ -23495,12 +23495,12 @@ And
 He
 was questioning
 them
-however
 You
+however
 whom
 Me
-to be
 do pronounce
+to be
 Answering
 -
 Peter
@@ -23554,15 +23554,15 @@ the
 word
 He was speaking
 And
+having taken Him
 -
 Peter
-having taken Him
 to him
 he began
 to rebuke
 Him
-And
 -
+And
 having turned
 and
 having looked upon
@@ -23613,9 +23613,9 @@ of him
 and
 let him follow
 Me
+Whoever
 for
 if
-Whoever
 might desire
 -
 life
@@ -23623,9 +23623,9 @@ his
 to save
 will lose
 it
+whoever
 now
 -
-whoever
 will lose
 the
 life
@@ -23637,8 +23637,8 @@ of the
 gospel
 he will save
 it
-for
 What
+for
 does it profit
 a man
 to gain
@@ -23650,17 +23650,17 @@ to lose
 the
 soul
 of him
-for
 What
+for
 shall give
 a man
 [as] an exchange
 for the
 soul
 of him
+Whoever
 for
 if
-Whoever
 may be ashamed of
 Me
 and
@@ -23704,8 +23704,8 @@ to you
 that
 there are
 some
-of those
 here
+of those
 standing
 who
 no
@@ -23802,13 +23802,13 @@ one
 and
 for Elijah
 one
-for
 Not
+for
 he knew
 what
 he should say
-for
 terrified
+for
 they were
 And
 there came
@@ -23887,16 +23887,16 @@ Say
 the
 scribes
 that
-it behooves
 Elijah
+it behooves
 to come
 first
-And
 -
+And
 He was saying
 to them
-indeed
 Elijah
+indeed
 having come
 first
 restores
@@ -23982,8 +23982,8 @@ having
 a spirit
 mute
 and
-if
 whenever
+if
 him
 it seizes
 it throws down
@@ -24007,8 +24007,8 @@ they might cast out
 and
 not
 they had power
-And
 -
+And
 answering
 him
 He says
@@ -24060,8 +24060,8 @@ that
 this
 has been
 with him
-And
 -
+And
 he said
 From
 childhood
@@ -24087,8 +24087,8 @@ us
 having compassion
 on
 us
-And
 -
+And
 Jesus
 said
 to him
@@ -24111,10 +24111,10 @@ help
 of me
 the
 unbelief
+Having seen
 now
 -
 Jesus
-Having seen
 that
 was running together
 a crowd
@@ -24157,8 +24157,8 @@ many
 to say
 that
 he was dead
-And
 -
+And
 Jesus
 having taken
 by the
@@ -24212,8 +24212,8 @@ did He want
 that
 anyone
 should know [it]
-for
 He was teaching
+for
 the
 disciples
 of Him
@@ -24238,8 +24238,8 @@ on the
 third
 day
 He will arise
-And
 -
+And
 they did not understand
 the
 saying
@@ -24263,12 +24263,12 @@ on
 the
 way
 were you discussing
-And
 -
+And
 they were silent
-for
 with
 one another
+for
 they had been discussing
 along
 the
@@ -24307,8 +24307,8 @@ having taken in [His] arms
 it
 He said
 to them
--
 Whoever
+-
 one
 -
 of such
@@ -24321,8 +24321,8 @@ of Me
 Me
 receives
 and
--
 whoever
+-
 Me
 shall receive
 not
@@ -24356,15 +24356,15 @@ because
 not
 he was following
 us
-And
 -
+And
 Jesus
 said
 Not
 forbid
 him
-for
 No one
+for
 there is
 who
 will do
@@ -24378,8 +24378,8 @@ will be able
 readily
 to speak evil of
 Me
-for
 Whoever
+for
 not
 is
 against
@@ -24387,9 +24387,9 @@ us
 for
 us
 is
+Whoever
 for
 -
-Whoever
 might give to drink
 you
 a cup
@@ -24410,8 +24410,8 @@ the
 reward
 of him
 And
--
 whoever
+-
 might cause to stumble
 one
 of the
@@ -24503,8 +24503,8 @@ you
 cast out
 it
 better
-it is
 for you
+it is
 with one eye
 to enter
 into
@@ -24531,15 +24531,15 @@ the
 fire
 not
 is quenched
-for
 Everyone
+for
 with fire
 will be salted
 Good [is]
 the
 salt
-however
 if
+however
 the
 salt
 unsalty
@@ -24593,8 +24593,8 @@ a wife
 to divorce
 testing
 Him
-And
 -
+And
 He answering
 said
 to them
@@ -24602,8 +24602,8 @@ What
 you
 did command
 Moses
-And
 -
+And
 they said
 Permitted
 Moses
@@ -24612,8 +24612,8 @@ of divorce
 to write
 and
 to send [her] away
-But
 -
+But
 Jesus
 said
 to them
@@ -24626,8 +24626,8 @@ for you
 the
 commandment
 this
-however
 From
+however
 [the] beginning
 of creation
 Male
@@ -24659,8 +24659,8 @@ two
 but
 one
 flesh
-therefore
 What
+therefore
 -
 God
 has joined together
@@ -24681,8 +24681,8 @@ Him
 And
 He says
 to them
--
 Whoever
+-
 shall divorce
 the
 wife
@@ -24710,13 +24710,13 @@ little children
 that
 them
 He might touch
-But
 -
+But
 the disciples
 rebuked
 them
-now
 Having seen
+now
 -
 Jesus
 was indignant
@@ -24732,8 +24732,8 @@ Me
 not
 do hinder
 them
-for
 To the
+for
 such
 belongs
 the
@@ -24743,8 +24743,8 @@ of God
 Truly
 I say
 to you
--
 whoever
+-
 not
 shall receive
 the
@@ -24772,8 +24772,8 @@ going forth
 of Him
 on
 [the] journey
-one
 having run up
+one
 and
 having knelt down to
 Him
@@ -24787,8 +24787,8 @@ that
 life
 eternal
 I might inherit
-And
 -
+And
 Jesus
 said
 to him
@@ -24823,8 +24823,8 @@ of you
 and
 the
 mother
-And
 -
+And
 he was saying
 to Him
 Teacher
@@ -24834,8 +24834,8 @@ I have kept
 from
 [the] youth
 of me
-And
 -
+And
 Jesus
 having looked upon
 him
@@ -24864,16 +24864,16 @@ and
 come
 follow
 Me
-And
 -
+And
 having been sad
 at
 the
 word
 he went away
 grieving
-for
 he was [one]
+for
 having
 possessions
 many
@@ -24897,16 +24897,16 @@ kingdom
 -
 of God
 will enter
-And
 -
+And
 the disciples
 were astonished
 at
 the
 words
 of Him
-But
 -
+But
 Jesus
 again
 answering
@@ -24939,8 +24939,8 @@ kingdom
 -
 of God
 to enter
-And
 -
+And
 exceedingly
 they were astonished
 saying
@@ -24962,16 +24962,16 @@ but
 not
 with
 God
-for
 all things
+for
 [are] possible
 with
 -
 God
 Began
+to say
 -
 Peter
-to say
 to Him
 Behold
 we
@@ -25012,12 +25012,12 @@ gospel
 if
 not
 shall take
+a hundredfold
 now
 in
 the
 time
 this
-a hundredfold
 houses
 and
 brothers
@@ -25039,17 +25039,17 @@ which
 is coming
 life
 eternal
-however
 Many
-first
+however
 will be
+first
 last
 and
 the
 last
 first
-then
 They were
+then
 on
 the
 way
@@ -25064,8 +25064,8 @@ them
 Jesus
 and
 they were astonished
-then
 those
+then
 following
 were afraid
 And
@@ -25135,31 +25135,31 @@ Him
 Teacher
 we desire
 that
-if
 whatever
+if
 we might ask
 you
 You would do
 for us
-And
 -
+And
 He said
 to them
-do you desire
 What
+do you desire
 Me
 to do
 for you
-And
 -
+And
 they said
 to Him
 Grant
 to us
 that
 one
-at
 of [us]
+at
 [Your] right hand
 and
 one
@@ -25170,8 +25170,8 @@ in
 the
 glory
 of You
-And
 -
+And
 Jesus
 said
 to them
@@ -25193,13 +25193,13 @@ which
 I
 am baptized
 to be baptized [with]
-And
 -
+And
 they said
 to Him
 We are able
-And
 -
+And
 Jesus
 said
 to them
@@ -25216,8 +25216,8 @@ which
 I
 am baptized
 you will be baptized [with]
-but
 -
+but
 to sit
 at
 [the] right hand
@@ -25264,15 +25264,15 @@ great ones
 of them
 exercise authority over
 them
-however
 Not
 thus
+however
 shall it be
 among
 you
 Instead
--
 whoever
+-
 desires
 great
 to become
@@ -25282,8 +25282,8 @@ will be
 your
 servant
 and
--
 whoever
+-
 desires
 among
 you
@@ -25292,8 +25292,8 @@ first
 will be
 of all
 slave
-for
 Even
+for
 the
 Son
 -
@@ -25359,8 +25359,8 @@ him
 many
 that
 he should be silent
-but
 -
+but
 much
 more
 he kept crying out
@@ -25385,8 +25385,8 @@ Take courage
 Rise up
 He calls
 you
-And
 -
+And
 having cast away
 the
 cloak
@@ -25404,10 +25404,10 @@ Jesus
 says
 What
 to you
-I should do
 do you desire
-And
+I should do
 -
+And
 the blind [man]
 said
 to Him
@@ -25469,13 +25469,13 @@ entering
 into
 it
 you will find
-having been tied
 a colt
+having been tied
 upon
 which
 no one
-of men
 not yet
+of men
 has sat
 having untied
 it
@@ -25528,8 +25528,8 @@ are you doing
 untying
 the
 colt
-And
 -
+And
 they spoke
 to them
 as
@@ -25565,8 +25565,8 @@ spread
 on
 the
 road
-then
 others
+then
 branches
 having been cut down
 from
@@ -25606,13 +25606,13 @@ into
 the
 temple
 and
+having looked around on
+all things
 late
 already
 being
 the
 hour
-having looked around on
-all things
 He went out
 to
 Bethany
@@ -25629,14 +25629,14 @@ Bethany
 He was hungry
 And
 having seen
+a fig tree
 from
 afar
-a fig tree
 having
 leaves
 He went
-perhaps
 if
+perhaps
 anything
 He will find
 on
@@ -25650,8 +25650,8 @@ He found
 if
 not
 leaves
-for
 the
+for
 season
 not
 it was
@@ -25733,8 +25733,8 @@ will be called
 for all
 the
 nations
-however
 You
+however
 have made
 it
 a den
@@ -25751,11 +25751,11 @@ they were seeking
 how
 Him
 they might destroy
-for
 they were afraid of
-Him
 for
+Him
 all
+for
 the
 crowd
 was astonished
@@ -25806,8 +25806,8 @@ Truly
 I say
 to you
 that
--
 whoever
+-
 shall say
 to the
 mountain
@@ -25912,8 +25912,8 @@ this
 that
 these things
 You should do
-And
 -
+And
 Jesus
 said
 to them
@@ -25954,9 +25954,9 @@ we should say
 From
 heaven
 He will say
-then
 Because of
 why
+then
 not
 did you believe
 him
@@ -25967,13 +25967,13 @@ men
 they were afraid of
 the
 people
-for
 all
+for
 were holding
 -
 John
-that
 truly
+that
 a prophet
 he was
 And
@@ -26065,15 +26065,15 @@ they killed
 also
 many
 others
+some
 indeed
-some
 beating
-then
 some
+then
 killing
 Yet
-having
 one
+having
 son
 beloved
 he sent
@@ -26087,8 +26087,8 @@ They will have respect for
 the
 son
 of me
-however
 Those
+however
 -
 farmers
 to
@@ -26166,8 +26166,8 @@ and
 they feared
 the
 crowd
-for
 they knew
+for
 that
 against
 them
@@ -26207,8 +26207,8 @@ there is care
 to You
 about
 no one
-for
 not
+for
 You look
 on [the]
 appearance
@@ -26231,8 +26231,8 @@ Should we pay
 or
 not
 pay
-And
 -
+And
 knowing
 of them
 the
@@ -26247,8 +26247,8 @@ Me
 a denarius
 that
 I might see [it]
-And
 -
+And
 they brought [it]
 And
 He says
@@ -26260,13 +26260,13 @@ this
 and
 the
 inscription
-And
 -
+And
 they said
 to Him
 Caesar’s
-And
 -
+And
 Jesus
 said
 to them
@@ -26286,9 +26286,9 @@ at
 Him
 And
 come
+Sadducees
 to
 Him
-Sadducees
 who
 say
 a resurrection
@@ -26373,10 +26373,10 @@ when
 they rise
 of which
 of them
-wife
 will she be
-For
+wife
 -
+For
 the seven
 had
 her
@@ -26398,8 +26398,8 @@ the
 power
 -
 of God
-for
 When
+for
 out from
 [the] dead
 they rise
@@ -26414,8 +26414,8 @@ angels
 in
 the
 heavens
-now
 Concerning
+now
 the
 dead
 that
@@ -26660,8 +26660,8 @@ Lord
 then
 how
 of him
-son
 is He
+son
 And
 the
 great
@@ -26760,30 +26760,30 @@ this
 -
 poor
 more
-has cast [in]
 than all
+has cast [in]
 of those
 casting
 into
 the
 treasury
-for
 All
+for
 out of
 that which
 was abounding
 to them
 cast [in]
-however
 she
+however
 out of
 the
 poverty
 of her
-cast [in]
 all
 as much as
 she had
+cast [in]
 all
 the
 livelihood
@@ -26820,8 +26820,8 @@ buildings
 No
 not
 shall be left
-upon
 stone
+upon
 stone
 which
 no
@@ -26861,10 +26861,10 @@ sign
 when
 are going
 these things
-all
 to be accomplished
-And
+all
 -
+And
 Jesus
 began
 to say
@@ -26887,8 +26887,8 @@ am [He]
 and
 many
 they will mislead
-then
 When
+then
 you shall hear of
 wars
 and
@@ -26902,8 +26902,8 @@ but
 not yet [is]
 the
 end
-for
 Will rise up
+for
 nation
 against
 nation
@@ -26920,8 +26920,8 @@ famines
 [The] beginning
 of birth pains [are]
 these
-however
 Take heed
+however
 you
 to yourselves
 they will betray
@@ -26949,10 +26949,10 @@ all
 the
 nations
 first
+it behooves
 to proclaim
 the
 gospel
-it behooves
 And
 when
 they might lead away
@@ -26963,8 +26963,8 @@ be anxious beforehand
 what
 you should say
 but
-if
 whatever
+if
 might be given
 to you
 in
@@ -26973,8 +26973,8 @@ that
 hour
 that
 speak
-for
 not
+for
 are
 you
 those
@@ -27010,15 +27010,15 @@ on account of
 the
 name
 of Me
-however
 the [one]
+however
 having endured
 to
 [the] end
 he
 will be saved
-then
 When
+then
 you see
 the
 abomination
@@ -27068,8 +27068,8 @@ to take
 the
 clothing
 of him
-then
 Woe
+then
 to those
 in
 womb
@@ -27081,14 +27081,14 @@ in
 those
 -
 days
-then
 Pray
+then
 that it
 not
 might be
 in winter
-for
 will be [in]
+for
 the
 days
 those
@@ -27118,8 +27118,8 @@ had shortened
 [the] Lord
 the
 days
--
 no
+-
 there would have been saved
 any
 flesh
@@ -27133,8 +27133,8 @@ He has shortened
 the
 days
 And
-if
 then
+if
 anyone
 to you
 says
@@ -27146,8 +27146,8 @@ Behold
 there
 not
 you shall believe [it]
-for
 There will arise
+for
 false Christs
 and
 false prophets
@@ -27163,8 +27163,8 @@ if
 possible
 the
 elect
-however
 You
+however
 take heed
 I have foretold
 to you
@@ -27193,10 +27193,10 @@ and
 the
 stars
 will be
-falling
 out of
 the
 heaven
+falling
 and
 the
 powers
@@ -27240,8 +27240,8 @@ of earth
 to [the]
 end
 of heaven
-now
 Of
+now
 the
 fig tree
 learn
@@ -27298,14 +27298,14 @@ and
 the
 earth
 will pass away
-but
 -
+but
 the words
 of Me
 in no way
 will pass away
-now
 Concerning
+now
 the
 day
 that
@@ -27328,9 +27328,9 @@ the
 Father
 Take heed
 watch
-for
 not
 you know
+for
 when
 the
 time
@@ -27359,11 +27359,11 @@ doorkeeper
 he commanded
 that
 he should keep watch
-therefore
 Watch
-for
+therefore
 not
 you know
+for
 when
 the
 master
@@ -27384,15 +27384,15 @@ suddenly
 he should find
 you
 sleeping
-now
 What
+now
 to you
 I say
 to all
 I say
 Watch
-now
 It would be
+now
 the
 Passover
 and
@@ -27414,8 +27414,8 @@ by
 stealth
 having taken
 they might kill [Him]
-for
 They were saying
+for
 Not
 during
 the
@@ -27454,9 +27454,9 @@ she poured [it] on
 His
 -
 head
+Were
 now
 some
-Were
 indignant
 within
 themselves
@@ -27468,8 +27468,8 @@ this
 of the
 fragrant oil
 has been made
-for
 Could
+for
 this
 -
 fragrant oil
@@ -27484,8 +27484,8 @@ poor
 And
 they were grumbling
 at her
-And
 -
+And
 Jesus
 said
 Leave alone
@@ -27499,8 +27499,8 @@ work
 she did
 toward
 Me
-for
 Always
+for
 the
 poor
 you have
@@ -27513,8 +27513,8 @@ you are able
 them
 good
 to do
-however
 Me
+however
 not
 always
 do you have
@@ -27529,12 +27529,12 @@ of Me
 for
 the
 burial
-now
 Truly
+now
 I say
 to you
-if
 wherever
+if
 shall be proclaimed
 the
 gospel
@@ -27565,8 +27565,8 @@ that
 Him
 he might betray
 to them
-And
 -
+And
 having heard
 they rejoiced
 and
@@ -27595,8 +27595,8 @@ to Him
 the
 disciples
 of Him
-do You desire [that]
 Where
+do You desire [that]
 having gone
 we should prepare
 that
@@ -27626,8 +27626,8 @@ carrying
 Follow
 him
 And
-if
 wherever
+if
 he might enter
 say
 to the
@@ -27687,8 +27687,8 @@ with
 the
 Twelve
 And
-they
 as were reclining
+they
 and
 were eating
 -
@@ -27698,11 +27698,11 @@ Truly
 I say
 to you
 that
-will betray
-Me
 one
 of
 you
+will betray
+Me
 who
 is eating
 with
@@ -27717,8 +27717,8 @@ by
 one
 Surely not
 I
-And
 -
+And
 He said
 to them
 [It is] one of
@@ -27732,8 +27732,8 @@ in
 the
 bowl
 For
-indeed
 -
+indeed
 the Son
 -
 of Man
@@ -27742,8 +27742,8 @@ as
 it has been written
 concerning
 Him
-however
 woe
+however
 to the
 man
 that
@@ -27866,8 +27866,8 @@ you
 into
 -
 Galilee
-And
 -
+And
 Peter
 was saying
 to Him
@@ -27900,8 +27900,8 @@ crows
 three times
 Me
 you will deny
-And
 -
+And
 emphatically
 he kept saying
 If
@@ -27913,8 +27913,8 @@ no
 not
 You
 will I deny
-now
 Likewise
+now
 also
 all
 of them were saying
@@ -28031,12 +28031,12 @@ not
 you may enter
 into
 temptation
-indeed
 The
+indeed
 spirit
 [is] willing
-but
 -
+but
 the flesh
 weak
 And
@@ -28053,12 +28053,12 @@ having returned
 he found
 them
 sleeping
-for
 Were
-heavy
+for
 of them
 the
 eyes
+heavy
 and
 not
 they knew
@@ -28127,16 +28127,16 @@ scribes
 and
 the
 elders
-then
 Had given
+then
 the [one]
 delivering up
 Him
 a sign
 to them
 saying
--
 Whomever
+-
 I shall kiss
 He
 is
@@ -28155,8 +28155,8 @@ Rabbi
 And
 he kissed
 Him
-And
 -
+And
 they laid
 the
 hands
@@ -28164,8 +28164,8 @@ on Him
 and
 seized
 Him
-then
 One
+then
 a certain
 of those
 standing by
@@ -28233,8 +28233,8 @@ about
 and
 they seize
 him
-and
 -
+and
 having left behind
 the
 linen cloth
@@ -28283,8 +28283,8 @@ warming himself
 at
 the
 fire
-And
 -
+And
 the chief priests
 and
 all
@@ -28302,8 +28302,8 @@ Him
 but
 not
 they were finding [any]
-for
 Many
+for
 were bearing false testimony
 against
 Him
@@ -28350,10 +28350,10 @@ testimony
 of them
 And
 having stood up
-in
-the midst
 the
 high priest
+in
+the midst
 he questioned
 -
 Jesus
@@ -28365,8 +28365,8 @@ What [is it]
 these
 You
 testify against
-But
 -
+But
 He was silent
 and
 not
@@ -28388,8 +28388,8 @@ the
 Son
 of the
 Blessed [One]
-And
 -
+And
 Jesus
 said
 I
@@ -28402,9 +28402,9 @@ Son
 of Man
 at [the]
 right hand
+sitting
 of
 Power
-sitting
 and
 coming
 with
@@ -28412,8 +28412,8 @@ the
 clouds
 of
 heaven
-And
 -
+And
 the high priest
 having torn
 the
@@ -28423,16 +28423,16 @@ says
 What
 any more
 need
-of witnesses
 have we
+of witnesses
 You heard
 the
 blasphemy
 What
 to you
 does it appear
-And
 -
+And
 all
 condemned
 Him
@@ -28489,11 +28489,11 @@ you
 with
 the
 Nazarene
+were
 -
 Jesus
-were
-But
 -
+But
 he denied [it]
 saying
 Neither
@@ -28524,8 +28524,8 @@ This
 [one] of
 them
 is
-But
 -
+But
 again
 he denied
 And
@@ -28541,12 +28541,12 @@ Truly
 of
 them
 you are
-for
 also
+for
 a Galilean
 you are
-But
 -
+But
 he began
 to curse
 and
@@ -28590,10 +28590,10 @@ he began to weep
 And
 early
 in the morning
-the
-chief priests
 a counsel
 having formed
+the
+chief priests
 with
 the
 elders
@@ -28621,8 +28621,8 @@ the
 King
 of the
 Jews
-And
 -
+And
 answering
 to him
 He says
@@ -28634,8 +28634,8 @@ Him
 the
 chief priests
 of many things
-And
 -
+And
 Pilate
 again
 began to question
@@ -28648,8 +28648,8 @@ See
 how many things
 You
 they testify against
-But
 -
+But
 Jesus
 no longer
 nothing
@@ -28658,8 +28658,8 @@ so as
 to amaze
 -
 Pilate
-then
 At
+then
 [the] feast
 he used to release
 to them
@@ -28667,15 +28667,15 @@ one
 prisoner
 whom
 they requested
-then
 There was
-having been bound
+then
 the [one]
 called
 Barabbas
 with
 the
 rebels
+having been bound
 who
 in
 the
@@ -28691,8 +28691,8 @@ to beg [him to do]
 as usually
 he did
 for them
-But
 -
+But
 Pilate
 answered
 them
@@ -28704,8 +28704,8 @@ the
 King
 of the
 Jews
-for
 He was aware
+for
 that
 because of
 envy
@@ -28713,8 +28713,8 @@ had delivered up
 Him
 the
 chief priests
-But
 -
+But
 the chief priests
 stirred up
 the
@@ -28725,15 +28725,15 @@ instead
 Barabbas
 he might release
 to them
-And
 -
+And
 Pilate
 again
 answering
 was saying
 to them
-then
 What
+then
 I should do
 to Him
 you call
@@ -28741,29 +28741,29 @@ the
 King
 of the
 Jews
-And
 -
+And
 again
 they cried out
 Crucify
 Him
-And
 -
+And
 Pilate
 was saying
 to them
+What
 indeed
 did He commit
-What
 evil
-But
 -
+But
 much more
 they shouted
 Crucify
 Him
-And
 -
+And
 Pilate
 desiring
 to the
@@ -28782,8 +28782,8 @@ Jesus
 having flogged [him]
 that
 He might be crucified
-And
 -
+And
 the soldiers
 led away
 him
@@ -28875,8 +28875,8 @@ they bring
 Him
 to
 -
-a place
 Golgotha
+a place
 which
 is
 translated
@@ -28887,8 +28887,8 @@ they were offering
 Him
 having been mixed with myrrh
 wine
-however
 He
+however
 not
 did take [it]
 And
@@ -28906,8 +28906,8 @@ them
 who
 what
 should take
-then
 It was
+then
 [the] hour
 third
 and
@@ -28915,12 +28915,12 @@ they crucified
 Him
 And
 there was
-having been written
 the
 inscription
 of the
 accusation
 against Him
+having been written
 The
 King
 of the
@@ -28980,9 +28980,9 @@ were saying
 Others
 He saved
 Himself
-to save
 not
 He is able
+to save
 The
 Christ
 the
@@ -29052,9 +29052,9 @@ were saying
 Behold
 Elijah
 He calls
+Having run
 then
 one
-Having run
 and
 having filled
 a sponge
@@ -29071,8 +29071,8 @@ comes
 Elijah
 to take down
 him
-But
 -
+But
 Jesus
 having uttered
 a cry
@@ -29090,6 +29090,7 @@ from
 top
 to
 bottom
+Having seen
 then
 the
 centurion
@@ -29098,7 +29099,6 @@ standing
 from
 opposite of
 Him
-Having seen
 that
 thus
 He breathed His last
@@ -29110,8 +29110,8 @@ man
 [the] Son
 of God
 was
-then
 There were
+then
 also
 women
 from
@@ -29190,8 +29190,8 @@ the
 body
 -
 of Jesus
-And
 -
+And
 Pilate
 wondered
 if
@@ -29242,8 +29242,8 @@ the
 door
 of the
 tomb
-And
 -
+And
 Mary
 -
 Magdalene
@@ -29309,8 +29309,8 @@ that
 has been rolled away
 the
 stone
-for
 it was
+for
 large
 extremely
 And
@@ -29329,14 +29329,14 @@ a robe
 white
 and
 they were greatly amazed
-And
 -
+And
 he says
 to them
 Not
 be amazed
-you seek
 Jesus
+you seek
 the
 Nazarene
 the [One]
@@ -29378,8 +29378,8 @@ they fled
 from
 the
 tomb
-for
 Had seized
+for
 them
 trembling
 and
@@ -29388,10 +29388,10 @@ and
 to none
 nothing
 they spoke
-for
 they were afraid
-now
+for
 Having risen
+now
 early [the]
 first [day]
 of the week
@@ -29424,8 +29424,8 @@ has been seen
 by
 her
 disbelieved
-now
 After
+now
 these things
 to two
 of
@@ -29446,8 +29446,8 @@ rest
 neither
 them
 did they believe
-now
 Afterward
+now
 were reclining
 they
 to the
@@ -29486,15 +29486,15 @@ having believed
 and
 having been baptized
 will be saved
-however
 the [one]
+however
 having disbelieved
 will be condemned
-now
 Signs
-these
+now
 those
 having believed
+these
 will accompany
 In
 the
@@ -29503,8 +29503,8 @@ of Me
 demons
 they will cast out
 with tongues
-new
 they will speak
+new
 serpents
 they will take up
 and if
@@ -29522,9 +29522,9 @@ they will lay
 and
 well
 they will be
+-
 Indeed
 therefore
--
 the Lord
 Jesus
 after
@@ -29541,8 +29541,8 @@ at [the]
 right hand
 -
 of God
-now
 They
+now
 having gone forth
 preached
 everywhere
@@ -29659,8 +29659,8 @@ the
 name
 of her
 Elizabeth
-now
 They were
+now
 righteous
 both
 before
@@ -29689,13 +29689,13 @@ barren
 and
 both
 advanced
-were
 in
 the
 years
 of them
-now
+were
 It came to pass
+now
 in
 the
 fulfilling the priestly service
@@ -29727,17 +29727,17 @@ And
 all
 the
 multitude
+were
 of the
 people
-were
 praying
 outside
 at the
 hour
 of the
 incense
-then
 Appeared
+then
 to him
 an angel
 of [the] Lord
@@ -29757,8 +29757,8 @@ fear
 fell
 upon
 him
-then
 Said
+then
 to
 him
 the
@@ -29787,8 +29787,8 @@ of him
 John
 And
 he will be
-to you
 joy
+to you
 and
 gladness
 and
@@ -29798,8 +29798,8 @@ the
 birth
 of him
 will rejoice
-for
 He will be
+for
 great
 before
 Lord
@@ -29864,8 +29864,8 @@ By
 what
 will I know
 this
-for
 I
+for
 am
 an old man
 and
@@ -29928,9 +29928,9 @@ season
 of them
 And
 were
-expecting
 the
 people
+expecting
 -
 Zechariah
 and
@@ -29942,8 +29942,8 @@ in
 the
 temple
 of him
-then
 Having come out
+then
 not
 he was able
 to speak
@@ -29978,8 +29978,8 @@ to
 the
 home
 of him
-then
 After
+then
 these
 -
 days
@@ -30008,8 +30008,8 @@ to take away
 of me
 among
 men
-now
 In
+now
 the
 month
 -
@@ -30055,8 +30055,8 @@ The
 Lord [is]
 with
 you
-And
 -
+And
 at
 the
 statement
@@ -30076,8 +30076,8 @@ to her
 Not
 fear
 Mary
-for
 you have found
+for
 favor
 with
 -
@@ -30131,8 +30131,8 @@ of Him
 not
 there will be
 an end
-then
 Said
+then
 Mary
 to
 the
@@ -30198,8 +30198,8 @@ with
 God
 every
 thing
-then
 Said
+then
 Mary
 Behold
 the
@@ -30217,9 +30217,9 @@ from
 her
 the
 angel
+Having risen up
 then
 Mary
-Having risen up
 in
 the
 days
@@ -30296,8 +30296,8 @@ Lord
 of me
 to
 me
-for
 Behold
+for
 as
 came
 the
@@ -30358,8 +30358,8 @@ humiliation
 of the
 handmaiden
 of Him
-for
 Behold
+for
 from
 -
 henceforth
@@ -30420,6 +30420,12 @@ Israel
 of Him
 remembering
 mercy
+as
+He spoke
+to
+the
+fathers
+of us
 -
 to Abraham
 and
@@ -30429,14 +30435,8 @@ of him
 to
 the
 age
-as
-He spoke
-to
-the
-fathers
-of us
-then
 Dwelt
+then
 Mary
 with
 her
@@ -30449,8 +30449,8 @@ to
 the
 home
 of her
-now
 To
+now
 Elizabeth
 was fulfilled
 the
@@ -30516,26 +30516,26 @@ they said
 to
 her
 -
+No one
 is
 among
 the
 relatives
 of you
-No one
 who
 is called
 the
 name
 by this
-then
 They were making signs
+then
 to the
 father
 of him
 the
+what
 -
 he might wish
-what
 to be called
 him
 And
@@ -30550,8 +30550,8 @@ of him
 And
 they marveled
 all
-then
 Was opened
+then
 the
 mouth
 of him
@@ -30567,9 +30567,9 @@ blessing
 God
 And
 came
-fear
 upon
 all
+fear
 those
 dwelling around
 them
@@ -30595,14 +30595,14 @@ the
 heart
 of them
 saying
-then
 What
+then
 the
 child
 this
 will be
-for
 And
+for
 [the] hand
 of [the] Lord
 was
@@ -30686,11 +30686,11 @@ of us
 -
 to grant
 us
+without fear
 from
 [the] hand
 of our enemies
 having been saved
-without fear
 to serve
 Him
 in
@@ -30703,15 +30703,15 @@ all
 the
 days
 of our life
-now
-child
 And
 you
+now
+child
 prophet
 of [the] Most High
 will be called
-for
 you will go
+for
 before
 the Lord
 to prepare
@@ -30756,8 +30756,8 @@ of us
 into
 [the] way
 of peace
-And
 -
+And
 the child
 continued to grow
 and
@@ -30775,8 +30775,8 @@ of him
 to
 -
 Israel
-then
 It came to pass
+then
 in
 the
 days
@@ -30807,8 +30807,8 @@ to
 the
 of themselves
 city
-then
 Went up
+then
 also
 Joseph
 from
@@ -30843,8 +30843,8 @@ being betrothed
 to him
 she being
 with child
-then
 It came to pass
+then
 in
 their
 being
@@ -30918,8 +30918,8 @@ the
 angel
 Not
 fear
-for
 behold
+for
 I bring good news
 to you
 [of] joy
@@ -30993,8 +30993,8 @@ shepherds
 were saying
 to
 one another
-indeed
 Let us go through
+indeed
 as far as
 Bethlehem
 and
@@ -31014,8 +31014,8 @@ they came
 having hurried
 and
 found
-both
 -
+both
 Mary
 and
 -
@@ -31027,8 +31027,8 @@ lying
 in
 the
 manger
-now
 Having seen
+now
 they proclaimed abroad
 concerning
 the
@@ -31053,11 +31053,11 @@ the
 shepherds
 to
 them
-But
 -
+But
 Mary
-was treasuring up
 all
+was treasuring up
 -
 matters
 these
@@ -31183,14 +31183,14 @@ waiting for
 of Israel
 and
 [the] Spirit
-Holy
 was
+Holy
 upon
 him
 And
 it was
-divinely revealed
 to him
+divinely revealed
 by
 the
 Spirit
@@ -31246,12 +31246,12 @@ blessed
 God
 and
 said
-Lord
 Now
 You dismiss
 the
 servant
 of You
+Lord
 according to
 the
 word
@@ -31284,13 +31284,13 @@ of You
 Israel
 And
 were
-marveling
 the
 father
 of Him
 and
 the
 mother
+marveling
 at
 the things
 having been spoken
@@ -31322,9 +31322,9 @@ and
 for
 a sign
 spoken against
-also
 and
 of you
+also
 of her
 the
 soul
@@ -31413,8 +31413,8 @@ to the
 town
 of them
 Nazareth
-And
 -
+And
 the Child
 continued to grow
 and
@@ -31472,8 +31472,8 @@ knew
 the
 parents
 of Him
-now
 Having supposed
+now
 Him
 to be
 in
@@ -31520,8 +31520,8 @@ them
 and
 questioning
 them
-then
 Were amazed
+then
 all
 those
 hearing
@@ -31573,9 +31573,9 @@ the [house]
 of the
 Father
 of Me
+it behooves
 to be
 Me
-it behooves
 And
 they
 not
@@ -31623,9 +31623,9 @@ with
 God
 and
 men
-then
 In
 year
+then
 fifteenth
 of the
 reign
@@ -31641,8 +31641,8 @@ being tetrarch
 -
 of Galilee
 Herod
-now
 Philip
+now
 the
 brother
 of him
@@ -31738,14 +31738,14 @@ the
 salvation
 -
 of God
-therefore
 He was saying
+therefore
 to the
 coming out
+crowds
 to be baptized
 by
 him
-crowds
 Offspring
 of vipers
 who
@@ -31756,8 +31756,8 @@ from
 the
 coming
 wrath
-therefore
 Produce
+therefore
 fruits
 worthy
 -
@@ -31772,8 +31772,8 @@ yourselves
 We have
 -
 Abraham
-for
 I say
+for
 to you
 that
 is able
@@ -31787,8 +31787,8 @@ to raise up
 children
 -
 to Abraham
-now
 Already
+now
 also
 the
 ax
@@ -31798,8 +31798,8 @@ root
 of the
 trees
 is applied
-therefore
 every
+therefore
 tree
 not
 producing
@@ -31816,11 +31816,11 @@ him
 the
 crowds
 saying
-then
 What
+then
 shall we do
-now
 Answering
+now
 he was saying
 to them
 The [one]
@@ -31837,8 +31837,8 @@ having
 food
 likewise
 let him do
-then
 Came
+then
 also
 tax collectors
 to be baptized
@@ -31849,8 +31849,8 @@ him
 Teacher
 what
 shall we do
-And
 -
+And
 he said
 to
 them
@@ -31861,8 +31861,8 @@ that
 having been appointed
 to you
 collect
-then
 Were asking
+then
 him
 also
 those being soldiers
@@ -31883,8 +31883,8 @@ be content with
 the
 wages
 of you
-then
 Are expecting
+then
 the
 people
 and
@@ -31908,13 +31908,13 @@ saying
 [to] all
 -
 John
-indeed
 I
+indeed
 with water
 baptize
 you
-however
 comes
+however
 the [One]
 mightier
 than I
@@ -31955,23 +31955,23 @@ into
 the
 barn
 of Him
-But
 -
+But
 the chaff
 He will burn up
 with fire
 unquenchable
+Many
 indeed
 therefore
-Many
 other
 things
 exhorting
 he was preaching the good news to
 the
 people
-And
 -
+And
 Herod
 the
 tetrarch
@@ -31989,8 +31989,8 @@ and
 concerning
 all
 that
-[the] evils
 had done
+[the] evils
 -
 Herod
 added
@@ -32003,8 +32003,8 @@ he locked up
 John
 in
 prison
-now
 It came to pass
+now
 in
 -
 having been baptized
@@ -32048,16 +32048,16 @@ You
 I am well pleased
 And
 Himself
-Jesus
 was
+Jesus
 beginning
 about
 years [old]
 thirty
-as
-was supposed
 being
 son
+as
+was supposed
 of Joseph
 -
 of Heli
@@ -32211,8 +32211,8 @@ of Seth
 of Adam
 -
 of God
-then
 Jesus
+then
 full
 of [the] Spirit
 Holy
@@ -32246,14 +32246,14 @@ and
 having ended
 they
 He was hungry
-then
 Said
+then
 to Him
 the
 devil
 If
-You are
 [the] Son
+You are
 -
 of God
 speak
@@ -32310,14 +32310,14 @@ for
 to me
 it has been delivered
 and
-if
 to whom
+if
 I wish
 I give
 it
+You
 therefore
 if
-You
 You will worship
 before
 me
@@ -32340,8 +32340,8 @@ and
 Him
 only
 you shall serve
-also
 He led
+also
 Him
 to
 Jerusalem
@@ -32356,16 +32356,16 @@ and
 said
 to Him
 If
-You are
 [the] Son
+You are
 -
 of God
 cast
 Yourself
 from here
 down
-for
 It has been written
+for
 -
 To the
 angels
@@ -32531,8 +32531,8 @@ synagogue
 were
 fixed upon
 Him
-then
 He began
+then
 to say
 to
 them
@@ -32567,8 +32567,8 @@ and
 they were saying
 Not
 the son
-of Joseph
 is
+of Joseph
 this
 And
 He said
@@ -32583,8 +32583,8 @@ this
 Physician
 heal
 yourself
-we have heard
 Whatsoever
+we have heard
 has been done
 in
 -
@@ -32596,8 +32596,8 @@ in
 the
 hometown
 of You
-then
 He said
+then
 Truly
 I say
 to you
@@ -32610,9 +32610,9 @@ in
 the
 hometown
 of him
-now
 In
 truth
+now
 I say
 to you
 many
@@ -32680,8 +32680,8 @@ the
 Syrian
 And
 were filled
-with anger
 all
+with anger
 in
 the
 synagogue
@@ -32705,13 +32705,13 @@ upon
 which
 the
 town
-of them
 had been built
+of them
 in order
 to throw over
 him
-however
 He
+however
 having passed
 through
 [the] midst
@@ -32788,10 +32788,10 @@ come forth
 out of
 him
 And
-the
-demon
 having thrown
 him
+the
+demon
 into
 the
 midst
@@ -32836,8 +32836,8 @@ every
 place
 of the
 surrounding region
-then
 Having risen up
+then
 out of
 the
 synagogue
@@ -32846,8 +32846,8 @@ into
 the
 house
 of Simon
-then
 [The] mother-in-law
+then
 -
 of Simon
 was
@@ -32869,13 +32869,13 @@ fever
 and
 it left
 her
-then
 immediately
+then
 having arisen
 she began to serve
 them
-now
 At the setting
+now
 of the
 sun
 all
@@ -32888,8 +32888,8 @@ brought
 them
 to
 Him
-and
 -
+and
 on one
 each
 of them
@@ -32898,8 +32898,8 @@ hands
 having laid
 He would heal
 them
-now
 Were going out
+now
 also
 demons
 from
@@ -32926,8 +32926,8 @@ the
 Christ
 Him
 to be
-now
 Having arrived
+now
 daybreak
 having gone out
 He went
@@ -32951,8 +32951,8 @@ not
 to go
 from
 them
-But
 -
+But
 He said
 to
 them
@@ -32963,11 +32963,11 @@ other
 towns
 to preach [the] good news
 Me
+it behooves
 of the
 kingdom
 -
 of God
-it behooves
 because
 for
 this
@@ -32980,8 +32980,8 @@ the
 synagogues
 -
 of Judea
-then
 It came to pass
+then
 in
 -
 the
@@ -33010,8 +33010,8 @@ lying
 by
 the
 lake
-but
 -
+but
 the fishermen
 from
 them
@@ -33019,8 +33019,8 @@ having gone out
 were washing
 the
 nets
-then
 Having entered
+then
 into
 one
 of the
@@ -33035,16 +33035,16 @@ the
 land
 to put off
 a little
-then
 Having sat down
+then
 from
 the
 boat
 He was teaching
 the
 crowds
-then
 When
+then
 He left off
 speaking
 He said
@@ -33073,8 +33073,8 @@ night
 having toiled
 nothing
 have we taken
-however
 at
+however
 the
 word
 of You
@@ -33088,8 +33088,8 @@ they enclosed
 a multitude
 of fishes
 great
-now
 were breaking
+now
 the
 nets
 of them
@@ -33115,8 +33115,8 @@ boats
 so that
 were sinking
 they
-now
 Having seen
+now
 Simon
 Peter
 fell at
@@ -33132,8 +33132,8 @@ a man
 sinful
 am I
 Lord
-for
 Amazement
+for
 laid hold
 on him
 and
@@ -33148,8 +33148,8 @@ of the
 fish
 which
 they had taken
-now
 likewise
+now
 also
 James
 and
@@ -33202,8 +33202,8 @@ behold
 a man
 full
 of leprosy
-then
 having seen
+then
 -
 Jesus
 having fallen
@@ -33258,8 +33258,8 @@ Moses
 for
 a testimony
 to them
-now
 Was spread abroad
+now
 still more
 the
 report
@@ -33276,8 +33276,8 @@ from
 the
 sicknesses
 of them
-now
 He Himself
+now
 was
 withdrawing
 into
@@ -33402,10 +33402,10 @@ not
 alone
 -
 God
+Having known
 now
 -
 Jesus
-Having known
 the
 reasonings
 of them
@@ -33433,8 +33433,8 @@ to say
 Arise
 and
 walk
-however
 That
+however
 you may know
 that
 the
@@ -33540,9 +33540,9 @@ and
 others
 who
 were
-reclining
 with
 them
+reclining
 And
 were grumbling
 the
@@ -33575,10 +33575,10 @@ to
 them
 No
 need
-of a physician
 have
 those
 being well
+of a physician
 but
 those
 sick
@@ -33591,8 +33591,8 @@ but
 sinners
 to
 repentance
-And
 -
+And
 they said
 to
 Him
@@ -33609,14 +33609,14 @@ also
 those
 of the
 Pharisees
-however
 those
+however
 of You
 eat
 and
 drink
-And
 -
+And
 Jesus
 said
 to
@@ -33634,10 +33634,10 @@ bridegroom
 with
 them
 is
-to fast
 to make
-however
+to fast
 Will come
+however
 days
 also
 when
@@ -33652,8 +33652,8 @@ in
 those
 -
 days
-now
 He was speaking
+now
 also
 a parable
 to
@@ -33669,8 +33669,8 @@ puts [it]
 on
 a garment
 old
-however
 if
+however
 otherwise
 also
 the
@@ -33695,8 +33695,8 @@ new
 into
 wineskins
 old
-now
 if
+now
 otherwise
 will burst
 the
@@ -33725,14 +33725,14 @@ having drunk
 old [wine]
 desires
 new
-for
 he says
+for
 The
 old
 better
 is
-then
 It came to pass
+then
 on
 a Sabbath
 is passing along
@@ -33741,18 +33741,18 @@ through
 grainfields
 and
 were plucking
-and
-were eating
 the
 disciples
 of Him
+and
+were eating
 the
 heads of grain
 rubbing [them]
 in the
 hands
-however
 Some
+however
 of the
 Pharisees
 said
@@ -33771,8 +33771,8 @@ said
 -
 Jesus
 Not even
-have you read
 this
+have you read
 that which
 did
 David
@@ -33804,9 +33804,9 @@ to those
 with
 him
 which
-to eat
 not
 it is lawful
+to eat
 if
 not
 only
@@ -33815,16 +33815,16 @@ priests
 And
 He was saying
 to them
-is
 Lord
+is
 of the
 Sabbath
 the
 Son
 -
 of Man
-then
 It came to pass
+then
 on
 another
 Sabbath
@@ -33847,8 +33847,8 @@ the
 right
 was
 withered
-now
 Were closely watching
+now
 Him
 the
 scribes
@@ -33864,14 +33864,14 @@ that
 they might find [reason]
 to accuse
 Him
-now
 He
+now
 knew
 the
 thoughts
 of them
-now
 He said
+now
 to the
 man
 the
@@ -33888,8 +33888,8 @@ midst
 And
 having risen up
 he stood
-then
 Said
+then
 -
 Jesus
 to
@@ -33917,29 +33917,29 @@ Stretch out
 the
 hand
 of you
-And
 -
+And
 he did
 and
 was restored
 the
 hand
 of him
-then
 They themselves
+then
 were filled
 with rage
 and
 were discussing
 with
 one another
--
 what
+-
 they might do
 -
 to Jesus
-then
 It came to pass
+then
 in
 the
 days
@@ -34141,8 +34141,8 @@ that
 day
 and
 leap for joy
-for
 behold
+for
 the
 reward
 of you
@@ -34150,10 +34150,10 @@ of you
 in
 -
 heaven
-for
 According to
 these things
 of them
+for
 used to treat
 the
 prophets
@@ -34193,10 +34193,10 @@ speak
 all
 -
 men
-for
 according to
 these things
 of them
+for
 used to treat
 the
 false prophets
@@ -34204,8 +34204,8 @@ the
 fathers
 likewise
 But
-I say
 to you
+I say
 to those
 hearing
 Love
@@ -34278,27 +34278,27 @@ those
 loving
 you
 what
-credit
 to you
+credit
 is it
-for
 Even
+for
 -
 sinners
 those
 loving
 them
 love
+And
 for
 if
-And
 you do good
 to those
 doing good to
 you
 what
-credit
 to you
+credit
 is it
 For even
 -
@@ -34314,8 +34314,8 @@ whom
 you expect
 to receive back
 what
-credit
 to you
+credit
 is it
 Even
 sinners
@@ -34394,14 +34394,14 @@ into
 the
 lap
 of you
-for
 with that
+for
 measure
 you measure
 it will be measured again
 to you
-then
 He spoke
+then
 also
 a parable
 to them
@@ -34421,16 +34421,16 @@ a disciple
 above
 the
 teacher
-however
 fully trained
+however
 everyone
 will be
 like
 the
 teacher
 of him
-now
 Why
+now
 look you at
 the
 splinter
@@ -34441,8 +34441,8 @@ eye
 of the
 brother
 of you
-and
 -
+and
 the beam
 that [is]
 in
@@ -34498,12 +34498,12 @@ of the
 brother
 of you
 to cast out
-for
 No
+for
 there is
-producing
 tree
 good
+producing
 fruit
 bad
 nor
@@ -34513,16 +34513,16 @@ bad
 producing
 fruit
 good
-for
 Each
+for
 tree
 by
 the
 own
 fruit
 is known
-for
 Not
+for
 from
 thorns
 do they gather
@@ -34553,16 +34553,16 @@ evil
 brings forth
 that which [is]
 evil
-for
 Out of
+for
 the abundance
 of his heart
 speaks
 the
 mouth
 of him
-now
 Why
+now
 Me
 do you call
 Lord
@@ -34605,8 +34605,8 @@ a foundation
 on
 the
 rock
-then
 a flood
+then
 having come
 burst upon
 the
@@ -34624,8 +34624,8 @@ because
 well
 had been built
 it
-however
 The [one]
+however
 having heard
 and
 not
@@ -34669,8 +34669,8 @@ people
 He entered
 into
 Capernaum
-then
 Of a centurion
+then
 a certain
 servant
 sick
@@ -34681,8 +34681,8 @@ who
 was
 to him
 valued highly
-then
 Having heard
+then
 about
 -
 Jesus
@@ -34700,8 +34700,8 @@ He might save
 the
 servant
 of him
-And
 -
+And
 having come
 to
 -
@@ -34716,8 +34716,8 @@ he is
 to whom
 You will grant
 this
-for
 he loves
+for
 the
 nation
 of us
@@ -34727,14 +34727,14 @@ synagogue
 he
 built
 for us
-And
 -
+And
 Jesus
 was going
 with
 them
-then
 Already
+then
 He
 not
 far
@@ -34751,10 +34751,10 @@ to Him
 Lord
 not
 trouble Yourself
-for
 not
-I am
+for
 worthy
+I am
 that
 under
 the
@@ -34776,11 +34776,11 @@ shall be healed
 the
 servant
 of me
-for
 Also
+for
 I
-am
 a man
+am
 under
 authority
 appointed
@@ -34807,8 +34807,8 @@ Do
 this
 and
 he does [it]
-then
 Having heard
+then
 these things
 -
 Jesus
@@ -34860,8 +34860,8 @@ of Him
 and
 a crowd
 great
-then
 As
+then
 He drew near
 to the
 gate
@@ -34906,8 +34906,8 @@ having come up
 He touched
 the
 bier
-then
 those
+then
 bearing [it]
 stopped
 And
@@ -34929,8 +34929,8 @@ him
 to the
 mother
 of him
-then
 Seized
+then
 fear
 all
 and
@@ -34957,12 +34957,12 @@ went out
 the
 report
 this
-concerning
-Him
 in
 all
 -
 Judea
+concerning
+Him
 and
 in all
 the
@@ -34997,8 +34997,8 @@ coming [One]
 or
 another
 are we to look for
-then
 Having come
+then
 to
 Him
 the
@@ -35064,14 +35064,14 @@ are gospelized
 And
 blessed
 is
-if
 who
+if
 not
 shall be offended
 in
 Me
-then
 Having departed
+then
 the
 messengers
 of John
@@ -35083,19 +35083,19 @@ crowds
 concerning
 John
 What
-to see
 have you gone out
 into
 the
 wilderness
+to see
 A reed
 by
 [the] wind
 shaken
 But
 what
-to see
 have you gone out
+to see
 A man
 in
 fine
@@ -35115,8 +35115,8 @@ palaces
 are
 But
 what
-to see
 have you gone out
+to see
 A prophet
 Yes
 I say
@@ -35153,8 +35153,8 @@ of women
 than John
 no one
 is
-yet
 -
+yet
 the least
 in
 the
@@ -35168,10 +35168,10 @@ And
 all
 the
 people
+having heard
 even
 the
 tax collectors
-having heard
 declared as righteous
 -
 God
@@ -35179,8 +35179,8 @@ having been baptized [with]
 the
 baptism
 of John
-but
 -
+but
 the Pharisees
 and
 the
@@ -35196,8 +35196,8 @@ not
 having been baptized
 by
 him
-therefore
 To what
+therefore
 will I liken
 the
 men
@@ -35229,8 +35229,8 @@ we sang a dirge
 and
 not
 you did weep
-for
 Has come
+for
 John
 the
 Baptist
@@ -35272,12 +35272,12 @@ all
 the
 children
 of her
-now
 Was asking
+now
 one
+Him
 of the
 Pharisees
-Him
 that
 He should eat
 with
@@ -35319,9 +35319,9 @@ the
 feet
 of Him
 weeping
-she began
 the
 tears
+she began
 to wet
 with the
 feet
@@ -35342,8 +35342,8 @@ and
 was anointing [them]
 with the
 fragrant oil
-now
 Having seen
+now
 the
 Pharisee
 the [one]
@@ -35353,12 +35353,12 @@ he spoke
 within
 himself
 saying
-if
 This
+if
 He were
 a prophet
--
 would have known
+-
 who
 and
 what
@@ -35382,8 +35382,8 @@ I have
 to you
 something
 to say
-And
 -
+And
 Teacher
 say [it]
 he says
@@ -35397,8 +35397,8 @@ one
 owed
 denarii
 five hundred
-and
 -
+and
 the other
 fifty
 Nothing
@@ -35407,8 +35407,8 @@ they
 to pay
 both
 he forgave
-therefore
 Which
+therefore
 of them
 more
 will love
@@ -35422,8 +35422,8 @@ that
 the
 most
 he forgave
-And
 -
+And
 He said
 to him
 Rightly
@@ -35441,8 +35441,8 @@ this
 the
 woman
 I entered
-into
 of you
+into
 the
 house
 water
@@ -35451,8 +35451,8 @@ for
 feet
 not
 you gave
-however
 with her
+however
 -
 tears
 she wet
@@ -35468,8 +35468,8 @@ A kiss
 to Me
 not
 you gave
-however
 she herself
+however
 from
 which [time]
 I came in
@@ -35485,8 +35485,8 @@ head
 of Me
 not
 you did anoint
-however
 she herself
+however
 with fragrant oil
 anointed
 the
@@ -35505,14 +35505,14 @@ many
 for
 she loved
 much
-however
 to whom
+however
 little
 is forgiven
 little
 he loves
-then
 He said
+then
 to her
 Have been forgiven
 your
@@ -35532,8 +35532,8 @@ who
 even
 sins
 forgives
-then
 He said
+then
 to
 the
 woman
@@ -35565,10 +35565,10 @@ kingdom
 -
 of God
 And
-[were] with
-Him
 the
 Twelve
+[were] with
+Him
 and
 women
 certain
@@ -35607,8 +35607,8 @@ out of
 the
 means
 their own
-now
 [As] is assembling
+now
 a crowd
 great
 and
@@ -35697,19 +35697,19 @@ having
 ears
 to hear
 let him hear
-then
 Were asking
+then
 Him
 the
 disciples
 of Him
 What
-means
 this
+means
 the
 parable
-And
 -
+And
 He said
 To you
 it has been given
@@ -35720,8 +35720,8 @@ of the
 kingdom
 -
 of God
-however
 to
+however
 [the] rest
 [it is] in
 parables
@@ -35733,8 +35733,8 @@ and
 hearing
 not
 may they understand
-now
 Is
+now
 this
 the
 parable
@@ -35745,8 +35745,8 @@ the
 word
 -
 of God
-now
 Those
+now
 along
 the
 road
@@ -35769,8 +35769,8 @@ that
 not
 having believed
 they should be saved
-now
 Those
+now
 upon
 the
 rock
@@ -35796,8 +35796,8 @@ in
 time
 of testing
 fall away
-now
 That
+now
 into
 the
 thorns
@@ -35820,8 +35820,8 @@ are choked
 and
 not
 do mature
-now
 That
+now
 in
 the
 good
@@ -35842,8 +35842,8 @@ and
 bring forth fruit
 by
 perseverance
-now
 No one
+now
 a lamp
 having lighted
 covers
@@ -35863,8 +35863,8 @@ entering in
 may see
 the
 light
-for
 Nothing
+for
 is
 hidden
 which
@@ -35881,30 +35881,30 @@ and
 to
 light
 come
-therefore
 Take heed
+therefore
 how
 you hear
-for
--
 whoever
+-
+for
 might have
 will be given
 to him
 and
--
 whoever
+-
 not
 might have
 even
 what
-to have
 he seems
+to have
 will be taken away
 from
 him
-then
 Came
+then
 to
 Him
 the
@@ -35921,8 +35921,8 @@ to Him
 because of
 the
 crowd
-also
 It was told
+also
 Him
 The
 mother
@@ -35934,10 +35934,10 @@ of You
 are standing
 outside
 to see
-You
 wanting
-But
+You
 -
+But
 answering
 He said
 to
@@ -35957,8 +35957,8 @@ of God
 are hearing
 and
 doing
-then
 It came to pass
+then
 on
 one
 of the
@@ -35984,8 +35984,8 @@ of the
 lake
 And
 they launched out
-then
 Sailing
+then
 of them
 He fell asleep
 And
@@ -35999,16 +35999,16 @@ and
 they were being swamped
 and
 were in danger
-then
 Having come to [Him]
+then
 they awoke
 Him
 saying
 Master
 Master
 we are perishing
-And
 -
+And
 having arisen
 He rebuked
 the
@@ -36023,31 +36023,31 @@ they ceased
 and
 there was
 a calm
-then
 He said
+then
 to them
 Where is
 the
 faith
 of you
-then
 Having been afraid
+then
 they marveled
 saying
 to
 one another
-then
 Who
+then
 this
 is
 that
 even
 the
 winds
+He commands
 and
 the
 water
-He commands
 and
 they obey
 Him
@@ -36063,9 +36063,9 @@ is
 opposite
 -
 Galilee
+Having gone forth
 then
 He
-Having gone forth
 upon
 the
 land
@@ -36092,8 +36092,8 @@ but
 in
 the
 tombs
-then
 Having seen
+then
 -
 Jesus
 having cried out
@@ -36118,8 +36118,8 @@ of You
 not
 me
 You might torment
-for
 He was commanding
+for
 the
 spirit
 -
@@ -36128,8 +36128,8 @@ to come out
 from
 the
 man
-for
 Many
+for
 times
 it had seized
 him
@@ -36150,8 +36150,8 @@ demon
 into
 the
 deserts
-now
 Asked
+now
 him
 -
 Jesus
@@ -36159,8 +36159,8 @@ What
 your
 name
 is
-And
 -
+And
 he said
 Legion
 because
@@ -36180,8 +36180,8 @@ into
 the
 abyss
 to go away
-now
 There was
+now
 there
 a herd
 of pigs
@@ -36202,10 +36202,10 @@ to enter
 and
 He allowed
 them
+Having gone out
 then
 the
 demons
-Having gone out
 from
 the
 man
@@ -36225,10 +36225,10 @@ the
 lake
 and
 was drowned
+Having seen
 then
 those
 feeding [them]
-Having seen
 that
 having taken place
 they fled
@@ -36241,8 +36241,8 @@ and
 to
 the
 country
-then
 They went out
+then
 to see
 that
 having taken place
@@ -36271,8 +36271,8 @@ feet
 of Jesus
 And
 they were afraid
-then
 Related
+then
 to them
 those
 having seen [it]
@@ -36282,6 +36282,7 @@ the [one]
 having been possessed by demons
 And
 asked
+Him
 all
 the
 multitude
@@ -36289,7 +36290,6 @@ of the
 surrounding region
 of the
 Gerasenes
-Him
 to depart
 from
 them
@@ -36297,14 +36297,14 @@ because
 with fear
 great
 they were seized
-now
 He
+now
 having entered
 into
 the boat
 turned back
-however
 Was begging
+however
 Him
 the
 man
@@ -36316,8 +36316,8 @@ demons
 to be [taken]
 with
 Him
-however
 He sent away
+however
 him
 saying
 Return
@@ -36344,8 +36344,8 @@ had done
 for him
 -
 Jesus
-then
 When
+then
 -
 returned
 -
@@ -36354,9 +36354,9 @@ received
 Him
 the
 crowd
+they were
 for
 all
-they were
 looking for
 Him
 And
@@ -36388,16 +36388,16 @@ of him
 because
 daughter
 an only
+was
+to him
 about
 years [old]
 twelve
-was
-to him
 and
 she
 was dying
-then
 As
+then
 -
 went
 He
@@ -36444,8 +36444,8 @@ Who [is]
 the [one]
 having touched
 Me
-however
 Were denying [it]
+however
 all
 said
 -
@@ -36457,24 +36457,24 @@ surround
 You
 and
 press in
-But
 -
+But
 Jesus
 said
 Touched
 Me
 someone
-for
 I
+for
 know
 power
 has gone out
 from
 Me
+Having seen
 then
 the
 woman
-Having seen
 that
 not
 she was hid
@@ -36497,8 +36497,8 @@ and
 how
 she was healed
 immediately
-And
 -
+And
 He said
 to her
 Daughter
@@ -36528,8 +36528,8 @@ no longer
 trouble
 the
 Teacher
-But
 -
+But
 Jesus
 having heard
 answered
@@ -36540,8 +36540,8 @@ only
 believe
 and
 she will be saved
-then
 Having entered
+then
 into
 the
 house
@@ -36566,14 +36566,14 @@ child
 and
 the
 mother
+They were weeping
 now
 all
-They were weeping
 and
 mourning for
 her
-But
 -
+But
 He said
 Not
 weep
@@ -36587,8 +36587,8 @@ Him
 knowing
 that
 she was dead
-now
 He
+now
 having taken hold
 of the
 hand
@@ -36616,16 +36616,16 @@ were amazed
 the
 parents
 of her
-and
 -
+and
 He instructed
 them
 no one
 to tell
 what
 had happened
-then
 Having called together
+then
 the
 Twelve
 He gave
@@ -36673,9 +36673,9 @@ two
 tunics
 to have
 And
--
 into
 whatever
+-
 house
 you might enter
 there
@@ -36684,8 +36684,8 @@ and
 from there
 go forth
 And
--
 as many as
+-
 not
 might receive
 you
@@ -36705,8 +36705,8 @@ as
 a testimony
 against
 them
-then
 Going forth
+then
 they were passing
 through
 the
@@ -36715,8 +36715,8 @@ proclaiming the gospel
 and
 healing
 everywhere
-now
 Heard of
+now
 Herod
 the
 Tetrarch
@@ -36735,28 +36735,28 @@ John
 has been raised
 out from
 [the] dead
-also
 by
 some
+also
 that
 Elijah
 had appeared
-also
 by others
+also
 that
 a prophet
 one
 of the
 ancients
 had arisen
-then
 Said
+then
 Herod
 John
 I
 beheaded
-however
 who
+however
 is
 this
 concerning
@@ -36785,8 +36785,8 @@ into
 a town
 called
 Bethsaida
-now
 The
+now
 crowds
 having known [it]
 followed
@@ -36804,16 +36804,16 @@ of God
 and
 those
 need
-of healing
 having
+of healing
 He was healing
-And
 -
+And
 the day
 began
 to decline
-then
 having come
+then
 the
 Twelve
 said
@@ -36839,16 +36839,16 @@ in
 a desolate
 place
 we are
-now
 He said
+now
 to
 them
 Give
 to them
 to eat
 you
-But
 -
+But
 they said
 Not
 there are
@@ -36871,13 +36871,13 @@ the
 people
 this
 food
-for
 They were
+for
 about
-five thousand
 men
-then
+five thousand
 He said
+then
 to
 the
 disciples
@@ -36894,8 +36894,8 @@ so
 and
 made sit down
 all
-then
 Having taken
+then
 the
 five
 loaves
@@ -36936,8 +36936,8 @@ it came to pass
 as
 -
 was
-praying
 He
+praying
 in
 solitary
 were with
@@ -36950,47 +36950,47 @@ them
 saying
 Whom
 Me
-to be
 the
 crowds
 do pronounce
-And
+to be
 -
+And
 answering
 they said
 John
 the
 Baptist
+others
 also
-others
 Elijah
-now
 others
+now
 that
 a prophet
 one
 of the
 ancients
 has arisen
-then
 He said
+then
 to them
-however
 You
+however
 whom
 Me
-to be
 do pronounce
-then
+to be
 Peter
+then
 answering
 said
 The
 Christ
 -
 of God
-And
 -
+And
 having strictly warned
 them
 He instructed [them]
@@ -37022,8 +37022,8 @@ on the
 third
 day
 to be raised
-then
 He was saying
+then
 to
 all
 If
@@ -37044,9 +37044,9 @@ day
 and
 let him follow
 Me
+Whoever
 for
 -
-Whoever
 might desire
 the
 life
@@ -37054,9 +37054,9 @@ of him
 to save
 will lose
 it
+whoever
 however
 -
-whoever
 might lose
 the
 life
@@ -37066,22 +37066,22 @@ me
 he
 will save
 it
-for
 What
+for
 is profited
 a man
 having gained
 the
 world
 whole
-now
 himself
+now
 having destroyed
 or
 having suffered the loss of
+Whoever
 for
 -
-Whoever
 may have been ashamed of
 Me
 and
@@ -37107,8 +37107,8 @@ and
 of the
 holy
 angels
-now
 I say
+now
 to you
 truthfully
 there are
@@ -37128,8 +37128,8 @@ the
 kingdom
 -
 of God
-now
 It came to pass
+now
 after
 the
 sayings
@@ -37187,12 +37187,12 @@ the
 going out
 of Him
 which
+He was about
 to accomplish
 in
 Jerusalem
-He was about
-And
 -
+And
 Peter
 and
 those
@@ -37201,8 +37201,8 @@ him
 were
 heavy
 with sleep
-then
 having awoken fully
+then
 they saw
 the
 glory
@@ -37250,8 +37250,8 @@ not
 knowing
 what
 he is saying
-then
 These things
+then
 as he
 is saying
 came
@@ -37259,8 +37259,8 @@ a cloud
 and
 was overshadowing
 them
-then
 they feared
+then
 in
 the
 entering
@@ -37306,8 +37306,8 @@ days
 anything
 of what
 they had seen
-then
 It came to pass
+then
 the
 next
 day
@@ -37371,8 +37371,8 @@ it
 and
 not
 they were able
-now
 Answering
+now
 -
 Jesus
 said
@@ -37394,8 +37394,8 @@ here
 the
 son
 of you
-then
 While
+then
 he was coming near
 of him
 threw down
@@ -37404,8 +37404,8 @@ the
 demon
 and
 threw [him] into convulsions
-then
 Rebuked
+then
 -
 Jesus
 the
@@ -37422,16 +37422,16 @@ him
 to
 father
 of him
-then
 Were astonished
+then
 all
 at
 the
 majesty
 -
 of God
-however
 Of all
+however
 wondering
 at
 all
@@ -37451,8 +37451,8 @@ of you
 the
 words
 these
-for
 -
+for
 the Son
 -
 of Man
@@ -37461,8 +37461,8 @@ to be betrayed
 into
 [the] hands
 of men
-But
 -
+But
 they understand not
 the
 saying
@@ -37484,19 +37484,19 @@ concerning
 the
 saying
 this
-then
 Came up
+then
+an argument
 among
 them
-an argument
 this
--
 who
-of them
+-
 might be
 greatest
-But
+of them
 -
+But
 Jesus
 having known
 the
@@ -37513,8 +37513,8 @@ Him
 and
 He said
 to them
-if
 Whoever
+if
 shall receive
 this
 -
@@ -37526,16 +37526,16 @@ of Me
 Me
 receives
 and
--
 whoever
+-
 Me
 shall receive
 receives
 the [One]
 having sent
 Me
-for
 The [one]
+for
 least
 among
 all
@@ -37544,8 +37544,8 @@ being
 he
 shall be
 great
-now
 Answering
+now
 -
 John
 said
@@ -37566,15 +37566,15 @@ not
 he follows
 with
 us
-then
 Said
+then
 to
 him
 Jesus
 Not
 forbid
-for
 whoever
+for
 not
 is
 against
@@ -37582,8 +37582,8 @@ you
 for
 you
 is
-then
 It came to pass
+then
 in
 the
 completing
@@ -37628,8 +37628,8 @@ was [as]
 going
 toward
 Jerusalem
-now
 Having seen [it]
+now
 the
 disciples
 James
@@ -37647,8 +37647,8 @@ heaven
 and
 to consume
 them
-then
 Having turned
+then
 He rebuked
 them
 And
@@ -37668,8 +37668,8 @@ to
 Him
 I will follow
 You
-if
 wherever
+if
 You may go
 And
 said
@@ -37686,8 +37686,8 @@ birds
 of the
 air
 nests
-but
 -
+but
 the Son
 -
 of Man
@@ -37697,14 +37697,14 @@ where
 the
 head
 He might lay
-then
 He said
+then
 to
 another
 Follow
 Me
-But
 -
+But
 he said
 allow
 me
@@ -37714,8 +37714,8 @@ to bury
 the
 father
 of me
-then
 He said
+then
 to him
 Leave
 the
@@ -37724,23 +37724,23 @@ to bury
 -
 their own
 dead
-however
 you
+however
 having gone forth
 declare
 the
 kingdom
 -
 of God
-then
 Said
+then
 also
 another
 I will follow
 You
 Lord
-however
 first
+however
 allow
 me
 to bid farewell
@@ -37749,8 +37749,8 @@ at
 the
 home
 of me
-then
 Said
+then
 to
 him
 -
@@ -37772,8 +37772,8 @@ for the
 kingdom
 -
 of God
-now
 After
+now
 these things
 appointed
 the
@@ -37797,20 +37797,20 @@ where
 was about
 He Himself
 to go
-then
 He was saying
+then
 to
 them
-indeed
 The
+indeed
 harvest [is]
 plentiful
-but
 -
+but
 the workmen
 [are] few
-therefore
 Pray earnestly to
+therefore
 the
 Lord
 of the
@@ -37844,12 +37844,12 @@ on
 the
 road
 greet
-now
--
 Into
 whatever
-house
+now
+-
 you might enter
+house
 first
 say
 Peace
@@ -37868,15 +37868,15 @@ him
 the
 peace
 of you
-however
 if
+however
 not so
 to
 you
 it will return
-now
 In
 the same
+now
 -
 house
 remain
@@ -37886,8 +37886,8 @@ drinking
 the things [supplied]
 by
 them
-for
 worthy [is]
+for
 the
 workman
 of the
@@ -37900,9 +37900,9 @@ house
 to
 house
 And
--
 into
 whatever
+-
 city
 you might enter
 and
@@ -37928,10 +37928,10 @@ the
 kingdom
 -
 of God
-now
--
 Into
 whatever
+now
+-
 city
 you might enter
 and
@@ -38001,8 +38001,8 @@ miracles
 having taken place
 in
 you
--
 long ago
+-
 in
 sackcloth
 and
@@ -38021,9 +38021,9 @@ judgment
 than
 for you
 And
+you
 Capernaum
 not
-you
 to
 heaven
 will you be lifted up
@@ -38042,16 +38042,16 @@ rejecting
 you
 Me
 rejects
-now
 the [one]
+now
 Me
 rejecting
 rejects
 the [One]
 having sent
 Me
-then
 Returned
+then
 the
 seventy
 with
@@ -38067,8 +38067,8 @@ through
 the
 name
 of You
-then
 He said
+then
 to them
 I beheld
 -
@@ -38113,8 +38113,8 @@ the
 spirits
 to you
 are subjected
-however
 rejoice
+however
 that
 the
 names
@@ -38191,12 +38191,12 @@ not
 the
 Son
 and
-if
 to whom
-to reveal [Him]
+if
 might resolve
 the
 Son
+to reveal [Him]
 And
 having turned
 to
@@ -38212,8 +38212,8 @@ eyes
 seeing
 what
 you see
-for
 I say
+for
 to you
 that
 many
@@ -38249,8 +38249,8 @@ having done
 life
 eternal
 will I inherit
-And
 -
+And
 He said
 to
 him
@@ -38261,8 +38261,8 @@ what
 has been written
 How
 read you
-And
 -
+And
 answering
 he said
 You shall love
@@ -38299,8 +38299,8 @@ neighbor
 of you
 as
 yourself
-then
 He said
+then
 to him
 Correctly
 you have answered
@@ -38308,8 +38308,8 @@ This
 do
 and
 you will live
-But
 -
+But
 desiring
 to justify
 himself
@@ -38346,9 +38346,9 @@ having inflicted
 went away
 having left [him]
 half dead
-now
 By
 chance
+now
 a priest
 certain
 was going down
@@ -38360,8 +38360,8 @@ and
 having seen
 him
 he passed by on the opposite side
-now
 Likewise
+now
 also
 a Levite
 to
@@ -38371,8 +38371,8 @@ having come
 and
 having seen [him]
 passed by on the opposite side
-however
 A Samaritan
+however
 one
 journeying
 came
@@ -38391,8 +38391,8 @@ pouring on
 oil
 and
 wine
-then
 having put
+then
 him
 on
 the
@@ -38420,9 +38420,9 @@ said
 Take care
 of him
 and
+whatever
 more
 -
-whatever
 you might expend
 of me
 on
@@ -38431,21 +38431,21 @@ returning
 I
 will repay
 you
-seems
-to you
 Which
 of these
 -
 three
-to have been
 a neighbor
+seems
+to you
+to have been
 of the [one]
 having fallen
 among
 the
 robbers
-And
 -
+And
 he said
 The [one]
 having shown
@@ -38453,8 +38453,8 @@ having shown
 compassion
 toward
 him
-then
 Said
+then
 to him
 -
 Jesus
@@ -38463,8 +38463,8 @@ and
 you
 do
 likewise
-now
 In
+now
 the
 proceeding
 of them
@@ -38473,8 +38473,8 @@ entered
 into
 a village
 certain
-now
 a woman
+now
 certain
 named
 Martha
@@ -38501,15 +38501,15 @@ was listening to
 the
 word
 of Him
-But
 -
+But
 Martha
 was distracted
 about
 much
 service
-now
 having come up
+now
 she said
 Lord
 not
@@ -38521,16 +38521,16 @@ sister
 of me
 alone
 me
-to serve
 has left
-therefore
+to serve
 Speak
+therefore
 to her
 that
 me
 she might help
-now
 Answering
+now
 said
 to her
 the
@@ -38542,14 +38542,14 @@ and
 troubled
 about
 many things
-however
 one thing
-necessary
+however
 is
+necessary
 and
 one thing
-for
 Mary
+for
 the
 good
 portion
@@ -38563,11 +38563,11 @@ it came to pass
 in
 -
 being
-praying
 His
 in
 a place
 certain
+praying
 when
 He ceased
 said
@@ -38588,8 +38588,8 @@ taught
 the
 disciples
 of him
-then
 He said
+then
 to them
 When
 you pray
@@ -38619,8 +38619,8 @@ us
 the
 sins
 of us
-for
 also
+for
 ourselves
 we forgive
 everyone
@@ -38708,8 +38708,8 @@ because of
 being
 friend
 of him
-yet
 because of
+yet
 the
 persistence
 of him
@@ -38732,8 +38732,8 @@ knock
 and
 it will be opened
 to you
-for
 Everyone
+for
 -
 asking
 receives
@@ -38745,8 +38745,8 @@ and
 to the [one]
 knocking
 it will be opened
-now
 Which
+now
 of
 you
 who [is]
@@ -38768,8 +38768,8 @@ an egg
 will he give
 to him
 a scorpion
-therefore
 If
+therefore
 you
 evil
 being
@@ -38801,8 +38801,8 @@ and
 it
 was
 mute
-then
 it came to pass
+then
 the
 demon
 having gone out
@@ -38813,8 +38813,8 @@ And
 marveled
 the
 crowds
-then
 Some
+then
 of
 them
 said
@@ -38827,8 +38827,8 @@ demons
 He casts out
 the
 demons
-now
 Others
+now
 testing
 a sign
 from
@@ -38836,8 +38836,8 @@ heaven
 were seeking
 from
 Him
-now
 He
+now
 knowing
 their
 -
@@ -38855,8 +38855,8 @@ a house
 against
 a house
 falls
-now
 If
+now
 also
 -
 Satan
@@ -38876,8 +38876,8 @@ cast out
 I
 the
 demons
-now
 If
+now
 I
 by
 Beelzebul
@@ -38896,8 +38896,8 @@ they
 of you
 judges
 will be
-however
 If
+however
 by
 [the] finger
 of God
@@ -38927,8 +38927,8 @@ are
 the
 possessions
 of him
-however
 when
+however
 [one] stronger
 than he
 having come upon [him]
@@ -39015,16 +39015,16 @@ that
 worse
 than the
 first
-then
 It came to pass
+then
 in
 -
 saying
 His
 these things
 having lifted up
-[her] voice
 one
+[her] voice
 a woman
 from
 the
@@ -39041,8 +39041,8 @@ and
 [the] breasts
 at which
 You nursed
-then
 He
+then
 said
 No rather
 blessed [are]
@@ -39054,8 +39054,8 @@ word
 of God
 and
 keeping it
-now
 Of the
+now
 crowds
 being pressed around together
 He began
@@ -39078,8 +39078,8 @@ not
 the
 sign
 of Jonah
-for
 As
+for
 was
 Jonah
 to the
@@ -39191,8 +39191,8 @@ body
 of you
 light
 is
-however
 when
+however
 evil
 it be
 also
@@ -39200,8 +39200,8 @@ the
 body
 of you
 [is] dark
-therefore
 Take heed
+therefore
 lest
 the
 light
@@ -39210,8 +39210,8 @@ in
 you
 darkness
 be
-therefore
 If
+therefore
 the
 body
 of you
@@ -39233,8 +39233,8 @@ lamp
 shining
 might light
 you
-then
 In
+then
 the
 speaking
 asked
@@ -39244,11 +39244,11 @@ that
 He would dine
 with
 him
-then
 having entered
+then
 He reclined
-And
 -
+And
 the Pharisee
 having seen [it]
 marveled
@@ -39259,8 +39259,8 @@ He washed
 before
 the
 dinner
-then
 Said
+then
 the
 Lord
 to
@@ -39277,8 +39277,8 @@ and
 of the
 dish
 you cleanse
-and
 -
+and
 the inside
 of you
 is full
@@ -39330,9 +39330,9 @@ the
 love
 -
 of God
+These things
 also
 it behooved [you]
-These things
 to do
 and those
 not
@@ -39371,8 +39371,8 @@ walking
 above
 not
 have known [it]
-now
 Answering
+now
 one
 of the
 lawyers
@@ -39384,8 +39384,8 @@ saying
 also
 us
 You insult
-And
 -
+And
 He said
 Also
 to you
@@ -39416,8 +39416,8 @@ the
 tombs
 of the
 prophets
-yet
 -
+yet
 the fathers
 of you
 killed
@@ -39433,12 +39433,12 @@ of the
 fathers
 of you
 For
-indeed
 they
+indeed
 killed
 them
-now
 you
+now
 build [their tombs]
 Because of
 this
@@ -39566,10 +39566,10 @@ is
 hypocrisy
 of the
 Pharisees
-now
 Nothing
-is
+now
 concealed up
+is
 which
 not
 will be revealed
@@ -39602,8 +39602,8 @@ will be proclaimed
 upon
 the
 housetops
-now
 I say
+now
 to you
 those
 friends
@@ -39623,8 +39623,8 @@ being able
 more abundantly
 anything
 to do
-however
 I will show
+however
 you
 whom
 you should fear
@@ -39674,12 +39674,12 @@ fear
 than many
 sparrows
 you are more valuable
-now
 I say
+now
 to you
 everyone
--
 who
+-
 will confess
 in
 Me
@@ -39699,8 +39699,8 @@ the
 angels
 -
 of God
-now
 the [one]
+now
 having denied
 Me
 before
@@ -39724,8 +39724,8 @@ Son
 of Man
 it will be forgiven
 him
-however
 the [one]
+however
 against
 the
 Holy
@@ -39733,8 +39733,8 @@ Spirit
 having blasphemed
 not
 will be forgiven
-then
 When
+then
 they bring
 you
 before
@@ -39755,8 +39755,8 @@ you shall reply in defense
 or
 what
 you should say
-for
 the
+for
 Holy
 Spirit
 will teach
@@ -39766,10 +39766,10 @@ same
 the
 hour
 what
-to say
 it behooves [you]
-then
+to say
 Said
+then
 one
 from
 the
@@ -39785,8 +39785,8 @@ with
 me
 the
 inheritance
-And
 -
+And
 He said
 to him
 Man
@@ -39798,8 +39798,8 @@ or
 partitioner
 over
 you
-then
 He said
+then
 to
 them
 Beware
@@ -39822,8 +39822,8 @@ of
 that which
 possesses
 of him
-then
 He spoke
+then
 a parable
 to
 them
@@ -39831,9 +39831,9 @@ saying
 Of a man
 certain
 rich
+brought forth abundantly
 the
 ground
-brought forth abundantly
 And
 he was reasoning
 within
@@ -39887,8 +39887,8 @@ take your rest
 eat
 drink
 be merry
-then
 Said
+then
 to him
 -
 God
@@ -39902,8 +39902,8 @@ of you
 is required
 of
 you
-now
 what
+now
 you did prepare
 to whom
 will [it] be
@@ -39916,8 +39916,8 @@ not
 toward
 God
 being rich
-then
 He said
+then
 to
 the
 disciples
@@ -39937,8 +39937,8 @@ for the
 body
 what
 you should put on
-for
 The
+for
 life
 more than
 is
@@ -39974,8 +39974,8 @@ you
 are valuable
 than the
 birds
-now
 Which
+now
 of
 you
 being anxious
@@ -39986,8 +39986,8 @@ lifespan
 of him
 to add
 one hour
-then
 If
+then
 not even
 [the] least
 you are able [to do]
@@ -40004,8 +40004,8 @@ Not
 do they labor
 nor
 do they spin
-however
 I say
+however
 to you
 not even
 Solomon
@@ -40018,8 +40018,8 @@ was arrayed
 as
 one
 of these
-however
 If
+however
 in [the]
 field
 the
@@ -40051,16 +40051,16 @@ you might drink
 and
 not
 be in suspense
-for
 these things
+for
 all
 the
 nations
 of the
 world
 seek after
-now
 of you
+now
 the
 Father
 knows
@@ -40114,8 +40114,8 @@ does draw near
 nor
 moth
 destroy
-for
 Where
+for
 is
 the
 treasure
@@ -40160,11 +40160,11 @@ the
 servants
 those
 whom
-watching
 having come
 the
 master
 will find
+watching
 Truly
 I say
 to you
@@ -40193,8 +40193,8 @@ thus
 blessed
 are
 those
-however
 This
+however
 know
 that
 if
@@ -40206,8 +40206,8 @@ hour
 the
 thief
 is coming
--
 not
+-
 he would have allowed
 to be broken into
 the
@@ -40227,8 +40227,8 @@ Son
 -
 of Man
 comes
-then
 Said
+then
 -
 Peter
 Lord
@@ -40246,8 +40246,8 @@ And
 said
 the
 Lord
-then
 Who
+then
 is
 the
 faithful
@@ -40273,13 +40273,13 @@ the
 servant
 that
 whom
-doing
-thus
 having come
 the
 master
 of him
 will find
+doing
+thus
 Of a truth
 I say
 to you
@@ -40291,8 +40291,8 @@ possessions
 of him
 he will set
 him
-however
 If
+however
 should say
 the
 servant
@@ -40314,8 +40314,8 @@ men-servants
 and
 the
 maid-servants
-also
 to eat
+also
 and
 to drink
 and
@@ -40348,8 +40348,8 @@ with
 the
 unbelievers
 will appoint
-now
 That
+now
 -
 servant
 the [one]
@@ -40370,18 +40370,18 @@ will
 of him
 will be beaten with
 many [blows]
-however
 the [one]
+however
 not
 having known
-however
 having done
+however
 [things] worthy
 of stripes
 will be beaten with
 few
-now
 Everyone
+now
 to whom
 has been given
 much
@@ -40396,8 +40396,8 @@ much
 the more
 will they ask of
 him
-I came
 Fire
+I came
 to cast
 upon
 the
@@ -40408,8 +40408,8 @@ I wish
 if
 already
 it be kindled
-however
 Baptism
+however
 I have
 to be baptized [with]
 and
@@ -40420,21 +40420,20 @@ while
 it should be accomplished
 Think you
 that
-I came
 peace
+I came
 to give
 on
 the
 earth
+No
 I say
 to you
-No
 but
 rather
 division
-for
 There will be
-divided
+for
 from
 -
 now
@@ -40442,6 +40441,7 @@ five
 in
 one
 house
+divided
 three
 against
 two
@@ -40475,8 +40475,8 @@ daughter-in-law
 against
 -
 mother-in-law
-now
 He was saying
+now
 also
 to the
 crowds
@@ -40512,17 +40512,17 @@ earth
 and
 of the
 sky
-to discern
 you know [how]
-however
+to discern
 the
 time
+however
 this
 how
 not
 to discern
-now
 Why
+now
 even
 for
 yourselves
@@ -40530,8 +40530,8 @@ not
 judge you
 what [is]
 right
-for
 As
+for
 you are going
 with
 the
@@ -40580,8 +40580,8 @@ the
 last
 lepton
 you shall have paid
-now
 Were present
+now
 some
 at
 the same
@@ -40667,8 +40667,8 @@ you repent
 all
 likewise
 you will perish
-then
 He was speaking
+then
 this
 -
 parable
@@ -40689,8 +40689,8 @@ it
 and
 not
 did find [any]
-then
 He said
+then
 to
 the
 vinedresser
@@ -40717,8 +40717,8 @@ even
 the
 ground
 should it use up
-And
 -
+And
 answering
 he says
 to him
@@ -40737,20 +40737,20 @@ it
 and
 put [in]
 manure
-indeed
 and if
+indeed
 it should bear
 fruit
 in
 the [time]
 so be it
-however
 If
+however
 not
 you will cut down
 it
-now
 He was
+now
 teaching
 in
 one
@@ -40763,8 +40763,8 @@ And
 behold
 a woman
 a spirit
-of infirmity
 having
+of infirmity
 years
 ten [and]
 eight
@@ -40778,8 +40778,8 @@ to lift up herself
 to
 the
 full
-then
 Having seen
+then
 her
 -
 Jesus
@@ -40804,8 +40804,8 @@ and
 began to glorify
 -
 God
-now
 Answering
+now
 the
 ruler of the synagogue
 indignant
@@ -40826,9 +40826,9 @@ in
 which
 it behooves
 to work
-therefore
 in
 these
+therefore
 coming
 be healed
 and
@@ -40837,19 +40837,19 @@ on the
 day
 of the
 Sabbath
-therefore
 Answered
+therefore
 him
 the
 Lord
 and
 said
 Hypocrites
-not
 Each one
 of you
 on the
 Sabbath
+not
 does he untie
 the
 ox
@@ -40863,9 +40863,8 @@ stall
 and
 having led [it] away
 give [it] to drink
-now
-behold
 This
+now
 a daughter
 of Abraham
 being
@@ -40873,10 +40872,13 @@ whom
 has bound
 -
 Satan
+behold
 ten
 and
 eight
 years
+not
+ought [she]
 to be loosed
 from
 the
@@ -40886,8 +40888,6 @@ on the
 day
 of the
 Sabbath
-not
-ought [she]
 And
 these things
 on saying
@@ -40910,8 +40910,8 @@ that
 were being done
 by
 Him
-then
 He was saying
+then
 To what
 like
 is
@@ -40986,8 +40986,8 @@ progress
 making
 toward
 Jerusalem
-then
 Said
+then
 one
 to Him
 Lord
@@ -40995,8 +40995,8 @@ if
 [are] few
 those
 being saved
-And
 -
+And
 He said
 to
 them
@@ -41007,17 +41007,17 @@ the
 narrow
 door
 for
+many
 I say
 to you
-many
 will seek
 to enter in
 and
 not
 will be able
 From
--
 what
+-
 shall have risen up
 the
 master of the house
@@ -41099,8 +41099,8 @@ the
 kingdom
 -
 of God
-however
 you
+however
 are being cast
 out
 And
@@ -41226,8 +41226,8 @@ to you
 the
 house
 of you
-now
 I say
+now
 to you
 no
 not
@@ -41268,8 +41268,8 @@ And
 behold
 a man
 certain
-with dropsy
 there was
+with dropsy
 before
 Him
 And
@@ -41289,8 +41289,8 @@ Sabbath
 to heal
 or
 not
-But
 -
+But
 they were silent
 And
 having taken hold [of him]
@@ -41325,8 +41325,8 @@ they were able
 to reply
 to
 these things
-then
 He was speaking
+then
 to
 those
 having been invited
@@ -41419,8 +41419,8 @@ the [one]
 humbling
 himself
 will be exalted
-then
 He was saying
+then
 also
 to the [one]
 having invited
@@ -41473,19 +41473,19 @@ nothing
 they have
 to repay
 you
-for
 It will be recompensed
+for
 to you
 in
 the
 resurrection
 of the
 righteous
+Having heard
 then
 one
 of those
 reclining with [Him]
-Having heard
 these things
 he said
 to Him
@@ -41498,8 +41498,8 @@ the
 kingdom
 -
 of God
-But
 -
+But
 He said
 to him
 A man
@@ -41555,8 +41555,8 @@ another
 said
 Yoke
 of oxen
-five
 I have bought
+five
 and
 I am going
 to prove
@@ -41647,8 +41647,8 @@ may be filled
 of me
 the
 house
-for
 I say
+for
 to you
 that
 not one
@@ -41661,8 +41661,8 @@ will taste
 of me
 the
 supper
-then
 Were going with
+then
 Him
 crowds
 great
@@ -41697,8 +41697,8 @@ brothers
 and
 the
 sisters
-and
 yes
+and
 even
 the
 life
@@ -41723,14 +41723,14 @@ is able
 to be
 My
 disciple
-for
-not
 Which
+for
 of
 you
 desiring
 a tower
 to build
+not
 first
 having sat down
 counts
@@ -41768,7 +41768,6 @@ not
 was able
 to finish
 Or
-not
 what
 king
 proceeding
@@ -41777,6 +41776,7 @@ king
 to engage
 in
 war
+not
 having sat down
 first
 will take counsel
@@ -41794,8 +41794,8 @@ thousand
 coming
 against
 him
-now
 If
+now
 not
 still
 of him
@@ -41807,8 +41807,8 @@ he asks
 -
 for
 peace
-therefore
 So
+therefore
 every one
 of
 you
@@ -41824,12 +41824,12 @@ is able
 to be
 My
 disciple
-therefore
 Good [is]
+therefore
 the
 salt
-however
 if
+however
 even
 the
 salt
@@ -41853,10 +41853,10 @@ having
 ears
 to hear
 let him hear
-now
 Were
-drawing near
+now
 to Him
+drawing near
 all
 the
 tax collectors
@@ -41867,8 +41867,8 @@ to hear
 Him
 And
 were grumbling
-both
 the
+both
 Pharisees
 and
 the
@@ -41881,8 +41881,8 @@ receives
 and
 eats with
 them
-then
 He spoke
+then
 to
 them
 the
@@ -41968,14 +41968,14 @@ righteous ones
 who
 no
 need
-of repentance
 have
+of repentance
 Or
 what
 woman
 drachmas
-ten
 having
+ten
 if
 she should lose
 drachma
@@ -42023,8 +42023,8 @@ over
 one
 sinner
 repenting
-then
 He said
+then
 A man
 certain
 had
@@ -42045,8 +42045,8 @@ falling [to me]
 portion
 of the
 property
-And
 -
+And
 he divided
 between them
 the
@@ -42073,8 +42073,8 @@ estate
 of him
 living
 prodigally
-however
 Having spent
+however
 of him
 all
 there arose
@@ -42123,9 +42123,9 @@ and
 no one
 was giving
 to him
-however
 To
 himself
+however
 having come
 he was saying
 How many
@@ -42135,8 +42135,8 @@ father
 of me
 have abundance
 of bread
-however
 I
+however
 with hunger
 here
 am perishing
@@ -42177,8 +42177,8 @@ to
 the
 father
 of himself
-now
 Still
+now
 he
 far
 being distant
@@ -42199,8 +42199,8 @@ of him
 and
 kissed
 him
-then
 Said
+then
 the
 son
 to him
@@ -42218,8 +42218,8 @@ worthy
 to be called
 son
 of you
-then
 Said
+then
 the
 father
 to
@@ -42272,8 +42272,8 @@ is found
 And
 they began
 to be merry
-now
 Was
+now
 the
 son
 of him
@@ -42297,12 +42297,12 @@ one
 of the
 servants
 he began inquiring
--
 what
+-
 might be
 these things
-And
 -
+And
 he said
 to him
 -
@@ -42323,21 +42323,21 @@ because
 in good health
 him
 he has received
-however
 He was angry
+however
 and
 not
 was willing
 to go in
-And
 -
+And
 the father
 of him
 having gone
 was begging
 him
-And
 -
+And
 answering
 he said
 to
@@ -42363,8 +42363,8 @@ the
 friends
 of me
 I might make merry
-however
 When
+however
 the
 son
 of you
@@ -42382,8 +42382,8 @@ for him
 the
 fattened
 calf
-And
 -
+And
 he said
 to him
 Son
@@ -42398,8 +42398,8 @@ that
 [is] mine
 yours
 is
-however
 To make merry
+however
 and
 to rejoice
 it was fitting
@@ -42416,8 +42416,8 @@ and
 he was lost
 and
 is found
-now
 He was saying
+now
 also
 to
 the
@@ -42454,13 +42454,13 @@ account
 of the
 stewardship
 of you
-for
 not
+for
 you are able
 any longer
 to manage
-then
 Said
+then
 within
 himself
 the
@@ -42513,14 +42513,14 @@ owe you
 to
 master
 of me
-And
 -
+And
 he said
 A hundred
 baths
 of oil
-And
 -
+And
 he said
 to him
 Take
@@ -42535,12 +42535,12 @@ fifty
 Then
 to another
 he said
-now
 You
+now
 how much
 owe
-And
 -
+And
 he said
 A hundred
 cors
@@ -42623,8 +42623,8 @@ with
 much
 unrighteous
 is
-therefore
 If
+therefore
 in
 the
 unrighteous
@@ -42656,8 +42656,8 @@ is able
 two
 masters
 to serve
-for
 either
+for
 the
 one
 he will hate
@@ -42678,8 +42678,8 @@ God
 to serve
 and
 money
-now
 Were listening to
+now
 these things
 all
 the
@@ -42700,8 +42700,8 @@ themselves
 before
 -
 men
-but
 -
+but
 God
 knows
 the
@@ -42735,8 +42735,8 @@ everyone
 into
 it
 forces his way
-however
 Easier for
+however
 it is
 the
 heaven
@@ -42767,8 +42767,8 @@ from
 a husband
 marrying
 commits adultery
-now
 A man
+now
 certain
 there was
 rich
@@ -42781,8 +42781,8 @@ making good cheer
 every
 day
 in splendor
-now
 A poor man
+now
 certain
 named
 Lazarus
@@ -42812,8 +42812,8 @@ were licking
 the
 sores
 of him
-then
 It came to pass that
+then
 died
 the
 poor man
@@ -42827,8 +42827,8 @@ into
 the
 bosom
 of Abraham
-then
 Died
+then
 also
 the
 rich man
@@ -42885,8 +42885,8 @@ in
 the
 flame
 this
-then
 Said
+then
 Abraham
 Child
 remember
@@ -42904,12 +42904,12 @@ Lazarus
 likewise
 the [things]
 evil
-however
 Now
+however
 here
 he is comforted
-now
 you
+now
 are suffering
 And
 besides
@@ -42936,11 +42936,11 @@ from there
 to
 us
 can they pass
-then
 He said
 then
 I implore
 you
+then
 father
 that
 you would send
@@ -42951,8 +42951,8 @@ house
 of the
 father
 of me
-for
 I have
+for
 five
 brothers
 so that
@@ -42969,8 +42969,8 @@ place
 this
 -
 of torment
-however
 Says
+however
 Abraham
 They have
 Moses
@@ -42979,8 +42979,8 @@ the
 prophets
 let them hear
 them
-And
 -
+And
 he said
 No
 father
@@ -42994,8 +42994,8 @@ should go
 to
 them
 they will repent
-however
 He said
+however
 to him
 If
 Moses
@@ -43011,8 +43011,8 @@ out from
 [the] dead
 should rise
 will they be persuaded
-then
 He said
+then
 to
 the
 disciples
@@ -43024,8 +43024,8 @@ the
 stumbling blocks
 not
 to come
-but
 woe [to him]
+but
 by
 whom
 they come
@@ -43091,8 +43091,8 @@ Lord
 Add
 to us
 faith
-then
 Said
+then
 the
 Lord
 If
@@ -43101,8 +43101,8 @@ faith
 like
 a grain
 of mustard
--
 you would have said
+-
 to the
 mulberry tree
 this
@@ -43113,15 +43113,15 @@ in
 the
 sea
 and
--
 it would have obeyed
+-
 you
-now
 Which
+now
 of
 you
-having
 a servant
+having
 plowing
 or
 shepherding
@@ -43181,8 +43181,8 @@ Servants
 unworthy
 are we
 that which
-to do
 we were bound
+to do
 we have done
 And
 it came to pass
@@ -43237,8 +43237,8 @@ the
 going
 them
 they were cleansed
-then
 One
+then
 of
 them
 having seen
@@ -43265,8 +43265,8 @@ and
 he
 was
 a Samaritan
-then
 Having answered
+then
 -
 Jesus
 said
@@ -43274,8 +43274,8 @@ Not
 the
 ten
 were cleansed
-But
 -
+But
 the nine
 are where
 None
@@ -43300,8 +43300,8 @@ faith
 of you
 has cured
 you
-now
 Having been asked
+now
 by
 the
 Pharisees
@@ -43329,8 +43329,8 @@ Behold
 here
 or
 There
-for
 Behold
+for
 the
 kingdom
 -
@@ -43338,8 +43338,8 @@ of God
 in the midst
 of you
 is
-then
 He said
+then
 to
 the
 disciples
@@ -43369,8 +43369,8 @@ Not
 go forth
 nor
 follow
-for
 As
+for
 the
 lightning
 flashing
@@ -43394,9 +43394,9 @@ in
 the
 day
 of Him
+First
 however
 it behooves
-First
 Him
 many things
 to suffer
@@ -43442,8 +43442,8 @@ flood
 and
 destroyed
 all
-as
 Likewise
+as
 it came to pass
 in
 the
@@ -43455,8 +43455,8 @@ they were buying
 they were selling
 they were planting
 they were building
-then
 in that
+then
 day
 went out
 Lot
@@ -43516,8 +43516,8 @@ Remember
 the
 wife
 of Lot
-if
 Whoever
+if
 may seek
 the
 life
@@ -43526,8 +43526,8 @@ to save
 will lose
 it
 also
--
 whoever
+-
 will lose [it]
 will preserve
 it
@@ -43549,16 +43549,16 @@ the
 other
 will be left
 There will be
-grinding
 two [women]
+grinding
 at
 the
 same [place]
 The
 one
 will be taken
-and
 -
+and
 the other
 will be left
 And
@@ -43567,8 +43567,8 @@ they say
 to Him
 Where
 Lord
-And
 -
+And
 He said
 to them
 Where
@@ -43579,8 +43579,8 @@ also
 the
 vultures
 will be gathered together
-then
 He was speaking
+then
 a parable
 to them
 about
@@ -43607,8 +43607,8 @@ and
 man
 not
 respecting
-then
 A widow
+then
 there was
 in
 the
@@ -43630,9 +43630,9 @@ not
 he would
 for
 a time
-however
 afterward
 he
+however
 said
 within
 himself
@@ -43645,8 +43645,8 @@ I fear
 nor
 man
 respect
-yet
 because
+yet
 -
 causes
 me
@@ -43663,8 +43663,8 @@ end
 coming
 she exhaust
 me
-then
 Said
+then
 the
 Lord
 Hear
@@ -43674,11 +43674,11 @@ judge
 -
 unrighteous
 says
+-
 And
+God
 no
 not
--
-God
 shall execute
 the
 avenging
@@ -43717,8 +43717,8 @@ faith
 on
 the
 earth
-now
 He spoke
+now
 also
 to
 some
@@ -43773,8 +43773,8 @@ swindlers
 unrighteous
 adulterers
 or
-like
 even
+like
 this
 -
 tax collector
@@ -43786,8 +43786,8 @@ I tithe
 all things
 as many as
 I gain
-But
 -
+But
 the tax collector
 afar off
 standing
@@ -43829,13 +43829,13 @@ everyone
 exalting
 himself
 will be humbled
-however
 the [one]
+however
 humbling
 himself
 will be exalted
-then
 They were bringing
+then
 to Him
 also
 the
@@ -43843,14 +43843,14 @@ infants
 that
 them
 He might touch
-however
 having seen
+however
 the
 disciples
 were rebuking
 them
-But
 -
+But
 Jesus
 having called to [Him]
 them
@@ -43865,8 +43865,8 @@ and
 not
 do forbid
 them
-for
 of the
+for
 such
 is
 the
@@ -43876,8 +43876,8 @@ of God
 Truly
 I say
 to you
--
 whoever
+-
 not
 shall receive
 the
@@ -43894,8 +43894,8 @@ it
 And
 asked
 a certain
-ruler
 Him
+ruler
 saying
 Teacher
 good
@@ -43904,8 +43904,8 @@ having done
 life
 eternal
 will I inherit
-then
 Said
+then
 to him
 -
 Jesus
@@ -43938,16 +43938,16 @@ of you
 and
 the
 mother
-And
 -
+And
 he said
 These
 all
 have I kept
 from
 [the] youth
-then
 Having heard
+then
 -
 Jesus
 said
@@ -43973,18 +43973,18 @@ and
 come
 follow
 Me
-And
 -
+And
 having heard
 these things
 very sorrowful
 he became
-for
 he was
+for
 rich
 extremely
-then
 Having seen
+then
 him
 -
 Jesus
@@ -44001,8 +44001,8 @@ kingdom
 -
 of God
 shall enter
-for
 Easier
+for
 it is
 a camel
 through
@@ -44017,16 +44017,16 @@ kingdom
 -
 of God
 to enter
-then
 Said
+then
 those
 having heard
 Then
 who
 is able
 to be saved
-But
 -
+But
 He said
 The things
 impossible
@@ -44037,8 +44037,8 @@ with
 -
 God
 are
-then
 Said
+then
 -
 Peter
 Behold
@@ -44048,8 +44048,8 @@ the
 own
 followed
 You
-And
 -
+And
 He said
 to them
 Truly
@@ -44091,8 +44091,8 @@ that
 is coming
 life
 eternal
-then
 Having taken aside
+then
 the
 Twelve
 He said
@@ -44114,8 +44114,8 @@ about the
 Son
 -
 of Man
-for
 He will be betrayed
+for
 to the
 Gentiles
 and
@@ -44152,8 +44152,8 @@ neither
 they knew
 the things
 being spoken
-then
 It came to pass
+then
 in
 the
 drawing near
@@ -44167,16 +44167,16 @@ beside
 the
 road
 begging
-now
 Having heard
+now
 a crowd
 passing along
 he was asking
 what
 might be
 this
-then
 They told
+then
 him
 -
 Jesus
@@ -44198,8 +44198,8 @@ were rebuking
 him
 that
 he should be silent
-however
 He
+however
 much
 more
 kept crying out
@@ -44207,8 +44207,8 @@ Son
 of David
 have mercy on
 me
-then
 Having stopped
+then
 -
 Jesus
 commanded
@@ -44216,17 +44216,17 @@ him
 to be brought
 to
 Him
-then
 Having drawn near
+then
 him
 He asked
 him
 What
 to you
-I shall do
 desire you
-And
+I shall do
 -
+And
 he said
 Lord
 that
@@ -44309,8 +44309,8 @@ he might see
 Him
 for
 that [way]
-to pass
 He was about
+to pass
 And
 as
 He came
@@ -44326,15 +44326,15 @@ him
 Zacchaeus
 having hurried
 come down
-for
 today
+for
 in
 the
 house
 of you
+it behooves
 Me
 to stay
-it behooves
 And
 having hurried
 he came down
@@ -44353,13 +44353,12 @@ a sinful
 man
 He has entered
 to stay
-then
 Having stood
+then
 Zacchaeus
 said
 to
 the
-Lord
 Lord
 Behold
 the
@@ -44367,6 +44366,7 @@ half
 of me
 of the
 possessions
+Lord
 to the
 poor
 I give
@@ -44377,8 +44377,8 @@ anything
 I have defrauded
 I restore [it]
 fourfold
-then
 Said
+then
 to
 him
 -
@@ -44396,8 +44396,8 @@ he
 a son
 of Abraham
 is
-for
 Came
+for
 the
 Son
 -
@@ -44407,8 +44407,8 @@ and
 to save
 that
 having been lost
-while
 Were hearing
+while
 they
 these things
 having proceeded
@@ -44416,8 +44416,8 @@ He spoke
 a parable
 because
 -
-being
 near
+being
 Jerusalem
 of His
 and
@@ -44431,8 +44431,8 @@ kingdom
 -
 of God
 to appear
-therefore
 He said
+therefore
 A man
 certain
 of noble birth
@@ -44445,8 +44445,8 @@ for himself
 a kingdom
 and
 to return
-then
 Having called
+then
 ten
 servants
 of himself
@@ -44462,8 +44462,8 @@ Do business
 until
 that
 I come back
-But
 -
+But
 the citizens
 of him
 hated
@@ -44505,8 +44505,8 @@ he might know
 each
 what
 had gained by trading
-then
 Came up
+then
 the
 first
 saying
@@ -44515,8 +44515,8 @@ the
 mina
 of you
 ten
-more minas
 has produced
+more minas
 And
 He said
 to him
@@ -44539,23 +44539,23 @@ came
 the
 second
 saying
-Lord
 The
 mina
 of you
+Lord
 has made
 five
 minas
-then
 He said
+then
 also
 to this one
 And
 you
 over
+are to be
 five
 cities
-are to be
 And
 -
 another
@@ -44571,8 +44571,8 @@ I kept
 lying away
 in
 a piece of cloth
-for
 I was afraid
+for
 of you
 because
 a man
@@ -44600,9 +44600,9 @@ servant
 You knew
 that
 I
-am
 a man
 harsh
+am
 taking up
 what
 not
@@ -44622,11 +44622,11 @@ the
 money
 to
 [the] bank
--
 and I
 having come
 with
 interest
+-
 it
 might have collected
 And
@@ -44659,8 +44659,8 @@ to everyone
 -
 having
 will be given
-however
 from
+however
 the [one]
 not
 having
@@ -44723,13 +44723,13 @@ in
 which
 entering
 you will find
-having been tied
 a colt
+having been tied
 on
 which
 no one
-of men
 ever yet
+of men
 has sat
 and
 having untied
@@ -44751,16 +44751,16 @@ Lord
 of it
 need
 has
-then
 Having departed
+then
 those
 having been sent
 found [it]
 as
 He had said
 to them
-then
 On untying
+then
 of them
 the
 colt
@@ -44774,8 +44774,8 @@ Why
 untie you
 the
 colt
-And
 -
+And
 they said
 -
 The
@@ -44800,8 +44800,8 @@ colt
 they put on [it]
 -
 Jesus
-then
 Going
+then
 of Him
 they were spreading
 the
@@ -44810,8 +44810,8 @@ of them
 on
 the
 road
-then
 Drawing near
+then
 of Him
 already
 at
@@ -44842,11 +44842,11 @@ saying
 Blessed is
 the
 coming
+-
+King
 in
 [the] name
 of [the] Lord
--
-King
 In
 heaven
 peace
@@ -44902,8 +44902,8 @@ you
 the things
 for
 peace
-however
 Now
+however
 they are hidden
 from
 eyes
@@ -44972,8 +44972,8 @@ house
 of Me
 a house
 of prayer
-however
 You
+however
 it
 have made
 a den
@@ -44987,8 +44987,8 @@ day
 in
 the
 temple
-however
 the
+however
 chief priests
 and
 the
@@ -45007,9 +45007,9 @@ they found
 -
 what
 they might do
-for
 the
 people
+for
 all
 were hanging on
 His [words]
@@ -45059,8 +45059,8 @@ to You
 the
 authority
 this
-now
 Answering
+now
 He said
 to
 them
@@ -45080,8 +45080,8 @@ was it
 or
 from
 men
-And
 -
+And
 they reasoned
 among
 themselves
@@ -45097,8 +45097,8 @@ why
 not
 did you believe
 him
-however
 If
+however
 we should say
 From
 men
@@ -45107,8 +45107,8 @@ people
 all
 will stone
 us
-for
 having been persuaded
+for
 they are
 John
 a prophet
@@ -45132,8 +45132,8 @@ what
 authority
 these things
 I am doing
-then
 He began
+then
 to
 the
 people
@@ -45167,8 +45167,8 @@ of the
 vineyard
 they will give
 to him
-But
 -
+But
 the farmers
 sent away
 him
@@ -45177,10 +45177,10 @@ empty-handed
 And
 he proceeded
 another
-a servant
 to send
-but
+a servant
 -
+but
 him
 having beaten
 and
@@ -45191,14 +45191,14 @@ And
 he proceeded
 a third
 to send
-then
 -
+then
 also
 him
 having wounded
 they cast out
-then
 Said
+then
 the
 master
 of the
@@ -45214,8 +45214,8 @@ beloved
 perhaps
 him
 they will respect
-now
 Having seen
+now
 him
 the
 farmers
@@ -45241,8 +45241,8 @@ outside
 the
 vineyard
 they killed [him]
-therefore
 What
+therefore
 will do
 to them
 the
@@ -45260,18 +45260,18 @@ will give
 the
 vineyard
 to others
-then
 Having heard [it]
+then
 they said
 Never
 may it be
-But
 -
+But
 having looked at
 them
 He said
-then
 What
+then
 is
 that
 has been written
@@ -45294,10 +45294,10 @@ that
 -
 stone
 will be broken
-but
--
 on
 whomever
+but
+-
 it might fall
 it will grind into powder
 him
@@ -45321,8 +45321,8 @@ and
 they feared
 the
 people
-for
 they perceived
+for
 that
 against
 them
@@ -45382,8 +45382,8 @@ tribute
 to give
 or
 not
-however
 Having perceived
+however
 of them
 the
 craftiness
@@ -45393,17 +45393,17 @@ them
 Show
 Me
 a denarius
-has it
 Of whom
+has it
 [the] image
 and
 inscription
-And
 -
+And
 they said
 Caesar’s
-And
 -
+And
 He said
 to
 them
@@ -45434,8 +45434,8 @@ the
 answer
 of Him
 they became silent
-then
 Having approached
+then
 some
 of the
 Sadducees
@@ -45474,8 +45474,8 @@ seed
 to the
 brother
 of him
-therefore
 Seven
+therefore
 brothers
 there were
 and
@@ -45493,8 +45493,8 @@ the
 third
 took
 her
-then
 likewise
+then
 also
 the
 seven
@@ -45508,18 +45508,18 @@ also
 the
 woman
 died
-therefore
 The
 woman
+therefore
 in
 the
 resurrection
 of which
 of them
-wife
 does she become
-For
+wife
 -
+For
 the seven
 had
 her
@@ -45537,8 +45537,8 @@ this
 marry
 and
 are given in marriage
-however
 those
+however
 having been considered worthy
 to the
 age
@@ -45554,24 +45554,24 @@ neither
 marry
 nor
 are given in marriage
-for
 neither
+for
 to die
 any more
 are they able
-for
 like [the] angels
+for
 they are
 and
 sons
-of God
 they are
+of God
 of the
 resurrection
 sons
 being
-however
 That
+however
 are raised
 the
 dead
@@ -45593,19 +45593,19 @@ of Isaac
 and
 God
 of Jacob
-now
 God
+now
 not
 He is
 of [the] dead
 but
 of [the] living
-for
 all
+for
 to Him
 live
-now
 Answering
+now
 some
 of the
 scribes
@@ -45613,14 +45613,14 @@ said
 Teacher
 well
 you have spoken
-then
 No longer
+then
 did they dare
 to ask
 Him
 anything
-then
 He said
+then
 to
 them
 How
@@ -45630,8 +45630,8 @@ Christ
 to be
 of David
 Son
-for
 Himself
+for
 David
 says
 in
@@ -45656,8 +45656,8 @@ of You
 of the
 feet
 of You
-therefore
 David
+therefore
 Him
 Lord
 calls
@@ -45666,8 +45666,8 @@ how
 of him
 son
 is He
-now
 Were listening
+now
 all
 the
 people
@@ -45713,8 +45713,8 @@ These
 will receive
 more abundant
 condemnation
-now
 Having looked up
+now
 He saw
 the ones
 casting
@@ -45725,8 +45725,8 @@ the
 gifts
 of them
 rich
-then
 He saw
+then
 a certain
 widow
 poor
@@ -45748,8 +45748,8 @@ poor
 more
 than all
 has cast in
-for
 all
+for
 these
 out of
 that which
@@ -45759,8 +45759,8 @@ cast
 in
 the
 gifts
-however
 she
+however
 out of
 the
 poverty
@@ -45793,19 +45793,19 @@ in
 which
 not
 will be left
-upon
 stone
+upon
 stone
 which
 not
 will be thrown down
-then
 They asked
+then
 Him
 saying
 Teacher
-then
 when
+then
 these things
 will be
 and
@@ -45816,14 +45816,14 @@ when
 are about
 these things
 to take place
-And
 -
+And
 He said
 Take heed
 lest
 you be led astray
-for
 many
+for
 will come
 in
 the
@@ -45840,16 +45840,16 @@ Not
 go
 after
 them
-then
 When
+then
 you should hear of
 wars
 and
 commotions
 not
 be terrified
-for
 it behooves
+for
 these things
 to take place
 first
@@ -45869,8 +45869,8 @@ and
 kingdom
 against
 kingdom
-both
 Earthquakes
+both
 great
 and
 in different
@@ -45879,16 +45879,16 @@ famines
 and
 pestilences
 there will be
-also
 fearful sights
+also
 and
 from
 heaven
 signs
 great
 will there be
-however
 Before
+however
 these things
 all
 they will lay
@@ -45918,8 +45918,8 @@ It will result
 to you
 for
 a testimony
-therefore
 Settle
+therefore
 in
 the
 minds
@@ -45927,8 +45927,8 @@ of you
 not
 to premeditate
 to make a defense
-for
 I
+for
 will give
 you
 a mouth
@@ -45944,8 +45944,8 @@ all
 those
 opposing
 you
-then
 You will be betrayed
+then
 even
 by
 parents
@@ -45985,8 +45985,8 @@ you will gain
 the
 souls
 of you
-then
 When
+then
 you see
 being encircled
 by
@@ -46045,8 +46045,8 @@ in
 those
 the
 days
-for
 there will be
+for
 distress
 great
 upon
@@ -46109,8 +46109,8 @@ of that which
 is coming
 on the
 earth
-for
 -
+for
 the powers
 of the
 heavens
@@ -46130,8 +46130,8 @@ power
 and
 glory
 great
-then
 Beginning
+then
 of these things
 to come to pass
 look up
@@ -46204,15 +46204,15 @@ and
 the
 earth
 will pass away
-but
 -
+but
 the words
 of Me
 no
 not
 will pass away
-now
 Take heed
+now
 to yourselves
 lest
 ever
@@ -46237,8 +46237,8 @@ day
 that
 as
 a snare
-for
 It will come
+for
 upon
 all
 those
@@ -46248,8 +46248,8 @@ the face
 of all
 the
 earth
-also
 Watch
+also
 at
 every
 season
@@ -46269,16 +46269,16 @@ the
 Son
 -
 of Man
-now
 He was
-teaching
+now
 during the
 day
 in
 the
 temple
-and
+teaching
 -
+and
 the evening
 going out
 He was lodging
@@ -46300,8 +46300,8 @@ the
 temple
 to hear
 Him
-now
 Was drawing near
+now
 the
 Feast
 of
@@ -46320,12 +46320,12 @@ scribes
 how
 they might put to death
 him
-for
 they were afraid
+for
 of the
 people
-then
 Entered
+then
 Satan
 into
 Judas
@@ -46368,8 +46368,8 @@ Him
 apart from
 [a] crowd
 to them
-then
 Came
+then
 the
 day
 of
@@ -46392,15 +46392,15 @@ the
 Passover
 that
 we might eat [it]
-And
 -
+And
 they said
 to Him
-will You
 Where
+will You
 we should prepare
-And
 -
+And
 He said
 to them
 Behold
@@ -46453,8 +46453,8 @@ large
 furnished
 there
 prepare
-then
 Having gone
+then
 they found [it]
 as
 He had said
@@ -46490,8 +46490,8 @@ before
 -
 I
 suffer
-for
 I say
+for
 to you
 that
 no longer
@@ -46518,8 +46518,8 @@ and
 divide [it]
 among
 yourselves
-for
 I say
+for
 to you
 no
 not
@@ -46571,6 +46571,9 @@ after
 which
 having supped
 saying
+This
+-
+cup [is]
 the
 new
 covenant
@@ -46578,9 +46581,6 @@ in
 the
 blood
 of Me
-This
--
-cup [is]
 which
 for
 you
@@ -46598,9 +46598,9 @@ on
 the
 table
 For
-indeed
 the
 Son
+indeed
 of
 man
 according to
@@ -46622,29 +46622,29 @@ to question
 among
 themselves
 -
-then
 who
+then
 it might be
 of
 them
 who
 this
-to do
 is about
-then
+to do
 There was
-among
-them
+then
 also
 a dispute
+among
+them
 -
 which
 of them
 is thought
 to be
 [the] greatest
-And
 -
+And
 He said
 to them
 The
@@ -46659,8 +46659,8 @@ exercising authority over
 them
 benefactors
 are called
-however
 You
+however
 not
 thus [shall be]
 Instead
@@ -46678,8 +46678,8 @@ leading
 as
 the [one]
 serving
-for
 Who
+for
 [is] greater
 the [one]
 reclining
@@ -46689,8 +46689,8 @@ serving
 [Is] not
 the [one]
 reclining
-however
 I
+however
 in
 [the] midst
 of you
@@ -46698,8 +46698,8 @@ am
 as
 the [One]
 serving
-now
 You
+now
 are
 those
 having remained
@@ -46738,9 +46738,9 @@ thrones
 the
 twelve
 tribes
+judging
 of
 Israel
-judging
 Simon
 Simon
 Behold
@@ -46753,8 +46753,8 @@ to sift
 like
 -
 wheat
-however
 I
+however
 begged
 for
 you
@@ -46772,8 +46772,8 @@ strengthen
 the
 brothers
 of you
-And
 -
+And
 he said
 to Him
 Lord
@@ -46788,8 +46788,8 @@ and
 to
 death
 to go
-And
 -
+And
 He said
 I tell
 you
@@ -46801,9 +46801,9 @@ today
 until
 three times
 Me
+you will deny
 not
 knowing
-you will deny
 And
 He said
 to them
@@ -46819,12 +46819,12 @@ sandals
 not
 anything
 did you lack
-And
 -
+And
 they said
 Nothing
-then
 He said
+then
 to them
 But
 now
@@ -46846,39 +46846,39 @@ of him
 and
 buy [one]
 a sword
-for
 I say
+for
 to you
 that
-it behooves
 this
 which
 has been written
+it behooves
+to be accomplished
+in
+Me
 -
 And
 with
 the lawless
 He was reckoned
-to be accomplished
-in
-Me
-for
 And
+for
 the things
 concerning
 Me
 an end
 have
-And
 -
+And
 they said
 Lord
 behold
 swords
 here [are]
 two
-And
 -
+And
 He said
 to them
 Enough
@@ -46894,14 +46894,14 @@ the
 Mount
 -
 of Olives
-then
 followed
+then
 Him
 also
 the
 disciples
-then
 Having come
+then
 to
 the
 place
@@ -46944,8 +46944,8 @@ but
 -
 of You
 be done
-then
 Appeared
+then
 to Him
 an angel
 from
@@ -47017,8 +47017,8 @@ he drew near
 to Jesus
 to kiss
 Him
-then
 Jesus
+then
 said
 to him
 Judas
@@ -47028,11 +47028,11 @@ Son
 -
 of Man
 are you betraying
+Having seen
 then
 those
 around
 Him
-Having seen
 what
 would be
 they said
@@ -47058,8 +47058,8 @@ ear
 his
 -
 right
-now
 Answering
+now
 -
 Jesus
 said
@@ -47072,8 +47072,8 @@ the
 ear
 He healed
 him
-then
 Said
+then
 Jesus
 to
 those
@@ -47121,8 +47121,8 @@ the
 power
 of the
 darkness
-then
 Having seized
+then
 Him
 they led [Him] away
 and
@@ -47132,13 +47132,13 @@ the
 house
 of the
 high priest
-And
 -
+And
 Peter
 was following
 afar off
-then
 They having kindled
+then
 a fire
 in
 [the] midst
@@ -47151,11 +47151,11 @@ was sitting
 Peter
 among
 them
+Having seen
 then
+him
 a servant girl
 certain
-Having seen
-him
 sitting
 by
 the
@@ -47169,8 +47169,8 @@ this one
 with
 Him
 was
-But
 -
+But
 he denied [it]
 saying
 Not
@@ -47189,8 +47189,8 @@ you
 of
 them
 are
-But
 -
+But
 Peter
 was saying
 Man
@@ -47212,12 +47212,12 @@ this one
 with
 Him
 was
-for
 also
+for
 a Galilean
 he is
-however
 Said
+however
 -
 Peter
 Man
@@ -47286,8 +47286,8 @@ You
 And
 other things
 many
-they were saying
 blaspheming
+they were saying
 to
 Him
 And
@@ -47299,8 +47299,8 @@ the
 elderhood
 of the
 people
-both
 chief priests
+both
 and
 scribes
 and
@@ -47318,8 +47318,8 @@ the
 Christ
 tell
 us
-then
 He said
+then
 to them
 If
 you
@@ -47327,40 +47327,40 @@ I should tell
 no
 not
 would you believe
-then
 if
+then
 I should ask [you]
 no
 not
 would you answer
-also
 From
 -
 now on
+also
 will be
-sitting
 the
 Son
 -
 of Man
+sitting
 at
 [the] right hand
 of the
 power
 -
 of God
-then
 They said
-all
 then
+all
 You
+then
 are
 the
 Son
 -
 of God
-And
 -
+And
 to
 them
 He was saying
@@ -47369,16 +47369,16 @@ say
 that
 I
 am
-And
 -
+And
 they said
 What
 any more
 have we
 of witness
 need
-for
 We ourselves
+for
 have heard [it]
 from
 the
@@ -47395,13 +47395,13 @@ Him
 to
 -
 Pilate
-then
 They began
+then
 to accuse
 Him
 saying
-we found
 This [man]
+we found
 misleading
 the
 nation
@@ -47417,8 +47417,8 @@ Himself
 Christ
 a king
 to be
-And
 -
+And
 Pilate
 questioned
 Him
@@ -47429,15 +47429,15 @@ the
 King
 of the
 Jews
-And
 -
+And
 answering
 him
 He was saying
 You
 say
-And
 -
+And
 Pilate
 said
 to
@@ -47453,8 +47453,8 @@ in
 the
 man
 this
-But
 -
+But
 they kept insisting
 saying
 -
@@ -47473,8 +47473,8 @@ from
 Galilee
 even to
 here
-now
 Pilate
+now
 having heard
 asked
 whether
@@ -47503,20 +47503,20 @@ in
 those
 -
 days
-And
 -
+And
 Herod
 having seen
 -
 Jesus
 [was] glad
 exceedingly
-for
 he was
-wishing
+for
 of
 a long
 time
+wishing
 to see
 Him
 because of
@@ -47526,25 +47526,25 @@ concerning
 Him
 and
 he was hoping
-to see
 some
 sign
+to see
 by
 Him
 done
-then
 He kept questioning
+then
 Him
 in
 words
 many
-however
 He
+however
 nothing
 answered
 him
-now
 Had been standing by
+now
 the
 chief priests
 and
@@ -47553,11 +47553,11 @@ scribes
 vehemently
 accusing
 Him
+Having set at naught
 then
+Him
 -
 Herod
-Having set at naught
-Him
 with
 the
 troops
@@ -47571,11 +47571,11 @@ sent back
 him
 to
 Pilate
-then
 Became
+then
 friends
-both
 -
+both
 Herod
 and
 -
@@ -47586,15 +47586,15 @@ that
 day
 with
 one another
-for
 previously it had been that
+for
 at
 enmity
 they were
 between
 themselves
-then
 Pilate
+then
 having called together
 the
 chief priests
@@ -47636,8 +47636,8 @@ Him
 No
 not even
 Herod [did]
-for
 he sent back
+for
 Him
 to
 us
@@ -47649,24 +47649,23 @@ of death
 is
 done
 by Him
-therefore
 Having chastised
+therefore
 Him
 I will release [Him]
-however
 They cried out
+however
 all together
 saying
 Away with
 this [man]
-now
 release
+now
 to us
 -
 Barabbas
 who
 was
-having been cast
 on account of
 insurrection
 a certain
@@ -47676,11 +47675,12 @@ the
 city
 and
 murder
+having been cast
 into
 the
 prison
-therefore
 Again
+therefore
 -
 Pilate
 called
@@ -47689,21 +47689,21 @@ wishing
 to release
 -
 Jesus
-But
 -
+But
 they were crying out
 saying
 Crucify
 crucify
 Him
-And
 -
+And
 a third [time]
 he said
 to
 them
-for
 What
+for
 evil
 did commit
 this [man]
@@ -47713,12 +47713,12 @@ of death
 found I
 in
 Him
-therefore
 Having chastised
+therefore
 Him
 I will release [Him]
-But
 -
+But
 they were urgent
 with voices
 loud
@@ -47737,8 +47737,8 @@ to be done
 the
 demand
 of them
-then
 He released
+then
 the [one]
 on account of
 insurrection
@@ -47749,8 +47749,8 @@ into
 prison
 whom
 they had asked for
-and
 -
+and
 Jesus
 he delivered
 to the
@@ -47775,8 +47775,8 @@ to carry
 behind
 -
 Jesus
-now
 Were following
+now
 Him
 a great
 multitude
@@ -47789,8 +47789,8 @@ were mourning
 and
 lamenting for
 Him
-then
 Having turned
+then
 to
 them
 Jesus
@@ -47856,8 +47856,8 @@ the
 dry
 what
 might take place
-now
 Were being led away
+now
 also
 other
 criminals
@@ -47880,28 +47880,28 @@ Him
 and
 the
 criminals
--
 one
+-
 on [the]
 right
-now
 one
+now
 on
 [the] left
-And
 -
+And
 Jesus
 was saying
 Father
 forgive
 them
-for
 not
+for
 they know
 what
 they do
-then
 Dividing
+then
 the
 garments
 of Him
@@ -47912,8 +47912,8 @@ stood
 the
 people
 beholding
-then
 Were deriding [Him]
+then
 also
 the
 rulers
@@ -47931,8 +47931,8 @@ Christ
 of God
 the
 Chosen [One]
-then
 Mocked
+then
 Him
 also
 the
@@ -47952,8 +47952,8 @@ of the
 Jews
 save
 Yourself
-now
 There was
+now
 also
 an inscription
 over
@@ -47963,8 +47963,8 @@ King
 of the
 Jews
 This
-now
 One
+now
 of the
 having been hanged
 criminals
@@ -47979,8 +47979,8 @@ Save
 Yourself
 and
 us
-now
 Answering
+now
 the
 other
 was rebuking
@@ -47998,16 +47998,16 @@ same
 judgment
 you are
 and
-indeed
 we
+indeed
 justly
-for
 Worthy
+for
 of what
 we did
 we are receiving
-however
 [this] man
+however
 nothing
 wrong
 did
@@ -48054,8 +48054,8 @@ ninth
 The
 sun
 was darkened
-then
 was torn
+then
 the
 veil
 of the
@@ -48076,14 +48076,14 @@ I commit
 the
 Spirit
 of Me
-now
 This
+now
 having said
 He breathed His last
+Having seen
 now
 the
 centurion
-Having seen
 that
 having taken place
 he began glorifying
@@ -48100,11 +48100,11 @@ And
 all
 the
 having come together
+crowds
 to
 the
 spectacle
 this
-crowds
 having seen
 the things
 having taken place
@@ -48112,14 +48112,14 @@ beating
 the
 breasts
 were returning [home]
-now
 Stood
-from
-afar off
+now
 all
 those who
 knew
 Him
+from
+afar off
 also
 women
 those
@@ -48135,8 +48135,8 @@ behold
 a man
 named
 Joseph
-being
 a Council member
+being
 a man
 good
 and
@@ -48185,18 +48185,18 @@ cut in a rock
 in which
 no
 had been
-laid
 no one
 not yet
+laid
 And
 [the] Day
-of Preparation
 it was
+of Preparation
 and
 Sabbath
 was just beginning
-then
 Having followed
+then
 the
 women
 who
@@ -48215,22 +48215,22 @@ was laid
 the
 body
 of Him
-then
 Having returned
+then
 they prepared
 spices
 and
 anointing oils
 And
-indeed
 on the
+indeed
 Sabbath
 they rested
 according to
 the
 commandment
-however
 The
+however
 first [day]
 of the
 week
@@ -48244,16 +48244,16 @@ bringing
 that
 they had prepared
 spices
-then
 They found
+then
 the
 stone
 having been rolled away
 from
 the
 tomb
-however
 Having entered
+however
 not
 they found
 the
@@ -48278,8 +48278,8 @@ them
 in
 garments
 dazzling
-then
 Terrified
+then
 having become
 of them
 and
@@ -48314,12 +48314,12 @@ in
 -
 Galilee
 saying
--
-it behooves
 The
 Son
 -
 of Man
+-
+it behooves
 to be delivered
 into
 hands
@@ -48351,8 +48351,8 @@ and
 to all
 the
 rest
-now
 It was
+now
 -
 Magdalene
 Mary
@@ -48384,8 +48384,8 @@ of them
 and
 they did not believe
 them
-But
 -
+But
 Peter
 having risen up
 ran
@@ -48450,8 +48450,8 @@ Jesus
 having drawn near
 was walking along with
 them
-but
 -
+but
 the eyes
 of them
 were held
@@ -48459,8 +48459,8 @@ were held
 not
 to know
 Him
-then
 He said
+then
 to
 them
 What
@@ -48475,8 +48475,8 @@ walking
 And
 they stood still
 looking sad
-now
 Answering
+now
 [the] one
 named
 Cleopas
@@ -48502,8 +48502,8 @@ And
 He said
 to them
 What things
-And
 -
+And
 they said
 to Him
 The things
@@ -48527,8 +48527,8 @@ and
 all
 the
 people
-then
 that
+then
 delivered up
 him
 the
@@ -48543,8 +48543,8 @@ of death
 and
 crucified
 Him
-however
 We
+however
 were hoping
 -
 He
@@ -48614,8 +48614,8 @@ also
 the
 women
 said
-however
 Him
+however
 not
 they saw
 And
@@ -48638,8 +48638,8 @@ have spoken
 the
 prophets
 Not
-was it necessary for
 these things
+was it necessary for
 to suffer
 the
 Christ
@@ -48717,11 +48717,11 @@ and
 having broken [it]
 He began giving [it]
 to them
-then
 Of them
+then
+were opened
 the
 eyes
-were opened
 and
 they knew
 Him
@@ -48796,8 +48796,8 @@ the
 breaking
 of the
 bread
-now
 These things
+now
 of them
 as they were telling
 He Himself
@@ -48810,8 +48810,8 @@ says
 to them
 Peace
 to you
-however
 Having been terrified
+however
 and
 filled with fear
 having been
@@ -48858,8 +48858,8 @@ not
 has
 as
 Me
-having
 you see
+having
 And
 this
 having said
@@ -48870,8 +48870,8 @@ hands
 and
 the
 feet
-now
 Still
+now
 while they were disbelieving
 of them
 for
@@ -48885,8 +48885,8 @@ Have you
 anything
 to eat
 here
-And
 -
+And
 they gave
 to Him
 of a fish
@@ -48897,8 +48897,8 @@ having taken [it]
 before
 them
 He ate [it]
-now
 He said
+now
 unto
 to them
 These [are]
@@ -48986,8 +48986,8 @@ Father
 of Me
 upon
 you
-however
 you
+however
 remain
 in
 the
@@ -48998,8 +48998,8 @@ you should be clothed with
 from
 on high
 power
-now
 He led
+now
 them
 as far as
 to
@@ -49038,12 +49038,12 @@ joy
 great
 and
 were
-blessing
 continually
 all
 in
 the
 temple
+blessing
 -
 God
 In [the]
@@ -49140,6 +49140,7 @@ he might witness
 concerning
 the
 Light
+Was
 the
 Light
 -
@@ -49148,7 +49149,6 @@ who
 enlightens
 every
 man
-Was
 coming
 into
 the
@@ -49179,16 +49179,16 @@ own
 Him
 not
 received
-however
 As many as
+however
 received
 Him
 He gave
+to them
 authority
 children
 of God
 to be
-to them
 to those
 believing
 in
@@ -49338,8 +49338,8 @@ Christ
 And
 they asked
 him
-then
 What
+then
 You
 Elijah
 are
@@ -49354,8 +49354,8 @@ you
 And
 he answered
 No
-therefore
 They said
+therefore
 to him
 Who
 are you
@@ -49397,8 +49397,8 @@ him
 and
 said
 to him
-then
 Why
+then
 baptize you
 if
 you
@@ -49452,9 +49452,9 @@ the
 Jordan
 where
 was
-baptizing
 -
 John
+baptizing
 On the
 next day
 he sees
@@ -49541,9 +49541,9 @@ water
 He
 to me
 said
--
 Upon
 whom
+-
 you shall see
 the
 Spirit
@@ -49604,10 +49604,10 @@ and
 followed
 -
 Jesus
+Having turned
 then
 -
 Jesus
-Having turned
 and
 having beheld
 them
@@ -49616,8 +49616,8 @@ He says
 to them
 What
 seek you
-And
 -
+And
 they said
 to Him
 Rabbi
@@ -49632,8 +49632,8 @@ to them
 Come
 and
 you will see
-therefore
 They went
+therefore
 and
 saw
 where
@@ -49723,8 +49723,8 @@ to him
 Jesus
 Follow
 Me
-now
 Was
+now
 -
 Philip
 from
@@ -49765,10 +49765,10 @@ to him
 Nathanael
 Out of
 Nazareth
-to be
 is able
 any
 good thing
+to be
 Says
 to him
 -
@@ -49815,8 +49815,8 @@ being
 under
 the
 fig tree
-you
 I saw
+you
 Answered
 Him
 Nathanael
@@ -49829,9 +49829,9 @@ Son
 of God
 You
 King
+are
 -
 of Israel
-are
 Answered
 Jesus
 and
@@ -49892,8 +49892,8 @@ mother
 -
 of Jesus
 there
-then
 Was invited
+then
 also
 -
 Jesus
@@ -49938,15 +49938,14 @@ mother
 of Him
 to the
 servants
+Whatever
 anyhow
 -
-Whatever
 He may say
 to you
 do
-now
 There were
-standing
+now
 there
 of stone
 water jars
@@ -49956,6 +49955,7 @@ the
 purification
 of the
 Jews
+standing
 having space
 for
 metretae
@@ -49984,11 +49984,11 @@ and
 carry
 to the
 master of the feast
-And
 -
+And
 they carried [it]
-then
 When
+then
 had tasted
 the
 master of the feast
@@ -50001,10 +50001,10 @@ not
 he knew
 from where
 it is
-however
-knew
 the
+however
 servants
+knew
 -
 having drawn
 the
@@ -50037,10 +50037,10 @@ wine
 until
 now
 This
+did
 [the] beginning
 of the
 signs
-did
 -
 Jesus
 in
@@ -50121,8 +50121,8 @@ He drove out
 from
 the
 temple
-both
 -
+both
 sheep
 and
 -
@@ -50130,9 +50130,9 @@ oxen
 and
 of the
 money changers
+He poured out
 the
 coins
-He poured out
 and
 the
 tables
@@ -50169,8 +50169,8 @@ house
 of You
 will consume
 Me
-therefore
 Answered
+therefore
 the
 Jews
 and
@@ -50198,8 +50198,8 @@ three
 days
 I will raise up
 it
-therefore
 Said
+therefore
 the
 Jews
 Forty
@@ -50217,8 +50217,8 @@ three
 days
 will raise up
 it
-however
 He
+however
 was speaking
 concerning
 the
@@ -50226,8 +50226,8 @@ temple
 of the
 body
 of Him
-therefore
 When
+therefore
 He was raised up
 out from
 [the] dead
@@ -50249,8 +50249,8 @@ that
 had spoken
 -
 Jesus
-then
 When
+then
 He was
 in
 -
@@ -50273,8 +50273,8 @@ the
 signs
 that
 He was doing
-however
 On His part
+however
 Jesus
 not
 did entrust
@@ -50296,26 +50296,26 @@ should testify
 concerning
 the
 man
-for
 He Himself
+for
 knew
 what
 was
 in
 the
 man
-now
 There was
+now
 a man
 of
 the
 Pharisees
-a ruler
-of the
-Jews
 Nicodemus
 name
 to him
+a ruler
+of the
+Jews
 He
 came
 to
@@ -50331,16 +50331,16 @@ from
 God
 You have come
 a teacher
-for
 no one
+for
 is able
 these
 -
 signs
+to do
 that
 You
 do
-to do
 if
 not
 should be
@@ -50548,8 +50548,8 @@ in
 the
 wilderness
 thus
-it behooves
 to be lifted up
+it behooves
 the
 Son
 -
@@ -50563,8 +50563,8 @@ Him
 may have
 life
 eternal
-for
 Thus
+for
 loved
 -
 God
@@ -50588,8 +50588,8 @@ but
 should have
 life
 eternal
-for
 Not
+for
 sent
 -
 God
@@ -50631,8 +50631,8 @@ only begotten
 Son
 -
 of God
-now
 This
+now
 is
 the
 judgement
@@ -50653,14 +50653,14 @@ darkness
 than
 the
 Light
-for
 were
-evil
+for
 of them
+evil
 the
 deeds
-for
 Everyone
+for
 -
 evil
 practicing
@@ -50679,8 +50679,8 @@ may be exposed
 the
 works
 of him
-however
 the [one]
+however
 practicing
 the
 truth
@@ -50718,11 +50718,11 @@ with
 them
 and
 was baptizing
-now
 Was
-baptizing
+now
 also
 John
+baptizing
 in
 Aenon
 near
@@ -50737,16 +50737,16 @@ and
 they were coming
 and
 being baptized
-for
 Not yet
+for
 had been
 cast
 into
 the
 prison
 John
-then
 Arose
+then
 a debate
 among
 the
@@ -50823,8 +50823,8 @@ the
 bride
 [the] bridegroom
 is
-now
 the
+now
 friend
 of the
 bridegroom
@@ -50840,18 +50840,18 @@ the
 voice
 of the
 bridegroom
-therefore
 This
+therefore
 the
 joy
 -
 of mine
 is fulfilled
-it behooves
 Him
+it behooves
 to increase
-however
 me
+however
 to decrease
 The [One]
 from above
@@ -50904,8 +50904,8 @@ that
 God
 true
 is
-for
 He whom
+for
 sent
 -
 God
@@ -50914,8 +50914,8 @@ words
 -
 of God
 speaks
-for
 not
+for
 by
 measure
 He gives
@@ -50941,8 +50941,8 @@ Son
 has
 life
 eternal
-however
 the [one]
+however
 not obeying
 the
 Son
@@ -50957,8 +50957,8 @@ of God
 abides
 on
 him
-therefore
 When
+therefore
 knew
 -
 Jesus
@@ -50993,15 +50993,15 @@ again
 into
 -
 Galilee
-now
 It was necessary for
+now
 Him
 to pass
 through
 -
 Samaria
-therefore
 He comes
+therefore
 to
 a city
 -
@@ -51018,14 +51018,14 @@ Joseph
 the
 son
 of him
-now
 Was
+now
 there
 [the] well
 -
 of Jacob
-Therefore
 -
+Therefore
 Jesus
 being wearied
 from
@@ -51054,8 +51054,8 @@ Jesus
 Give
 Me
 to drink
-For
 -
+For
 the disciples
 of Him
 had gone away
@@ -51065,8 +51065,8 @@ city
 that
 food
 they might buy
-therefore
 Says
+therefore
 to Him
 the
 woman
@@ -51078,13 +51078,13 @@ a Jew
 being
 from
 me
+to drink
+do ask
 a woman
 Samaritan
 being
-to drink
-do ask
-for
 Not
+for
 have association
 Jews
 with Samaritans
@@ -51108,13 +51108,13 @@ to you
 Give
 Me
 to drink
--
 you
+-
 would have asked
 Him
 and
--
 He would have given
+-
 to you
 water
 living
@@ -51129,8 +51129,8 @@ the
 well
 is
 deep
-then
 from where
+then
 have You
 the
 water
@@ -51176,9 +51176,9 @@ water
 this
 will thirst
 again
+whoever
 however
 -
-whoever
 may drink
 of
 the
@@ -51254,13 +51254,13 @@ you have spoken
 A husband
 not
 I have
-for
 Five
+for
 husbands
 you have had
 and
-he whom
 now
+he whom
 you have
 not
 is
@@ -51354,8 +51354,8 @@ in
 spirit
 and
 truth
-for
 also
+for
 the
 Father
 such
@@ -51373,8 +51373,8 @@ in
 spirit
 and
 truth
-to worship
 it behooves
+to worship
 Says
 to Him
 the
@@ -51382,10 +51382,10 @@ woman
 I know
 that
 Messiah
+is coming
 who
 is called
 Christ
-is coming
 when
 comes
 He
@@ -51397,10 +51397,10 @@ to her
 -
 Jesus
 I
+am [He]
 the [One]
 speaking
 to you
-am [He]
 And
 upon
 this
@@ -51414,8 +51414,8 @@ that
 with
 a woman
 He was speaking
-however
 no one
+however
 said
 What
 seek You
@@ -51424,8 +51424,8 @@ Why
 speak You
 with
 her
-then
 Left
+then
 the
 water pot
 of her
@@ -51472,8 +51472,8 @@ disciples
 saying
 Rabbi
 eat
-But
 -
+But
 He said
 to them
 I
@@ -51484,8 +51484,8 @@ that
 you
 not
 know
-therefore
 Were saying
+therefore
 the
 disciples
 to
@@ -51553,15 +51553,15 @@ unto
 life
 eternal
 so that
-together
-may rejoice
 the [one]
 sowing
+together
+may rejoice
 and
 the [one]
 reaping
-for
 In
+for
 this
 the
 saying
@@ -51593,17 +51593,17 @@ the
 labor
 of them
 have entered
-now
 Out of
+now
 the
 city
 that
 many
-of the
-Samaritans
 believed
 in
 Him
+of the
+Samaritans
 because of
 the
 word
@@ -51616,8 +51616,8 @@ me
 all things
 whatever
 I did
-therefore
 When
+therefore
 came
 to
 Him
@@ -51641,8 +51641,8 @@ because of
 the
 word
 of Him
-and
 -
+and
 to the woman
 they were saying
 -
@@ -51652,8 +51652,8 @@ because of
 your
 speech
 we believe
-for
 we ourselves
+for
 have heard
 and
 we know
@@ -51665,8 +51665,8 @@ the
 Savior
 of the
 world
-then
 After
+then
 the
 two
 days
@@ -51675,8 +51675,8 @@ from there
 into
 -
 Galilee
-for
 Himself
+for
 Jesus
 testified
 that
@@ -51688,8 +51688,8 @@ hometown
 honor
 not
 has
-therefore
 When
+therefore
 He came
 into
 -
@@ -51698,8 +51698,8 @@ received
 Him
 the
 Galileans
-having seen
 all things
+having seen
 how great
 He had done
 in
@@ -51707,15 +51707,15 @@ Jerusalem
 during
 the
 feast
-for
 also
 themselves
+for
 they had gone
 to
 the
 feast
-therefore
 He came
+therefore
 again
 to
 -
@@ -51760,11 +51760,11 @@ heal
 his
 -
 son
-for
 he was about
+for
 to die
-therefore
 Said
+therefore
 -
 Jesus
 to
@@ -51811,8 +51811,8 @@ to him
 Jesus
 and
 he went on his way
-then
 Already
+then
 [as] he
 is going down
 the
@@ -51825,8 +51825,8 @@ the
 boy
 of him
 lives
-therefore
 He inquired
+therefore
 the
 hour
 from
@@ -51835,8 +51835,8 @@ in
 which
 better
 he got
-therefore
 They said
+therefore
 to him
 -
 Yesterday
@@ -51846,8 +51846,8 @@ left
 him
 the
 fever
-therefore
 Knew
+therefore
 the
 father
 that [it was]
@@ -51872,9 +51872,9 @@ the
 household
 of him
 all
+This [is]
 now
 again
-This [is]
 [the] second
 sign
 did
@@ -51898,8 +51898,8 @@ went up
 Jesus
 to
 Jerusalem
-now
 There is
+now
 in
 -
 Jerusalem
@@ -51928,8 +51928,8 @@ the
 of the
 water
 moving
-for
 An angel
+for
 during
 [a certain] season
 descended
@@ -51940,8 +51940,8 @@ and
 stirred
 the
 water
-therefore
 He who
+therefore
 first
 entered
 after
@@ -51955,8 +51955,8 @@ from whatever
 at the time
 he was held by
 disease
-now
 Was
+now
 a certain
 man
 there
@@ -51969,17 +51969,17 @@ in
 -
 infirmity
 himself
+Him
+having seen
 -
 Jesus
-Him
 lying
-having seen
 and
 having known
 that
 a long
-time
 already
+time
 he has been
 He says
 to him
@@ -52004,9 +52004,9 @@ me
 into
 the
 pool
-now
 in
 which
+now
 am going
 I
 another
@@ -52037,15 +52037,15 @@ mat
 of him
 and
 began to walk
-now
 It was
+now
 Sabbath
 on
 that
 -
 day
-therefore
 Were saying
+therefore
 the
 Jews
 to the [one]
@@ -52059,8 +52059,8 @@ for you
 to take up
 the
 mat
-however
 who
+however
 answered
 them
 The [One]
@@ -52088,15 +52088,15 @@ to you
 Take up
 and
 walk
-now
 The [one]
+now
 having been healed
 not
 knew
 who
 it is
-for
 -
+for
 Jesus
 had moved away
 a crowd
@@ -52124,8 +52124,8 @@ sin
 that
 not
 worse
-something
 to you
+something
 happens
 Went away
 the
@@ -52154,8 +52154,8 @@ these things
 He was doing
 on
 [the] Sabbath
-But
 -
+But
 answered
 them
 The
@@ -52166,15 +52166,15 @@ now
 is working
 and I
 am working
-therefore
 Because of
 this
+therefore
 the more
 were seeking
 Him
-to kill
 the
 Jews
+to kill
 because
 not
 only
@@ -52193,8 +52193,8 @@ Himself
 making
 to
 God
-therefore
 Answered
+therefore
 -
 Jesus
 and
@@ -52214,14 +52214,14 @@ Himself
 nothing
 if
 not
-He might see
 anything
+He might see
 the
 Father
 doing
+whatever
 for
 -
-whatever
 He
 does
 these things
@@ -52230,30 +52230,30 @@ the
 Son
 likewise
 does
-For
 -
+For
 the Father
 loves
 the
 Son
 and
+all things
 shows
 to Him
-all things
 that
 He
 does
 and
 greater
 than these
-works
 He will show
 Him
+works
 so that
 you
 may marvel
-for
 Even as
+for
 the
 Father
 raises up
@@ -52268,8 +52268,8 @@ Son
 to whom
 He will
 gives life
-for
 Not even
+for
 the
 Father
 judges
@@ -52357,8 +52357,8 @@ and
 those
 having heard
 will live
-for
 As
+for
 the
 Father
 has
@@ -52483,8 +52483,8 @@ and
 he has borne witness
 to the
 truth
-now
 I
+now
 not
 from
 man
@@ -52505,8 +52505,8 @@ lamp
 burning
 and
 shining
-now
 you
+now
 were willing
 to rejoice
 for
@@ -52515,16 +52515,16 @@ in
 the
 light
 of him
-however
 I
+however
 have
 the
 testimony
 greater than
 that
 of John
-For
 -
+For
 the works
 that
 has given
@@ -52566,11 +52566,11 @@ form
 of Him
 have you seen
 And
-not
-you have
 the
 word
 of Him
+not
+you have
 in
 you
 abiding
@@ -52684,20 +52684,20 @@ in
 whom
 you
 have hoped
-for
 If
+for
 you were believing
 Moses
--
 you would have believed
+-
 Me
-for
 concerning
+for
 Me
 he
 wrote
-now
 If
+now
 -
 his
 writings
@@ -52720,8 +52720,8 @@ Sea
 of Galilee
 -
 of Tiberias
-now
 Was following
+now
 Him
 a crowd
 great
@@ -52734,8 +52734,8 @@ He was doing
 upon
 those
 being sick
-now
 Went up
+now
 on
 the
 mountain
@@ -52747,8 +52747,8 @@ with
 the
 disciples
 of Him
-now
 Was
+now
 near
 the
 Passover
@@ -52756,12 +52756,12 @@ the
 feast
 of the
 Jews
-then
--
-Jesus
 Having lifted up
+then
 the
 eyes
+-
+Jesus
 and
 having seen
 that
@@ -52779,17 +52779,17 @@ bread
 that
 might eat
 these
-now
 This
+now
 He was saying
 testing
 him
-for
 He
+for
 knew
 what
-to do
 He was about
+to do
 Answered
 Him
 -
@@ -52841,23 +52841,23 @@ Make
 the
 men
 to recline
-now
 There was
+now
 grass
 much
 in
 the
 place
-therefore
 Reclined
+therefore
 the
 men
 the
 number
 about
 five thousand
-then
 Took
+then
 the
 loaves
 -
@@ -52874,8 +52874,8 @@ the
 fish
 as much as
 they wished
-now
 When
+now
 they were filled
 He says
 to the
@@ -52889,8 +52889,8 @@ so that
 nothing
 anything
 may be lost
-therefore
 They gathered together
+therefore
 and
 filled
 twelve
@@ -52906,8 +52906,8 @@ which
 were over and above
 to those
 having eaten
-therefore
 The
+therefore
 people
 having seen
 what
@@ -52925,6 +52925,7 @@ is coming
 into
 the
 world
+Jesus
 therefore
 having known
 that
@@ -52941,11 +52942,10 @@ again
 to
 the
 mountain
-Jesus
 Himself
 alone
-now
 When
+now
 evening
 it became
 went down
@@ -52976,15 +52976,15 @@ to
 them
 -
 Jesus
-And
 -
+And
 the sea
 by a wind
 strong
 blowing
 was agitated
-therefore
 Having rowed
+therefore
 about
 stadia
 twenty
@@ -53005,16 +53005,16 @@ boat
 coming
 and
 they were frightened
-And
 -
+And
 He says
 to them
 I
 am [He]
 not
 fear
-then
 They were willing
+then
 to receive
 Him
 into
@@ -53069,8 +53069,8 @@ disciples
 of Him
 went away
 but other
-boats
 came
+boats
 from
 Tiberias
 near
@@ -53083,8 +53083,8 @@ bread
 having given thanks
 the
 Lord
-therefore
 When
+therefore
 saw
 the
 crowd
@@ -53166,15 +53166,15 @@ Son
 of Man
 to you
 will give
-for
 Him
+for
 the
 Father
+has sealed
 -
 God
-has sealed
-therefore
 They said
+therefore
 to
 Him
 What
@@ -53202,14 +53202,14 @@ in
 Him whom
 has sent
 He
-therefore
 They said
+therefore
 to Him
-then
 What
-[as a] sign
+then
 do
 You
+[as a] sign
 that
 we may see
 and
@@ -53236,8 +53236,8 @@ heaven
 He gave
 them
 to eat
-therefore
 Said
+therefore
 to them
 -
 Jesus
@@ -53267,8 +53267,8 @@ from
 heaven
 -
 true
-for
 The
+for
 bread
 -
 of God
@@ -53283,8 +53283,8 @@ life
 giving
 to the
 world
-therefore
 They said
+therefore
 to
 Him
 Sir
@@ -53366,8 +53366,8 @@ will
 of the [One]
 having sent
 Me
-now
 This
+now
 is
 the
 will
@@ -53390,8 +53390,8 @@ in
 the
 last
 day
-for
 This
+for
 is
 the
 will
@@ -53419,8 +53419,8 @@ in
 the
 last
 day
-therefore
 Were grumbling
+therefore
 the
 Jews
 about
@@ -53594,10 +53594,10 @@ he will live
 to
 the
 age
-also
 and
 the
 bread
+also
 that
 I
 will give
@@ -53610,8 +53610,8 @@ the
 of the
 world
 life
-therefore
 Were arguing
+therefore
 with
 one another
 the
@@ -53625,8 +53625,8 @@ to give
 the
 flesh
 to eat
-therefore
 Said
+therefore
 to them
 -
 Jesus
@@ -53672,20 +53672,20 @@ him
 in the
 last
 day
-for
 The
+for
 flesh
 of Me
 true
-food
 is
+food
 and
 the
 blood
 of Me
 true
-drink
 is
+drink
 The [one]
 eating
 of Me
@@ -53752,13 +53752,13 @@ in
 teaching
 in
 Capernaum
-therefore
 Many
+therefore
+having heard
 of
 the
 disciples
 of Him
-having heard
 said
 Difficult
 is
@@ -53769,10 +53769,10 @@ who
 is able
 it
 to hear
+Knowing
 however
 -
 Jesus
-Knowing
 in
 Himself
 that
@@ -53787,8 +53787,8 @@ to them
 This
 you
 does offend
-then
 What if
+then
 you should see
 the
 Son
@@ -53828,8 +53828,8 @@ some
 who
 not
 believe
-for
 Knew
+for
 from
 [the] beginning
 -
@@ -53880,8 +53880,8 @@ no longer
 with
 Him
 walked
-therefore
 Said
+therefore
 -
 Jesus
 to the
@@ -53931,14 +53931,14 @@ you
 one
 a devil
 is
-now
 He was speaking
+now
 -
 of Judas
 [son] of Simon
 Iscariot
-for
 he
+for
 was about
 to betray
 Him
@@ -53955,8 +53955,8 @@ Jesus
 in
 -
 Galilee
-for
 not
+for
 He did desire
 in
 -
@@ -53965,11 +53965,11 @@ to walk
 because
 were seeking
 Him
-to kill
 the
 Jews
-now
+to kill
 Was
+now
 near
 the
 feast
@@ -53977,8 +53977,8 @@ of the
 Jews
 of
 Booths
-therefore
 Said
+therefore
 to
 Him
 the
@@ -54002,8 +54002,8 @@ works
 of You
 that
 You are doing
-for
 No one
+for
 anything
 in
 secret
@@ -54021,16 +54021,16 @@ show
 Yourself
 to the
 world
-for
 Not even
+for
 the
 brothers
 of Him
 were believing
 in
 Him
-therefore
 Says
+therefore
 to them
 -
 Jesus
@@ -54040,8 +54040,8 @@ time
 of Me
 not yet
 is come
-but
 -
+but
 the time
 -
 of you
@@ -54054,8 +54054,8 @@ the
 world
 to hate
 you
-however
 Me
+however
 it hates
 because
 I
@@ -54086,16 +54086,16 @@ My
 time
 not yet
 has been fulfilled
-now
 These things
+now
 having said
 to them
 He remained
 in
 -
 Galilee
-however
 When
+however
 had gone up
 the
 brothers
@@ -54113,8 +54113,8 @@ but
 as
 in
 secret
-therefore
 The
+therefore
 Jews
 were seeking
 Him
@@ -54135,22 +54135,22 @@ much
 among
 the
 crowds
-indeed
 Some
+indeed
 were saying
 -
 Good
 He is
-however
 Others
+however
 were saying
 No
 but
 He deceives
 the
 people
-however
 No one
+however
 publicly
 was speaking
 about
@@ -54160,8 +54160,8 @@ the
 fear
 of the
 Jews
-also
 Now
+also
 of the
 feast
 being in the middle
@@ -54172,8 +54172,8 @@ the
 temple
 and
 was teaching
-then
 Were marveling
+then
 the
 Jews
 saying
@@ -54183,8 +54183,8 @@ writings
 knows
 not
 having studied
-therefore
 Answered
+therefore
 them
 Jesus
 and
@@ -54229,8 +54229,8 @@ glory
 the
 own
 seeks
-however
 the [One]
+however
 seeking
 the
 glory
@@ -54261,8 +54261,8 @@ the
 law
 Why
 Me
-to kill
 do you seek
+to kill
 Answered
 the
 crowd
@@ -54270,8 +54270,8 @@ A demon
 You have
 who
 You
-to kill
 seeks
+to kill
 Answered
 Jesus
 and
@@ -54290,8 +54290,8 @@ has given
 you
 -
 circumcision
-that
 not
+that
 of
 -
 Moses
@@ -54335,8 +54335,8 @@ the
 righteous
 judgment
 judge
-therefore
 Were saying
+therefore
 some
 of
 those
@@ -54345,8 +54345,8 @@ Not
 this
 is he
 whom
-to kill
 they seek
+to kill
 And
 behold
 publicly
@@ -54371,8 +54371,8 @@ this [man]
 we know
 from where
 He is
-however
 The
+however
 Christ
 whenever
 He may come
@@ -54380,8 +54380,8 @@ no one
 knows
 from where
 He is
-therefore
 Cried out
+therefore
 in
 the
 temple
@@ -54421,8 +54421,8 @@ I am
 and He
 Me
 sent
-therefore
 They were seeking
+therefore
 Him
 to take
 but
@@ -54438,10 +54438,10 @@ had come
 the
 hour
 of Him
-now
 Out of
 the
 crowd
+now
 many
 believed
 in
@@ -54479,8 +54479,8 @@ officers
 that
 they might seize
 Him
-therefore
 Said
+therefore
 -
 Jesus
 Yet
@@ -54504,32 +54504,32 @@ and
 where
 am
 I
-to come
 you
 not
 are able
-therefore
+to come
 Said
+therefore
 the
 Jews
 among
 themselves
 Where
-to go
 He
 is about
+to go
 that
 we
 not
 will find
 Him
 Not
-is He about
 to
 the
 Dispersion
 among the
 Greeks
+is He about
 to go
 and
 to teach
@@ -54551,12 +54551,12 @@ and
 Where
 am
 I
-to come
 you
 not
 are able
-now
+to come
 In
+now
 the
 last
 day
@@ -54587,38 +54587,38 @@ has said
 the
 Scripture
 Rivers
-of water
-living
 out of
 the
 belly
 of him
 will flow
-now
+of water
+living
 This
+now
 He said
 concerning
 the
 Spirit
 whom
-to receive
 were about
+to receive
 those
 having believed
 in
 Him
-for
 not yet [given]
+for
 was
 [the] Spirit
 because
 Jesus
 not yet
 was glorified
-therefore
 [Some] of
 the
 crowd
+therefore
 having heard
 the
 words
@@ -54635,11 +54635,11 @@ This
 is
 the
 Christ
-however
 Others
+however
 were saying
-indeed
 Not
+indeed
 out of
 -
 Galilee
@@ -54666,19 +54666,19 @@ David
 comes
 the
 Christ
-therefore
 A division
+therefore
 occurred
 in
 the
 crowd
 because of
 Him
-now
 Some
+now
+desired
 of
 them
-desired
 to seize
 Him
 but
@@ -54688,8 +54688,8 @@ on
 Him
 the
 hands
-therefore
 Came
+therefore
 the
 officers
 to
@@ -54715,11 +54715,11 @@ like this
 a man
 as
 this
+speaks
 -
 man
-speaks
-therefore
 Answered
+therefore
 them
 the
 Pharisees
@@ -54751,16 +54751,16 @@ law
 accursed
 are
 Says
+Nicodemus
 to
 them
-Nicodemus
 the [one]
 having come
 to
 Him
 former
-being
 one
+being
 of
 them
 Not
@@ -54808,16 +54808,16 @@ to
 the
 home
 of him
-however
 Jesus
+however
 went
 to
 the
 Mount
 -
 of Olives
-then
 Early in the morning
+then
 again
 He came
 into
@@ -54834,8 +54834,8 @@ And
 having sat down
 He was teaching
 them
-now
 Bring
+now
 the
 scribes
 and
@@ -54861,8 +54861,8 @@ woman
 was caught
 in the very act
 committing adultery
-now
 In
+now
 the
 law
 Moses
@@ -54871,12 +54871,12 @@ commanded
 -
 such
 to be stoned
-therefore
 You
+therefore
 what
 say You
-now
 This
+now
 they were saying
 testing
 Him
@@ -54884,8 +54884,8 @@ so that
 they might have [grounds]
 to accuse
 Him
-But
 -
+But
 Jesus
 down
 having stooped
@@ -54895,8 +54895,8 @@ began writing
 on
 the
 ground
-however
 As
+however
 they continued
 asking
 Him
@@ -54921,8 +54921,8 @@ He continued to write
 on
 the
 ground
-And
 -
+And
 having heard
 and
 by
@@ -54950,10 +54950,10 @@ woman
 in
 [the] midst
 being
+Having lifted up
 then
 -
 Jesus
-Having lifted up
 and
 no one
 saw
@@ -54973,13 +54973,13 @@ you
 No one
 you
 has condemned
-And
 -
+And
 she said
 No one
 Sir
-then
 Said
+then
 to her
 -
 Jesus
@@ -54991,8 +54991,8 @@ go
 and
 no more
 sin
-therefore
 Again
+therefore
 to them
 spoke
 -
@@ -55019,8 +55019,8 @@ the
 light
 -
 of life
-therefore
 Said
+therefore
 to Him
 the
 Pharisees
@@ -55056,8 +55056,8 @@ I came
 and
 where
 I am going
-however
 You
+however
 not
 know
 from where
@@ -55074,10 +55074,10 @@ I
 not
 am judging
 no one
-however
-if
 And
+if
 judge
+however
 I
 -
 judgment
@@ -55095,11 +55095,11 @@ and
 the
 having sent
 Me
-also
 And
 in
 the
 law
+also
 -
 of you
 it has been written
@@ -55124,8 +55124,8 @@ the
 having sent
 Me
 Father
-therefore
 They were saying
+therefore
 to Him
 Where
 is
@@ -55144,11 +55144,11 @@ of Me
 If
 Me
 you had known
--
 also
 the
 Father
 of Me
+-
 you would have known
 These
 -
@@ -55171,8 +55171,8 @@ had come
 the
 hour
 of Him
-then
 He said
+then
 again
 to them
 I
@@ -55189,12 +55189,12 @@ you will die
 where
 I
 go
-to come
 you
 not
 are able
-therefore
+to come
 Were saying
+therefore
 the
 Jews
 Not
@@ -55205,10 +55205,10 @@ He says
 Where
 I
 go
-to come
 you
 not
 are able
+to come
 And
 He was saying
 to them
@@ -55235,8 +55235,8 @@ of
 the
 world
 this
-therefore
 I said
+therefore
 to you
 that
 you will die
@@ -55244,8 +55244,8 @@ in
 the
 sins
 of you
-for
 if
+for
 not
 you believe
 that
@@ -55256,8 +55256,8 @@ in
 the
 sins
 of you
-therefore
 They were saying
+therefore
 to Him
 You
 who
@@ -55266,15 +55266,15 @@ Said
 to them
 -
 Jesus
-what
--
 From the
 beginning
+-
+what
 also
 I am saying
 to you
-I have
 Many things
+I have
 concerning
 you
 to say
@@ -55286,8 +55286,8 @@ having sent
 Me
 true
 is
-what
 and I
+what
 I have heard
 from
 Him
@@ -55303,8 +55303,8 @@ that
 Father
 to them
 He was speaking
-therefore
 Said
+therefore
 -
 Jesus
 When
@@ -55356,8 +55356,8 @@ many
 believed
 in
 Him
-therefore
 Was saying
+therefore
 -
 Jesus
 to
@@ -55416,12 +55416,12 @@ everyone
 practicing
 the
 sin
-is
 a slave
+is
 of the
 sin
-Now
 -
+Now
 the slave
 not
 abides
@@ -55437,8 +55437,8 @@ abides
 to
 the
 age
-therefore
 If
+therefore
 the
 Son
 you
@@ -55471,9 +55471,9 @@ with
 the
 Father
 I speak
-therefore
 also
 you
+therefore
 what
 you have heard
 from
@@ -55503,11 +55503,11 @@ works
 -
 of Abraham
 you would do
-however
 now
+however
 you seek
-to kill
 Me
+to kill
 a man
 who
 the
@@ -55539,9 +55539,9 @@ not
 have been born
 one
 Father
+we have
 -
 God
-we have
 Said
 to them
 -
@@ -55552,19 +55552,19 @@ God
 Father
 of you
 were
--
 you would have loved
+-
 Me
-for
 I
+for
 from
 -
 God
 came forth
 and
 am here
-for
 not even
+for
 of
 Myself
 have I come
@@ -55601,8 +55601,8 @@ desires
 of
 father
 of you
-to do
 you desire
+to do
 He
 a murderer
 was
@@ -55635,8 +55635,8 @@ and
 the
 father
 of it
-now
 I
+now
 because
 the
 truth
@@ -55713,8 +55713,8 @@ and
 you
 dishonor
 Me
-now
 I
+now
 not
 seek
 the
@@ -55818,8 +55818,8 @@ And
 not
 you have known
 Him
-however
 I
+however
 know
 Him
 And if
@@ -55855,8 +55855,8 @@ and
 he saw
 and
 rejoiced
-therefore
 Said
+therefore
 the
 Jews
 to
@@ -55880,15 +55880,15 @@ Abraham
 was
 I
 am
-therefore
 They took up
+therefore
 stones
 that
 they might cast
 at
 Him
-however
 Jesus
+however
 hid Himself
 and
 went forth
@@ -55938,8 +55938,8 @@ works
 of God
 in
 him
-it behooves
 Us
+it behooves
 to work
 the
 works
@@ -55960,8 +55960,8 @@ in
 the
 world
 I shall be
-I am
 [the] light
+I am
 of the
 world
 These things
@@ -55995,15 +55995,15 @@ of Siloam
 which
 means
 Sent
-therefore
 He went
+therefore
 and
 washed
 and
 came [back]
 seeing
-therefore
 The
+therefore
 neighbors
 and
 those
@@ -56039,11 +56039,11 @@ kept saying
 -
 I
 am [he]
-therefore
 They were saying
+therefore
 to him
-then
 How
+then
 were opened
 of you
 the
@@ -56072,8 +56072,8 @@ to
 Siloam
 and
 wash
-therefore
 Having gone
+therefore
 and
 having washed
 I received sight
@@ -56088,14 +56088,14 @@ Not
 I know
 They bring
 him
-who
-once [was]
-blind
 to
 the
 Pharisees
-now
+who
+once [was]
+blind
 Was
+now
 Sabbath
 in
 which
@@ -56110,8 +56110,8 @@ opened
 of him
 the
 eyes
-therefore
 Again
+therefore
 were asking
 him
 also
@@ -56119,31 +56119,31 @@ the
 Pharisees
 how
 he had received sight
-And
 -
+And
 he said
 to them
 Clay
 He put
-on
 of me
+on
 the
 eyes
 and
 I washed
 and
 I see
-therefore
 Were saying
+therefore
 of
 the
 Pharisees
 some
 Not
 is
+this
 from
 God
-this
 the
 man
 for
@@ -56165,8 +56165,8 @@ division
 there was
 among
 them
-therefore
 They say
+therefore
 to the
 blind [man]
 again
@@ -56180,15 +56180,15 @@ He opened
 of you
 the
 eyes
-And
 -
+And
 he said
 -
 A prophet
 He is
-then
 Not
 did believe
+then
 the
 Jews
 concerning
@@ -56221,12 +56221,12 @@ say
 that
 blind
 he was born
-then
 How
+then
 does he see
 presently
-therefore
 Answered
+therefore
 the
 parents
 of him
@@ -56243,8 +56243,8 @@ and
 that
 blind
 he was born
-however
 How
+however
 presently
 he sees
 not
@@ -56275,8 +56275,8 @@ because
 they were afraid
 of the
 Jews
-for
 already
+for
 had agreed together
 the
 Jews
@@ -56299,8 +56299,8 @@ Age
 he has
 him
 ask
-therefore
 They called
+therefore
 the
 man
 out
@@ -56323,8 +56323,8 @@ this
 man
 a sinner
 is
-then
 Answered
+then
 he
 Whether
 a sinner
@@ -56338,8 +56338,8 @@ blind
 being
 now
 I see
-therefore
 They said
+therefore
 to him
 What
 did He
@@ -56375,14 +56375,14 @@ and
 said
 You
 a disciple
-of that One
 are
-however
+of that One
 we
+however
 -
 of Moses
-disciples
 are
+disciples
 We
 know
 that
@@ -56390,8 +56390,8 @@ to Moses
 has spoken
 -
 God
-however
 this [man]
+however
 not
 we know
 from where
@@ -56402,9 +56402,9 @@ man
 and
 said
 to them
-for
 In
 this
+for
 -
 an amazing thing
 is
@@ -56519,8 +56519,8 @@ with
 you
 He
 is
-And
 -
+And
 he was saying
 I believe
 Lord
@@ -56550,10 +56550,10 @@ seeing
 blind
 may become
 Heard
-these things
 of
 the
 Pharisees
+these things
 who
 with
 Him
@@ -56573,12 +56573,12 @@ Jesus
 If
 blind
 you were
--
 not
+-
 you would have
 sin
-however
 since
+however
 you say
 -
 We see
@@ -56609,14 +56609,14 @@ a thief
 is
 and
 a robber
-however
 The [one]
+however
 entering in
 by
 the
 door
-is
 shepherd
+is
 of the
 sheep
 To him
@@ -56658,8 +56658,8 @@ they know
 the
 voice
 of him
-however
 A stranger
+however
 in no way
 not
 they will follow
@@ -56681,8 +56681,8 @@ spoke
 to them
 -
 Jesus
-however
 they
+however
 not
 knew
 what
@@ -56690,8 +56690,8 @@ it was
 that
 He was saying
 to them
-therefore
 Said
+therefore
 again
 -
 Jesus
@@ -56725,9 +56725,9 @@ I
 am
 the
 door
-if
 by
 Me
+if
 anyone
 enters in
 he will be saved
@@ -56858,9 +56858,9 @@ the
 fold
 this
 those also
+it behooves
 Me
 to bring
-it behooves
 and
 the
 voice
@@ -56927,8 +56927,8 @@ on account of
 the
 words
 these
-now
 Were saying
+now
 many
 of
 them
@@ -56974,8 +56974,8 @@ the
 porch
 -
 of Solomon
-therefore
 Encircled
+therefore
 Him
 the
 Jews
@@ -57105,9 +57105,9 @@ them
 Jesus
 Many
 works
-good
 I have shown
 you
+good
 from
 the
 Father
@@ -57201,8 +57201,8 @@ of Me
 not
 believe
 Me
-however
 If
+however
 I do
 even if
 Me
@@ -57224,11 +57224,11 @@ and I
 in
 the
 Father
-therefore
 They were seeking
+therefore
 Him
-to seize
 again
+to seize
 but
 He went forth
 out of
@@ -57246,10 +57246,10 @@ the
 place
 where
 was
-baptizing
 John
 -
 at first
+baptizing
 And
 He stayed
 there
@@ -57261,13 +57261,13 @@ Him
 and
 were saying
 -
-indeed
 John
+indeed
 sign
-no
 did
-however
+no
 everything
+however
 that
 said
 John
@@ -57281,8 +57281,8 @@ believed
 in
 Him
 there
-now
 Was
+now
 a certain [man]
 ailing
 Lazarus
@@ -57297,8 +57297,8 @@ Martha
 the
 sister
 of her
-now
 Was
+now
 Mary
 the [one]
 having anointed
@@ -57318,8 +57318,8 @@ whose
 brother
 Lazarus
 was sick
-therefore
 Sent
+therefore
 the
 sisters
 to
@@ -57330,8 +57330,8 @@ behold
 [he] whom
 You love
 is sick
-then
 Having heard
+then
 -
 Jesus
 said
@@ -57356,8 +57356,8 @@ Son
 of God
 by
 it
-now
 Loved
+now
 -
 Jesus
 -
@@ -57369,13 +57369,13 @@ of her
 and
 -
 Lazarus
-therefore
 When
+therefore
 He heard
 that
 he is sick
-indeed
 then
+indeed
 He remained
 in
 which
@@ -57432,8 +57432,8 @@ the
 world
 of this
 he sees
-however
 if
+however
 anyone
 walks
 in
@@ -57464,8 +57464,8 @@ I go
 that
 I may awaken
 him
-therefore
 Said
+therefore
 the
 disciples
 of Him
@@ -57473,16 +57473,16 @@ Lord
 if
 he has fallen asleep
 he will get well
-however
 Had spoken
+however
 -
 Jesus
 of
 the
 death
 of him
-however
 they
+however
 thought
 that
 of
@@ -57491,8 +57491,8 @@ rest
 -
 of sleep
 He speaks
-therefore
 Then
+therefore
 said
 to them
 -
@@ -57514,8 +57514,8 @@ But
 let us go
 to
 him
-therefore
 Said
+therefore
 Thomas
 -
 called
@@ -57529,21 +57529,21 @@ that
 we may die
 with
 Him
-therefore
 Having come
+therefore
 -
 Jesus
 found
 him
 four
-days
 already
+days
 having been
 in
 the
 tomb
-now
 Was
+now
 Bethany
 near
 -
@@ -57552,8 +57552,8 @@ about
 away
 stadia
 fifteen
-now
 Many
+now
 of
 the
 Jews
@@ -57569,24 +57569,24 @@ them
 concerning
 the
 brother
+-
 Therefore
+Martha
 when
 she heard
 that
 Jesus
 is coming
--
-Martha
 met
 Him
-however
 Mary
+however
 in
 the
 house
 was sitting
-then
 Said
+then
 -
 Martha
 to
@@ -57595,8 +57595,8 @@ Lord
 if
 You had been
 here
--
 not
+-
 would have died
 the
 brother
@@ -57605,8 +57605,8 @@ even
 now
 I know
 that
--
 whatever
+-
 You might ask
 -
 God
@@ -57708,8 +57708,8 @@ is come
 and
 He calls
 you
-then
 She
+then
 when
 she heard
 rose up
@@ -57718,8 +57718,8 @@ and
 was coming
 to
 Him
-now
 Not yet
+now
 had come
 -
 Jesus
@@ -57737,8 +57737,8 @@ had met
 Him
 -
 Martha
-then
 The
+then
 Jews
 -
 being
@@ -57769,8 +57769,8 @@ tomb
 that
 she might weep
 there
-Therefore
 -
+Therefore
 Mary
 when
 she came
@@ -57780,8 +57780,8 @@ Jesus
 having seen
 Him
 fell
-at
 of Him
+at
 the
 feet
 saying
@@ -57790,14 +57790,14 @@ Lord
 if
 You had been
 here
--
 not
-would have died
+-
 of me
+would have died
 the
 brother
-therefore
 Jesus
+therefore
 when
 He saw
 her
@@ -57828,16 +57828,16 @@ see
 Wept
 -
 Jesus
-therefore
 Were saying
+therefore
 the
 Jews
 Behold
 how
 He loved
 him
-however
 Some
+however
 of
 them
 said
@@ -57856,8 +57856,8 @@ also
 this one
 not
 should have died
-therefore
 Jesus
+therefore
 again
 being deeply moved
 in
@@ -57866,8 +57866,8 @@ comes
 to
 the
 tomb
-now
 It was
+now
 a cave
 and
 a stone
@@ -57890,8 +57890,8 @@ Martha
 Lord
 already
 he stinks
-for
 four days
+for
 it is
 Says
 to her
@@ -57908,12 +57908,12 @@ the
 glory
 -
 of God
-therefore
 They took away
+therefore
 the
 stone
-Now
 -
+Now
 Jesus
 lifted
 His
@@ -57927,8 +57927,8 @@ You
 that
 You have heard
 Me
-and
 I
+and
 knew
 that
 always
@@ -57982,8 +57982,8 @@ and
 allow
 him
 to go
-therefore
 Many
+therefore
 of
 the
 Jews
@@ -57999,8 +57999,8 @@ He did
 believed
 in
 Him
-however
 some
+however
 of
 them
 went
@@ -58013,8 +58013,8 @@ them
 what
 had done
 Jesus
-therefore
 Gathered
+therefore
 the
 chief priests
 and
@@ -58030,8 +58030,8 @@ this
 -
 man
 many
-signs
 does
+signs
 If
 we shall let him alone
 Him
@@ -58053,8 +58053,8 @@ place
 and
 the
 nation
-however
 One
+however
 certain
 of
 them
@@ -58088,8 +58088,8 @@ all
 the
 nation
 should perish
-now
 This
+now
 from
 himself
 not
@@ -58126,17 +58126,17 @@ having been scattered
 He might gather together
 into
 one
-therefore
 From
 that
+therefore
 -
 day
 they took counsel together
 that
 they might kill
 Him
-Therefore
 -
+Therefore
 Jesus
 no longer
 publicly
@@ -58162,8 +58162,8 @@ He stayed
 with
 the
 disciples
-now
 Was
+now
 near
 the
 Passover
@@ -58183,8 +58183,8 @@ Passover
 so that
 they might purify
 themselves
-therefore
 They were seeking
+therefore
 -
 Jesus
 and
@@ -58205,8 +58205,8 @@ He will come
 to
 the
 feast
-now
 Had given
+now
 the
 chief priests
 and
@@ -58223,8 +58223,8 @@ he should show [it]
 so that
 they might seize
 Him
-Therefore
 -
+Therefore
 Jesus
 before
 six
@@ -58242,8 +58242,8 @@ had raised
 out from
 [the] dead
 Jesus
-therefore
 They made
+therefore
 Him
 a supper
 there
@@ -58251,18 +58251,18 @@ and
 -
 Martha
 was serving
-and
 -
+and
 Lazarus
-was
 one
+was
 of
 those
 reclining
 with
 Him
-Therefore
 -
+Therefore
 Mary
 having taken
 a litra
@@ -58283,8 +58283,8 @@ of her
 the
 feet
 of Him
-now
 the
+now
 house
 was filled
 with
@@ -58292,8 +58292,8 @@ the
 fragrance
 of the
 oil
-however
 Says
+however
 Judas
 -
 Iscariot
@@ -58317,8 +58317,8 @@ denarii
 and
 given
 to [the] poor
-however
 He said
+however
 this
 not
 because
@@ -58338,8 +58338,8 @@ having
 that
 being put into [it]
 he used to pilfer
-therefore
 Said
+therefore
 -
 Jesus
 Leave alone
@@ -58353,20 +58353,20 @@ burial
 of Me
 she may keep
 it
-for
 the
 poor
+for
 always
 you have
 with
 you
-however
 Me
+however
 not
 always
 you have
-therefore
 Knew
+therefore
 -
 a crowd
 great
@@ -58386,15 +58386,15 @@ only
 but
 that
 also
-they might see
 -
 Lazarus
+they might see
 whom
 He had raised
 out from
 [the] dead
-however
 Took counsel
+however
 the
 chief priests
 that
@@ -58404,11 +58404,11 @@ Lazarus
 they might kill
 because
 many
-of the
-Jews
 on account of
 him
 were going away
+of the
+Jews
 and
 were believing
 in
@@ -58454,11 +58454,11 @@ the
 King
 -
 of Israel
-then
 Having found
-a young donkey
+then
 -
 Jesus
+a young donkey
 He sat
 upon
 it
@@ -58495,15 +58495,15 @@ they remembered
 that
 these things
 were
-written
 of
 Him
+written
 and
 these things
 they had done
 to Him
-therefore
 Continued to bear witness
+therefore
 the
 crowd
 -
@@ -58536,8 +58536,8 @@ of His
 having done
 the
 sign
-Therefore
 -
+Therefore
 the Pharisees
 said
 among
@@ -58553,8 +58553,8 @@ world
 after
 Him
 has gone
-now
 There were
+now
 Greeks
 certain
 among
@@ -58565,8 +58565,8 @@ they might worship
 at
 the
 feast
-therefore
 these
+therefore
 came
 to Philip
 who was
@@ -58598,8 +58598,8 @@ and
 tell
 -
 Jesus
-And
 -
+And
 Jesus
 answered
 them
@@ -58631,8 +58631,8 @@ should die
 it
 alone
 abides
-however
 if
+however
 it should die
 much
 fruit
@@ -58712,8 +58712,8 @@ glorify
 of You
 the
 name
-therefore
 Came
+therefore
 a voice
 from
 -
@@ -58723,8 +58723,8 @@ I have glorified [it]
 and
 again
 I will glorify [it]
-Therefore
 -
+Therefore
 the crowd
 -
 having stood
@@ -58753,8 +58753,8 @@ but
 because of
 you
 Now
-is
 [the] judgment
+is
 the
 world
 of this
@@ -58766,8 +58766,8 @@ world
 this
 will be cast
 out
-if
 And I
+if
 I am lifted up
 from
 the
@@ -58776,16 +58776,16 @@ all
 will draw
 to
 Myself
-now
 This
+now
 He was saying
 signifying
 by what
 death
 He was about
 to die
-then
 Answered
+then
 Him
 the
 crowd
@@ -58819,8 +58819,8 @@ this
 Son
 -
 of Man
-therefore
 Said
+therefore
 to them
 -
 Jesus
@@ -58872,9 +58872,9 @@ having gone away
 He was hidden
 from
 them
+So many
 however
 of Him
-So many
 signs
 having been done
 before
@@ -58948,8 +58948,8 @@ and
 spoke
 concerning
 Him
-indeed
 Nevertheless
+indeed
 even
 of
 the
@@ -58968,8 +58968,8 @@ so that
 not
 put out of the synagogue
 they might be
-for
 they loved
+for
 the
 glory
 -
@@ -58980,8 +58980,8 @@ the
 glory
 -
 of God
-then
 Jesus
+then
 cried out
 and
 said
@@ -59026,8 +59026,8 @@ should abide
 And
 if
 anyone
-hears
 of Me
+hears
 the
 words
 and
@@ -59037,8 +59037,8 @@ I
 not
 do judge
 him
-for
 not
+for
 I came
 that
 I might judge
@@ -59102,8 +59102,8 @@ of Him
 life
 eternal
 is
-therefore
 What
+therefore
 I
 speak
 as
@@ -59113,15 +59113,15 @@ the
 Father
 so
 I speak
-now
 Before
+now
 the
 feast
 of the
 Passover
+knowing
 -
 Jesus
-knowing
 that
 had come
 His
@@ -59216,8 +59216,8 @@ towel
 with which
 He was
 girded
-then
 He comes
+then
 to
 Simon
 Peter
@@ -59225,8 +59225,8 @@ who says
 to Him
 Lord
 You
-do wash
 of me
+do wash
 the
 feet
 Answered
@@ -59241,8 +59241,8 @@ you
 not
 know
 presently
-however
 you will know
+however
 after
 these things
 Says
@@ -59310,8 +59310,8 @@ are
 but
 not
 all
-for
 He knew
+for
 the [one who]
 was betraying
 Him
@@ -59323,8 +59323,8 @@ Not
 all
 clean
 you are
-therefore
 When
+therefore
 He had washed
 the
 feet
@@ -59354,29 +59354,29 @@ Lord
 and
 rightly
 you say
-for
 I am
-therefore
+for
 If
+therefore
 I
+have washed
+your
+-
+feet
 the
 Lord
 and
 the
 Teacher
-have washed
-your
--
-feet
 also
 you
 ought
-to wash
 of one another
+to wash
 the
 feet
-for
 A pattern
+for
 I gave
 you
 that
@@ -59462,8 +59462,8 @@ any
 I shall send
 Me
 receives
-now
 the [one]
+now
 Me
 receiving
 receives
@@ -59515,8 +59515,8 @@ whom
 loved
 -
 Jesus
-therefore
 Motions
+therefore
 to him
 Simon
 Peter
@@ -59529,8 +59529,8 @@ is
 about
 whom
 He is speaking
-he
 Having leaned
+he
 thus
 on
 the
@@ -59542,12 +59542,12 @@ to Him
 Lord
 who
 is it
-then
 Answers
+then
 -
 Jesus
-it is
 He
+it is
 to whom
 I
 will dip
@@ -59556,8 +59556,8 @@ morsel
 and
 will give
 him
-then
 Having dipped
+then
 the
 morsel
 He takes [it]
@@ -59576,26 +59576,26 @@ into
 him
 -
 Satan
-therefore
 Says
+therefore
 to him
 Jesus
 What
 you do
 do
 quickly
+This
 now
-knew
 no one
+knew
 of those
 reclining
-This
 to
 what
 He spoke
 to him
-for
 Some
+for
 were thinking
 since
 the
@@ -59614,23 +59614,23 @@ for
 the
 feast
 or
-that
 to the
 poor
+that
 something
 he should give
-therefore
 Having received
+therefore
 the
 morsel
 he
 went out
 immediately
-now
 it was
+now
 night
-therefore
 When
+therefore
 he had gone out
 says
 Jesus
@@ -59680,10 +59680,10 @@ Jews
 Where
 I
 go
-to come
 you
 not
 are able
+to come
 also
 to you
 I say
@@ -59727,13 +59727,13 @@ Answered
 Jesus
 Where
 I go
+not
+you are able
 Me
 now
 to follow
-not
-you are able
-however
 you will follow
+however
 afterward
 Says
 to Him
@@ -59795,11 +59795,11 @@ of Me
 mansions
 many
 there are
-now
 if
+now
 not
--
 would I have told
+-
 you
 that
 I go
@@ -59871,11 +59871,11 @@ Me
 If
 you had known
 Me
--
 also
 the
 Father
 of Me
+-
 you would have known
 from
 now
@@ -59944,8 +59944,8 @@ from
 Myself
 not
 I speak
-but
 -
+but
 the Father
 in
 Me
@@ -59966,8 +59966,8 @@ the
 Father
 in
 Me
-but
 if
+but
 not
 because of
 the
@@ -60000,9 +60000,9 @@ the
 Father
 am going
 And
+-
 what
 ever
--
 you might ask
 in
 the
@@ -60056,11 +60056,11 @@ Spirit
 -
 of truth
 whom
-to receive
 the
 world
 not
 is able
+to receive
 because
 not
 it does see
@@ -60085,16 +60085,16 @@ as orphans
 I am coming
 to
 you
-and
 Yet
 a little while
+and
 the
 world
 Me
 no more
 sees
-however
 you
+however
 see
 Me
 because
@@ -60135,8 +60135,8 @@ is
 the [one]
 loving
 Me
-now
 the [one]
+now
 loving
 Me
 will be loved
@@ -60162,8 +60162,8 @@ then
 what
 has occurred
 that
-You are about
 to us
+You are about
 to manifest
 Yourself
 and
@@ -60226,8 +60226,8 @@ to you
 with
 you
 abiding
-however
 The
+however
 Helper
 the
 Spirit
@@ -60289,8 +60289,8 @@ you
 If
 you loved
 Me
--
 you would have rejoiced
+-
 that
 I am going
 to
@@ -60317,8 +60317,8 @@ much
 I will speak
 with
 you
-for
 comes
+for
 the
 of this
 world
@@ -60480,8 +60480,8 @@ of Me
 in
 you
 abide
-if
 whatever
+if
 you wish
 you shall ask
 and
@@ -60535,8 +60535,8 @@ commandments
 have kept
 and
 I abide
-in
 of Him
+in
 the
 love
 These things
@@ -60606,8 +60606,8 @@ is doing
 his
 -
 master
-however
 You
+however
 I have called
 friends
 because
@@ -60643,9 +60643,9 @@ fruit
 of you
 should remain
 so that
+-
 what
 ever
--
 you might ask
 the
 Father
@@ -60677,14 +60677,14 @@ of
 the
 world
 you were
--
 the
 world
+-
 [as] its
 own
 would love [you]
-however
 because
+however
 of
 the
 world
@@ -60757,8 +60757,8 @@ to them
 sin
 not
 they would have had
-however
 now
+however
 excuse
 not
 they have
@@ -60788,8 +60788,8 @@ has done
 sin
 not
 they would have had
-however
 now
+however
 both
 they have seen
 and
@@ -60839,9 +60839,9 @@ He
 will bear witness
 concerning
 Me
-now
 Also
 you
+now
 bear witness
 because
 from
@@ -60897,8 +60897,8 @@ that
 I
 said [them]
 to you
-now
 These things
+now
 to you
 from
 [the] beginning
@@ -60908,8 +60908,8 @@ because
 with
 you
 I was
-however
 Now
+however
 I go
 to
 the [One]
@@ -60945,8 +60945,8 @@ for you
 that
 I
 should go away
-for
 If
+for
 not
 I go away
 the
@@ -60956,8 +60956,8 @@ not at all
 will come
 to
 you
-however
 if
+however
 I go
 I will send
 Him
@@ -60977,17 +60977,17 @@ righteousness
 and
 concerning
 judgment
-indeed
 concerning
 sin
+indeed
 because
 not
 do they believe
 in
 Me
-now
 concerning
 righteousness
+now
 because
 to
 the
@@ -60997,8 +60997,8 @@ and
 no more
 you behold
 Me
-now
 concerning
+now
 judgment
 because
 the
@@ -61008,8 +61008,8 @@ world
 this
 has been judged
 Yet
-I have
 many things
+I have
 to you
 to say
 but
@@ -61017,8 +61017,8 @@ not
 you are able
 to bear them
 now
-however
 When
+however
 shall come
 He
 the
@@ -61031,8 +61031,8 @@ into
 the
 truth
 all
-for
 not
+for
 He will speak
 from
 Himself
@@ -61085,8 +61085,8 @@ a little [while]
 and
 you will see
 Me
-therefore
 Said
+therefore
 [some] of
 the
 disciples
@@ -61116,11 +61116,11 @@ I am going
 to
 the
 Father
-therefore
 They were saying
+therefore
+This
 what
 is
-This
 that
 He says
 a
@@ -61165,8 +61165,8 @@ will weep
 and
 will lament
 you
-but
 -
+but
 the world
 will rejoice
 You
@@ -61178,9 +61178,9 @@ of you
 to
 joy
 will turn
-when
 The
 woman
+when
 she is giving birth
 pain
 has
@@ -61189,8 +61189,8 @@ has come
 the
 hour
 of her
-however
 when
+however
 she brings forth
 the
 child
@@ -61207,15 +61207,15 @@ a man
 into
 the
 world
-therefore
-indeed
 Also
 you
+therefore
 now
+indeed
 grief
 have
-however
 again
+however
 I will see
 you
 and
@@ -61313,8 +61313,8 @@ the
 Father
 for
 you
-for
 Himself
+for
 the
 Father
 loves
@@ -61470,8 +61470,8 @@ He may give
 to them
 life
 eternal
-now
 This
+now
 is
 -
 eternal
@@ -61494,20 +61494,20 @@ glorified
 on
 the
 earth
-having completed
 the
 work
+having completed
 that
 You have given
 Me
 that
 I should do
 And
-Father
 now
 glorify
 Me
 You
+Father
 with
 Yourself
 with the
@@ -61671,8 +61671,8 @@ that
 the
 Scripture
 might be fulfilled
-however
 Now
+however
 to
 You
 I am coming
@@ -61773,15 +61773,15 @@ sanctify
 Myself
 that
 may be
-sanctified
 also
 they
+sanctified
 in
 truth
-however
 Not
 for
 these
+however
 do I ask
 only
 but
@@ -61800,8 +61800,8 @@ all
 one
 may be
 as
-Father
 You
+Father
 [are] in
 Me
 and I
@@ -61897,8 +61897,8 @@ world
 You
 not
 has known
-now
 I
+now
 You
 have known
 and
@@ -61952,8 +61952,8 @@ and
 the
 disciples
 of Him
-now
 Knew
+now
 also
 Judas
 who
@@ -61970,8 +61970,8 @@ with
 the
 disciples
 of Him
-Therefore
 -
+Therefore
 Judas
 having procured
 the
@@ -61993,8 +61993,8 @@ and
 torches
 and
 weapons
-therefore
 Jesus
+therefore
 knowing
 all things
 that
@@ -62016,8 +62016,8 @@ He says
 to them
 I
 am [He]
-now
 Had been standing
+now
 also
 Judas
 who
@@ -62025,8 +62025,8 @@ is delivering up
 Him
 with
 them
-therefore
 When
+therefore
 He said
 to them
 I
@@ -62038,14 +62038,14 @@ back
 and
 fell
 to [the] ground
-therefore
 Again
+therefore
 He questioned
 them
 Whom
 seek you
-And
 -
+And
 they said
 Jesus
 of
@@ -62057,8 +62057,8 @@ you
 that
 I
 am [He]
-therefore
 If
+therefore
 Me
 you seek
 Allow
@@ -62079,8 +62079,8 @@ I lost
 of
 them
 not one
-then
 Simon
+then
 Peter
 having
 a sword
@@ -62099,14 +62099,14 @@ the
 ear
 -
 right
-now
 Was
+now
 name
 of the
 servant
 Malchus
-therefore
 Said
+therefore
 -
 Jesus
 -
@@ -62128,8 +62128,8 @@ no
 not
 shall I drink
 it
-Then
 -
+Then
 the cohort
 and
 the
@@ -62150,8 +62150,8 @@ they led [Him] away
 to
 Annas
 first
-for
 he was
+for
 father-in-law
 -
 of Caiaphas
@@ -62161,8 +62161,8 @@ high priest
 the
 year
 same
-now
 Was
+now
 Caiaphas
 the [one]
 having given counsel
@@ -62176,8 +62176,8 @@ to perish
 for
 the
 people
-now
 Were following
+now
 -
 Jesus
 Simon
@@ -62185,8 +62185,8 @@ Peter
 and
 the other
 disciple
-now
 Since
+now
 disciple
 that
 was
@@ -62202,16 +62202,16 @@ the
 court
 of the
 high priest
-But
 -
+But
 Peter
 stood
 at
 the
 door
 outside
-therefore
 Went out
+therefore
 the
 disciple
 -
@@ -62228,8 +62228,8 @@ and
 brought in
 -
 Peter
-therefore
 Says
+therefore
 -
 to Peter
 the
@@ -62242,16 +62242,16 @@ you
 of
 the
 disciples
+are
 of the
 man
 this
-are
 Says
 he
 Not
 I am
-now
 Were standing
+now
 the
 servants
 and
@@ -62264,18 +62264,18 @@ cold
 it was
 and
 they were warming themselves
+Was
 now
 also
 -
 Peter
 with
 them
-Was
 standing
 and
 warming himself
-Then
 -
+Then
 the high priest
 questioned
 -
@@ -62331,8 +62331,8 @@ know
 what
 said
 I
-now
 These things
+now
 of Him
 having said
 one
@@ -62358,14 +62358,14 @@ bear witness
 concerning
 the
 evil
-however
 if
+however
 rightly
 why
 Me
 strike you
-then
 Sent
+then
 Him
 -
 Annas
@@ -62374,15 +62374,15 @@ to
 Caiaphas
 the
 high priest
+Was
 now
 Simon
 Peter
-Was
 standing
 and
 warming himself
-therefore
 They said
+therefore
 to him
 Not
 also
@@ -62405,8 +62405,8 @@ the
 servants
 of the
 high priest
-being [of him]
 kinsman
+being [of him]
 of whom
 had cut off
 Peter
@@ -62414,23 +62414,23 @@ the
 ear
 Not
 I
-saw
 you
+saw
 in
 the
 garden
 with
 Him
-then
 Again
+then
 denied
 Peter
 and
 immediately
 a rooster
 crowed
-then
 They are leading
+then
 -
 Jesus
 from
@@ -62439,8 +62439,8 @@ Caiaphas
 into
 the
 Praetorium
-now
 It was
+now
 early
 and
 they
@@ -62456,8 +62456,8 @@ but
 might eat
 the
 Passover
-therefore
 Went
+therefore
 -
 Pilate
 out
@@ -62467,10 +62467,10 @@ and
 said
 What
 accusation
+bring you
 the
 man
 this
-bring you
 They answered
 and
 said
@@ -62478,16 +62478,16 @@ to him
 If
 not
 were
-doing
 He
 evil
--
+doing
 not
+-
 to you
 we would have delivered
 Him
-therefore
 Said
+therefore
 to them
 -
 Pilate
@@ -62523,8 +62523,8 @@ what
 death
 He was about
 to die
-therefore
 Entered
+therefore
 again
 into
 the
@@ -62599,8 +62599,8 @@ kingdom
 -
 My
 -
--
 attendants
+-
 -
 My
 would fight
@@ -62609,8 +62609,8 @@ not
 I might be betrayed
 to the
 Jews
-however
 Now
+however
 -
 kingdom
 -
@@ -62618,8 +62618,8 @@ My
 not
 is
 from here
-therefore
 Said
+therefore
 to Him
 -
 Pilate
@@ -62684,8 +62684,8 @@ find
 in
 Him
 guilt
-however
 It is
+however
 a custom
 with you
 that
@@ -62695,16 +62695,16 @@ to you
 at
 the
 Passover
-therefore
 wish you
+therefore
 I should release
 to you
 the
 King
 of the
 Jews
-then
 They cried out
+then
 again
 saying
 Not
@@ -62712,13 +62712,13 @@ this one
 but
 -
 Barabbas
-now
 Was
+now
 -
 Barabbas
 an insurrectionist
-therefore
 At that time
+therefore
 took
 -
 Pilate
@@ -62779,8 +62779,8 @@ guilt
 I find
 in
 Him
-therefore
 Went forth
+therefore
 -
 Jesus
 outside
@@ -62798,8 +62798,8 @@ to them
 Behold
 the
 man
-therefore
 When
+therefore
 saw
 Him
 the
@@ -62820,8 +62820,8 @@ Him
 yourselves
 and
 crucify [Him]
-for
 I
+for
 no
 find
 in
@@ -62845,8 +62845,8 @@ because
 of God
 Himself
 He made
-therefore
 When
+therefore
 heard
 -
 Pilate
@@ -62868,20 +62868,20 @@ to Jesus
 From where
 are
 You
-But
 -
+But
 Jesus
 an answer
 not
 did give
 him
-therefore
 Says
+therefore
 to Him
 -
 Pilate
-not
 To me
+not
 speak You
 Not
 know You
@@ -62900,9 +62900,9 @@ Jesus
 Not
 you would have
 authority
-against
 also
 Me
+against
 if
 not
 it were
@@ -62925,8 +62925,8 @@ Pilate
 was seeking
 to release
 Him
-but
 -
+but
 the Jews
 cried out
 saying
@@ -62946,8 +62946,8 @@ making
 speaks against
 -
 Caesar
-Therefore
 -
+Therefore
 Pilate
 having heard
 the
@@ -62965,11 +62965,11 @@ at
 a place
 called
 [the] Stone Pavement
-now
 in Hebrew
-Gabbatha
 now
+Gabbatha
 It was
+now
 the Day of Preparation
 of the
 Passover
@@ -62985,8 +62985,8 @@ Behold
 the
 king
 of you
-therefore
 They cried out
+therefore
 With Him
 away
 away
@@ -63009,15 +63009,15 @@ a king
 if
 not
 Caesar
-therefore
 Then
+therefore
 he delivered
 Him
 to them
 that
 He might be crucified
-therefore
 They took
+therefore
 -
 Jesus
 And
@@ -63046,12 +63046,12 @@ two
 on this side
 and
 on that side
-now
 in between
+now
 -
 Jesus
-then
 Wrote
+then
 also
 a title
 -
@@ -63061,8 +63061,8 @@ put [it]
 on
 the
 cross
-now
 It was
+now
 written
 Jesus
 of
@@ -63071,21 +63071,21 @@ the
 King
 of the
 Jews
-therefore
 This
+therefore
 the
 title
-read
 many
+read
 of the
 Jews
 for
 near
-the
-city
 was
 the
 place
+the
+city
 where
 was crucified
 -
@@ -63096,8 +63096,8 @@ written
 in Hebrew
 in Latin
 in Greek
-therefore
 Were saying
+therefore
 -
 to Pilate
 the
@@ -63115,19 +63115,19 @@ that
 He
 said
 King
+I am
 of the
 Jews
-I am
 Answered
 -
 Pilate
 What
 I have written
 I have written
-then
-when
 The
+then
 soldiers
+when
 they crucified
 -
 Jesus
@@ -63145,8 +63145,8 @@ a part
 and also
 the
 tunic
-now
 Was
+now
 the
 tunic
 seamless
@@ -63156,8 +63156,8 @@ top
 woven
 throughout
 all
-therefore
 They said
+therefore
 to
 one another
 Not
@@ -63185,14 +63185,14 @@ clothing
 of Me
 they cast
 a lot
-therefore
-indeed
 The
+indeed
+therefore
 soldiers
 these things
 did
-now
 Had been standing
+now
 by
 the
 cross
@@ -63215,8 +63215,8 @@ and
 Mary
 -
 Magdalene
-therefore
 Jesus
+therefore
 having seen
 [His]
 mother
@@ -63256,9 +63256,9 @@ the
 own
 After
 this
+knowing
 -
 Jesus
-knowing
 that
 now
 all things
@@ -63270,11 +63270,11 @@ Scripture
 He says
 I thirst
 A vessel
+had been set [there]
 of sour wine
 full
-had been set [there]
-therefore
 a sponge
+therefore
 filled
 with
 sour wine
@@ -63284,8 +63284,8 @@ they brought
 it
 to the
 mouth
-therefore
 When
+therefore
 took
 the
 sour wine
@@ -63300,8 +63300,8 @@ head
 He yielded up
 the
 spirit
-Therefore
 -
+Therefore
 the Jews
 because
 [the] Preparation
@@ -63317,8 +63317,8 @@ bodies
 on
 the
 Sabbath
-for
 was
+for
 a high
 -
 day
@@ -63335,25 +63335,25 @@ their
 legs
 and
 they might be taken away
-therefore
 Came
+therefore
 the
 soldiers
 and
+of the
 indeed
+first
 broke
 the
 legs
-of the
-first
 and
 of the
 other
 -
 having been crucified with
 Him
-however
 to
+however
 -
 Jesus
 having come
@@ -63388,8 +63388,8 @@ having seen
 has borne witness
 and
 true
-is
 of him
+is
 the
 testimony
 And
@@ -63402,17 +63402,17 @@ that
 also
 you
 might believe
-for
 Took place
+for
 these things
 so that
 the
 Scripture
 might be fulfilled
 Bone
-of Him
 not one
 will be broken
+of Him
 And
 again
 another
@@ -63422,8 +63422,8 @@ They will look
 on
 the [One]
 they have pierced
-then
 After
+then
 these things
 asked
 -
@@ -63435,8 +63435,8 @@ being
 a disciple
 -
 of Jesus
-however
 concealed
+however
 through
 the
 fear
@@ -63452,15 +63452,15 @@ and
 gave permission
 -
 Pilate
-therefore
 He came
+therefore
 and
 took away
 the
 body
 of Him
-now
 Came
+now
 also
 Nicodemus
 the [one]
@@ -63478,8 +63478,8 @@ aloes
 about
 litras
 a hundred
-therefore
 They took
+therefore
 the
 body
 -
@@ -63497,8 +63497,8 @@ is
 among the
 Jews
 to prepare for burial
-now
 There was
+now
 in
 the
 place
@@ -63517,8 +63517,8 @@ not yet
 no one
 was
 laid
-therefore
 There
+therefore
 on account of
 the
 Preparation
@@ -63532,8 +63532,8 @@ tomb
 they laid
 -
 Jesus
-Now
 -
+Now
 the first [day]
 of the
 week
@@ -63542,12 +63542,12 @@ Mary
 Magdalene
 comes
 early
-to
-the
-tomb
 dark
 still
 it being
+to
+the
+tomb
 and
 she sees
 the
@@ -63556,8 +63556,8 @@ having been removed
 from
 the
 tomb
-therefore
 She runs
+therefore
 and
 comes
 to
@@ -63587,8 +63587,8 @@ we know
 where
 they have laid
 Him
-therefore
 Went forth
+therefore
 -
 Peter
 and
@@ -63600,8 +63600,8 @@ were coming
 to
 the
 tomb
-now
 Were running
+now
 the
 two
 together
@@ -63625,11 +63625,11 @@ he sees
 lying [there]
 the
 linen cloths
-however
 not
+however
 he entered
-then
 Comes
+then
 also
 Simon
 Peter
@@ -63665,8 +63665,8 @@ having been folded up
 in
 a
 place
-therefore
 Then
+therefore
 entered
 also
 the
@@ -63682,8 +63682,8 @@ and
 he saw
 and
 believed
-for
 not yet
+for
 understood they
 the
 Scripture
@@ -63693,23 +63693,23 @@ Him
 out from
 [the] dead
 to rise
-therefore
 Went away
+therefore
 again
 to
 their [homes]
 the
 disciples
-however
 Mary
+however
 stood
 at
 the
 tomb
 outside
 weeping
-therefore
 As
+therefore
 she was weeping
 she stooped down
 into
@@ -63722,12 +63722,6 @@ angels
 in
 white
 sitting
-where
-had lain
-the
-body
--
-of Jesus
 one
 at
 the
@@ -63737,6 +63731,12 @@ one
 at
 the
 feet
+where
+had lain
+the
+body
+-
+of Jesus
 And
 say
 to her
@@ -63822,14 +63822,14 @@ Jesus
 Not
 Me
 touch
-for
 not yet
+for
 have I ascended
 to
 the
 Father
-however
 go
+however
 to
 the
 brothers
@@ -63866,8 +63866,8 @@ and [that]
 these things
 He had said
 to her
-therefore
 It being
+therefore
 evening
 the
 day
@@ -63912,15 +63912,15 @@ and
 His
 side
 to them
-then
 Rejoiced
+then
 the
 disciples
 having seen
 the
 Lord
-therefore
 Said
+therefore
 to them
 -
 Jesus
@@ -63946,8 +63946,8 @@ Receive
 [the] Spirit
 Holy
 If
-you might forgive
 of any
+you might forgive
 the
 sins
 they are forgiven
@@ -63956,8 +63956,8 @@ If
 any
 you might retain
 they are retained
-however
 Thomas
+however
 one
 of
 the
@@ -63972,8 +63972,8 @@ them
 when
 came
 Jesus
-therefore
 Were saying
+therefore
 to him
 the
 other
@@ -63981,8 +63981,8 @@ disciples
 We have seen
 the
 Lord
-But
 -
+But
 he said
 to them
 If
@@ -64104,10 +64104,10 @@ not
 having seen
 yet
 having believed
-therefore
-indeed
-also
 Many
+indeed
+therefore
+also
 other
 signs
 did
@@ -64124,8 +64124,8 @@ in
 the
 book
 this
-however
 these
+however
 have been written
 that
 you may believe
@@ -64160,8 +64160,8 @@ the
 sea
 -
 of Tiberias
-now
 He revealed [Himself]
+now
 in this way
 They were
 together
@@ -64216,8 +64216,8 @@ that
 night
 they caught
 nothing
-now
 Morning
+now
 already
 having come
 stood
@@ -64225,16 +64225,16 @@ Jesus
 on
 the
 shore
-however
 not
+however
 knew
 the
 disciples
 that
 Jesus
 it is
-therefore
 Says
+therefore
 to them
 Jesus
 Children
@@ -64245,8 +64245,8 @@ have you
 They answered
 Him
 No
-And
 -
+And
 He said
 to them
 Cast
@@ -64260,8 +64260,8 @@ the
 net
 and
 you will find [some]
-therefore
 They cast
+therefore
 and
 not
 it
@@ -64272,8 +64272,8 @@ the
 multitude
 of the
 fish
-therefore
 Says
+therefore
 the
 disciple
 that
@@ -64286,8 +64286,8 @@ to Peter
 The
 Lord
 it is
-therefore
 Simon
+therefore
 Peter
 having heard
 that
@@ -64297,8 +64297,8 @@ it is
 the
 outer garment
 put on
-for
 he was
+for
 naked
 and
 he cast
@@ -64306,15 +64306,15 @@ himself
 into
 the
 sea
-And
 -
+And
 the other
 disciples
 in the
 boat
 came
-for
 not
+for
 were they
 far
 from
@@ -64330,8 +64330,8 @@ the
 net
 with the
 fish
-therefore
 When
+therefore
 they got out
 onto
 the
@@ -64385,9 +64385,9 @@ Jesus
 Come
 have breakfast
 None
+dared
 of the
 disciples
-dared
 to ask
 Him
 You
@@ -64421,8 +64421,8 @@ disciples
 having been raised
 out from
 [the] dead
-therefore
 When
+therefore
 they had dined
 says
 -
@@ -64524,8 +64524,8 @@ and
 walked
 where
 you desired
-however
 when
+however
 you shall be old
 you will stretch forth
 the
@@ -64540,8 +64540,8 @@ will bring [you]
 where
 not
 you do desire
-now
 This
+now
 He said
 signifying
 by what
@@ -64585,8 +64585,8 @@ is it
 who
 is betraying
 You
-therefore
 Him
+therefore
 having seen
 -
 Peter
@@ -64594,8 +64594,8 @@ says
 -
 to Jesus
 Lord
-and
 this man
+and
 what about
 Says
 to him
@@ -64603,8 +64603,8 @@ to him
 Jesus
 If
 him
-to remain
 I desire
+to remain
 until
 I come
 what [is it]
@@ -64613,8 +64613,8 @@ you
 You
 Me
 follow
-therefore
 Went out
+therefore
 this
 -
 saying
@@ -64627,9 +64627,9 @@ disciple
 that
 not
 dies
-however
 Not
 said
+however
 to him
 -
 Jesus
@@ -64639,8 +64639,8 @@ he dies
 but
 If
 him
-to remain
 I desire
+to remain
 until
 I come
 what [is it]
@@ -64666,8 +64666,8 @@ of him
 the
 testimony
 is
-now
 There are
+now
 also
 other things
 many
@@ -64675,48 +64675,48 @@ that
 did
 -
 Jesus
-if
 which
+if
 they should be written
 every
 one
-I suppose
 not even
 itself
+I suppose
 the
 world
 to have space
 for the
 to be written
 books
-O
-Theophilus
-indeed
 The
+indeed
 first
 account
 I composed
 concerning
 all the things
+O
+Theophilus
 which
-both
-to do
-and
-to teach
 began
 -
 Jesus
+to do
+both
+and
+to teach
 until
 the
 day
 having given orders
 to the
 apostles
-whom
-He had chosen
 by
 [the] Spirit
 Holy
+whom
+He had chosen
 He was taken up
 to whom
 also
@@ -64761,24 +64761,24 @@ That which
 you heard
 of Me
 for
-indeed
 John
+indeed
 baptized
 with water
-however
 you
+however
 with
 [the] Spirit
-Holy
 will be baptized
+Holy
 not
 after
 many
 these
 days
+Those
 indeed
 therefore
-Those
 having come together
 were asking
 Him
@@ -64825,8 +64825,8 @@ and
 you will be
 for Me
 witnesses
-both
 in
+both
 Jerusalem
 and
 in
@@ -64917,8 +64917,8 @@ is
 near
 Jerusalem
 a Sabbath day’s
-journey
 holding
+journey
 And
 when
 they had entered
@@ -64929,8 +64929,8 @@ they went up
 where
 they were
 staying
-both
 -
+both
 Peter
 and
 John
@@ -64979,14 +64979,14 @@ the
 days
 these
 having stood up
+Peter
 in
 [the] midst
 of the
 brothers
-Peter
 he said
-then
 was
+then
 [the] number
 of names
 together
@@ -65030,9 +65030,9 @@ a share
 of the
 ministry
 this
+This [man]
 indeed
 then
-This [man]
 acquired
 a field
 out of
@@ -65071,8 +65071,8 @@ that
 is
 Field
 of Blood
-for
 It has been written
+for
 in [the]
 book
 of Psalms
@@ -65094,12 +65094,12 @@ position
 of him
 let take
 another
-therefore
 It behooves
+therefore
 the
-men
 having accompanied
 us
+men
 during
 all
 [the] time
@@ -65148,10 +65148,10 @@ Matthias
 And
 having prayed
 they said
+You
 Lord
 knower of the hearts
 of all
-You
 show
 which
 You have chosen
@@ -65256,11 +65256,11 @@ Spirit
 was giving
 to utter forth
 to them
-now
 Were
-dwelling
+now
 in
 Jerusalem
+dwelling
 Jews
 men
 devout
@@ -65271,8 +65271,8 @@ of those
 under
 -
 heaven
-now
 Having come about
+now
 the
 sound
 of this
@@ -65290,18 +65290,18 @@ own
 language
 speaking
 them
-then
 They were amazed
+then
 and
 were marveling
 saying
-behold
 Not
+behold
 all
 these
+are
 who
 are speaking
-are
 Galileans
 And
 how
@@ -65325,16 +65325,16 @@ those
 inhabiting
 -
 Mesopotamia
-also
 Judea
+also
 and
 Cappadocia
 Pontus
 and
 -
 Asia
-both
 Phrygia
+both
 and
 Pamphylia
 Egypt
@@ -65350,8 +65350,8 @@ and
 those
 visiting [here]
 from Rome
-both
 Jews
+both
 and
 converts
 Cretans
@@ -65367,8 +65367,8 @@ the
 great things
 -
 of God
-then
 Were amazed
+then
 all
 and
 were perplexed
@@ -65376,25 +65376,25 @@ other
 to
 other
 saying
+What
 wishes
 this
-What
 to be
-however
 Others
+however
 mocking
 were saying
 -
 Of new wine
 full
 they are
-however
 Having stood up
+however
+-
+Peter
 with
 the
 eleven
--
-Peter
 he lifted up
 the
 voice
@@ -65418,15 +65418,15 @@ give heed to
 the
 words
 of me
-for
 Not
+for
 as
 you
 suppose
 these
 are drunkards
-for
 it is
+for
 [the] hour
 third
 of the
@@ -65539,8 +65539,8 @@ glorious
 And
 it shall be
 everyone
-if
 who
+if
 they shall call upon
 the
 name
@@ -65610,8 +65610,8 @@ possible
 Him
 by
 it
-for
 David
+for
 says
 about
 Him
@@ -65641,8 +65641,8 @@ rejoiced
 the
 tongue
 of me
-now
 and
+now
 also
 the
 flesh
@@ -65704,8 +65704,8 @@ unto
 the
 day
 this
-therefore
 A prophet
+therefore
 being
 and
 knowing
@@ -65754,14 +65754,14 @@ all
 we
 are
 witnesses
-therefore
 To the
 right hand
+therefore
 -
 of God
 having been exalted
-and
 -
+and
 the promise
 of the
 Spirit
@@ -65779,15 +65779,15 @@ both
 are seeing
 and
 hearing
-for
 Not
+for
 David
 ascended
 into
 the
 heavens
-however
 he says
+however
 himself
 Said
 Lord
@@ -65808,8 +65808,8 @@ a footstool
 of the
 feet
 of You
-therefore
 Assuredly
+therefore
 let know
 all
 [the] house
@@ -65817,25 +65817,25 @@ of Israel
 that
 both
 Lord
+Him
 and
 Christ
 has made
 -
 God
-Him
 this
 -
 Jesus
 whom
 you
 crucified
-then
 Having heard
+then
 they were pierced
 to the
 heart
-then
 they said
+then
 to
 -
 Peter
@@ -65847,8 +65847,8 @@ What
 shall we do
 men
 brothers
-then
 Peter
+then
 to
 them
 Repent
@@ -65873,8 +65873,8 @@ gift
 of the
 Holy
 Spirit
-for
 To you
+for
 is
 the
 promise
@@ -65887,15 +65887,15 @@ to all
 those
 at
 a distance
--
 as many as
+-
 shall call to Himself
 [the] Lord
 the
 God
 of us
-and
 Other
+and
 words
 many
 he earnestly testified
@@ -65910,9 +65910,9 @@ generation
 -
 perverse
 this
+Those
 indeed
 therefore
-Those
 having received
 the
 word
@@ -65927,8 +65927,8 @@ that
 souls
 about
 three thousand
-now
 They were
+now
 steadfastly continuing
 in the
 teaching
@@ -65944,13 +65944,13 @@ bread
 and
 the
 prayers
-then
 There was coming
+then
 upon every
 soul
 awe
-and both
 many
+and both
 wonders
 and
 signs
@@ -65958,8 +65958,8 @@ through
 the
 apostles
 were taking place
-now
 All
+now
 -
 having believed
 together
@@ -65984,16 +65984,16 @@ as
 anyone
 need
 had
-and
 Every
 day
+and
 steadfastly continuing
 with one accord
 in
 the
 temple
-then
 breaking
+then
 at each
 house
 bread
@@ -66014,8 +66014,8 @@ with
 all
 the
 people
-And
 -
+And
 the Lord
 kept adding
 those who
@@ -66025,8 +66025,8 @@ day
 to
 their
 number
-now
 Peter
+now
 and
 John
 were going up
@@ -66084,9 +66084,9 @@ temple
 was asking
 alms
 to receive
+Having looked intently
 now
 Peter
-Having looked intently
 upon
 him
 with
@@ -66096,8 +66096,8 @@ he said
 Look
 unto
 us
-And
 -
+And
 he began to give heed
 to them
 expecting
@@ -66105,8 +66105,8 @@ something
 from
 them
 to receive
-however
 Said
+however
 Peter
 Silver
 and
@@ -66114,8 +66114,8 @@ gold
 none
 there is
 to me
-however
 what
+however
 I have
 this
 to you
@@ -66136,8 +66136,8 @@ right
 hand
 he raised up
 him
-then
 immediately
+then
 were strengthened
 the
 feet
@@ -66175,8 +66175,8 @@ and
 praising
 -
 God
-then
 They recognized
+then
 him
 that
 he
@@ -66201,8 +66201,8 @@ at
 that
 having happened
 to him
-now
 Is clinging
+now
 he
 to
 Peter
@@ -66222,8 +66222,8 @@ porch
 called
 Solomon’s
 greatly amazed
-however
 Having seen [it]
+however
 -
 Peter
 answered
@@ -66266,9 +66266,9 @@ the
 servant
 of Him
 Jesus
-indeed
 whom
 you
+indeed
 betrayed
 and
 disowned
@@ -66278,8 +66278,8 @@ of Pilate
 having adjudged
 that one
 to release [Him]
-however
 You
+however
 the
 Holy
 and
@@ -66291,8 +66291,8 @@ a man
 a murderer
 to be granted
 to you
-and
 -
+and
 the Author
 -
 of life
@@ -66338,8 +66338,8 @@ before
 all
 of you
 And
-brothers
 now
+brothers
 I know
 that
 in
@@ -66350,8 +66350,8 @@ also
 the
 rulers
 of you
-But
 -
+But
 God
 what
 He foretold
@@ -66366,8 +66366,8 @@ Christ
 of Him
 He has fulfilled
 thus
-therefore
 Repent
+therefore
 and
 turn again
 for
@@ -66392,10 +66392,10 @@ having been appointed
 to you
 Christ
 Jesus
-it behooves
-indeed
 whom
+it behooves
 heaven
+indeed
 to receive
 until
 [the] times
@@ -66413,8 +66413,8 @@ from
 [the] age
 His
 prophets
-indeed
 Moses
+indeed
 said
 -
 A prophet
@@ -66433,17 +66433,17 @@ Him
 You will listen to
 in
 all things
--
 as many as
+-
 He might say
 to
 you
-now
 It will be [that]
+now
 every
 soul
-if
 who
+if
 not
 might heed
 the
@@ -66453,9 +66453,9 @@ will be utterly destroyed
 out from
 the
 people
-now
 And
 all
+now
 the
 prophets
 from
@@ -66503,9 +66503,9 @@ of the
 earth
 To you
 first
+having raised up
 -
 God
-having raised up
 the
 servant
 of Him
@@ -66521,8 +66521,8 @@ from
 the
 wickednesses
 of you
-now
 Speaking
+now
 of them
 to
 the
@@ -66568,12 +66568,12 @@ custody
 until
 the
 next day
-for
 it was
+for
 evening
 already
-however
 Many
+however
 of those
 having heard
 the
@@ -66587,8 +66587,8 @@ men
 about
 thousand
 five
-then
 It came to pass
+then
 on
 the
 next day
@@ -66718,14 +66718,14 @@ other
 no one
 the
 salvation
-for
 not
+for
+name
 is there
+another
 under
 -
 heaven
-name
-another
 -
 having been given
 among
@@ -66735,14 +66735,14 @@ which
 it behooves
 to be saved
 us
-now
 Seeing
+now
 the
 -
 of Peter
+boldness
 and
 of John
-boldness
 and
 having understood
 that
@@ -66752,28 +66752,28 @@ they are
 and
 ordinary
 they were astonished
-then
 They recognized
+then
 them
 that
 with
 -
 Jesus
 they had been
+-
 And
-beholding
--
 the man
--
-having been healed
+beholding
 with
 them
 standing
+-
+having been healed
 nothing
-to contradict
 they had
-however
+to contradict
 Having commanded
+however
 them
 outside
 the
@@ -66788,9 +66788,9 @@ shall we do
 to the
 men
 these
-for
-truly
 That
+truly
+for
 a noteworthy
 sign
 has come to pass
@@ -66838,8 +66838,8 @@ the
 name
 -
 of Jesus
-But
 -
+But
 Peter
 and
 John
@@ -66860,9 +66860,9 @@ than
 -
 God
 you must judge
-for
 not
 are able
+for
 we
 what
 we have seen
@@ -66870,8 +66870,8 @@ and
 heard
 not
 to speak
-And
 -
+And
 having further threatened [them]
 they let go
 them
@@ -66892,11 +66892,11 @@ God
 for
 that
 having happened
-for
 years [old]
+for
+was
 more than
 forty
-was
 the
 man
 on
@@ -66907,8 +66907,8 @@ sign
 this
 of
 healing
-now
 Having been let go
+now
 they came
 to
 the
@@ -66924,8 +66924,8 @@ and
 the
 elders
 had said
-And
 -
+And
 having heard
 with one accord
 they lifted up
@@ -66992,8 +66992,8 @@ against
 the
 Christ
 of Him
-for
 Were gathered together
+for
 in
 truth
 in
@@ -67008,8 +67008,8 @@ of You
 Jesus
 whom
 You anointed
-both
 Herod
+both
 and
 Pontius
 Pilate
@@ -67020,7 +67020,6 @@ peoples
 of Israel
 to do
 whatever
-to happen
 the
 hand
 of You
@@ -67028,10 +67027,11 @@ and
 the
 purpose
 had determined beforehand
+to happen
 And
-Lord
 -
 now
+Lord
 look
 upon
 the
@@ -67094,15 +67094,15 @@ word
 of God
 with
 boldness
-And
 -
+And
 the multitude
 -
 having believed
+were [in]
 heart
 and
 soul
-were [in]
 one
 and
 not
@@ -67111,9 +67111,9 @@ anything
 of that which
 possessed
 he
+claimed
 his own
 to be
-claimed
 but
 were
 to them
@@ -67125,29 +67125,29 @@ great
 were giving
 -
 testimony
+the
+apostles
 of the
 Lord
 Jesus
 of the
 resurrection
-the
-apostles
-then
 grace
+then
 abundant
 was
 upon
 all
 them
-for
 Not even
+for
 in need
 anyone
 there was
 among
 them
-for
 as many as
+for
 owners
 of lands
 or
@@ -67166,16 +67166,16 @@ the
 feet
 of the
 apostles
-then
 distribution was made
+then
 to each
 just as
 -
 anyone
 need
 had
-now
 Joseph
+now
 -
 having been called
 Barnabas
@@ -67205,8 +67205,8 @@ the
 feet
 of the
 apostles
-now
 A man
+now
 certain
 Ananias
 named
@@ -67236,8 +67236,8 @@ feet
 of the
 apostles
 he laid [it]
-however
 Said
+however
 -
 Peter
 Ananias
@@ -67289,10 +67289,10 @@ to men
 but
 -
 to God
+Hearing
 now
 -
 Ananias
-Hearing
 the
 words
 these
@@ -67306,8 +67306,8 @@ upon
 all
 those
 hearing
-then
 Having arisen
+then
 the
 younger [men]
 covered
@@ -67315,8 +67315,8 @@ him
 and
 having carried [him] out
 buried [him]
-now
 It came to pass
+now
 about
 hours
 three
@@ -67330,8 +67330,8 @@ knowing
 that
 having come to pass
 came in
-then
 Replied
+then
 to
 her
 Peter
@@ -67342,13 +67342,13 @@ for so much
 the
 land
 you sold
-And
 -
+And
 she said
 Yes
 for so much
-But
 -
+But
 Peter [said]
 to
 her
@@ -67374,8 +67374,8 @@ door
 and
 they will carry out
 you
-then
 She fell down
+then
 immediately
 at
 the
@@ -67383,8 +67383,8 @@ feet
 of him
 and
 breathed her last
-then
 Having come in
+then
 the
 young [men]
 found
@@ -67411,8 +67411,8 @@ all
 those
 hearing
 these things
-now
 By
+now
 the
 hands
 of the
@@ -67433,8 +67433,8 @@ in
 the
 Colonnade
 of Solomon
-now
 of the
+now
 rest
 no one
 dared
@@ -67445,15 +67445,15 @@ were magnifying
 them
 the
 people
-now
 more
+now
 were added
 believing
 in the
 Lord
 multitudes
-both
 of men
+both
 and
 women
 so as
@@ -67479,15 +67479,15 @@ shadow
 might envelop
 some
 of them
-now
 Were coming together
+now
 also
 the
 multitude
 from the
 surrounding
-Jerusalem
 cities
+Jerusalem
 bringing
 [the] sick
 and
@@ -67496,10 +67496,10 @@ by
 spirits
 unclean
 who
-all
 were healed
-however
+all
 Having risen up
+however
 the
 high priest
 and
@@ -67527,8 +67527,8 @@ them
 in
 [the] jail
 public
-however
 An angel
+however
 of [the] Lord
 during
 the night
@@ -67537,8 +67537,8 @@ the
 doors
 of the
 prison
-then
 having brought out
+then
 them
 said
 Go
@@ -67556,8 +67556,8 @@ words
 of the
 life
 this
-now
 Having heard
+now
 they entered
 at
 the
@@ -67567,8 +67567,8 @@ the
 temple
 and
 were teaching
-now
 Having come
+now
 the
 high priest
 and
@@ -67592,8 +67592,8 @@ the
 prison house
 to bring
 them
-And
 -
+And
 having come
 [the] officers
 not
@@ -67602,14 +67602,14 @@ them
 in
 the
 prison
-then
 having returned
+then
 they reported back
 saying
 -
-we found
 The
 prison house
+we found
 shut
 with
 all
@@ -67621,19 +67621,19 @@ standing
 before
 the
 doors
-however
 having opened [them]
+however
 inside
 no one
 we found
-now
 When
+now
 they heard
 the
 words
 these
-both
 -
+both
 the captain
 of the
 temple
@@ -67643,12 +67643,12 @@ chief priests
 were perplexed
 concerning
 them
--
 what
+-
 might be
 this
-then
 Having come
+then
 a certain one
 reported
 to them
@@ -67662,10 +67662,10 @@ in
 the
 prison
 are
-standing
 in
 the
 temple
+standing
 and
 teaching
 the
@@ -67682,14 +67682,14 @@ them
 not
 with
 force
-for
 they were afraid of
+for
 the
 people
 lest
 they might be stoned
-then
 Having brought
+then
 them
 they set [them]
 in
@@ -67728,15 +67728,15 @@ blood
 of the
 man
 this
-however
 Answering
+however
 Peter
 and
 the
 apostles
 said
-it is necessary
 To obey
+it is necessary
 God
 rather
 than
@@ -67791,16 +67791,16 @@ God
 to those
 obeying
 Him
-And
 -
+And
 having heard
 they were cut [to the heart]
 and
 were desiring
 to put to death
 them
-however
 Having risen up
+however
 a certain [man]
 in
 the
@@ -67819,8 +67819,8 @@ for a short while
 the
 men
 to put
-then
 He said
+then
 to
 them
 Men
@@ -67832,10 +67832,10 @@ the
 men
 these
 what
-to do
 you are about
-for
+to do
 Before
+for
 these
 -
 days
@@ -67913,8 +67913,8 @@ the
 work
 this
 it will be overthrown
-however
 if
+however
 from
 God
 it is
@@ -67927,8 +67927,8 @@ ever
 also
 fighting against God
 You would be found
-now
 They were persuaded
+now
 by him
 and
 having called in
@@ -67945,9 +67945,9 @@ name
 of Jesus
 and
 released [them]
+They
 indeed
 therefore
-They
 departed
 rejoicing
 from
@@ -67960,8 +67960,8 @@ for
 the
 Name
 to suffer dishonor
-then
 Every
+then
 day
 in
 the
@@ -67977,8 +67977,8 @@ proclaiming the good news that
 the
 Christ
 [is] Jesus
-now
 In
+now
 the
 days
 these
@@ -68002,10 +68002,10 @@ daily
 the
 widows
 of them
+Having called near
 then
 the
 Twelve
-Having called near
 the
 multitude
 of the
@@ -68022,9 +68022,9 @@ word
 of God
 to attend
 tables
+Select
 therefore
 brothers
-Select
 men
 out from
 yourselves
@@ -68040,8 +68040,8 @@ over
 the
 task
 this
-now
 We
+now
 in the
 prayer
 and
@@ -68107,16 +68107,16 @@ disciples
 in
 Jerusalem
 exceedingly
-then
 a great
+then
 multitude
 of the
 priests
 were becoming obedient
 to the
 faith
-now
 Stephen
+now
 full
 grace
 and
@@ -68129,8 +68129,8 @@ great
 among
 the
 people
-however
 Arose
+however
 certain
 of those
 from
@@ -68178,8 +68178,8 @@ Moses
 and
 -
 God
-then
 They stirred up
+then
 the
 people
 and
@@ -68197,8 +68197,8 @@ brought [him]
 to
 the
 Council
-also
 They set
+also
 witnesses
 false
 saying
@@ -68217,8 +68217,8 @@ holy
 and
 the
 law
-for
 we have heard
+for
 him
 saying
 that
@@ -68255,16 +68255,16 @@ of him
 as
 [the] face
 of an angel
-then
 Said
+then
 the
 high priest
 If
 these things
 so
 are
-And
 -
+And
 he began to speak
 Men
 brothers
@@ -68308,8 +68308,8 @@ come
 into
 the
 land
--
 which
+-
 to you
 I will show
 Then
@@ -68365,8 +68365,8 @@ not
 there being
 to him
 a child
-however
 Spoke
+however
 thus
 -
 God
@@ -68381,16 +68381,16 @@ a land
 strange
 and
 they will enslave
+it
 and
 will mistreat [it]
-it
 years
 four hundred
 And
 the
 nation
-if
 to which
+if
 they will be in bondage
 will judge
 I
@@ -68478,8 +68478,8 @@ all
 the
 house
 of him
-then
 Came
+then
 a famine
 upon
 all
@@ -68497,9 +68497,9 @@ sustenance
 the
 fathers
 of us
+Having heard
 now
 Jacob
-Having heard
 [there] is
 grain
 in
@@ -68526,8 +68526,8 @@ to Pharaoh
 the
 family
 of Joseph
-then
 Having sent
+then
 Joseph
 he called for
 Jacob
@@ -68574,8 +68574,8 @@ sons
 of Hamor
 in
 Shechem
-now
 As
+now
 was drawing near
 the
 time
@@ -68587,9 +68587,9 @@ had made
 God
 -
 to Abraham
+increased
 the
 people
-increased
 and
 multiplied
 in
@@ -68597,10 +68597,10 @@ Egypt
 until
 that
 there arose
-over
-Egypt
 king
 another
+over
+Egypt
 who
 not
 knew
@@ -68618,8 +68618,8 @@ fathers
 making [them]
 the
 infants
-of them
 abandon
+of them
 unto
 the
 not
@@ -68643,8 +68643,8 @@ the
 house
 of the
 father
-then
 Having been set outside
+then
 he
 took up
 him
@@ -68663,16 +68663,16 @@ Moses
 all
 [the] wisdom
 of [the] Egyptians
-now
 he was
+now
 mighty
 in
 words
 and
 deeds
 of him
-then
 When
+then
 was fulfilled
 to him
 of forty years
@@ -68702,8 +68702,8 @@ being oppressed
 having struck down
 the
 Egyptian
-now
 He was supposing
+now
 to understand
 the
 brothers
@@ -68716,12 +68716,12 @@ of him
 is giving
 salvation
 them
-but
 -
+but
 not
 they understood
-and
 On the
+and
 following
 day
 he appeared
@@ -68740,8 +68740,8 @@ So that
 why
 wrong you
 one another
-however
 The [one]
+however
 mistreating
 the
 neighbor
@@ -68767,8 +68767,8 @@ you put to death
 yesterday
 the
 Egyptian
-then
 Fled
+then
 Moses
 at
 the
@@ -68801,15 +68801,15 @@ in
 a flame
 of fire
 of a bush
-And
 -
+And
 Moses
 having seen [it]
 marveled at
 the
 vision
-then
 coming near
+then
 of him
 to behold [it]
 there was
@@ -68828,15 +68828,15 @@ and
 of Isaac
 and
 of Jacob
-then
 Terrified
+then
 having become
 Moses
 not
 he dared
 to look
-then
 Said
+then
 to him
 the
 Lord
@@ -68846,8 +68846,8 @@ sandal
 of the
 feet
 of you
-for
 -
+for
 the place
 on
 which
@@ -69007,8 +69007,8 @@ gods
 who
 will go before
 us
-As for
 -
+As for
 Moses
 this
 who
@@ -69041,8 +69041,8 @@ works
 of the
 hands
 of them
-however
 Turned away
+however
 -
 God
 and
@@ -69159,8 +69159,8 @@ a dwelling place
 for the
 God
 of Jacob
-however
 Solomon
+however
 built
 Him
 [the] house
@@ -69179,8 +69179,8 @@ says
 Heaven [is]
 to Me
 a throne
-and
 -
+and
 the earth
 a footstool
 of the
@@ -69259,8 +69259,8 @@ of angels
 and
 not
 have kept [it]
-now
 Hearing
+now
 these things
 they were cut
 in the
@@ -69272,8 +69272,8 @@ the
 teeth
 at
 him
-however
 He being
+however
 full
 of [the] Spirit
 Holy
@@ -69305,11 +69305,11 @@ Son
 of Man
 at
 the right [hand]
+standing
 -
 of God
-standing
-then
 Having cried out
+then
 in a voice
 loud
 they held
@@ -69353,8 +69353,8 @@ receive
 the
 spirit
 of me
-then
 Having fallen
+then
 on [his]
 knees
 he cried
@@ -69371,15 +69371,15 @@ And
 this
 having said
 he fell asleep
-now
 Saul
+now
 was there
 consenting
 to the
 killing
 of him
-then
 Arose
+then
 on
 that
 -
@@ -69392,8 +69392,8 @@ church
 which [was]
 in
 Jerusalem
-then
 All
+then
 were scattered
 throughout
 the
@@ -69405,8 +69405,8 @@ Samaria
 except
 the
 apostles
-now
 Buried
+now
 -
 Stephen
 men
@@ -69417,8 +69417,8 @@ lamentation
 great
 over
 him
-however
 Saul
+however
 was destroying
 the
 church
@@ -69434,16 +69434,16 @@ women
 he was delivering [them]
 to
 prison
-therefore
-indeed
 Those
+indeed
+therefore
 having been scattered
 went about
 preaching
 the
 word
-now
 Philip
+now
 having gone down
 to
 -
@@ -69454,8 +69454,8 @@ was proclaiming
 to them
 the
 Christ
-now
 Were giving heed
+now
 the
 crowds
 to the things
@@ -69474,8 +69474,8 @@ the
 signs
 that
 he was performing
-for
 Many
+for
 of those
 having
 spirits
@@ -69484,22 +69484,22 @@ crying
 voice
 in a loud
 they were coming out [of them]
-now
 many
+now
 having been paralyzed
 and
 lame
 were healed
-then
 There was
+then
 great
 joy
 in
 the
 city
 that
-now
 A man
+now
 certain
 named
 Simon
@@ -69517,8 +69517,8 @@ of Samaria
 declaring
 to be
 someone
-great
 himself
+great
 to whom
 were giving heed
 all
@@ -69536,8 +69536,8 @@ of God
 that
 [is] called
 Great
-now
 They were giving heed
+now
 to him
 because
 the
@@ -69547,8 +69547,8 @@ with the
 magic arts
 he had amazed
 them
-however
 When
+however
 they believed
 -
 Philip
@@ -69564,12 +69564,12 @@ name
 of Jesus
 Christ
 they were baptized
-both
 men
+both
 and
 women
-And
 -
+And
 Simon
 also
 himself
@@ -69588,12 +69588,12 @@ miracles
 great
 being performed
 he was amazed
+Having heard
 now
 the
 in
 Jerusalem
 apostles
-Having heard
 that
 had received
 -
@@ -69617,15 +69617,15 @@ that
 they might receive [the]
 Spirit
 Holy
-for
 Not yet
+for
 He was
-fallen
 upon
 any
 of them
-however
+fallen
 only
+however
 baptized
 they had been
 into
@@ -69644,10 +69644,10 @@ and
 they received
 [the] Spirit
 Holy
+Having seen
 now
 -
 of Simon
-Having seen
 that
 through
 the
@@ -69669,16 +69669,16 @@ the
 authority
 this
 that
-if
 on whom
+if
 I may lay
 the
 hands
 he may receive
 [the] Spirit
 Holy
-however
 Peter
+however
 said
 to
 him
@@ -69691,11 +69691,11 @@ may it be
 to
 destruction
 because
-you thought
 the
 gift
 -
 of God
+you thought
 by
 money
 to be obtained
@@ -69709,8 +69709,8 @@ in
 the
 matter
 this
-for
 the
+for
 heart
 of you
 not
@@ -69719,8 +69719,8 @@ right
 before
 -
 God
-therefore
 Repent
+therefore
 of
 the
 wickedness
@@ -69730,8 +69730,8 @@ and
 pray earnestly to
 the
 Lord
-indeed
 if
+indeed
 will be forgiven
 you
 the
@@ -69739,18 +69739,18 @@ intent
 of the
 heart
 of you
-for
 in
+for
 [the] gall
 of bitterness
 and
 [the] bond
 of iniquity
+I see
 you
 being
-I see
-now
 Answering
+now
 -
 Simon
 said
@@ -69762,15 +69762,15 @@ to
 the
 Lord
 so that
+nothing
 may come
 upon
 me
-nothing
 of which
 you have spoken
+They
 indeed
 therefore
-They
 having earnestly testified
 and
 having spoken
@@ -69781,14 +69781,14 @@ Lord
 traveled back
 to
 Jerusalem
-then
 to many
+then
 villages
 of the
 Samaritans
 they were preaching the gospel
-now
 An angel
+now
 of [the] Lord
 spoke
 to
@@ -69849,8 +69849,8 @@ he was reading
 the
 prophet
 Isaiah
-then
 Said
+then
 the
 Spirit
 -
@@ -69861,8 +69861,8 @@ join yourself
 to the
 chariot
 this
-then
 Having run up
+then
 -
 Philip
 heard
@@ -69878,28 +69878,28 @@ also
 understand you
 what
 you are reading
-And
 -
+And
 he said
+How
 for
 -
-How
 could I be able
 if
 not
 someone
 will guide
 me
-then
 He invited
+then
 -
 Philip
 having come up
 to sit
 with
 him
-Now
 -
+Now
 the passage
 of the
 Scripture
@@ -69946,8 +69946,8 @@ earth
 the
 life
 of Him
-now
 Answering
+now
 the
 eunuch
 -
@@ -69967,10 +69967,10 @@ or
 concerning
 other
 some
+Having opened
 then
 -
 Philip
-Having opened
 the
 mouth
 of him
@@ -69984,8 +69984,8 @@ he proclaimed the good news
 to him
 -
 Jesus
-then
 As
+then
 they were going
 along
 the
@@ -70015,8 +70015,8 @@ both
 to
 the
 water
-both
 -
+both
 Philip
 and
 the
@@ -70024,8 +70024,8 @@ eunuch
 and
 he baptized
 him
-now
 When
+now
 they came up
 out of
 the
@@ -70042,14 +70042,14 @@ him
 no longer
 the
 eunuch
-for
 he went
+for
 the
 way
 of him
 rejoicing
-however
 Philip
+however
 was found
 at
 Azotus
@@ -70065,8 +70065,8 @@ coming
 his
 to
 Caesarea
-But
 -
+But
 Saul
 still
 breathing out
@@ -70092,21 +70092,21 @@ the
 synagogues
 so that
 if
-he found
 any
+he found
 of the
 way
 being
-both
 men
+both
 and
 women
 having bound
 he might bring [them]
 to
 Jerusalem
-now
 In
+now
 -
 proceeding
 it came to pass
@@ -70114,8 +70114,8 @@ it came to pass
 draws near
 -
 to Damascus
-also
 suddenly
+also
 him
 flashed around
 a light
@@ -70136,13 +70136,13 @@ Saul
 why
 Me
 do you persecute
-then
 He said
+then
 Who
 are You
 Lord
-And [He said]
 -
+And [He said]
 I
 am
 Jesus
@@ -70162,61 +70162,61 @@ you
 that
 what
 you
-to do
 it behooves
-And
+to do
 -
+And
 the men
 -
 traveling with
 him
 stood
 speechless
-indeed
 hearing
+indeed
 the
 voice
-however
 no one
+however
 seeing
-then
 Rose up
+then
 Saul
 from
 the
 ground
-however
 having been opened
+however
 the
 eyes
 of him
 nothing
 he could see
-then
 Leading by the hand
+then
 him
 they brought [him]
 to
 Damascus
 And
 he was
-seeing
 days
 three
 without
+seeing
 and
 neither
 did he eat
 nor
 drink
-now
 There was
+now
 a certain
 disciple
-named
-Ananias
 in
 Damascus
+named
+Ananias
 And
 said
 to
@@ -70226,14 +70226,14 @@ a vision
 the
 Lord
 Ananias
-And
 -
+And
 he said
 Behold
 me
 Lord
-And
 -
+And
 the Lord
 to
 him [said]
@@ -70253,8 +70253,8 @@ of Judas
 Saul
 named
 of Tarsus
-for
 Behold
+for
 he is praying
 and
 he saw
@@ -70268,8 +70268,8 @@ on him
 hands
 so that
 he might see again
-but
 Answered
+but
 Ananias
 Lord
 I have heard
@@ -70301,8 +70301,8 @@ calling on
 the
 name
 of You
-however
 Said
+however
 to
 him
 the
@@ -70320,27 +70320,27 @@ the
 name
 of Me
 before
-and
 Gentiles
+and
 also
 kings
-then
 [the] sons
+then
 of Israel
-for
 I
+for
 will show
 to him
 how much
+it behooves
 him
 for
 the
 name
 of Me
 to suffer
-it behooves
-then
 Went away
+then
 Ananias
 and
 entered
@@ -70358,6 +70358,8 @@ Saul
 Brother
 the
 Lord
+has sent
+me
 Jesus
 the [One]
 having appeared
@@ -70367,8 +70369,6 @@ the
 road
 by which
 you were coming
-has sent
-me
 that
 you may see again
 and
@@ -70378,14 +70378,14 @@ Holy
 And
 immediately
 fell
-from
 of him
+from
 the
 eyes
 [something] like
 scales
-also
 he regained his sight
+also
 And
 having risen up
 he was baptized
@@ -70393,8 +70393,8 @@ and
 having taken
 food
 he was strengthened
-now
 He was
+now
 with
 the
 in
@@ -70417,8 +70417,8 @@ the
 Son
 -
 of God
-then
 Were amazed
+then
 all
 -
 hearing
@@ -70448,8 +70448,8 @@ he might bring
 to
 the
 chief priests
-however
 Saul
+however
 all the more
 was empowered
 and
@@ -70465,8 +70465,8 @@ this
 is
 the
 Christ
-now
 When
+now
 had passed
 days
 many
@@ -70475,27 +70475,27 @@ the
 Jews
 to kill
 him
-however
 became known
+however
 -
 to Saul
 the
 plot
 of them
-now
 They were closely watching
+now
 also
 the
 gates
-and
 day
+and
 also
 night
 so that
 him
 they might kill
-however
 having taken [him]
+however
 the
 disciples
 of him
@@ -70508,8 +70508,8 @@ him
 having lowered [him]
 in
 a basket
-then
 Having arrived
+then
 in
 Jerusalem
 he was attempting
@@ -70525,8 +70525,8 @@ believing
 that
 he is
 a disciple
-however
 Barnabas
+however
 having taken
 him
 brought [him]
@@ -70558,11 +70558,11 @@ name
 of Jesus
 And
 he was
+with
+them
 coming in
 and
 going out
-with
-them
 in
 Jerusalem
 speaking boldly
@@ -70571,20 +70571,20 @@ the
 name
 of
 Lord
-also
 He was speaking
+also
 and
 was debating
 with
 the
 Hellenists
-but
 -
+but
 they were seeking
 to kill
 him
-however
 Having known [it]
+however
 the
 brothers
 brought down
@@ -70596,9 +70596,9 @@ sent away
 him
 to
 Tarsus
+The
 indeed
 then
-The
 church
 throughout
 all
@@ -70624,8 +70624,8 @@ of the
 Holy
 Spirit
 they were multiplied
-now
 It came to pass that
+now
 Peter
 passing
 through
@@ -70638,8 +70638,8 @@ saints
 -
 inhabiting
 Lydda
-then
 He found
+then
 there
 a man
 certain
@@ -70686,11 +70686,11 @@ turned
 to
 the
 Lord
-now
 In
 Joppa
-there was
+now
 certain
+there was
 a disciple
 named
 Tabitha
@@ -70707,8 +70707,8 @@ and
 of alms
 that
 she continually did
-however
 It came to pass
+however
 in
 the
 days
@@ -70716,15 +70716,15 @@ those
 [that] having become sick
 she
 died
-then
 Having washed [her]
+then
 put [her]
 in
 an upper room
+Near
 now
 being
 Lydda
-Near
 -
 Joppa
 the
@@ -70746,8 +70746,8 @@ to delay
 coming
 to
 us
-then
 Having risen up
+then
 Peter
 went with
 them
@@ -70776,12 +70776,12 @@ them
 being
 -
 Dorcas
-then
--
-Peter
 Having put
+then
 outside
 all
+-
+Peter
 and
 having bowed
 the
@@ -70795,8 +70795,8 @@ body
 he said
 Tabitha
 arise
-And
 -
+And
 she opened
 the
 eyes
@@ -70806,14 +70806,14 @@ having seen
 -
 Peter
 she sat up
-then
 Having given
+then
 her
 [his] hand
 he raised up
 her
-then
 Having called
+then
 the
 saints
 and
@@ -70822,8 +70822,8 @@ widows
 he presented
 her
 living
-then
 Known
+then
 it became
 throughout
 all
@@ -70835,8 +70835,8 @@ many
 on
 the
 Lord
-then
 It came to pass
+then
 days
 many
 he stayed
@@ -70846,8 +70846,8 @@ with
 a certain
 Simon
 a tanner
-now
 A man
+now
 certain
 in
 Caesarea
@@ -70900,8 +70900,8 @@ and
 having said
 to him
 Cornelius
-And
 -
+And
 having looked intently
 on him
 and
@@ -70911,8 +70911,8 @@ he said
 What
 is it
 Lord
-then
 He said
+then
 to him
 The
 prayers
@@ -70951,8 +70951,8 @@ is
 [the] house
 by
 [the] sea
-then
 When
+then
 had departed
 the
 angel
@@ -70978,8 +70978,8 @@ them
 to
 -
 Joppa
-now
 On the
+now
 next day
 as are journeying
 these
@@ -70996,14 +70996,14 @@ to pray
 about
 hour
 the sixth
-then
 He became
+then
 hungry
 and
 desired
 to eat
-however
 [as] were preparing
+however
 they
 fell
 upon
@@ -71046,13 +71046,13 @@ came
 a voice
 to
 him
-Peter
 Having risen up
+Peter
 kill
 and
 eat
-And
 -
+And
 Peter
 said
 In no way
@@ -71078,8 +71078,8 @@ has cleansed
 you
 not
 call common
-now
 This
+now
 took place
 for
 three times
@@ -71091,15 +71091,15 @@ vessel
 into
 -
 heaven
-then
 While
+then
 in
 himself
 was perplexed
 -
 Peter
--
 what
+-
 might be
 the
 vision
@@ -71132,8 +71132,8 @@ called
 Peter
 here
 is lodged
-And
 -
+And
 of Peter
 thinking
 over
@@ -71160,8 +71160,8 @@ because
 I
 have sent
 them
-then
 Having gone down
+then
 Peter
 to
 the
@@ -71178,8 +71178,8 @@ cause
 for
 which
 you are here
-And
 -
+And
 they said
 Cornelius
 a centurion
@@ -71189,8 +71189,8 @@ and
 fearing
 -
 God
-then
 being well testified to
+then
 by
 all
 the
@@ -71212,12 +71212,12 @@ to hear
 a message
 from
 you
-therefore
 Having called in
+therefore
 them
 he lodged [them]
-now
 On the
+now
 next day
 having risen up
 he went forth
@@ -71232,15 +71232,15 @@ from
 Joppa
 went with
 him
-now
 On the
+now
 next day
 he entered
 into
 -
 Caesarea
-and
 -
+and
 Cornelius
 was
 expecting
@@ -71253,8 +71253,8 @@ and
 -
 close
 friends
-then
 As
+then
 was
 -
 entering
@@ -71269,8 +71269,8 @@ at
 the
 feet
 worshiped [him]
-But
 -
+But
 Peter
 lifted up
 him
@@ -71289,8 +71289,8 @@ and
 he finds
 having gathered together
 many
-then
 He was saying
+then
 to
 them
 You
@@ -71309,18 +71309,18 @@ however
 God
 has shown
 not
-man
 common
 or
 unclean
 to call
+man
 Therefore
 also
 without objection
 I came
 having been summoned
-therefore
 I inquire
+therefore
 for what
 reason
 did you summon
@@ -71337,9 +71337,9 @@ this
 the
 hour
 I was
-praying
 at the
 ninth hour
+praying
 in
 the
 house
@@ -71368,8 +71368,8 @@ have been remembered
 before
 -
 God
-therefore
 Send
+therefore
 to
 Joppa
 and
@@ -71386,18 +71386,18 @@ of Simon
 a tanner
 by
 [the] sea
-therefore
 At once
+therefore
 I sent
 to
 you
-then
 you
+then
 well
 did
 having come
-therefore
 Now
+therefore
 all
 we
 before
@@ -71412,9 +71412,9 @@ you
 by
 the
 Lord
+Having opened
 then
 Peter
-Having opened
 the
 mouth
 he said
@@ -71459,8 +71459,8 @@ Lord
 You yourselves
 know
 the
-declaration
 having come
+declaration
 through
 all
 -
@@ -71511,8 +71511,8 @@ we
 of all things
 that
 He did
-both
 in
+both
 the
 region
 of the
@@ -71637,8 +71637,8 @@ of the
 Holy
 Spirit
 has been poured out
-for
 They were hearing
+for
 them
 speaking
 in tongues
@@ -71652,8 +71652,8 @@ Peter
 If not
 the
 water
-to withhold
 is able
+to withhold
 anyone
 -
 not
@@ -71668,8 +71668,8 @@ have received
 just as
 also [have]
 we
-now
 He commanded
+now
 them
 in
 the
@@ -71683,8 +71683,8 @@ him
 to remain
 days
 some
-now
 Heard
+now
 the
 apostles
 and
@@ -71704,8 +71704,8 @@ the
 word
 -
 of God
-also
 When
+also
 went up
 Peter
 to
@@ -71726,8 +71726,8 @@ having
 and
 ate with
 them
-now
 Having begun
+now
 Peter
 he set [it] forth
 to them
@@ -71735,10 +71735,10 @@ in order
 saying
 I
 was
-praying
 in
 [the] city
 of Joppa
+praying
 and
 I saw
 in
@@ -71781,19 +71781,19 @@ the
 birds
 of the
 air
-then
 I heard
+then
 also
 a voice
 saying
 to me
-Peter
 Having risen up
+Peter
 kill
 and
 eat
-however
 I said
+however
 In no way
 Lord
 for
@@ -71806,8 +71806,8 @@ into
 the
 mouth
 of me
-however
 Answered
+however
 for
 a second [time]
 the voice
@@ -71821,8 +71821,8 @@ has cleansed
 you
 not
 do call unholy
-now
 This
+now
 happened
 on
 three times
@@ -71850,8 +71850,8 @@ from
 Caesarea
 to
 me
-now
 Told
+now
 the
 Spirit
 me
@@ -71859,8 +71859,8 @@ to go with
 them
 not
 having discriminated
-now
 Went
+now
 with
 me
 also
@@ -71875,8 +71875,8 @@ the
 house
 of the
 man
-then
 He related
+then
 to us
 how
 he had seen
@@ -71912,8 +71912,8 @@ all
 the
 household
 of you
-then
 In
+then
 -
 beginning
 my
@@ -71931,26 +71931,26 @@ upon
 us
 in [the]
 beginning
-then
 I remembered
+then
 the
 word
 of the
 Lord
 how
 He had said
-indeed
 John
+indeed
 baptized
 with water
-however
 you
+however
 will be baptized
 with [the]
 Spirit
 Holy
-then
 If
+then
 the
 same
 gift
@@ -71974,8 +71974,8 @@ able
 to forbid
 -
 God
-then
 Having heard
+then
 these things
 they were silent
 and
@@ -71994,9 +71994,9 @@ repentance
 unto
 life
 has given
+Those
 indeed
 therefore
-Those
 having been scattered
 by
 the
@@ -72020,8 +72020,8 @@ if
 not
 only
 to Jews
-however
 Were
+however
 some
 of
 them
@@ -72048,8 +72048,8 @@ was
 of [the] Lord
 with
 them
-then
 [a] great
+then
 number
 -
 having believed
@@ -72057,12 +72057,10 @@ turned
 to
 the
 Lord
-now
 Was heard
+now
 the
 report
-concerning
-them
 in
 the
 ears
@@ -72072,6 +72070,8 @@ church
 being
 in
 Jerusalem
+concerning
+them
 and
 they sent forth
 Barnabas
@@ -72113,8 +72113,8 @@ a crowd
 large
 to the
 Lord
-then
 He went forth
+then
 to
 Tarsus
 to seek
@@ -72124,8 +72124,8 @@ having found [him]
 he brought [him]
 to
 Antioch
-now
 It came to pass [that]
+now
 they
 also
 a year
@@ -72138,17 +72138,17 @@ and
 taught
 a crowd
 large
-then
 Were called
+then
 first
 in
 Antioch
 the
 disciples
 Christians
-now
 In
 these
+now
 -
 days
 came down
@@ -72157,8 +72157,8 @@ Jerusalem
 prophets
 to
 Antioch
-now
 Having risen up
+now
 one
 of
 them
@@ -72180,8 +72180,8 @@ which
 came to pass
 under
 Claudius
-And
 -
+And
 the disciples
 as
 was prospered
@@ -72210,9 +72210,9 @@ hand
 of Barnabas
 and
 Saul
-now
 At
 that
+now
 -
 time
 put forth
@@ -72227,15 +72227,15 @@ of those
 of
 the
 church
-then
 He put to death
+then
 James
 the
 brother
 of John
 with the sword
-now
 Having seen
+now
 that
 pleasing
 it is
@@ -72245,8 +72245,8 @@ he proceeded
 to take
 also
 Peter
-now
 these were
+now
 days
 of the
 Unleavened [Bread]
@@ -72270,19 +72270,19 @@ to bring out
 him
 to the
 people
-therefore
-Indeed
 -
+Indeed
+therefore
 Peter
 was kept
 in
 the
 prison
-however
 prayer
+however
 was
-being made
 fervent
+being made
 by
 the
 church
@@ -72291,8 +72291,8 @@ to
 God
 concerning
 him
-then
 When
+then
 was about
 to bring forth
 him
@@ -72301,9 +72301,9 @@ Herod
 the
 night
 that
+was
 -
 Peter
-was
 sleeping
 between
 two
@@ -72311,8 +72311,8 @@ soldiers
 having been bound
 with chains
 two
-also
 guards
+also
 before
 the
 door
@@ -72330,8 +72330,8 @@ shone
 in
 the
 cell
-then
 Having struck
+then
 the
 side
 -
@@ -72350,8 +72350,8 @@ chains
 off
 the
 hands
-then
 Said
+then
 the
 angel
 to
@@ -72362,8 +72362,8 @@ put on
 the
 sandals
 of you
-and
 He did
+and
 so
 And
 he says
@@ -72389,16 +72389,16 @@ is happening
 by means of
 the
 angel
-however
 he was thinking
+however
 a vision
 he saw
-then
 Having passed through
+then
 a first
+guard
 and
 a second
-guard
 they came
 to
 the
@@ -72457,8 +72457,8 @@ of the
 people
 of the
 Jews
-also
 Having considered [it]
+also
 he came
 to
 the
@@ -72472,21 +72472,21 @@ who
 is called
 Mark
 where
-many
 were
+many
 having gathered together
 and
 praying
-then
 Having knocked
+then
 of him
 [at] the
 door
 of the
 gate
 came
-to answer
 a girl
+to answer
 named
 Rhoda
 And
@@ -72502,8 +72502,8 @@ not
 she opened
 the
 gate
-but
 having run in
+but
 she reported
 to be standing
 -
@@ -72511,37 +72511,37 @@ Peter
 before
 the
 gate
-And
 -
+And
 to
 her
 they said
 You are out of your mind
-But
 -
+But
 she kept insisting
 [it] so
 to be
-And
 -
+And
 they kept saying
 The
 angel
 it is
 of him
-But
 -
+But
 Peter
 continued
 knocking
-then
 having opened [it]
+then
 they saw
 him
 and
 were amazed
-then
 Having made a sign
+then
 to them
 with the
 hand
@@ -72556,8 +72556,8 @@ had brought
 out of
 the
 prison
-then
 He said
+then
 Report
 to James
 and
@@ -72570,8 +72570,8 @@ he went
 to
 another
 place
-now
 Having come
+now
 day
 there was
 disturbance
@@ -72580,13 +72580,13 @@ small
 among
 the
 soldiers
-then [of]
 what
+then [of]
 -
 Peter
 has become
-then
 Herod
+then
 having sought after
 him
 and
@@ -72605,14 +72605,14 @@ Judea
 to
 Caesarea
 he stayed [there]
-now
 He had been
+now
 furiously angry
 with [the] Tyrians
 and
 Sidonians
-then
 with one accord
+then
 they came
 to
 him
@@ -72636,8 +72636,8 @@ region
 by
 the
 king’s
-now
 On the appointed
+now
 day
 -
 Herod
@@ -72651,8 +72651,8 @@ throne
 was making an address
 to
 them
-And
 -
+And
 the people
 were crying out
 Of a god
@@ -72660,8 +72660,8 @@ Of a god
 and
 not
 of a man
-then
 Immediately
+then
 struck
 him
 an angel
@@ -72678,16 +72678,16 @@ and
 having been
 eaten by worms
 he breathed his last
-But
 -
+But
 the word
 -
 of God
 continued to grow
 and
 to multiply
-then
 Barnabas
+then
 and
 Saul
 returned
@@ -72701,8 +72701,8 @@ John
 the [one]
 having been called
 Mark
-now
 There were
+now
 in
 Antioch
 in
@@ -72712,8 +72712,8 @@ church
 prophets
 and
 teachers
-both
 -
+both
 Barnabas
 and
 Simeon
@@ -72724,16 +72724,16 @@ and
 Lucius
 the
 Cyrenian
-also
 Manaen
+also
 Herod
 the
 tetrarch
 brought up with
 and
 Saul
-now
 As were ministering
+now
 they
 to the
 Lord
@@ -72744,8 +72744,8 @@ the
 Spirit
 -
 Holy
-then
 Set apart
+then
 to Me
 -
 Barnabas
@@ -72767,9 +72767,9 @@ the
 hands
 on them
 they sent [them] off
+They
 indeed
 therefore
-They
 having been sent forth
 by
 the
@@ -72778,8 +72778,8 @@ Spirit
 went down
 to
 Seleucia
-then
 From there
+then
 they sailed
 to
 Cyprus
@@ -72797,13 +72797,13 @@ the
 synagogues
 of the
 Jews
-now
 They had
+now
 also
 John [as]
 a helper
-now
 Having passed through
+now
 all
 the
 island
@@ -72838,14 +72838,14 @@ the
 word
 -
 of God
-however
 Was opposing
+however
 them
 Elymas
 the
 magician
-for
 thus
+for
 means
 the
 name
@@ -72857,8 +72857,8 @@ proconsul
 from
 the
 faith
-then
 Saul
+then
 -
 also [called]
 Paul
@@ -72906,8 +72906,8 @@ the
 sun
 during
 a season
-then
 Immediately
+then
 fell
 upon
 him
@@ -72919,9 +72919,9 @@ going about
 he was seeking
 someone to lead [him] by the hand
 Then
+having seen
 the
 proconsul
-having seen
 that
 having happened
 he believed
@@ -72931,8 +72931,8 @@ the
 teaching
 of the
 Lord
-then
 Having sailed
+then
 from
 -
 Paphos
@@ -72944,16 +72944,16 @@ to
 Perga
 -
 of Pamphylia
-however
 John
+however
 having departed
 from
 them
 returned
 to
 Jerusalem
-now
 They
+now
 having passed through
 from
 -
@@ -72973,8 +72973,8 @@ day
 of the
 Sabbaths
 they sat down
-then
 After
+then
 the
 reading
 of the
@@ -72991,19 +72991,19 @@ saying
 Men
 brothers
 if
+any
 there is
 among
 you
-any
 a word
 of exhortation
 toward
 the
 people
 speak
+Having risen up
 then
 Paul
-Having risen up
 and
 having made a sign
 with the
@@ -73125,10 +73125,10 @@ all
 the
 will
 of Me
+Of this [man]
 -
 God
 of
-Of this [man]
 the
 seed
 according to
@@ -73151,8 +73151,8 @@ to all
 the
 people
 of Israel
-then
 While
+then
 was fulfilling
 John
 the
@@ -73160,8 +73160,8 @@ course
 he was saying
 Whom
 me
-to be
 do you suppose
+to be
 Not
 am
 I [he]
@@ -73198,8 +73198,8 @@ of the
 salvation
 this
 has been sent
-for
 Those
+for
 dwelling
 in
 Jerusalem
@@ -73230,8 +73230,8 @@ they begged
 Pilate
 to put to death
 him
-then
 When
+then
 they had finished
 all
 the things
@@ -73245,8 +73245,8 @@ tree
 they put [Him]
 in
 a tomb
-But
 -
+But
 God
 raised
 Him
@@ -73281,8 +73281,8 @@ the
 to
 the
 fathers
-having been made
 promise
+having been made
 that
 this
 -
@@ -73298,9 +73298,9 @@ also
 in
 the
 psalm
+it has been written
 the
 second
-it has been written
 Son
 of Me
 are
@@ -73309,8 +73309,8 @@ I
 today
 have begotten
 you
-then
 That
+then
 He raised
 Him
 out from
@@ -73342,9 +73342,9 @@ Holy One
 of you
 to see
 decay
-for
-indeed
 David
+indeed
+for
 in his own
 generation
 having served
@@ -73362,16 +73362,16 @@ of him
 and
 saw
 decay
-however
 The [One]
+however
 -
 God
 raised up
 not
 did see
 decay
-therefore
 Known
+therefore
 be it
 to you
 men
@@ -73399,8 +73399,8 @@ to be justified
 
 
 
-therefore
 Take heed
+therefore
 lest
 might come about
 that
@@ -73432,8 +73432,8 @@ even if
 one
 should declare it
 to you
-then
 Having departed
+then
 they
 were begging
 on
@@ -73445,8 +73445,8 @@ to them
 the
 words
 these
-then
 Having broken up
+then
 the
 synagogue
 followed
@@ -73472,8 +73472,8 @@ in the
 grace
 -
 of God
-now
 On the
+now
 coming
 Sabbath
 almost
@@ -73486,10 +73486,10 @@ the
 word
 -
 of the Lord
+Having seen
 however
 the
 Jews
-Having seen
 the
 crowds
 they were filled
@@ -73501,17 +73501,17 @@ by
 Paul
 spoken
 blaspheming
-also
 Having spoken boldly
+also
 -
 Paul
 and
 -
 Barnabas
 said
+To you
 it was
 necessary
-To you
 first
 to be spoken
 the
@@ -73523,9 +73523,9 @@ you thrust away
 it
 and
 not
+worthy
 you judge
 yourselves
-worthy
 -
 of eternal
 life
@@ -73534,8 +73534,8 @@ we are turning
 to
 the
 Gentiles
-for
 Thus
+for
 has commanded
 us
 the
@@ -73554,8 +73554,8 @@ to
 [the] uttermost part
 of the
 earth
-then
 Hearing [it]
+then
 the
 Gentiles
 were rejoicing
@@ -73573,8 +73573,8 @@ appointed
 to
 life
 eternal
-then
 Was carried
+then
 the
 word
 of the
@@ -73583,8 +73583,8 @@ through
 all
 the
 region
-but
 The
+but
 Jews
 incited
 the
@@ -73612,8 +73612,8 @@ from
 the
 district
 of them
-But
 -
+But
 having shaken off
 the
 dust
@@ -73624,16 +73624,16 @@ them
 they went
 to
 Iconium
-and
 -
+and
 the disciples
 were filled
 with joy
 and [the]
 Spirit
 Holy
-now
 It came to pass
+now
 in
 Iconium
 according to
@@ -73651,14 +73651,14 @@ spoke
 so
 that
 believed
-both
 of Jewish
+both
 and
 Greeks
 a great
 number
-however
 The
+however
 unbelieving
 Jews
 stirred up
@@ -73671,9 +73671,9 @@ Gentiles
 against
 the
 brothers
-therefore
-indeed
 A long
+indeed
+therefore
 time
 they stayed
 speaking boldly
@@ -73697,31 +73697,31 @@ through
 the
 hands
 of them
-now
 Was divided
+now
 the
 multitude
 of the
 city
 and
-indeed
 some
+indeed
 were
 with
 the
 Jews
-however
 some
+however
 with
 the
 apostles
-then
 When
+then
 there was
 a rush
 of the
-both
 Gentiles
+both
 and
 Jews
 with
@@ -73752,10 +73752,10 @@ And
 a certain
 man
 crippled
-in the
-feet
 in
 Lystra
+in the
+feet
 was sitting
 lame
 from
@@ -73793,8 +73793,8 @@ And
 he sprang up
 and
 began to walk
-And
 -
+And
 the crowds
 having seen
 what
@@ -73813,13 +73813,13 @@ men
 have come down
 to
 us
-then
 They began calling
+then
 -
 Barnabas
 Zeus
-and
 -
+and
 Paul
 Hermes
 because
@@ -73829,8 +73829,8 @@ the
 leading
 -
 speaker
-And
 -
+And
 the priest
 -
 of Zeus
@@ -73851,8 +73851,8 @@ the
 crowds
 was desiring
 to sacrifice
-however
 Having heard
+however
 the
 apostles
 Barnabas
@@ -73876,9 +73876,9 @@ do you
 Also
 we
 of like nature
+are
 with you
 men
-are
 proclaiming the gospel
 to you
 from
@@ -73948,8 +73948,8 @@ crowds
 not
 sacrificing
 to them
-however
 Came
+however
 from
 Antioch
 and
@@ -73970,8 +73970,8 @@ city
 supposing
 him
 to have died
-however
 Having surrounded
+however
 the
 disciples
 him
@@ -73989,8 +73989,8 @@ with
 Barnabas
 to
 Derbe
-then
 Having proclaimed the gospel to
+then
 the
 city
 that
@@ -74018,10 +74018,10 @@ in the
 faith
 and
 that
-it behooves
 through
 many
 tribulations
+it behooves
 us
 to enter
 into
@@ -74029,8 +74029,8 @@ the
 kingdom
 -
 of God
-now
 Having chosen
+now
 for them
 in every
 church
@@ -74078,8 +74078,8 @@ the
 work
 that
 they had fulfilled
-now
 Having arrived
+now
 and
 having gathered together
 the
@@ -74098,8 +74098,8 @@ to the
 Gentiles
 a door
 of faith
-then
 They remained
+then
 time
 no
 little
@@ -74126,8 +74126,8 @@ of Moses
 not
 you are able
 to be saved
-then
 Having been brought about
+then
 commotion
 and
 discussion
@@ -74161,9 +74161,9 @@ about
 the
 question
 this
+They
 indeed
 therefore
-They
 having been sent forward
 by
 the
@@ -74186,8 +74186,8 @@ great
 to all
 the
 brothers
-then
 Having come
+then
 to
 Jerusalem
 they were welcomed
@@ -74200,16 +74200,16 @@ apostles
 and
 the
 elders
-then
 They declared
+then
 all that
 -
 God
 had done
 with
 them
-now
 Rose up
+now
 certain
 of those
 of
@@ -74223,14 +74223,14 @@ saying
 It is necessary
 to circumcise
 them
-then
 to command [them]
+then
 to keep
 the
 law
 of Moses
-then
 Were gathered together
+then
 the
 apostles
 and
@@ -74241,8 +74241,8 @@ about
 the
 matter
 this
-now
 Of much
+now
 discussion
 having taken place
 having risen up
@@ -74294,8 +74294,8 @@ and
 not one
 He made distinction
 between
-also
 us
+also
 and
 them
 by the
@@ -74304,8 +74304,8 @@ having purified
 the
 hearts
 of them
-therefore
 Now
+therefore
 why
 are you testing
 -
@@ -74318,7 +74318,6 @@ neck
 of the
 disciples
 that
-to bear
 neither
 the
 fathers
@@ -74326,21 +74325,22 @@ of us
 nor
 we
 have been able
+to bear
 But
-we believe
 by
 the
 grace
 of
 [the] Lord
 Jesus
+we believe
 to be saved
 in
 [the] same
 manner [as]
 they also
-now
 Kept silent
+now
 all
 the
 multitude
@@ -74350,20 +74350,20 @@ Barnabas
 and
 Paul
 relating
-signs
-and
-wonders
 what
 had done
 -
 God
+signs
+and
+wonders
 among
 the
 Gentiles
 by
 them
-now
 After
+now
 -
 were silent
 they
@@ -74473,8 +74473,8 @@ which is strangled
 and
 from
 blood
-for
 Moses
+for
 from
 generations
 of old
@@ -74593,8 +74593,8 @@ Lord
 of us
 Jesus
 Christ
-therefore
 We have sent
+therefore
 Judas
 and
 Silas
@@ -74605,8 +74605,8 @@ word [of mouth]
 are telling [you]
 the
 same things
-for
 It seemed good
+for
 to the
 Spirit
 -
@@ -74615,9 +74615,9 @@ and
 to us
 no
 further
-burden
 to lay
 upon you
+burden
 except
 these
 -
@@ -74637,9 +74637,9 @@ yourselves
 well
 you will do
 Farewell
+They
 indeed
 therefore
-They
 having been sent off
 went
 to
@@ -74651,14 +74651,14 @@ multitude
 they delivered
 the
 letter
-now
 Having read [it]
+now
 they rejoiced
 at
 the
 encouragement
-both
 Judas
+both
 and
 Silas
 also
@@ -74673,8 +74673,8 @@ the
 brothers
 and
 strengthened [them]
-then
 Having continued
+then
 a time
 they were sent away
 in
@@ -74686,8 +74686,8 @@ to
 those
 having sent
 them
-however
 Paul
+however
 and
 Barnabas
 stayed
@@ -74704,16 +74704,16 @@ the
 word
 of the
 Lord
-now
 After
+now
 some
 days
 said
 to
 Barnabas
 Paul
-indeed
 Having turned back
+indeed
 let us look after
 the
 brothers
@@ -74729,8 +74729,8 @@ of the
 Lord
 how
 they are
-now
 Barnabas
+now
 purposed
 to take along
 also
@@ -74739,8 +74739,8 @@ John
 -
 called
 Mark
-however
 Paul
+however
 thought fit
 the [one]
 having withdrawn
@@ -74758,16 +74758,16 @@ work
 not
 to take along
 him
-therefore
 Arose
+therefore
 a sharp disagreement
 so that
 separated
 they
 from
 one another
-and
 -
+and
 Barnabas
 having taken
 -
@@ -74775,8 +74775,8 @@ Mark
 sailed
 to
 Cyprus
-however
 Paul
+however
 having chosen
 Silas
 went forth
@@ -74788,8 +74788,8 @@ Lord
 by
 the
 brothers
-then
 He was passing through
+then
 -
 Syria
 and
@@ -74797,8 +74797,8 @@ Cilicia
 strengthening
 the
 churches
-then
 He came
+then
 also
 to
 Derbe
@@ -74807,18 +74807,18 @@ to
 Lystra
 And
 behold
-was
-there
 a disciple
 certain
+was
+there
 named
 Timothy
 [the] son
 of a woman
 Jewish
 believing
-however
 father
+however
 a Greek
 who
 was well spoken of
@@ -74829,10 +74829,10 @@ Lystra
 and
 Iconium
 brothers
+This one
 wanted
 -
 Paul
-This one
 with
 him
 to go forth
@@ -74849,8 +74849,8 @@ in
 the
 parts
 those
-for
 they knew
+for
 all
 that
 a Greek
@@ -74858,8 +74858,8 @@ the
 father
 of him
 was
-then
 While
+then
 they were passing through
 the
 cities
@@ -74878,9 +74878,9 @@ elders
 who [were]
 in
 Jerusalem
+The
 indeed
 therefore
-The
 churches
 were strengthened
 in the
@@ -74891,8 +74891,8 @@ were increasing
 in number
 every
 day
-then
 Having passed through
+then
 -
 Phrygia
 and
@@ -74909,8 +74909,8 @@ word
 in
 -
 Asia
-then
 having come
+then
 down to
 -
 Mysia
@@ -74926,8 +74926,8 @@ them
 the
 Spirit
 of Jesus
-then
 having passed by
+then
 -
 Mysia
 they came down
@@ -74955,8 +74955,8 @@ into
 Macedonia
 help
 us
-now
 When
+now
 the
 vision
 he had seen
@@ -74968,20 +74968,20 @@ Macedonia
 concluding
 that
 had called
+us
 -
 God
-us
 to preach the gospel
 to them
-then
 Having sailed
+then
 from
 Troas
 we made a straight course
 to
 Samothrace
-and
 -
+and
 the following day
 to
 Nea
@@ -74997,17 +74997,17 @@ district
 of Macedonia
 city
 a colony
-now
 We were
-staying
+now
 in
 this
 -
 city
+staying
 days
 some
-then
 On the
+then
 day
 of the
 Sabbaths
@@ -75018,9 +75018,9 @@ city gate
 by
 a river
 where
+was customary
 [a place of] prayer
 to be
-was customary
 And
 having sat down
 we began speaking
@@ -75041,17 +75041,17 @@ God
 was listening
 of whom
 the
-heart
-the
 Lord
 opened
+the
+heart
 to attend
 to the things
 being spoken
 by
 Paul
-then
 When
+then
 she was baptized
 and
 the
@@ -75075,8 +75075,8 @@ abide
 And
 she persuaded
 us
-now
 It happened
+now
 going
 of us
 to
@@ -75119,15 +75119,15 @@ proclaim
 to you
 [the] way
 of salvation
-then
 This
+then
 she continued
 for
 many
 days
+Having been distressed
 then
 Paul
-Having been distressed
 and
 having turned
 to the
@@ -75147,11 +75147,11 @@ it came out
 [the] same
 -
 hour
+Having seen
 now
 the
 masters
 of her
-Having seen
 that
 was gone
 the
@@ -75191,12 +75191,12 @@ and
 preach
 customs
 that
-to accept
-nor
-to practice
 not
 it is lawful
 for us
+to accept
+nor
+to practice
 Romans
 being
 And
@@ -75214,10 +75214,10 @@ the
 garments
 were commanding that
 they be beaten with rods
+Many
 then
 having laid
 on them
-Many
 blows
 they cast [them]
 into
@@ -75241,13 +75241,13 @@ prison
 and
 the
 feet
-of them
 fastened
+of them
 in
 the
 stocks
-now
 Toward
+now
 -
 midnight
 Paul
@@ -75257,24 +75257,24 @@ praying
 were singing praises to
 -
 God
-now
 Were listening
+now
 to them
 the
 prisoners
-then
 Suddenly
+then
 earthquake
-a great
 there was
+a great
 so that
 were shaken
 the
 foundations
 of the
 prison house
-then
 were opened
+then
 immediately
 the
 doors
@@ -75284,11 +75284,11 @@ of all
 the
 chains
 were loosed
+Awoken
 then
+having been
 the
 jailer
-Awoken
-having been
 and
 having seen
 open
@@ -75306,22 +75306,22 @@ supposing
 to have escaped
 the
 prisoners
-however
 Called out
+however
 Paul
 loud
 in a voice
 saying
 Not
-harm
 do
 to yourself
-for
+harm
 all
+for
 we are
 here
-now
 Having called for
+now
 lights
 he rushed in
 and
@@ -75340,12 +75340,12 @@ he was saying
 Sirs
 what
 of me
-to do
 is necessary
+to do
 that
 I may be saved
-And
 -
+And
 they said
 Believe
 on
@@ -75394,8 +75394,8 @@ the [household]
 of him
 all
 immediately
-then
 Having brought
+then
 them
 into
 the
@@ -75408,8 +75408,8 @@ with all [his] household
 having believed
 -
 in God
-then
 Day
+then
 having come
 sent
 the
@@ -75421,8 +75421,8 @@ Release
 the
 men
 those
-then
 Reported
+then
 the
 jailer
 the
@@ -75437,14 +75437,14 @@ the
 captains
 that
 you may be let go
-therefore
 Now
+therefore
 having gone out
 depart
 in
 peace
-But
 -
+But
 Paul
 was saying
 to
@@ -75464,15 +75464,15 @@ now
 secretly
 us
 do they throw out
-indeed
 No
+indeed
 Instead
 having come
 themselves
 us
 let them bring out
-then
 Reported
+then
 to the
 captains
 the
@@ -75480,8 +75480,8 @@ officers
 the
 words
 these
-then
 They were afraid
+then
 having heard
 that
 Romans
@@ -75497,8 +75497,8 @@ to go out
 of
 the
 city
-then
 Having gone forth
+then
 out of
 the
 prison
@@ -75513,8 +75513,8 @@ the
 brothers
 and
 departed
-then
 Having passed through
+then
 -
 Amphipolis
 and
@@ -75528,8 +75528,8 @@ was
 a synagogue
 of the
 Jews
-now
 According to
+now
 the
 custom
 -
@@ -75550,9 +75550,9 @@ opening
 and
 setting forth
 that
-it behooved
 the
 Christ
+it behooved
 to have suffered
 and
 to have risen
@@ -75582,22 +75582,22 @@ to Paul
 and
 -
 to Silas
-along with
 -
+along with
 worshipping
 Greeks
 a multitude
 great
-then
 women
+then
 of the
 leading
 not
 a few
+Having become jealous
 now
 the
 Jews
-Having become jealous
 and
 having taken to [them]
 of the
@@ -75621,9 +75621,9 @@ to bring out
 to
 the
 people
-however
 Not
 having found
+however
 them
 they dragged
 Jason
@@ -75656,11 +75656,11 @@ of Caesar
 do
 king
 another
+proclaiming
 to be
 Jesus
-proclaiming
-then
 They stirred up
+then
 the
 crowd
 and
@@ -75680,15 +75680,15 @@ the
 rest
 they let go
 them
-And
 -
+And
 the brothers
 immediately
 by
 night
 sent away
-both
 -
+both
 Paul
 and
 -
@@ -75703,8 +75703,8 @@ synagogue
 of the
 Jews
 went
-now
 These
+now
 were
 more noble
 than those
@@ -75727,9 +75727,9 @@ if
 were
 these things
 so
+Many
 indeed
 therefore
-Many
 of
 them
 believed
@@ -75743,8 +75743,8 @@ and
 men
 not
 a few
-however
 When
+however
 knew
 those
 from
@@ -75771,8 +75771,8 @@ and
 agitating
 the
 crowds
-also
 Immediately
+also
 then
 -
 Paul
@@ -75784,17 +75784,17 @@ as
 to
 the
 sea
-but
 remained
-both
+but
 -
+both
 Silas
 and
 -
 Timothy
 there
-now
 Those
+now
 escorting
 -
 Paul
@@ -75817,8 +75817,8 @@ they should come
 to
 him
 they departed
-now
 In
+now
 -
 Athens
 waiting for
@@ -75836,9 +75836,9 @@ utterly idolatrous
 to be
 the
 city
-therefore
-indeed
 He was reasoning
+indeed
+therefore
 in
 the
 synagogue
@@ -75857,8 +75857,8 @@ day
 with
 those
 meeting [him]
-then
 Some
+then
 also
 of the
 Epicureans
@@ -75870,18 +75870,18 @@ him
 And
 some
 were saying
+What
 -
 may desire
 of the
 babbler
 this
-What
 to say
-however
 Others
-he seems
+however
 Of foreign
 gods
+he seems
 a proclaimer
 to be
 because
@@ -75891,8 +75891,8 @@ and
 the
 resurrection
 he was proclaiming the gospel of
-also
 Having taken hold
+also
 of him
 to
 the
@@ -75911,23 +75911,23 @@ by
 you
 is spoken
 teaching
-for
 Strange things
+for
 some
 you are bringing
 to
 the
 ears
 of us
-therefore
 We resolve
+therefore
 to know
 what
-to be
 wish
 these things
-now
+to be
 [The] Athenians
+now
 all
 and
 the
@@ -75944,8 +75944,8 @@ and
 to hear
 something
 new
-then
 Having stood
+then
 Paul
 in
 [the] midst
@@ -75961,8 +75961,8 @@ as
 very religious
 you
 I behold
-for
 Passing through
+for
 and
 beholding
 the
@@ -75976,8 +75976,8 @@ which
 had been inscribed
 To an unknown
 God
-therefore
 Whom
+therefore
 not knowing
 you worship
 Him
@@ -75999,8 +75999,8 @@ He
 of heaven
 and
 earth
-Lord
 being
+Lord
 not
 in
 hand-made
@@ -76022,8 +76022,8 @@ breath
 and
 the
 all
-then
 He made
+then
 of
 one
 every
@@ -76054,8 +76054,8 @@ they might palpate for
 Him
 and
 might find Him
-indeed
 And
+indeed
 not
 far
 from
@@ -76063,9 +76063,9 @@ one
 each
 of us
 He is
-for
 In
 Him
+for
 we live
 and
 move
@@ -76079,14 +76079,14 @@ among
 you
 poets
 have said
-for
 Of [Him]
+for
 also
 offspring
 we are
+Offspring
 therefore
 being
-Offspring
 -
 of God
 not
@@ -76106,9 +76106,9 @@ the
 Divine Being
 to be
 like
+The
 indeed
 therefore
-The
 times
 -
 of ignorance
@@ -76145,15 +76145,15 @@ having raised
 Him
 out from
 [the] dead
-now
 Having heard of
+now
 a resurrection
 of [the] dead
+some
 indeed
-some
 began to mock [him]
-however
 some
+however
 said
 We will hear
 you
@@ -76168,8 +76168,8 @@ went out
 from
 [the] midst
 of them
-however
 Some
+however
 men
 having joined themselves
 to him
@@ -76238,13 +76238,13 @@ with
 them
 and
 worked
-for
 they were
+for
 tentmakers
 by the
 trade
-now
 He was reasoning
+now
 in
 the
 synagogue
@@ -76256,14 +76256,14 @@ both
 Jews
 and
 Greeks
-now
 When
+now
 came down
 from
 -
 Macedonia
-both
 -
+both
 Silas
 and
 -
@@ -76280,8 +76280,8 @@ to be
 the
 Christ
 Jesus
-however
 Opposing
+however
 of them
 and
 reviling [him]
@@ -76327,8 +76327,8 @@ was
 adjoining
 the
 synagogue
-now
 Crispus
+now
 the
 ruler of the synagogue
 believed
@@ -76347,8 +76347,8 @@ hearing
 believed
 and
 were baptized
-now
 Said
+now
 the
 Lord
 in [the]
@@ -76378,15 +76378,15 @@ to harm
 you
 because
 people
-many
 there are
 to me
+many
 in
 the
 city
 this
-now
 He remained
+now
 a year
 and
 months
@@ -76398,10 +76398,10 @@ the
 word
 -
 of God
-however
 Gallio
-being
+however
 proconsul
+being
 of
 Achaia
 rose up against
@@ -76428,8 +76428,8 @@ men
 to worship
 -
 God
-now
 Being about
+now
 -
 Paul
 to open
@@ -76441,8 +76441,8 @@ Gallio
 to
 the
 Jews
-indeed
 If
+indeed
 it was
 unrighteousness
 some
@@ -76451,15 +76451,15 @@ crime
 wicked
 O
 Jews
--
 according to
 reason
+-
 I would have endured with
 you
-however
 if
-it is
+however
 a question
+it is
 about
 a word
 and
@@ -76471,11 +76471,11 @@ in reference to
 your
 you will see
 [to it] yourselves
+a judge
+I
+of these things
 not
 resolve
-I
-a judge
-of these things
 to be
 And
 he drove
@@ -76483,9 +76483,9 @@ them
 from
 the
 judgment seat
+Having seized
 then
 all [of them]
-Having seized
 Sosthenes
 the
 ruler of the synagogue
@@ -76499,8 +76499,8 @@ about these things
 -
 to Gallio
 it mattered
-Now
 -
+Now
 Paul
 more
 having remained
@@ -76524,18 +76524,18 @@ in
 Cenchrea
 the
 head
-for
 he had
+for
 a vow
-now
 They came
+now
 to
 Ephesus
 and them
 left
 there
-then
 He himself
+then
 having entered
 into
 the
@@ -76543,8 +76543,8 @@ synagogue
 he reasoned
 with the
 Jews
-now
 Asking [him]
+now
 of them
 for
 a longer
@@ -76595,8 +76595,8 @@ strengthening
 all
 the
 disciples
-now
 A Jew
+now
 certain
 Apollos
 named
@@ -76605,14 +76605,14 @@ of Alexandria
 a native
 a man
 eloquent
+came
+to
+Ephesus
 mighty
 being
 in
 the
 Scriptures
-came
-to
-Ephesus
 He
 was
 instructed in
@@ -76637,15 +76637,15 @@ only
 the
 baptism
 of John
-then
 He
+then
 began
 to speak boldly
 in
 the
 synagogue
-however
 Having heard
+however
 him
 Priscilla
 and
@@ -76660,8 +76660,8 @@ the
 way
 of
 God
-then
 Resolving
+then
 he
 to pass through
 into
@@ -76684,8 +76684,8 @@ having believed
 through
 -
 grace
-for
 Powerfully
+for
 the
 Jews
 he was refuting
@@ -76698,8 +76698,8 @@ to be
 the
 Christ
 Jesus
-now
 It came to pass
+now
 while
 -
 -
@@ -76719,8 +76719,8 @@ and
 having found
 certain
 disciples
-also
 he said
+also
 to
 them
 If
@@ -76728,32 +76728,32 @@ If
 Holy
 did you receive
 having believed
-And [they said]
 -
+And [they said]
 to
 him
 But
 not even
-did we hear
 that [a]
 Spirit
 Holy
 there is
-then
+did we hear
 He said
 then
 Into
 what
+then
 were you baptized
-And
 -
+And
 they said
 Into
 -
 John's
 baptism
-then
 Said
+then
 Paul
 John
 baptized
@@ -76762,20 +76762,20 @@ of repentance
 the
 people
 telling
-that
-they should believe
 in
 the [One]
 coming
 after
 him
 that
+they should believe
+that
 is
 in
 -
 Jesus
-then
 Having heard
+then
 they were baptized
 in
 the
@@ -76796,20 +76796,20 @@ Spirit
 Holy
 upon
 them
-then
 they were speaking
+then
 in tongues
 and
 prophesying
-then
 There were
+then
 the
 in all
 men
 about
 twelve
-then
 Having entered
+then
 into
 the
 synagogue
@@ -76825,8 +76825,8 @@ the
 kingdom
 -
 of God
-however
 When
+however
 some
 were hardened
 and
@@ -76850,8 +76850,8 @@ in
 the
 lecture hall
 of Tyrannus
-then
 This
+then
 continued
 for
 years
@@ -76867,12 +76867,12 @@ the
 word
 of the
 Lord
-both
 Jews
+both
 and
 Greeks
-then
 Miracles
+then
 not
 -
 being ordinary
@@ -76902,14 +76902,14 @@ from
 them
 the
 diseases
-also
 the
+also
 spirits
 -
 evil
 left
-now
 Attempted
+now
 some of
 also
 of the
@@ -76937,6 +76937,7 @@ Jesus
 whom
 Paul
 proclaims
+They were
 now
 certain
 of Sceva
@@ -76945,10 +76946,9 @@ a high priest
 seven
 sons
 this
-They were
 were doing
-however
 Answering
+however
 the
 spirit
 -
@@ -76962,16 +76962,16 @@ and
 -
 Paul
 I am acquainted with
-however
 you
+however
 who
 are you
 And
 having leapt
-on
-them
 the
 man
+on
+them
 in
 whom
 was
@@ -76993,13 +76993,13 @@ out of
 the
 house
 that
-now
 This
+now
 became
 known
 to all
-both
 Jews
+both
 and
 Greeks
 those
@@ -77019,8 +77019,8 @@ name
 of the
 Lord
 Jesus
-then
 Many
+then
 of those
 having believed
 were coming
@@ -77030,8 +77030,8 @@ declaring
 the
 deeds
 of them
-now
 Many
+now
 of those
 the
 magic arts
@@ -77062,8 +77062,8 @@ word
 continued to increase
 and
 prevail
-now
 After
+now
 were fulfilled
 these things
 purposed
@@ -77092,8 +77092,8 @@ me
 also
 Rome
 to see
-then
 Having sent
+then
 into
 -
 Macedonia
@@ -77110,8 +77110,8 @@ for a time
 in
 -
 Asia
-now
 Arose
+now
 at
 the
 time
@@ -77122,9 +77122,9 @@ small
 concerning
 the
 Way
+Demetrius
 for
 a certain [man]
-Demetrius
 named
 a silversmith
 making
@@ -77138,13 +77138,13 @@ no
 little
 business
 whom
+having brought together
 also
 the
 in
 such
 things
 workmen
-having brought together
 he said
 Men
 you know
@@ -77186,9 +77186,9 @@ gods
 by
 hands
 being made
-but
 Not
 only
+but
 this
 is endangered
 to us
@@ -77208,8 +77208,8 @@ temple
 for
 nothing
 to be reckoned
-and
 to be
+and
 also
 deposed
 the
@@ -77223,8 +77223,8 @@ and
 the
 world
 worship
-then
 Having heard
+then
 and
 having become
 full
@@ -77241,8 +77241,8 @@ the
 city
 whole
 with confusion
-and
 they rushed
+and
 with one accord
 to
 the
@@ -77254,8 +77254,8 @@ Aristarchus
 Macedonians
 fellow travelers
 of Paul
-however
 Of Paul
+however
 intending
 to go in
 to
@@ -77266,8 +77266,8 @@ would allow
 him
 the
 disciples
-then
 Some
+then
 also
 of the
 Asiarchs
@@ -77284,16 +77284,16 @@ himself
 into
 the
 theatre
+Others
 indeed
 therefore
-Others
 some
 thing
 were crying out
+was
 for
 the
 assembly
-was
 confused
 and
 -
@@ -77303,8 +77303,8 @@ did know
 for what
 cause
 they were assembled
-now
 Out of
+now
 the
 crowd
 to explain himself
@@ -77313,8 +77313,8 @@ having thrust forward
 him
 the
 Jews
-And
 -
+And
 Alexander
 having motioned with
 the
@@ -77323,14 +77323,14 @@ was wanting
 to make a defense
 to the
 people
-however
 Having recognized
+however
 that
 a Jew
 he is
 a cry
-one
 there was
+one
 from
 all
 about
@@ -77342,35 +77342,35 @@ Great [is]
 -
 Artemis
 of [the] Ephesians
+Having calmed
 then
 the
 town clerk
-Having calmed
 the
 crowd
 he says
 Men
 Ephesians
-for
 what
-man
+for
 is there
+man
 who
 not
 knows
 the
 of [the] Ephesians
 city
-as being
 temple-keeper
+as being
 of the
 great
 Artemis
 and
 of that
 fallen from the sky
-therefore
 Undeniable
+therefore
 being
 these things
 necessary
@@ -77382,8 +77382,8 @@ and
 nothing
 rash
 to do
-for
 You brought
+for
 the
 men
 these
@@ -77394,9 +77394,9 @@ blaspheming
 the
 goddess
 of us
-therefore
-indeed
 If
+indeed
+therefore
 Demetrius
 and
 the
@@ -77414,8 +77414,8 @@ proconsuls
 there are
 let them accuse
 one another
-however
 If
+however
 anything
 beyond this
 you inquire
@@ -77424,8 +77424,8 @@ the
 lawful
 assembly
 it will be solved
-for
 And
+for
 we are in danger of
 being accused
 of insurrection
@@ -77451,15 +77451,15 @@ having said
 he dismissed
 the
 assembly
-now
 After
+now
 -
 had ceased
 the
 uproar
+having called to [him]
 -
 Paul
-having called to [him]
 the
 disciples
 and
@@ -77469,8 +77469,8 @@ he departed
 to go
 to
 Macedonia
-then
 Having passed through
+then
 the
 districts
 those
@@ -77483,8 +77483,8 @@ he came
 to
 -
 Greece
-then
 Having continued
+then
 months
 three
 having been made
@@ -77504,14 +77504,14 @@ a purpose
 to return
 through
 Macedonia
-then
 Was accompanied by
+then
 he
 Sopater
 Pyrrhus
 a Berean
-now
 of the Thessalonians
+now
 Aristarchus
 and
 Secundus
@@ -77520,20 +77520,20 @@ Gaius
 of Derbe
 and
 Timothy
-now
 [the] Asians
+now
 Tychicus
 and
 Trophimus
-also
 These
+also
 having gone ahead
 waited for
 us
 in
 Troas
-then
 We
+then
 sailed away
 after
 the
@@ -77556,8 +77556,8 @@ where
 we stayed
 days
 seven
-then
 In
+then
 the
 first [day]
 of the
@@ -77574,14 +77574,14 @@ about
 to depart
 on the
 next day
-then
 he continued
+then
 the
 talk
 until
 midnight
-now
 There were
+now
 lamps
 many
 in
@@ -77590,12 +77590,12 @@ upper room
 where
 we were
 assembled
+Was sitting
 then
 a certain
 young man
 named
 Eutychus
-Was sitting
 by
 the
 window
@@ -77619,8 +77619,8 @@ down
 and
 was picked up
 dead
-however
 Having descended
+however
 -
 Paul
 fell upon
@@ -77630,31 +77630,31 @@ having embraced [him]
 said
 Not
 be alarmed
-for
 the
+for
 life
 of him
 in
 him
 is
-then
 Having gone up
+then
 and
 having broken
 the
 bread
 and
 having eaten
-and
 for
 long
+and
 having talked
 until
 daybreak
 so
 he departed
-then
 They brought
+then
 the
 boy
 alive
@@ -77662,8 +77662,8 @@ and
 were comforted
 not
 a little
-however
 We
+however
 having gone ahead
 to
 the
@@ -77677,15 +77677,15 @@ being about
 to take in
 -
 Paul
-for
 Thus
+for
 having arranged
 he was
 readying
 himself
 to go on foot
-now
 When
+now
 he met with
 us
 at
@@ -77703,20 +77703,20 @@ following [day]
 we arrived
 opposite
 Chios
-then
 -
+then
 the next [day]
 we arrived
 at
 Samos
-now
 the
+now
 following [day]
 we came
 to
 Miletus
-for
 Had decided
+for
 -
 Paul
 to sail by
@@ -77730,8 +77730,8 @@ to spend time
 in
 -
 Asia
-for
 he was hastened
+for
 if
 possible
 it was
@@ -77743,8 +77743,8 @@ of Pentecost
 to be
 in
 Jerusalem
-then
 From
+then
 -
 Miletus
 having sent
@@ -77755,8 +77755,8 @@ the
 elders
 of the
 church
-then
 When
+then
 they had come
 to
 him
@@ -77799,8 +77799,8 @@ plots
 of the
 Jews
 how
-I did shrink back
 nothing
+I did shrink back
 of that
 being profitable
 -
@@ -77815,8 +77815,8 @@ and
 from
 house to house
 earnestly testifying
-both
 to the Jewish
+both
 and
 to Greeks
 -
@@ -77834,9 +77834,9 @@ And
 now
 behold
 bound
+I
 in the
 Spirit
-I
 go
 to
 Jerusalem
@@ -77926,8 +77926,8 @@ of
 the
 blood
 of all
-for
 not
+for
 I shrunk back
 -
 not
@@ -78066,8 +78066,8 @@ it behooves [us]
 to aid
 those
 being weak
-and also
 to remember
+and also
 the
 words
 of the
@@ -78093,10 +78093,10 @@ with
 all
 them
 he prayed
-then
 Much
-there was
+then
 weeping
+there was
 among all
 and
 having fallen
@@ -78121,14 +78121,14 @@ the
 face
 of him
 to see
-then
 They accompanied
+then
 him
 to
 the
 ship
-then
 After
+then
 it happened
 sailing
 our
@@ -78140,8 +78140,8 @@ we came
 to
 -
 Cos
-and
 -
+and
 the next [day]
 to
 -
@@ -78157,8 +78157,8 @@ into
 Phoenicia
 having gone on board
 we set sail
-then
 Having sighted
+then
 -
 Cyprus
 and
@@ -78172,16 +78172,16 @@ and
 landed
 at
 Tyre
-for
 There
+for
 the
 ship
 was
 unloading
 the
 cargo
-then
 Having sought out
+then
 the
 disciples
 we remained
@@ -78199,8 +78199,8 @@ not
 to go up
 to
 Jerusalem
-then
 When
+then
 it happened that
 had completed
 we
@@ -78234,14 +78234,14 @@ we went up
 into
 the
 boat
-then
 they
+then
 returned
 to
 the
 own
-then
 We
+then
 the
 voyage
 having completed
@@ -78259,8 +78259,8 @@ day
 one
 with
 them
-now
 On the
+now
 next day
 having gone forth
 we came
@@ -78281,15 +78281,15 @@ seven
 we stayed
 with
 him
-now
 With this [man]
+now
 there were
 daughters
 four
 virgins
 prophesying
-now
 Remaining
+now
 days
 many
 came down
@@ -78342,13 +78342,13 @@ will deliver [him]
 into
 [the] hands
 of [the] Gentiles
-then
 When
+then
 we had heard
 these things
 began begging
-both
 we
+both
 and
 those
 of that place
@@ -78370,8 +78370,8 @@ breaking
 my
 -
 heart
-for
 I
+for
 not
 only
 to be bound
@@ -78388,9 +78388,9 @@ name
 of the
 Lord
 Jesus
-then
 Not
 being persuaded
+then
 of him
 we were silent
 having said
@@ -78399,8 +78399,8 @@ Lord
 the
 will
 be done
-now
 After
+now
 the
 days
 these
@@ -78408,8 +78408,8 @@ having packed the baggage
 we started on our way up
 to
 Jerusalem
-then
 Went
+then
 also [some]
 of the
 disciples
@@ -78426,8 +78426,8 @@ a certain
 Cypriot
 an early
 disciple
-now
 Having arrived
+now
 we
 at
 Jerusalem
@@ -78436,8 +78436,8 @@ received
 us
 the
 brothers
-now
 On the
+now
 following [day]
 went in
 -
@@ -78446,9 +78446,9 @@ with
 us
 unto
 James
+all
 and
 arrived
-all
 the
 elders
 And
@@ -78469,38 +78469,38 @@ through
 the
 ministry
 of him
-then
 Those
+then
 having heard
 began glorifying
 -
 God
-then
 They said
+then
 to him
 You see
 brother
 how many
 myriads
--
-having believed
 there are
 among
 the
 Jews
+-
+having believed
 and
 all
 zealous ones
 for the
 law
 are
-now
 They have been informed
+now
 about
 you
 that
-you teach
 apostasy
+you teach
 from
 Moses
 those
@@ -78519,15 +78519,15 @@ nor
 in the
 customs
 to walk
-then
 What
+then
 is it
 Certainly
 they will hear
 that
 you have come
-therefore
 This
+therefore
 do you
 what
 to you
@@ -78570,8 +78570,8 @@ yourself
 keeping
 the
 law
-now
 Concerning
+now
 those
 having believed
 of the Gentiles
@@ -78580,8 +78580,8 @@ wrote
 having adjudged
 to keep from
 them
-both
 the things
+both
 sacrificed to idols
 and
 blood
@@ -78621,8 +78621,8 @@ each
 of them
 the
 sacrifice
-now
 When
+now
 were about
 the
 seven
@@ -78670,8 +78670,8 @@ this
 all those
 everywhere
 teaching
-and
 besides
+and
 also
 Greeks
 he has brought
@@ -78684,8 +78684,8 @@ the
 holy
 place
 this
-for
 It was they
+for
 having previously seen
 Trophimus
 the
@@ -78695,17 +78695,17 @@ the
 city
 with
 him
+whom
 they were supposing
 that
-whom
 into
 the
 temple
 had brought
 -
 Paul
-also
 Was thrown into commotion
+also
 the
 city
 whole
@@ -78728,8 +78728,8 @@ immediately
 were shut
 the
 doors
-then
 Of them seeking
+then
 him
 to kill
 there came
@@ -78740,8 +78740,8 @@ of the
 cohort
 that
 all
-Jerusalem
 was in an uproar
+Jerusalem
 who
 at once
 having taken with [him]
@@ -78751,8 +78751,8 @@ centurions
 ran down
 upon
 them
-And
 -
+And
 having seen
 the
 commander
@@ -78782,17 +78782,17 @@ and
 what
 it is
 he has been doing
-however
 Others
+however
 another [or]
 one thing
 were crying out
 in
 the
 crowd
-now
 Not
 being able
+now
 he
 to know
 the
@@ -78806,8 +78806,8 @@ him
 into
 the
 barracks
-now
 When
+now
 he came
 to
 the
@@ -78823,8 +78823,8 @@ the
 violence
 of the
 crowd
-for
 Were following
+for
 the
 multitude
 of the
@@ -78832,8 +78832,8 @@ people
 crying out
 Away with
 him
-then
 Being about
+then
 to be brought
 into
 the
@@ -78850,13 +78850,13 @@ to say
 something
 to
 you
-Then
 -
+Then
 he was saying
 Greek
 do you know
-then
 Not
+then
 you
 are
 the
@@ -78877,14 +78877,14 @@ four thousand
 men
 of the
 Assassins
-however
 Said
+however
 -
 Paul
-indeed
 I
-am
 a man
+indeed
+am
 a Jew
 of Tarsus
 -
@@ -78893,8 +78893,8 @@ not [of an]
 insignificant
 city
 a citizen
-now
 I implore
+now
 you
 allow
 me
@@ -78902,8 +78902,8 @@ to speak
 to
 the
 people
-then
 Having allowed [him]
+then
 he
 -
 Paul
@@ -78916,8 +78916,8 @@ with the
 hand
 to the
 people
-then
 great
+then
 silence
 having taken place
 he spoke to [them]
@@ -78936,8 +78936,8 @@ to
 you
 now
 defense
-then
 Having heard
+then
 that
 in the
 Hebrew
@@ -78958,8 +78958,8 @@ in
 Tarsus
 -
 of Cilicia
-now
 brought up
+now
 in
 the
 city
@@ -78974,8 +78974,8 @@ exactness
 of the
 of our Fathers
 law
-being
 a zealous one
+being
 -
 for God
 even as
@@ -78995,8 +78995,8 @@ and
 betraying
 to
 prisons
-both
 men
+both
 and
 women
 as
@@ -79030,8 +79030,8 @@ to
 Jerusalem
 in order that
 they might be punished
-however
 It happened
+however
 to me
 journeying
 and
@@ -79049,8 +79049,8 @@ a light
 great
 around
 me
-then
 I fell
+then
 to
 the
 ground
@@ -79064,14 +79064,14 @@ Saul
 why
 Me
 persecute you
-then
 I
+then
 answered
 Who
 are You
 Lord
-then
 He said
+then
 to
 me
 I
@@ -79082,30 +79082,30 @@ Nazareth
 whom
 you
 are persecuting
-then
-indeed
 Those
+then
 with
 me
 being
 the
+indeed
 light
 beheld
+the
 however
+voice
 not
 did they hear
-the
-voice
 of the [One]
 speaking
 to me
-then
 I said
+then
 What
 shall I do
 Lord
-And
 -
+And
 the Lord
 said
 to
@@ -79120,11 +79120,11 @@ it will be told
 concerning
 all things
 that
-to do
 it has been appointed
 you
-now
+to do
 While
+now
 not
 I could see
 from
@@ -79141,8 +79141,8 @@ me
 I came
 to
 Damascus
-then
 Ananias
+then
 certain
 a man
 devout
@@ -79172,8 +79172,8 @@ hour
 looked up
 at
 him
-And
 -
+And
 he said
 The
 God
@@ -79199,11 +79199,11 @@ mouth
 of Him
 For
 you will be
+a witness
 for Him
 to
 all
 men
-a witness
 of what
 you have seen
 and
@@ -79223,8 +79223,8 @@ calling on
 the
 name
 of Him
-then
 It happened
+then
 to me
 having returned
 to
@@ -79310,8 +79310,8 @@ to
 far away
 will send
 you
-now
 They were listening
+now
 to him
 until
 this
@@ -79329,13 +79329,13 @@ the
 earth
 the
 such
-for
 Not
+for
 it is fit
 he
 to live
-then
 Were crying out
+then
 they
 and
 casting off
@@ -79367,8 +79367,8 @@ cause
 like this
 they were crying out
 against him
-however
 As
+however
 he stretched forward
 him
 with the
@@ -79385,11 +79385,11 @@ a man
 a Roman
 and
 uncondemned
-to flog
 it is lawful
 to you
-then
+to flog
 Having heard
+then
 the
 centurion
 having gone
@@ -79397,17 +79397,17 @@ to the
 commander
 he reported [it]
 saying
-are you going
 What
+are you going
 to do
-for
 The
+for
 man
 this
 a Roman
 is
-then
 Having come near
+then
 the
 commander
 said
@@ -79417,12 +79417,12 @@ me
 you
 a Roman
 are
-And
 -
+And
 he was saying
 Yes
-then
 Answered
+then
 the
 commander
 I
@@ -79432,16 +79432,16 @@ the
 citizenship
 this
 bought
-But
 -
+But
 Paul
 was saying
-however
 I
+however
 even
 was born [so]
-therefore
 Immediately
+therefore
 departed
 from
 him
@@ -79449,10 +79449,10 @@ those
 being about
 him
 to examine
-also
 and
 the
 commander
+also
 was afraid
 having ascertained
 that
@@ -79463,8 +79463,8 @@ because
 him
 he had
 bound
-now
 On the
+now
 next day
 desiring
 to know
@@ -79494,10 +79494,10 @@ Paul
 he set [him]
 among
 them
+Having looked intently
 then
 -
 Paul
-Having looked intently
 Council
 he said
 Men
@@ -79514,8 +79514,8 @@ this
 -
 day
 
-Then
 -
+Then
 the high priest
 Ananias
 commanded
@@ -79552,8 +79552,8 @@ violating law
 command
 me
 to be struck
-now
 Those who
+now
 stood by
 said
 The
@@ -79561,8 +79561,8 @@ high priest
 -
 of God
 do you insult
-then
 Was saying
+then
 -
 Paul
 Not
@@ -79571,8 +79571,8 @@ brothers
 that
 he is
 high priest
-for
 it has been written
+for
 -
 [The] ruler
 of the
@@ -79581,18 +79581,18 @@ of you
 not
 you shall speak
 evil [of]
+Having known
 then
 -
 Paul
-Having known
 that
 the
 one
 part
 consists
 of Sadducees
-but
 -
+but
 the other
 of Pharisees
 he began crying out
@@ -79612,8 +79612,8 @@ and
 resurrection
 of [the] dead
 am judged
-then
 This
+then
 of him
 saying
 arose
@@ -79626,8 +79626,8 @@ and
 was divided
 the
 crowd
-for
 Sadducees
+for
 say
 not
 there to be
@@ -79636,13 +79636,13 @@ nor
 angel
 nor
 spirit
-however
 Pharisees
+however
 confess
 -
 both
-then
 Arose
+then
 a clamor
 great
 and
@@ -79663,20 +79663,20 @@ in
 the
 man
 this
-now
 What if
+now
 a spirit
 has spoken
 to him
 or
 an angel
-then
 Great
-dissension
+then
 arising
+dissension
+having feared
 the
 commander
-having feared
 lest
 should be torn to pieces
 -
@@ -79692,13 +79692,13 @@ him
 from
 midst
 of them
-then
 to bring [him]
+then
 into
 the
 barracks
-But
 -
+But
 the following
 night
 having stood by
@@ -79707,8 +79707,8 @@ the
 Lord
 said
 Take courage
-for
 as
+for
 you have fully testified
 -
 about
@@ -79716,14 +79716,14 @@ Me
 at
 Jerusalem
 so
-it behooves
 you
+it behooves
 also
 in
 Rome
 to testify
-then
 When it was
+then
 day
 having made
 a conspiracy
@@ -79741,8 +79741,8 @@ that
 they should kill
 -
 Paul
-now
 There were
+now
 more than
 forty
 -
@@ -79768,8 +79768,8 @@ that
 we should kill
 -
 Paul
-therefore
 Now
+therefore
 you
 make a report
 to the
@@ -79789,8 +79789,8 @@ more earnestly
 the things
 about
 him
-then
 we
+then
 before
 -
 drawing near
@@ -79800,13 +79800,13 @@ are
 -
 to kill
 him
+Having heard
 however
 the
 son
 of the
 sister
 of Paul
-Having heard
 of the
 ambush
 having come near
@@ -79818,10 +79818,10 @@ barracks
 he reported [it]
 -
 to Paul
+Having called to [him]
 then
 -
 Paul
-Having called to [him]
 one
 of the
 centurions
@@ -79833,14 +79833,14 @@ take
 to
 the
 commander
-for
 he has
+for
 to report
 something
 to him
+The [one]
 indeed
 therefore
-The [one]
 having taken
 him
 brought [him]
@@ -79865,13 +79865,13 @@ having
 something
 to say
 to you
-then
-the
-commander
 Having taken hold
+then
 the
 hand
 of him
+the
+commander
 and
 having withdrawn
 in
@@ -79880,11 +79880,11 @@ he began to inquire
 What
 is it
 that
+you have
 to report
 to me
-you have
-then
 He said
+then
 -
 The
 Jews
@@ -79907,13 +79907,13 @@ more earnestly
 to inquire
 about
 him
-therefore
 You
+therefore
 not
 should be persuaded
 by them
-indeed
 Lie in wait
+indeed
 for him
 of
 them
@@ -79940,9 +79940,9 @@ the
 from
 you
 promise
+-
 Indeed
 therefore
--
 the commander
 dismissed
 the
@@ -79965,23 +79965,23 @@ he said
 Prepare
 soldiers
 two hundred
+so that
+they might go
+as far as
+Caesarea
 and
 horsemen
 seventy
 and
 spearmen
 two hundred
-so that
-they might go
-as far as
-Caesarea
 for
 the third
 hour
 of the
 night
-then
 Mounts
+then
 provide
 so that
 having set upon [them]
@@ -80026,8 +80026,8 @@ having learned
 that
 a Roman
 he is
-then
 Resolving
+then
 to know
 the
 charge
@@ -80040,24 +80040,24 @@ to
 the
 council
 of them
-I found
 whom
+I found
 being accused
 concerning
 questions
 of the
 law
 of them
-however
 no
+however
 worthy
 of death
 or
 of chains
-accusation
 having
-then
+accusation
 It having been disclosed
+then
 to me
 of a plot that
 against
@@ -80077,9 +80077,9 @@ against
 him
 before
 you
+-
 Indeed
 therefore
--
 the soldiers
 according to
 that
@@ -80094,8 +80094,8 @@ night
 to
 -
 Antipatris
-now
 On the
+now
 next day
 having allowed
 the
@@ -80123,8 +80123,8 @@ also
 -
 Paul
 to him
-then
 Having read [it]
+then
 and
 having asked
 from
@@ -80136,9 +80136,9 @@ having learned
 that
 from
 Cilicia [he is]
-he was saying
 I will hear fully
 you
+he was saying
 when
 also
 the
@@ -80153,8 +80153,8 @@ Praetorium
 of Herod
 to be guarded
 him
-then
 After
+then
 five
 days
 came down
@@ -80175,8 +80175,8 @@ governor
 against
 -
 Paul
-then
 Having been called
+then
 of him
 began
 to accuse
@@ -80198,18 +80198,18 @@ through
 -
 your
 foresight
-both
 in every way
+both
 and
 everywhere
 we gladly accept [it]
+most excellent
+Felix
 with
 all
 thankfulness
-most excellent
-Felix
-however
 In order that
+however
 not
 to
 any longer
@@ -80223,8 +80223,8 @@ briefly
 [in]
 your
 kindness
-for
 Having found
+for
 the
 man
 this
@@ -80239,8 +80239,8 @@ Jews
 in
 the
 world
-then
 a leader
+then
 of the
 of the
 Nazarenes
@@ -80249,8 +80249,8 @@ who
 even
 the
 temple
-to profane
 attempted
+to profane
 whom
 also
 we seized
@@ -80267,8 +80267,8 @@ of which
 we
 accuse
 him
-then
 Agreed
+then
 also
 the
 Jews
@@ -80276,8 +80276,8 @@ declaring
 these things
 so
 to be
-then
 Answered
+then
 -
 Paul
 having made a sign
@@ -80317,6 +80317,10 @@ to worship
 in
 Jerusalem
 And
+neither
+in
+the
+temple
 did they find
 me
 with
@@ -80324,12 +80328,8 @@ anyone
 reasoning
 or
 a tumultuous gathering
-of a crowd
 making
-neither
-in
-the
-temple
+of a crowd
 nor
 in
 the
@@ -80339,16 +80339,16 @@ in
 the
 city
 Nor
-are they able
 to prove
+are they able
 to you
 concerning
 [the things] of which
 now
 they accuse
 me
-however
 I confess
+however
 this
 to you
 that
@@ -80375,8 +80375,8 @@ in
 the
 Prophets
 have been written
-having
 a hope
+having
 in
 -
 God
@@ -80385,11 +80385,11 @@ also
 they
 themselves
 await
+[that] a resurrection
 there is about
 to be
-[that] a resurrection
-both
 of [the] just
+both
 and
 of [the] unjust
 In
@@ -80408,9 +80408,9 @@ and
 men
 through
 everything
-now
 After
 years
+now
 many
 alms
 to bring
@@ -80435,19 +80435,19 @@ a crowd
 nor
 in
 tumult
-however [are]
 Some
+however [are]
 from
 -
 Asia
 Jews
 who
+ought
 before
 you
 to appear
 and
 to make accusation
-ought
 if
 anything
 they may have
@@ -80458,8 +80458,8 @@ themselves
 it
 let them say
 any
-unrighteousness
 they found
+unrighteousness
 having stood
 in me
 before
@@ -80484,8 +80484,8 @@ am judged
 this day
 by
 you
-however
 Put off
+however
 them
 -
 Felix
@@ -80510,24 +80510,24 @@ the
 centurion
 to keep
 him
-then
 to [let him] have
+then
 ease
 and
-to forbid
 not
+to forbid
 the
 own
 of him
 to minister
 to him
-then
 After
+then
 days
 some
+having arrived
 -
 Felix
-having arrived
 with
 Drusilla
 the
@@ -80547,8 +80547,8 @@ in
 Christ
 Jesus
 faith
-then
 Reasoning
+then
 he
 concerning
 righteousness
@@ -80568,8 +80568,8 @@ For the
 present
 being
 go away
-then
 opportunity
+then
 having found
 I will call for
 you
@@ -80590,17 +80590,17 @@ him
 sending for
 he was talking
 with him
-however
 Two years
+however
 having been completed
 received [as]
+successor
 -
 Felix
-successor
 Porcius
 Festus
-then
 wishing
+then
 favor
 to acquire for himself
 with the
@@ -80611,8 +80611,8 @@ left
 -
 Paul
 imprisoned
-therefore
 Festus
+therefore
 having arrived in
 the
 province
@@ -80624,8 +80624,8 @@ to
 Jerusalem
 from
 Caesarea
-then
 Made a presentation before
+then
 him
 the
 chief priests
@@ -80656,9 +80656,9 @@ him
 on
 the
 way
+-
 Indeed
 therefore
--
 Festus
 answered that
 is to be kept
@@ -80666,30 +80666,30 @@ is to be kept
 Paul
 in
 Caesarea
-now
 he himself
+now
 is about
 in
 quickness
 to set out
-therefore
-he says
 Those
+therefore
 among
 you
+he says
 [those] in power
 having gone down too
-let them accuse
-him
 if
 anything
-wrong
 there is
 in
 the
 man
-then
+wrong
+let them accuse
+him
 Having spent
+then
 with
 them
 days
@@ -80711,8 +80711,8 @@ he commanded
 -
 Paul
 to be brought
-then
 Having arrived
+then
 he
 stood around
 him
@@ -80727,9 +80727,9 @@ weighty
 charges
 bringing
 which
-to prove
 not
 they were able
+to prove
 -
 Paul
 made his defense
@@ -80749,9 +80749,9 @@ against
 Caesar
 [in] anything
 have I sinned
-however
 -
 Festus
+however
 wishing
 on the
 Jews
@@ -80771,20 +80771,20 @@ these things
 to be judged
 before
 me
-then
 Said
+then
 -
 Paul
+Standing
 before
 the
 judgment seat
 of Caesar
-Standing
 I am
 where
 me
-to be judged
 it behooves
+to be judged
 To [the] Jews
 nothing
 I have done wrong
@@ -80793,21 +80793,21 @@ also
 you
 very well
 know
-therefore
-indeed
 If
+indeed
+therefore
 I do wrong
 and
 worthy
 of death
-anything
 have done
+anything
 not
 I do refuse
 -
 to die
-however
 If
+however
 nothing
 there is
 of which
@@ -80815,8 +80815,8 @@ they
 [can] accuse
 me
 no one
-can
 me
+can
 to them
 give up
 To Caesar
@@ -80834,10 +80834,10 @@ You have appealed
 to
 Caesar
 you will go
-now
 Days
-some
+now
 having passed
+some
 Agrippa
 the
 king
@@ -80849,8 +80849,8 @@ Caesarea
 greeting
 -
 Festus
-now
 As
+now
 many
 days
 they stayed
@@ -80910,15 +80910,15 @@ face
 may have [it]
 the
 accusers
-and
 [the] opportunity
+and
 of defense
 he may have
 concerning
 the
 accusation
-therefore
 Having come together
+therefore
 here
 delay
 no
@@ -80938,15 +80938,15 @@ whom
 having stood up
 the
 accusers
-were bringing
 no
 charge
+were bringing
 of which
 I
 was expecting
 crimes
-however
 Questions
+however
 certain
 concerning
 the
@@ -80961,13 +80961,13 @@ a certain
 Jesus
 having been dead
 whom
-to be alive
 was affirming
 -
 Paul
+to be alive
+Being perplexed
 now
 I
-Being perplexed
 -
 concerning
 this
@@ -80982,8 +80982,8 @@ and there
 to be judged
 concerning
 these things
-But
 -
+But
 of Paul
 having appealed for
 to be kept
@@ -81002,8 +81002,8 @@ I might send
 him
 to
 Caesar
-then
 Agrippa
+then
 [said] to
 -
 Festus
@@ -81013,12 +81013,12 @@ myself
 the
 man
 to hear
-he says
 Tomorrow
+he says
 you will hear
 him
-therefore
 On the
+therefore
 next day
 having come
 -
@@ -81085,16 +81085,16 @@ he ought
 of him
 to live
 no longer
-however
 I
+however
 having understood
 nothing
 worthy
-of death
 him
+of death
 to have done
-and
 himself
+and
 of this one
 having appealed to
 the
@@ -81128,8 +81128,8 @@ having taken place
 I might have
 something
 to write
-for
 Absurd
+for
 to me
 it seems
 [in] sending
@@ -81141,8 +81141,8 @@ against
 him
 charges
 to specify
-then
 Agrippa
+then
 to
 -
 Paul
@@ -81159,32 +81159,32 @@ having stretched out
 the
 hand
 began his defense
-King
-Agrippa
 Concerning
 all
 of which
 I am accused
 by
 [the] Jews
+King
+Agrippa
 I esteem
 myself
 fortunate
 before
 you
+being about
 today
 to defend myself
-being about
 Especially
+acquainted
 being
 you
-acquainted
 with all
 the
 of
 [the] Jews
-and
 customs
+and
 also
 controversies
 therefore
@@ -81192,9 +81192,9 @@ I implore [you]
 patiently
 to hear
 me
+The
 indeed
 then
-The
 manner of life
 of me
 from
@@ -81207,8 +81207,8 @@ among
 the
 nation
 of me
-also
 in
+also
 Jerusalem
 know
 all
@@ -81238,16 +81238,15 @@ to
 the
 fathers
 of us
+promise
 having been made
 by
 -
 God
-promise
 I stand
 being judged
 to
 which
-to attain
 the
 twelve tribes
 of us
@@ -81258,6 +81257,7 @@ and
 day
 serving
 hope
+to attain
 concerning
 which
 hope
@@ -81275,18 +81275,18 @@ if
 God
 [the] dead
 raises
+I
 indeed
 therefore
-I
 thought
 in myself
-I ought
 to
 the
 name
 of Jesus
 -
 of Nazareth
+I ought
 many things
 contrary
 to do
@@ -81296,8 +81296,8 @@ I did
 in
 Jerusalem
 and
-also
 many
+also
 of the
 saints
 I
@@ -81310,8 +81310,8 @@ the
 chief priests
 authority
 having received
-then
 being put to death
+then
 they
 I cast against [them]
 a vote
@@ -81325,8 +81325,8 @@ punishing
 them
 I was compelling [them]
 to blaspheme
-then
 Exceedingly
+then
 being furious
 against them
 I kept persecuting [them]
@@ -81355,6 +81355,7 @@ on
 the
 road
 I saw
+O king
 from heaven
 above
 the
@@ -81362,18 +81363,17 @@ brightness
 of the
 sun
 having shone around
-a light
 me
+a light
 and
 those
 with
 me
 journeying
-O king
-and
 All
-of us
+and
 having fallen down
+of us
 to
 the
 ground
@@ -81395,14 +81395,14 @@ for you
 against
 [the] goads
 to kick
-then
 I
+then
 said
 Who
 are You
 Lord
-And
 -
+And
 the Lord
 said
 I
@@ -81419,9 +81419,9 @@ on
 the
 feet
 of you
-for
 for this
 purpose
+for
 I have appeared
 to you
 to appoint
@@ -81429,12 +81429,12 @@ you
 a servant
 and
 a witness
-both
 of that which
+both
 you have seen
 of Me
-then
 of the things in which
+then
 I will appear
 to you
 delivering
@@ -81492,15 +81492,15 @@ to the
 heavenly
 vision
 but
-both
 to those
 in
 Damascus
 first
+both
 and
 Jerusalem
-and
 all
+and
 the
 region
 -
@@ -81522,17 +81522,17 @@ works
 doing
 On account of
 these things
-the Jews
 me
+the Jews
 having seized
 in
 the
 temple
 they were attempting
 to kill
+Help
 therefore
 having obtained
-Help
 -
 from
 -
@@ -81543,22 +81543,22 @@ day
 this
 I have stood
 bearing witness
-both
 to small
+both
 and
 to great
 nothing
-saying
 other
+saying
 than what
-was about
-to happen
 both
 the
 prophets
+said
+was about
+to happen
 and
 Moses
-said
 that
 would suffer
 the
@@ -81568,17 +81568,17 @@ first
 through
 resurrection
 from [the] dead
-He is about
 light
+He is about
 to preach
-both
 to
+both
 our people
 and
 to the
 Gentiles
-now
 These things
+now
 of him
 saying in his defense
 -
@@ -81591,27 +81591,27 @@ You are insane
 Paul
 The
 great
-learning
 of you
+learning
 to
 insanity
 turns [you]
-But
 -
+But
 Paul
+Not
+I am insane
 says
 most excellent
 Festus
-Not
-I am insane
 but
 of truth
 and
 sobriety
 words
 I utter
-for
 Understands
+for
 concerning
 these things
 the
@@ -81621,30 +81621,30 @@ whom
 also
 using boldness
 I speak
-for
 Are hidden from
+for
 him
 of these things
 not
 I am persuaded
 none
-for
 not
+for
 is
-done
 in
 a corner
+done
 of these things
+Believe you
 King
 Agrippa
-Believe you
 the
 prophets
 I know
 that
 you believe
-Then
 -
+Then
 Agrippa
 [said] to
 -
@@ -81655,11 +81655,11 @@ me
 do you persuade
 a Christian
 to become
+-
 And
--
 Paul [said]
--
 I would wish
+-
 -
 to God
 both
@@ -81695,8 +81695,8 @@ king
 and
 the
 governor
-and
 -
+and
 Bernice
 and
 those
@@ -81718,8 +81718,8 @@ is doing
 the
 man
 this
-then
 Agrippa
+then
 to
 Festus
 was saying
@@ -81732,8 +81732,8 @@ if
 not
 he had appealed
 to Caesar
-now
 When
+now
 was determined
 -
 sailing
@@ -81742,8 +81742,8 @@ to
 -
 Italy
 they delivered
-both
 -
+both
 Paul
 and
 certain
@@ -81754,8 +81754,8 @@ named
 Julius
 of the cohort
 of Augustus
-then
 Having boarded
+then
 a ship
 of Adramyttium
 being about
@@ -81773,16 +81773,16 @@ us
 Aristarchus
 a Macedonian
 of Thessalonica
-then
 The
+then
 next [day]
 we landed
 at
 Sidon
+Considerately
 then
 -
 Julius
-Considerately
 -
 Paul
 having treated
@@ -81804,8 +81804,8 @@ the
 winds
 being
 contrary
-And
 -
+And
 then
 -
 along
@@ -81819,10 +81819,10 @@ to
 Myra
 -
 of Lycia
-the
-centurion
 And there
 having found
+the
+centurion
 a ship
 of Alexandria
 sailing
@@ -81833,9 +81833,9 @@ he placed
 us
 into
 it
-now
 For
 many
+now
 days
 sailing slowly
 and
@@ -81854,8 +81854,8 @@ we sailed under
 Crete
 off
 Salmone
-and
 With difficulty
+and
 coasting along
 it
 we came
@@ -81867,11 +81867,11 @@ Fair
 Havens
 to which
 near
+was
 [the] city
 of Lasea
-was
-now
 Much
+now
 time
 having passed
 and
@@ -81912,12 +81912,12 @@ also
 the
 lives
 of us
-to be
 is about
+to be
 the
 voyage
-But
 -
+But
 the centurion
 by the
 pilot
@@ -81931,8 +81931,8 @@ by the things
 by
 Paul
 spoken
-now
 Unsuitable
+now
 the
 harbor
 being
@@ -81950,6 +81950,7 @@ they might be able
 having arrived
 at
 Phoenix
+to winter [there]
 a harbor
 -
 of Crete
@@ -81959,9 +81960,8 @@ toward
 and
 toward
 [the] northwest
-to winter [there]
-now
 Having blown gently
+now
 a south wind
 having thought
 the
@@ -81972,10 +81972,10 @@ very near
 they began coasting along
 -
 Crete
-however
 After
 not
 long
+however
 there came
 down
 from it
@@ -81984,8 +81984,8 @@ tempestuous
 -
 called
 the Northeaster
-then
 Having been caught
+then
 the
 ship
 and
@@ -81996,10 +81996,10 @@ to the
 wind
 having given way
 we were driven along
-then
-having run under
 An Island
+then
 certain
+having run under
 called
 Cauda
 we were able
@@ -82015,8 +82015,8 @@ they began using
 undergirding
 the
 ship
-then
 Fearing
+then
 lest
 into
 the
@@ -82027,8 +82027,8 @@ the
 gear
 thus
 they were driven along
-now
 Violently
+now
 being storm-tossed
 of us
 on the
@@ -82044,8 +82044,8 @@ tackle
 of the
 ship
 they cast away
-now
 Neither
+now
 sun
 nor
 stars
@@ -82053,8 +82053,8 @@ appearing
 for
 many
 days
-and
 tempest
+and
 no
 small
 lying on [us]
@@ -82065,8 +82065,8 @@ all
 -
 being saved
 of us
-also
 Much
+also
 time without food
 there being
 at that time
@@ -82077,10 +82077,10 @@ in
 midst
 of them
 he said
+It behooved [you]
+indeed
 O
 men
-indeed
-It behooved [you]
 having been obedient
 to me
 not
@@ -82088,8 +82088,8 @@ to have set sail
 from
 -
 Crete
-then
 to have incurred
+then
 the
 disaster
 this
@@ -82102,8 +82102,8 @@ now
 I exhort
 you
 to keep up your courage
-for
 loss
+for
 of life
 none
 there will be
@@ -82112,8 +82112,8 @@ you
 only
 of the
 ship
-for
 Stood by
+for
 me
 this
 -
@@ -82132,8 +82132,8 @@ fear
 Paul
 Caesar
 you
-to stand before
 it behooves
+to stand before
 And
 behold
 has granted
@@ -82148,8 +82148,8 @@ you
 Therefore
 take courage
 men
-for
 I believe
+for
 -
 God
 that
@@ -82160,15 +82160,15 @@ the
 way
 it has been said
 to me
-however
-it behooves
 Upon
 an island
+however
 certain
+it behooves
 us
 to fall
-then
 When
+then
 the fourteenth
 night
 had come
@@ -82186,15 +82186,15 @@ the
 sailors
 to be drawing near
 some
-land
 to them
+land
 And
 having taken soundings
 they found
 fathoms
 twenty
-then
 A little
+then
 having gone farther
 and
 again
@@ -82202,8 +82202,8 @@ having taken soundings
 they found
 fathoms
 fifteen
-then
 Fearing
+then
 lest
 somewhere
 on
@@ -82218,8 +82218,8 @@ four
 they were praying for
 day
 to come
-then
 Of the
+then
 sailors
 seeking
 to flee
@@ -82238,8 +82238,8 @@ as
 from
 [the] bow
 anchors
-to cast out
 being about
+to cast out
 said
 -
 Paul
@@ -82271,8 +82271,8 @@ and
 allowed
 her
 to fall away
-then
 Until
+then
 that
 day
 was about
@@ -82285,8 +82285,8 @@ to partake
 of food
 saying
 The fourteenth
-[is] day
 today
+[is] day
 watching
 without eating
 you continue
@@ -82297,23 +82297,23 @@ I exhort
 you
 to take
 food
-indeed
 this
+indeed
 for
 -
 of you
 preservation
 is
-for
 not one
+for
 of you
 a hair
 of
 the
 head
 will perish
-now
 Having said
+now
 these things
 and
 having taken
@@ -82327,16 +82327,16 @@ and
 having broken [it]
 he began
 to eat
-then
 Encouraged
+then
 having been
 all
 also
 themselves
 took
 food
-then
 We were
+then
 the
 altogether
 souls
@@ -82346,8 +82346,8 @@ ship
 two hundred
 seventy
 six
-then
 Having been filled
+then
 with food
 they began to lighten
 the
@@ -82358,28 +82358,28 @@ wheat
 into
 the
 sea
-now
 When
+now
 day
 it was
 the
 land
 not
 they did recognize
-however
-they noticed
 a bay
+however
 certain
+they noticed
 having
 a shore
 on
 which
-to drive
-the
-ship
 they determined
 if
 they should be able
+to drive
+the
+ship
 And
 the
 anchors
@@ -82404,8 +82404,8 @@ they began making
 for
 the
 shore
-however
 Having fallen
+however
 into
 a place
 between two seas
@@ -82413,21 +82413,21 @@ they ran aground
 the
 vessel
 and
-indeed
 the
+indeed
 bow
 having stuck fast
 it remained
 immovable
-and
 -
+and
 the stern
 was being broken up
 by
 the
 violence
-now
 Of the
+now
 soldiers
 [the] plan
 was
@@ -82439,8 +82439,8 @@ lest
 anyone
 having swum away
 should escape
-But
 -
+But
 the centurion
 desiring
 to save
@@ -82450,8 +82450,8 @@ hindered
 them
 of
 [the] purpose
-then
 he commanded
+then
 those
 being able
 to swim
@@ -82464,12 +82464,12 @@ to go out
 and
 the
 rest
-indeed
 some
+indeed
 on
 boards
-then
 some
+then
 on
 things
 -
@@ -82493,17 +82493,17 @@ Malta
 the
 island
 is called
-And
 -
+And
 the natives
 were showing
-the
 not [just]
+the
 ordinary
 kindness
 to us
-for
 Having kindled
+for
 a fire
 they received
 all
@@ -82517,8 +82517,8 @@ and
 because
 of the
 cold
-now
 Having gathered
+now
 -
 Paul
 of sticks
@@ -82538,8 +82538,8 @@ fastened
 on the
 hand
 of him
-then
 When
+then
 saw
 the
 natives
@@ -82564,14 +82564,14 @@ having been saved
 from
 the
 sea
-to live
 -
 Justice
+to live
 not
 has permitted
+The [one]
 indeed
 then
-The [one]
 having shaken off
 the
 creature
@@ -82581,8 +82581,8 @@ fire
 he suffered
 no
 injury
-But
 -
+But
 they were expecting
 him
 to be about
@@ -82591,9 +82591,9 @@ or
 to fall down
 suddenly
 dead
-however
 A while
 great
+however
 of them
 waiting
 and
@@ -82608,8 +82608,8 @@ they began declaring
 him
 to be
 a god
-now
 In
+now
 the [parts]
 around
 the
@@ -82630,8 +82630,8 @@ days
 three
 hospitably
 entertained [us]
-then
 It came to pass
+then
 the
 father
 -
@@ -82643,19 +82643,19 @@ oppressed with
 was lying
 toward
 whom
+-
+Paul
 having entered
 and
 having prayed
--
-Paul
 having laid
 the
 hands
 on him
 healed
 him
-then
 Of this
+then
 having taken place
 also
 the
@@ -82682,8 +82682,8 @@ the things
 for
 the
 needs
-then
 After
+then
 three
 months
 we sailed
@@ -82759,8 +82759,8 @@ to
 God
 took
 courage
-now
 When
+now
 we came
 to
 Rome
@@ -82775,8 +82775,8 @@ the
 guarding
 him
 soldier
-then
 It came to pass
+then
 after
 days
 three
@@ -82787,15 +82787,15 @@ being
 of the
 Jews
 leaders
-then
 Having come together
+then
 of them
 he was saying
 to
 them
+I
 men
 brothers
-I
 nothing
 against
 having done
@@ -82828,8 +82828,8 @@ of death
 existing
 in
 me
-however
 Objecting
+however
 of the
 Jews
 I was compelled
@@ -82840,12 +82840,12 @@ as
 the
 nation
 of me
+having
 anything
 to lay against
-having
-therefore
 For
 this
+therefore
 -
 cause
 I have called
@@ -82853,8 +82853,8 @@ you
 to see
 and
 to speak to [you]
-for
 because of
+for
 the
 hope
 -
@@ -82863,13 +82863,13 @@ the
 chain
 this
 I have around [me]
-And
 -
+And
 to
 him
 they said
-neither
 We
+neither
 letters
 concerning
 you
@@ -82889,16 +82889,16 @@ anything
 concerning
 you
 evil
-however
 We deem it worthy
+however
 from
 you
 to hear
 what
 you think
-for
-truly
 concerning
+truly
+for
 the
 sect
 this
@@ -82908,8 +82908,8 @@ it is
 that
 everywhere
 it is spoken against
-then
 Having appointed
+then
 him
 a day
 came
@@ -82926,8 +82926,8 @@ to the
 kingdom
 -
 of God
-then
 persuading
+then
 them
 concerning
 -
@@ -82945,16 +82945,16 @@ morning
 to
 evening
 And
-indeed
 some
+indeed
 were persuaded of
 the things
 he is speaking
-however
 some
+however
 refused to believe
-then
 Discordant
+then
 being
 with
 one another
@@ -83000,8 +83000,8 @@ and
 no
 not
 perceive
-for
 Has grown dull
+for
 the
 heart
 of the
@@ -83035,8 +83035,8 @@ should turn
 and
 I will heal
 them
-therefore
 Known
+therefore
 be it
 to you
 that
@@ -83051,8 +83051,8 @@ of God
 they
 then
 will listen
-then
 He stayed
+then
 two years
 whole
 in
@@ -83163,8 +83163,8 @@ beloved
 of God
 called
 saints
-to you
 Grace
+to you
 and
 peace
 from
@@ -83175,8 +83175,8 @@ and
 [the] Lord
 Jesus
 Christ
-indeed
 First
+indeed
 I thank
 the
 God
@@ -83196,8 +83196,8 @@ in
 all
 the
 world
-for
 Witness
+for
 my
 is
 -
@@ -83238,22 +83238,22 @@ of God
 to come
 to
 you
-for
 I long
+for
 to see
 you
 that
-I may impart
 some
+I may impart
 gift
-spiritual
 to you
+spiritual
 to
 the
 strengthening
 of you
-now
 that
+now
 is
 to be encouraged together
 among
@@ -83263,16 +83263,16 @@ the
 among
 one another
 faith
-both
 of you
+both
 and
 of me
-now
-brothers
 Not
 I do want
+now
 you
 to be ignorant
+brothers
 that
 many times
 I purposed
@@ -83297,12 +83297,12 @@ among
 the
 other
 Gentiles
-both
 To Greeks
+both
 and
 to barbarians
-both
 to [the] wise
+both
 and
 [the] foolish
 a debtor
@@ -83318,13 +83318,13 @@ who [are]
 in
 Rome
 to preach the gospel
-for
 Not
+for
 I am ashamed of
 the
 gospel
-for
 [the] power
+for
 of God
 it is
 unto
@@ -83332,13 +83332,13 @@ salvation
 to everyone
 -
 believing
-both
 to Jewish
+both
 first
 and
 to Greek
-for
 [The] righteousness
+for
 of God
 in
 it
@@ -83349,14 +83349,14 @@ to
 faith
 as
 it has been written
-And
 -
+And
 the righteous
 by
 faith
 will live
-for
 Is revealed
+for
 [the] wrath
 of God
 from
@@ -83382,22 +83382,15 @@ manifest
 is
 among
 them
-for
 -
 God
+for
 to them
 has revealed [it]
-for
 The
+for
 invisible qualities
 of Him
-the
-both
-eternal
-of Him
-power
-and
-divinity
 from
 [the] creation
 of [the] world
@@ -83405,6 +83398,13 @@ by the
 things made
 being understood
 are clearly seen
+the
+both
+eternal
+of Him
+power
+and
+divinity
 for
 -
 to be
@@ -83508,9 +83508,9 @@ God
 to
 passions
 of dishonor
-for
-Even
 -
+Even
+for
 females
 of them
 changed
@@ -83521,8 +83521,8 @@ into
 that
 contrary to
 nature
-then
 Likewise
+then
 also
 the
 males
@@ -83633,22 +83633,22 @@ man
 each one
 who
 is judging
-for
 In
 that which
+for
 you judge
 the
 other
 yourself
 you are condemning
-for
 -
+for
 the same things
 you do
 the [one]
 judging
-however
 We know
+however
 that
 the
 judgment
@@ -83662,8 +83662,8 @@ those
 -
 such things
 practicing
-now
 Suppose you
+now
 this
 O
 man
@@ -83706,8 +83706,8 @@ to
 repentance
 you
 leads
-however
 Because of
+however
 the
 hardness
 of you
@@ -83732,8 +83732,8 @@ according to
 the
 works
 of him
-indeed
 to those who
+indeed
 with
 endurance
 in work
@@ -83746,16 +83746,16 @@ immortality
 are seeking
 life
 eternal
-however
 to those
+however
 of
 self-interest
 and
 disobeying
 the
 truth
-however
 being persuaded about
+however
 -
 unrighteousness
 wrath
@@ -83772,13 +83772,13 @@ of man
 working
 -
 evil
-both
 of Jewish
+both
 first
 and also
 of Greek
-however
 glory
+however
 and
 honor
 and
@@ -83788,20 +83788,20 @@ to everyone
 doing
 -
 good
-both
 to Jewish
+both
 first
 and
 to Greek
-for
 Not
+for
 there is
 partiality
 with
 -
 God
-for
 As many as
+for
 without [the] Law
 have sinned
 without [the] Law
@@ -83815,8 +83815,8 @@ have sinned
 by
 [the] Law
 will be judged
-for
 not
+for
 the
 hearers
 of [the] law [are]
@@ -83829,8 +83829,8 @@ the
 doers
 of [the] law
 will be justified
-for
 When
+for
 Gentiles
 -
 not
@@ -83872,9 +83872,9 @@ accusing
 or
 also
 defending [them]
-day
 on
 [that]
+day
 will judge
 -
 God
@@ -83889,8 +83889,8 @@ of me
 by
 Christ
 Jesus
-however
 If
+however
 you
 a Jew
 are called
@@ -83913,11 +83913,11 @@ being instructed
 out of
 the
 law
-then
 are persuaded [that]
+then
 you yourself
-are
 a guide
+are
 of [the] blind
 a light
 to those
@@ -83938,8 +83938,8 @@ truth
 in
 the
 law
-then
 [you]
+then
 teaching
 another
 yourself
@@ -83972,8 +83972,8 @@ law
 -
 God
 dishonor you
-For
 -
+For
 [The] name
 -
 of God
@@ -83985,15 +83985,15 @@ the
 Gentiles
 as
 it has been written
--
-indeed
 Circumcision
+indeed
+-
 profits
 if
 [the] law
 you do
-however
 if
+however
 a transgressor
 of law
 you are
@@ -84002,8 +84002,8 @@ circumcision
 of you
 uncircumcision
 has become
-therefore
 If
+therefore
 the
 uncircumcision
 the
@@ -84035,8 +84035,8 @@ and
 circumcision
 [are] a transgressor
 of law
-for
 Not
+for
 the [one]
 on
 the
@@ -84074,8 +84074,8 @@ but
 of
 -
 God
-then [is]
 What
+then [is]
 the
 superiority
 of the
@@ -84090,17 +84090,17 @@ Much
 in
 every
 way
-for
-indeed
 Chiefly
+indeed
+for
 that
 they were entrusted with
 the
 oracles
 -
 of God
-for
 What
+for
 if
 disbelieved
 some
@@ -84115,13 +84115,13 @@ of God
 will nullify
 Never
 may it be
-however
 Let be
+however
 -
 God
 true
-now
 every
+now
 man
 a liar
 as
@@ -84139,8 +84139,8 @@ in
 -
 being judged
 Your
-however
 If
+however
 the
 unrighteousness
 of us
@@ -84169,8 +84169,8 @@ will judge
 God
 the
 world
-however
 If
+however
 the
 truth
 -
@@ -84213,15 +84213,15 @@ Their
 condemnation
 just
 is
-then
 What
+then
 Are we better
 Not
 at all
-for
 We have already charged
-both
+for
 Jews
+both
 and
 Greeks
 all
@@ -84307,8 +84307,8 @@ before
 the
 eyes
 of them
-now
 We know
+now
 that
 whatever
 the
@@ -84341,13 +84341,13 @@ any
 flesh
 before
 Him
-for
 through
+for
 [the] Law
 [is] knowledge
 of sin
-however
 Now
+however
 apart from
 law
 [the] righteousness
@@ -84360,8 +84360,8 @@ Law
 and
 the
 Prophets
-now
 [the] righteousness
+now
 of God
 through
 faith
@@ -84371,12 +84371,12 @@ toward
 all
 those
 believing
-for
 Not
+for
 there is
 distinction
-for
 All
+for
 have sinned
 and
 fall short
@@ -84444,8 +84444,8 @@ the [one]
 of
 faith
 of Jesus
-then [is]
 Where
+then [is]
 the
 boasting
 It has been excluded
@@ -84459,8 +84459,8 @@ but
 through
 [the] principle
 of faith
-therefore
 We reckon
+therefore
 to be justified
 by faith
 a man
@@ -84492,8 +84492,8 @@ and
 through
 the [same]
 faith
-then
 Law
+then
 do we nullify
 through
 -
@@ -84503,9 +84503,9 @@ may it be
 Instead
 law
 we uphold
+What
 then
 shall we say
-What
 discovered
 Abraham
 the
@@ -84513,8 +84513,8 @@ father
 of us
 according to
 [the] flesh
-for
 If
+for
 Abraham
 by
 works
@@ -84525,13 +84525,13 @@ but
 not
 toward
 God
-for
 What
+for
 the
 Scripture
 says
-then
 Believed
+then
 Abraham
 -
 God
@@ -84540,24 +84540,24 @@ it was reckoned
 to him
 for
 righteousness
-now
 To the [one]
+now
 working
 the
 reward
-is reckoned
 not
+is reckoned
 according to
 grace
 but
 according to
 debt
-however
 To the [one]
+however
 not
 working
-however
 believing
+however
 on
 the [One]
 justifying
@@ -84586,14 +84586,14 @@ apart from
 works
 Blessed
 [are they] of whom
+are forgiven
 the
 lawless deeds
-are forgiven
 and
 of whom
+are covered
 the
 sins
-are covered
 blessed
 [the] man
 against whom
@@ -84602,9 +84602,9 @@ not
 will reckon
 [the] Lord
 sin
-then
 [Is] the
 blessing
+then
 this
 on
 the
@@ -84614,8 +84614,8 @@ also
 on
 the
 uncircumcision
-for
 We are saying
+for
 was credited
 -
 to Abraham
@@ -84623,12 +84623,12 @@ the
 faith
 as
 righteousness
-then
 How
+then
 was it credited
-being
 In
 circumcision
+being
 or
 in
 uncircumcision
@@ -84639,8 +84639,8 @@ but
 in
 uncircumcision
 And
-he received
 [the] sign
+he received
 of circumcision
 a seal
 of the
@@ -84689,29 +84689,29 @@ of the
 father
 of us
 Abraham
-for
 Not
+for
 through
 [the] Law
 the
 promise [was]
-that
-heir
-[of the] world
-he
-should be
 -
 to Abraham
 or
 the
 descendants
 of him
+that
+heir
+he
+should be
+[of the] world
 but
 through
 [the] righteousness
 of faith
-for
 If
+for
 those
 of
 [the] Law [are]
@@ -84723,13 +84723,13 @@ and
 made of no effect
 the
 promise
-For
 -
+For
 law
 wrath
 brings
-now
 where
+now
 no
 there is
 law
@@ -84768,6 +84768,14 @@ is
 [the] father
 of all
 of us
+as
+it has been written
+-
+A father
+of many
+nations
+I have made
+you
 before
 whom
 he believed
@@ -84783,14 +84791,6 @@ not
 [into] being
 even
 existing
-as
-it has been written
--
-A father
-of many
-nations
-I have made
-you
 who
 against
 hope
@@ -84831,8 +84831,8 @@ lifelessness
 of the
 womb
 of Sarah
-however
 At
+however
 the
 promise
 -
@@ -84852,10 +84852,10 @@ to God
 and
 having been fully assured
 that
-He is
-able
 what
 He had promised
+able
+He is
 also
 to do
 Therefore
@@ -84864,9 +84864,9 @@ it was credited
 to him
 unto
 righteousness
-now
 Not
 it was written
+now
 on account of
 him
 alone
@@ -84878,19 +84878,19 @@ also
 on account of
 us
 to whom
-to be credited
 it is about
+to be credited
 to those
 believing
 on
 the [One]
 having raised
-out from
-[the] dead
 Jesus
 the
 Lord
 of us
+out from
+[the] dead
 who
 was delivered over
 for
@@ -84903,8 +84903,8 @@ for
 the
 justification
 of us
-therefore
 Having been justified
+therefore
 by
 faith
 peace
@@ -84941,9 +84941,9 @@ of the
 glory
 -
 of God
-now
 Not
 only [so]
+now
 but
 also
 we glory
@@ -84956,16 +84956,16 @@ that
 tribulation
 perseverance
 produces
-And
 -
+And
 perseverance
 character
-and
 -
+and
 character
 hope
-And
 -
+And
 hope
 not
 does make [us] ashamed
@@ -84985,8 +84985,8 @@ Holy
 the [One]
 having been given
 to us
-indeed
 Yet
+indeed
 Christ
 being
 of us
@@ -84997,14 +84997,14 @@ according to
 for
 [the] ungodly
 died
-indeed
 Rarely
+indeed
 for
 a righteous [man]
 anyone
 will die
-though
 on behalf of
+though
 the
 good [man]
 perhaps
@@ -85012,8 +85012,8 @@ someone
 even
 would dare
 to die
-however
 Demonstrates
+however
 the
 of Himself
 love
@@ -85030,8 +85030,8 @@ Christ
 for
 us
 died
-therefore
 Much
+therefore
 more
 having been justified
 now
@@ -85045,8 +85045,8 @@ Him
 from
 the
 wrath
-for
 If
+for
 enemies
 being
 we were reconciled
@@ -85066,9 +85066,9 @@ in
 the
 life
 of Him
-now
 Not
 only [so]
+now
 but
 also
 we are rejoicing
@@ -85117,15 +85117,15 @@ for
 that
 all
 sinned
-for
 Until
+for
 [the] law
 sin
 was
 in [the]
 world
-however
 sin
+however
 not
 is imputed
 not
@@ -85164,8 +85164,8 @@ so
 also
 the
 gift
-for
 If
+for
 by the
 of the
 one
@@ -85202,24 +85202,24 @@ one
 having sinned
 the
 gift
-for
-truly
 The
+truly
+for
 judgment [was]
 of
 one
 [was] unto
 condemnation
-but
 -
+but
 the gift
 [is] out of
 many
 trespasses
 unto
 justification
-for
 If
+for
 by the
 of the
 one
@@ -85273,8 +85273,8 @@ men
 [it is] unto
 justification
 of life
-for
 For as
+for
 through
 the
 disobedience
@@ -85296,15 +85296,15 @@ righteous
 will be made
 the
 many
-now
 [The] law
+now
 entered
 so that
 might abound
 the
 trespass
-however
 where
+however
 abounded
 -
 sin
@@ -85335,8 +85335,8 @@ Christ
 the
 Lord
 of us
-then
 What
+then
 will we say
 Shall we continue
 -
@@ -85369,8 +85369,8 @@ the
 death
 of Him
 have been baptized
-therefore
 We were buried
+therefore
 with Him
 through
 -
@@ -85396,8 +85396,8 @@ in
 newness
 of life
 should walk
-for
 If
+for
 united
 we have become
 in the
@@ -85430,15 +85430,15 @@ are enslaved
 we
 -
 to sin
-for
 The [one]
+for
 having died
 has been freed
 from
 -
 sin
-now
 If
+now
 we died
 with
 Christ
@@ -85459,15 +85459,15 @@ Death
 Him
 no longer
 rules over
-for
 That which
+for
 He died
 -
 to sin
 He died
 once for all
-however
 that which
+however
 He lives
 He lives
 -
@@ -85478,19 +85478,19 @@ you
 consider
 yourselves
 to be
-indeed
 dead
+indeed
 -
 to sin
-however
 living
+however
 -
 to God
 in
 Christ
 Jesus
-therefore
 Not
+therefore
 let reign
 -
 sin
@@ -85531,21 +85531,21 @@ of you
 of righteousness
 -
 to God
-for
 Sin
+for
 you
 not
 will rule over
-for
 not
+for
 you are
 under
 law
 but
 under
 grace
-then
 What
+then
 Shall we sin
 because
 not
@@ -85578,8 +85578,8 @@ or
 of obedience
 to
 righteousness
-however
 Thanks [be]
+however
 -
 to God
 that
@@ -85587,8 +85587,8 @@ you used to be
 slaves
 -
 of sin
-now
 you have become obedient
+now
 from [the]
 heart
 to
@@ -85596,8 +85596,8 @@ which
 you were handed over
 to the form
 of teaching
-now
 Having been set free
+now
 from
 -
 sin
@@ -85612,8 +85612,8 @@ weakness
 of the
 flesh
 of you
-for
 For as
+for
 you yielded
 the
 members
@@ -85638,18 +85638,18 @@ in bondage
 to righteousness
 unto
 sanctification
-for
 When
+for
 slaves
+you were
 -
 of sin
-you were
 free
 you were
 -
 from righteousness
-therefore
 What
+therefore
 fruit
 had you
 then
@@ -85657,19 +85657,19 @@ in the [things]
 of which
 now
 you are ashamed
-for
 The
+for
 end
 of those things
 [is] death
-however
 Now
+however
 having been set free
 from
 -
 sin
-now
 having become slaves
+now
 -
 to God
 you have
@@ -85678,19 +85678,19 @@ fruit
 of you
 unto
 sanctification
-now
 -
+now
 the end
 [is] life
 eternal
-for
 The
+for
 wages
 -
 of sin
 [is] death
-but
 -
+but
 the gift
 -
 of God
@@ -85703,10 +85703,10 @@ the
 Lord
 of us
 Or
-brothers
 are you ignorant
-for
+brothers
 to those knowing
+for
 law
 I speak
 that
@@ -85719,8 +85719,8 @@ for
 as long as
 [the] time
 he is alive
-for
 The
+for
 married
 woman
 to the
@@ -85728,8 +85728,8 @@ living
 husband
 is bound
 by law
-however
 if
+however
 should die
 the
 husband
@@ -85750,8 +85750,8 @@ if
 she is
 to man
 another
-however
 if
+however
 should die
 the
 husband
@@ -85794,8 +85794,8 @@ so that
 we should bear fruit
 -
 to God
-for
 While
+for
 we were
 in
 the
@@ -85818,8 +85818,8 @@ the
 bringing forth of fruit
 -
 to death
-however
 Now
+however
 we have been released
 from
 the
@@ -85838,8 +85838,8 @@ and
 not
 in oldness
 of [the] letter
-then
 What
+then
 shall we say
 [Is] the
 law
@@ -85855,9 +85855,9 @@ if
 not
 by
 law
-for
-then
 -
+then
+for
 covetousness
 not
 I had been conscious of
@@ -85868,8 +85868,8 @@ law
 had said
 Not
 you shall covet
-however
 An occasion
+however
 having taken
 -
 sin
@@ -85881,26 +85881,26 @@ in
 me
 all
 covetousness
-for
 apart from
+for
 [the] Law
 sin
 [is] dead
-however
 I
+however
 was alive
 apart from
 law
 once
-however
 having come
+however
 the
 commandment
 the
 sin
 revived
-then
 I
+then
 died
 And
 proved to be
@@ -85913,8 +85913,8 @@ life
 this
 to
 death
-for
 The
+for
 sin
 an occasion
 having taken
@@ -85928,8 +85928,8 @@ by
 it
 put [me] to death
 So
-indeed
 -
+indeed
 the law [is]
 holy
 and
@@ -85940,8 +85940,8 @@ and
 righteous
 and
 good
-then
 That which
+then
 [is] good
 to me
 has become
@@ -85970,28 +85970,28 @@ sin
 through
 the
 commandment
-for
 We know
+for
 that
 -
 [the] Law
 spiritual
 is
-however
 I
+however
 fleshly
 am
 having been sold
 under
 -
 sin
-for
 What
+for
 I do
 not
 I understand
-for
 not
+for
 what
 I want
 this
@@ -86001,8 +86001,8 @@ what
 I hate
 this
 I do
-now
 If
+now
 that which
 not
 I do want
@@ -86013,8 +86013,8 @@ to the
 law
 that [it is]
 good
-now
 In that case
+now
 no longer
 I
 am doing
@@ -86025,8 +86025,8 @@ dwelling
 in
 me
 sin
-for
 I know
+for
 that
 nothing
 there dwells
@@ -86039,23 +86039,23 @@ the
 flesh
 of me
 good
-for
 -
+for
 to will
 is present with
 me
-but
 -
+but
 to do
 the
 good
 not
-for
 Not
+for
 that
 I desire
-good
 I do
+good
 but
 that
 not
@@ -86063,13 +86063,13 @@ I do want
 evil
 this
 I practice
-now
 If
+now
 what
 not
 I do want
-this
 I
+this
 do
 [it is] no longer
 I
@@ -86081,13 +86081,13 @@ dwelling
 in
 me
 sin
-so
 I find
+so
 the
 principle
-me
 that
 desiring
+me
 to do
 -
 good
@@ -86096,8 +86096,8 @@ me
 -
 evil
 is present with
-for
 I delight
+for
 in the
 law
 -
@@ -86106,8 +86106,8 @@ according to
 the
 inward
 man
-however
 I see
+however
 another
 law
 in
@@ -86135,8 +86135,8 @@ the
 members
 of me
 O wretched
-man
 I am
+man
 Who
 me
 will deliver
@@ -86157,29 +86157,29 @@ Lord
 of us
 Then
 so
-indeed
 myself
 I
 with the
+indeed
 mind
 serve
 law
 God’s
-but [with]
 -
+but [with]
 the flesh
 [the] law
 of sin
-therefore
 [There is] no
-condemnation
+therefore
 now
+condemnation
 to those
 in
 Christ
 Jesus
-For
 -
+For
 the law
 of the
 Spirit
@@ -86198,8 +86198,8 @@ of sin
 and
 -
 of death
-For
 -
+For
 powerless [being]
 the
 law
@@ -86237,15 +86237,15 @@ should be fulfilled
 in
 us
 -
-walking
 not
 according to
 the flesh
+walking
 but
 according to
 [the] Spirit
-for
 Those
+for
 according to
 flesh
 being
@@ -86253,21 +86253,21 @@ the things
 of the
 flesh
 mind
-however
 those
+however
 according to
 Spirit
 the things
 of the
 Spirit
-for
 The
+for
 mind
 of the
 flesh
 [is] death
-but
 the
+but
 mind
 of the
 Spirit
@@ -86282,18 +86282,18 @@ flesh
 [is] hostility
 toward
 God
-for
 to
+for
 [the] law
 -
 of God
 not
 it is subject
-for
 nor even
+for
 can it [be]
-now
 Those
+now
 in
 flesh
 being
@@ -86301,10 +86301,10 @@ God
 to please
 not
 are able
-now
 You
-are
+now
 not
+are
 in
 flesh
 but
@@ -86316,8 +86316,8 @@ of God
 dwells
 in
 you
-however
 if
+however
 anyone
 [the] Spirit
 of Christ
@@ -86327,25 +86327,25 @@ he
 not
 is
 of Him
-however
 If
+however
 Christ
 [is] in
 you
-indeed
 the
+indeed
 body [is]
 dead
 on account of
 sin
-however
 the
+however
 Spirit
 [is] life
 on account of
 righteousness
-now
 If
+now
 the
 Spirit
 of the [One]
@@ -86372,10 +86372,10 @@ of you
 on account of
 -
 dwelling
-in
-you
 His
 Spirit
+in
+you
 So
 then
 brothers
@@ -86388,15 +86388,15 @@ flesh
 according to
 flesh
 to live
-for
 If
+for
 according to
 flesh
 you live
 you are about
 to die
-however
 if
+however
 by [the] Spirit
 the
 deeds
@@ -86404,17 +86404,17 @@ of the
 body
 you put to death
 you will live
-for
 As many as
+for
 by [the] Spirit
 of God
 are led
 these
 sons
-of God
 are
-for
+of God
 Not
+for
 you have received
 a spirit
 of bondage
@@ -86442,24 +86442,24 @@ that
 we are
 children
 of God
-now
 If
+now
 children
 also
 heirs
-indeed
 heirs
+indeed
 of God
-now
 joint-heirs
+now
 of Christ
 if indeed
 we suffer with [Him]
 so that
 also
 we may be glorified together
-for
 I reckon
+for
 that
 not
 comparable
@@ -86471,12 +86471,12 @@ time [are]
 to
 the
 coming
+glory
 to be revealed
 to
 us
-glory
-for
 The
+for
 earnest expectation
 of the
 creation
@@ -86487,8 +86487,8 @@ sons
 -
 of God
 awaits
-for
 To the
+for
 futility
 the
 creation
@@ -86521,8 +86521,8 @@ of the
 children
 -
 of God
-for
 We know
+for
 that
 all
 the
@@ -86533,9 +86533,9 @@ travails together
 until
 -
 now
-now
 Not
 only [so]
+now
 but
 even
 ourselves
@@ -86550,31 +86550,31 @@ ourselves
 in
 ourselves
 groan
-awaiting
 divine adoption as sons
+awaiting
 the
 redemption
 of the
 body
 of us
-for
 In this
+for
 hope
 we were saved
-however
 hope
+however
 being seen
 not
 is
 hope
-for
 what
+for
 sees
 any
 one
 does he hope for
-however
 If
+however
 what
 not
 we see
@@ -86582,8 +86582,8 @@ we hope for
 in
 patience
 we await
-now
 Likewise
+now
 also
 the
 Spirit
@@ -86591,8 +86591,8 @@ joins to help
 the
 weakness
 of us
-for
 the
+for
 things which
 we should pray for
 as
@@ -86606,8 +86606,8 @@ Spirit
 makes intercession
 with groanings
 inexpressible
-now
 The [One]
+now
 searching
 -
 hearts
@@ -86623,8 +86623,8 @@ God
 He intercedes
 for
 [the] saints
-now
 We know
+now
 that
 to those
 loving
@@ -86658,8 +86658,8 @@ firstborn
 among
 many
 brothers
-then
 Those whom
+then
 He predestined
 these
 also
@@ -86670,14 +86670,14 @@ He called
 these
 also
 He justified
-then
 whom
+then
 He justified
 these
 also
 He glorified
-then
 What
+then
 will we say
 to
 these things
@@ -86689,8 +86689,8 @@ us
 who [can be]
 against
 us
-indeed
 He who
+indeed
 the
 own
 Son
@@ -86726,8 +86726,8 @@ condemning
 Jesus
 the [one]
 having died
-now
 rather
+now
 having been raised up
 who
 is
@@ -86783,8 +86783,8 @@ through
 the [One]
 having loved
 us
-for
 I am persuaded
+for
 that
 neither
 death
@@ -86848,12 +86848,12 @@ sorrow
 in the
 heart
 of me
-for
 Could wish
-myself
-I
+for
 a curse
 to be
+myself
+I
 separated from
 -
 Christ
@@ -86908,17 +86908,17 @@ to
 the
 ages
 Amen
-however
 [It is] not
 as
+however
 that
 has failed
 the
 word
 -
 of God
-for
 Not
+for
 all
 who [are]
 of
@@ -86957,8 +86957,8 @@ promise
 are regarded
 as
 offspring
-for
 Of [the] promise
+for
 the
 word
 [is] this
@@ -86972,22 +86972,22 @@ there will be
 -
 to Sarah
 a son
-then
 Not
 only
+then
 but
 also
 Rebecca
-conception
-having
 by
 one
+conception
+having
 Isaac
 the
 father
 of us
-for
 not yet
+for
 having been born
 nor
 having done
@@ -87023,12 +87023,12 @@ it has been written
 -
 Jacob
 I loved
-but
 -
+but
 Esau
 I hated
-then
 What
+then
 shall we say
 Not
 injustice
@@ -87037,18 +87037,18 @@ with
 God [is there]
 Never
 may it be
-for
 To
 Moses
+for
 He says
 I will show mercy to
--
 whom
+-
 I may show mercy
 and
 I will have compassion on
--
 whom
+-
 I may have compassion
 So
 then
@@ -87062,8 +87062,8 @@ but
 -
 showing mercy
 of God
-for
 Says
+for
 the
 Scripture
 to
@@ -87096,18 +87096,18 @@ then
 to whom
 He wants
 He shows mercy
-now
 whom
+now
 He wants
 He hardens
-then
 You will say
 to me
+then
 Why
 still
 does He find fault
-for
 The
+for
 purpose
 of Him
 who
@@ -87115,9 +87115,9 @@ is resisting
 O
 man
 but rather
+you
 who
 are
-you
 -
 answering against
 -
@@ -87135,9 +87135,9 @@ like this
 Or
 not
 has
+authority
 the
 potter
-authority
 over the
 clay
 out of
@@ -87145,20 +87145,20 @@ the
 same
 lump
 to make
-vessel
-indeed
 one
+indeed
 unto
 honor
-however
+vessel
 one
+however
 unto
 dishonor
-now
 What if
+now
+desiring
 -
 God
-desiring
 to show
 the
 wrath
@@ -87238,8 +87238,8 @@ they will be called
 sons
 of God
 [the] living
-also
 Isaiah
+also
 cries out
 concerning
 -
@@ -87259,8 +87259,8 @@ sea
 [only] the
 remnant
 will be saved
-for
 [The] sentence
+for
 concluding
 and
 bringing swiftly
@@ -87280,17 +87280,17 @@ of Hosts
 had left
 us
 descendants
--
 like
 Sodom
+-
 we would have become
 and
--
 like
 Gomorrah
+-
 we would have been made
-then
 What
+then
 will we say
 That
 Gentiles
@@ -87300,13 +87300,13 @@ pursuing
 righteousness
 have attained
 righteousness
-now
 righteousness
+now
 that [is]
 by
 faith
-however
 Israel
+however
 pursuing
 a law
 of righteousness
@@ -87348,8 +87348,8 @@ Him
 never
 will be put to shame
 Brothers
-indeed
 the
+indeed
 desire
 -
 of my
@@ -87364,8 +87364,8 @@ on behalf of
 them
 [is] for
 salvation
-for
 I bear witness
+for
 about them
 that
 zeal
@@ -87375,8 +87375,8 @@ but
 not
 according to
 knowledge
-for
 Being ignorant of
+for
 the
 -
 of God
@@ -87384,16 +87384,16 @@ righteousness
 and
 the
 own
-to establish
 seeking
+to establish
 to the
 righteousness
 -
 of God
 not
 they submitted
-for
 [The] end
+for
 of law
 [is] Christ
 unto
@@ -87401,8 +87401,8 @@ righteousness
 to everyone
 -
 believing
-for
 Moses
+for
 writes
 -
 [of] the
@@ -87416,8 +87416,8 @@ man
 will live
 by
 them
-however
 The
+however
 of
 faith
 righteousness
@@ -87498,18 +87498,18 @@ raised
 out from
 [the] dead
 you will be saved
-for
 In the heart
+for
 is belief
 unto
 righteousness
-now
 in the mouth
+now
 is confession
 unto
 salvation
-for
 Says
+for
 the
 Scripture
 Everyone
@@ -87519,16 +87519,16 @@ on
 Him
 not
 will be put to shame
-for
 Not
+for
 there is
 difference
-between
 Jew
+between
 and
 Greek
-for
 -
+for
 the same
 Lord
 of all
@@ -87538,35 +87538,35 @@ all
 those
 calling
 Him
-for
 Whoever
--
+for
 that
+-
 shall call upon
 the
 name
 of [the] Lord
 will be saved
-then
 How
+then
 shall they call
 on [Him]
 whom
 not
 they believed
-now
 How
+now
 shall they believe on [Him]
 of whom
 not
 they have heard
-now
 How
+now
 shall they hear
 apart from
 preaching
-now
 How
+now
 shall they preach
 if
 not
@@ -87586,8 +87586,8 @@ all
 heeded
 the
 good news
-for
 Isaiah
+for
 says
 Lord
 who
@@ -87600,8 +87600,8 @@ So
 faith [is]
 from
 hearing
-and
 -
+and
 hearing
 through
 [the] word
@@ -87649,8 +87649,8 @@ a nation
 without understanding
 I will anger
 you
-then
 Isaiah
+then
 is very bold
 and
 says
@@ -87665,8 +87665,8 @@ to those
 Me
 not
 inquiring after
-however
 As for
+however
 -
 Israel
 he says
@@ -87682,8 +87682,8 @@ a people
 disobeying
 and
 contradicting
-then
 I ask
+then
 not
 did reject
 -
@@ -87693,8 +87693,8 @@ people
 of Him
 Never
 may it be
-for
 Also
+for
 I
 an Israelite
 am
@@ -87761,8 +87761,8 @@ have bowed
 [the] knee
 -
 to Baal
-then
 Thus
+then
 also
 in
 the
@@ -87773,8 +87773,8 @@ according to
 [the] election
 of grace
 there has been
-now
 If
+now
 by grace
 no longer
 from
@@ -87785,20 +87785,20 @@ grace
 no longer
 would be
 grace
-then
 What
+then
 What
 is seeking
 Israel
 this
 not
 it has obtained
-but
 -
+but
 the elect
 obtained [it]
-now
 The
+now
 rest
 were hardened
 as
@@ -87855,8 +87855,8 @@ of them
 for
 ever
 bent over
-then
 I ask
+then
 not
 did they stumble
 that
@@ -87875,8 +87875,8 @@ so as
 -
 to provoke to jealousy
 them
-however
 If
+however
 the
 trespass
 of them
@@ -87893,15 +87893,15 @@ more
 the
 fullness
 of them
+To you
 now
 I am speaking
-To you
 the
 Gentiles
-indeed
-therefore
 Upon
 as much as
+indeed
+therefore
 am
 I
 of [the] Gentiles
@@ -87921,8 +87921,8 @@ shall save
 some
 of
 them
-for
 If
+for
 the
 rejection
 of them
@@ -87936,8 +87936,8 @@ not
 life
 out from
 [the] dead
-now
 If
+now
 the
 firstfruit
 [is] holy
@@ -87952,14 +87952,14 @@ root
 also
 the
 branches
-however
 If
+however
 some
 of the
 branches
 were broken off
-now
 you
+now
 a wild olive tree
 being
 were grafted in
@@ -87978,8 +87978,8 @@ not
 boast over
 the
 branches
-now
 If
+now
 you boast against [them]
 not
 you
@@ -87990,8 +87990,8 @@ but
 the
 root
 you
-then
 You will say
+then
 Were broken off
 branches
 that
@@ -88001,8 +88001,8 @@ Rightly so
 by the
 unbelief
 they were broken off
-however
 you
+however
 -
 by faith
 stand
@@ -88011,8 +88011,8 @@ high
 be minded
 but
 be afraid
-for
 If
+for
 -
 God
 the
@@ -88024,19 +88024,19 @@ spared
 neither
 you
 will He spare
-therefore
 Behold
+therefore
 [the] kindness
 and
 severity
 of God
-indeed
 upon
+indeed
 those
 having fallen
 severity
-however
 toward
+however
 you
 kindness
 of God
@@ -88048,31 +88048,31 @@ otherwise
 also
 you
 will be cut off
-now
 Even they
+now
 if
 not
 they continue
 -
 in unbelief
 will be grafted in
-for
 able
+for
 is
 -
 God
 again
 to graft in
 them
-for
 If
+for
 you
 out of
 the
 according to
 nature
-a wild olive tree
 were cut off
+a wild olive tree
 and
 contrary to
 nature
@@ -88089,12 +88089,12 @@ will be grafted into
 the
 own
 olive tree
-for
-brothers
 Not
+for
 I want
 you
 to be ignorant
+brothers
 of the
 mystery
 this
@@ -88146,23 +88146,23 @@ I shall take away
 the
 sins
 of them
-indeed
 As regards
+indeed
 the
 gospel
 [they are] enemies
 on account of
 you
-however
 As regards
+however
 the
 election
 beloved
 on account of
 the
 patriarchs
-for
 Irrevocable
+for
 [are] the
 gifts
 and
@@ -88170,15 +88170,15 @@ the
 calling
 -
 of God
-for
 Just as
+for
 you
 once
 were disobedient
 -
 to God
-however
 now
+however
 have been shown mercy
 the
 of these
@@ -88196,8 +88196,8 @@ also
 they
 now
 may have mercy shown [them]
-for
 Has bound up
+for
 -
 God
 -
@@ -88226,8 +88226,8 @@ untraceable
 the
 ways
 of Him
-for
 Who
+for
 has known
 [the] mind
 of [the] Lord
@@ -88261,15 +88261,15 @@ to
 the
 ages
 Amen
-therefore
-brothers
 I exhort
+therefore
+you
+brothers
 through
 the
 compassions
 -
 of God
-you
 to present
 the
 bodies
@@ -88311,8 +88311,8 @@ and
 well-pleasing
 and
 perfect
-for
 I say
+for
 through
 the
 grace
@@ -88328,37 +88328,37 @@ not
 to be high-minded
 above
 what
-to think
 it behooves [you]
+to think
 but
 to think
 so as
 -
 to be sober-minded
-as
 to each
+as
 -
 God
 has allotted
 a measure
 of faith
-for
 Just as
+for
 in
 one
 body
 many
 members
 we have
-now
 -
+now
 the members
 all
 not
 the
 same
-function
 have
+function
 so
 the
 many
@@ -88367,22 +88367,22 @@ body
 we are
 in
 Christ
-and
 -
+and
 individually
 one
 of another
 members
-however
 We are having
+however
 gifts
-different
 according to
 the
 grace
 -
 having been given
 to us
+different
 if
 prophecy
 according to
@@ -88514,17 +88514,17 @@ with
 all
 men
 living at peace
-beloved
 never
 yourselves
 avenging
+beloved
 instead
 give
 place
 -
 to wrath
-for
 it has been written
+for
 Mine [is]
 vengeance
 I
@@ -88543,8 +88543,8 @@ if
 he should thirst
 give drink
 him
-for
 this
+for
 doing
 coals
 of fire
@@ -88570,16 +88570,16 @@ soul
 to the authorities
 being above [him]
 let be subject
-for
 Not
+for
 there is
 authority
 if
 not
 by
 God
-however
 those
+however
 existing
 by
 God
@@ -88595,26 +88595,26 @@ the
 of God
 ordinance
 has resisted
-now
 those
+now
 having resisted
 upon themselves
 judgment
 will bring
-for
 The
+for
 rulers
+not
 are
 a terror
-not
 -
 to good
 works
 but
 -
 to evil
-now
 Do you desire
+now
 not
 to fear
 the
@@ -88627,28 +88627,28 @@ you will have
 praise
 from
 him
-for
 Of God
+for
 servant
 he is
 to you
 for
 -
 good
-however
 If
+however
 -
 evil
 you do
 be afraid
-for
 not
+for
 in vain
 the
 sword
 he bears
-for
 of God
+for
 a servant
 He is
 an avenger
@@ -88671,14 +88671,14 @@ also
 on account of
 the
 conscience
-for
 Because of
 this
+for
 also
 taxes
 pay you
-for
 servants
+for
 of God
 they are
 upon
@@ -88717,15 +88717,15 @@ not
 -
 one another
 to love
-for
 the [one]
+for
 loving
 the
 other
 [the] Law
 has fulfilled
-For
 -
+For
 Not
 you shall commit adultery
 Not
@@ -88759,14 +88759,14 @@ neighbor
 evil
 not
 does do
-therefore
 [the] fulfillment
+therefore
 of [the] law
 -
 love [is]
 And
-knowing
 this
+knowing
 the
 time
 that [it is the]
@@ -88776,8 +88776,8 @@ for you
 out of
 sleep
 to awaken
-for
 now
+for
 nearer
 [is] of us
 the
@@ -88788,18 +88788,18 @@ we believed
 The
 night
 is nearly over
-and
 -
+and
 the day
 has drawn near
-therefore
 We should cast off
+therefore
 the
 works
 -
 of darkness
-now
 we should put on
+now
 the
 armor
 -
@@ -88835,8 +88835,8 @@ not
 make
 for
 desires
-now
 The [one]
+now
 being weak
 in the
 faith
@@ -88845,13 +88845,13 @@ not
 for
 passing judgment
 on reasonings
-indeed
 One
+indeed
 believes
 to eat
 all things
-however
 the [one]
+however
 being weak
 vegetables
 eats
@@ -88862,17 +88862,17 @@ not
 eating
 not
 let him despise
-now
 the [one]
+now
 not
 eating
 him
 eating
 not
 let him judge
-for
 -
 God
+for
 him
 has received
 You
@@ -88888,23 +88888,23 @@ master
 he stands
 or
 falls
-however
 He will be upheld
-for
+however
 able is
+for
 the
 Lord
 to uphold
 him
-for
-truly
 One
+truly
+for
 judges
 a day
 [to be] above
 [another] day
-however
 one
+however
 judges
 every
 day [alike]
@@ -88925,8 +88925,8 @@ the [one]
 eating
 to [the] Lord
 eats
-for
 he gives thanks
+for
 -
 to God
 and
@@ -88940,8 +88940,8 @@ and
 he gives thanks
 -
 to God
-for
 No one
+for
 of us
 to himself
 lives
@@ -88949,32 +88949,32 @@ and
 no one
 to himself
 dies
-for
-both
 If
+both
+for
 we should live
 to the
 Lord
 we live
-also
 if
+also
 we should die
 to the
 Lord
 we die
-therefore
-both
 If
+both
+therefore
 we should live
-also
 if
+also
 we should die
 the
 Lord’s
 we are
-for
 Unto
 this
+for
 Christ
 died
 and
@@ -88985,8 +88985,8 @@ dead
 and
 living
 He might rule over
-however
 You
+however
 why
 judge you
 the
@@ -89000,15 +89000,15 @@ do despise
 the
 brother
 of you
-for
 All
+for
 we will stand before
 the
 judgment seat
 of
 God
-for
 It has been written
+for
 Live
 I
 says
@@ -89034,8 +89034,8 @@ account
 will give
 -
 to God
-therefore
 No longer
+therefore
 one another
 should we judge
 but
@@ -89045,9 +89045,9 @@ rather
 -
 not
 to put
+[any] stumbling block
 before [your]
 brother
-[any] stumbling block
 or
 snare
 I know
@@ -89070,8 +89070,8 @@ unclean
 to be
 to that one
 unclean [it is]
-for
 If
+for
 on account of
 food
 the
@@ -89092,14 +89092,14 @@ for
 whom
 Christ
 died
-therefore
 Not
 let be spoken of as evil
+therefore
 your
 -
 good
-for
 Not
+for
 is
 the
 kingdom
@@ -89117,8 +89117,8 @@ joy
 in [the]
 Spirit
 Holy
-for
 The [one]
+for
 in
 these things
 serving
@@ -89133,10 +89133,10 @@ approved
 by men
 So
 then
-we should pursue
 the things
 -
 of peace
+we should pursue
 and
 the things
 -
@@ -89152,8 +89152,8 @@ the
 work
 -
 of God
-indeed [are]
 All things
+indeed [are]
 clean
 but
 [it is] wrong
@@ -89196,26 +89196,26 @@ himself
 in
 what
 he approves
-however
-if
 The [one]
+however
 doubting
+if
 he eats
 has been condemned
 because [it is]
 not
 of
 faith
-now
 everything
+now
 that [is]
 not
 of
 faith
 sin
 is
-now
 We ought
+now
 we
 who [are]
 strong
@@ -89238,8 +89238,8 @@ the
 good
 for
 edification
-for
 Even
+for
 -
 Christ
 not
@@ -89256,8 +89256,8 @@ You
 have fallen
 on
 Me
-for
 Whatever
+for
 was written in the past
 for
 -
@@ -89277,8 +89277,8 @@ Scriptures
 -
 hope
 we might have
-now
 The
+now
 God
 -
 of endurance
@@ -89323,12 +89323,12 @@ to
 [the] glory
 -
 of God
-for
 I say
+for
 Christ
 a servant
-of [the] circumcision
 to have become
+of [the] circumcision
 for
 [the] truth
 of God
@@ -89339,8 +89339,8 @@ the
 promises given
 to the
 fathers
-and [for]
 -
+and [for]
 the Gentiles
 for
 mercy
@@ -89363,18 +89363,18 @@ will I sing
 And
 again
 it says
-Gentiles
 Rejoice you
+Gentiles
 with
 the
 people
 of Him
 And
 again
+Praise
 all
 the
 Gentiles
-Praise
 the
 Lord
 and
@@ -89401,8 +89401,8 @@ in
 Him
 [the] Gentiles
 will hope
-And
 -
+And
 the God
 -
 of hope
@@ -89426,10 +89426,10 @@ in
 [the] power
 [of the] Spirit
 Holy
+I am persuaded
 now
 brothers
 of me
-I am persuaded
 also
 myself
 I
@@ -89449,8 +89449,8 @@ being able
 also
 one another
 to admonish
-however
 More boldly
+however
 I have written
 to you
 in
@@ -89493,8 +89493,8 @@ having been sanctified
 in [the]
 Spirit
 Holy
-therefore
 I have
+therefore
 the
 boasting
 in
@@ -89504,11 +89504,11 @@ in the things
 pertaining to
 -
 God
-for
 Not
+for
 will I dare
-to speak of
 anything
+to speak of
 what
 except
 has accomplished
@@ -89544,8 +89544,8 @@ the
 gospel
 -
 of Christ
-now
 thus
+now
 being ambitious
 to preach the gospel
 not
@@ -89581,8 +89581,8 @@ many [times]
 to come
 to
 you
-however
 Now
+however
 no longer
 a place
 having
@@ -89590,8 +89590,8 @@ in
 the
 regions
 these
-now
 a great desire
+now
 having had
 -
 to come
@@ -89606,8 +89606,8 @@ I may go
 to
 -
 Spain
-for
 I hope
+for
 going through
 to see
 you
@@ -89622,16 +89622,16 @@ first
 in
 part
 I should be filled
-however
 Now
+however
 I am going
 to
 Jerusalem
 ministering
 to the
 saints
-for
 Were pleased
+for
 Macedonia
 and
 Achaia
@@ -89646,14 +89646,14 @@ saints
 -
 in
 Jerusalem
-for
 They were pleased
+for
 and
 debtors
 they are
 of them
-for
 If
+for
 the things
 spiritual
 of them
@@ -89667,8 +89667,8 @@ the
 material things
 to minister
 to them
-therefore
 This
+therefore
 having finished
 and
 having sealed
@@ -89681,8 +89681,8 @@ through
 you
 into
 Spain
-now
 I know
+now
 that
 coming
 to
@@ -89692,9 +89692,10 @@ in
 of the blessing
 of Christ
 I will come
-now
-brothers
 I exhort
+now
+you
+brothers
 by
 the
 Lord
@@ -89707,7 +89708,6 @@ the
 love
 of the
 Spirit
-you
 to strive together with
 me
 in
@@ -89748,8 +89748,8 @@ will
 of God
 I may be refreshed with
 you
-And
 -
+And
 the God
 -
 of peace
@@ -89757,8 +89757,8 @@ of peace
 all
 of you
 Amen
-now
 I commend
+now
 to you
 Phoebe
 the
@@ -89783,17 +89783,17 @@ and
 you might assist
 her
 in
--
 whatever
+-
 of you
 she may need
 matter
-for
 Also
+for
 she
-has been
 a patroness
 of many
+has been
 and
 of me
 myself
@@ -89817,10 +89817,10 @@ of them
 neck
 have lain down
 whom
-thank
 not
 I
 only
+thank
 but
 also
 all
@@ -89989,10 +89989,10 @@ churches
 all
 -
 of Christ
-now
-brothers
 I exhort
+now
 you
+brothers
 to watch out for
 those
 -
@@ -90011,8 +90011,8 @@ and
 turn away
 from
 them
-For
 -
+For
 such
 the
 Lord
@@ -90035,32 +90035,32 @@ the
 hearts
 of the
 naive
-for
 The
+for
 of you
 obedience
 to
 all
 has reached
-therefore
 Over
 you
+therefore
 I rejoice
-however
 I wish
+however
 you
 wise
 to be
 to
 -
 good
-however
 innocent
+however
 to
 -
 evil
-now
 The
+now
 God
 -
 of peace
@@ -90127,8 +90127,8 @@ and
 Quartus
 the
 brother
-now
 To Him
+now
 being able
 you
 to strengthen
@@ -90147,11 +90147,11 @@ of [the] mystery
 in times
 of the ages
 having been kept secret
-however
 having been made manifest
+however
 now
-also
 through
+also
 Scriptures
 prophetic
 according to
@@ -90225,8 +90225,8 @@ place
 both theirs
 and
 ours
-to you
 Grace
+to you
 and
 peace
 from
@@ -90320,10 +90320,10 @@ Christ
 the
 Lord
 of us
-now
-brothers
 I exhort
+now
 you
+brothers
 by
 the
 name
@@ -90343,8 +90343,8 @@ there be
 among
 you
 divisions
-however
 you may be
+however
 having been knit together
 in
 the
@@ -90355,13 +90355,13 @@ in
 the
 same
 judgment
-for
-brothers
-of me
 It was shown
+for
 to me
 concerning
 you
+brothers
+of me
 by
 those
 of Chloe
@@ -90370,25 +90370,25 @@ quarrels
 among
 you
 there are
-now
 I mean
+now
 this
 that
 each
 of you
 says
-indeed
 I
+indeed
 am
 of Paul
-and
 I
+and
 of Apollos
-and
 I
+and
 of Cephas
-and
 I
+and
 of Christ
 Has been divided
 -
@@ -90424,8 +90424,8 @@ into
 my
 name
 you were baptized
-now
 I baptized
+now
 also
 the
 of Stephanas
@@ -90437,11 +90437,11 @@ whether
 any
 other
 I baptized
+Not
 for
 sent
 me
 Christ
-Not
 to baptize
 but
 to preach the gospel
@@ -90456,26 +90456,26 @@ the
 cross
 of the
 Christ
-for
-indeed
 The
 message
+for
 -
 of the
 cross
 to those
+indeed
 perishing
 foolishness
 is
-however
 those
+however
 being saved
 to us
 power
 of God
 it is
-for
 It has been written
+for
 I will destroy
 the
 wisdom
@@ -90504,8 +90504,8 @@ the
 wisdom
 of the
 world
-for
 Since
+for
 in
 the
 wisdom
@@ -90540,23 +90540,23 @@ and
 Greeks
 wisdom
 seek
-however
 we
+however
 preach
 Christ
 having been crucified
-indeed
 to [the] Jewish
+indeed
 a stumbling block
-now
 to Gentiles
+now
 foolishness
-however
 to them
+however
 the
 called
-both
 Jews
+both
 and
 Greeks
 Christ
@@ -90582,12 +90582,12 @@ of God
 stronger
 -
 than men
-for
-brothers
 Consider
+for
 the
 calling
 of you
+brothers
 that
 not
 many
@@ -90632,12 +90632,12 @@ world
 and
 the things
 being despised
-the things
-not
-being
 chose
 -
 God
+the things
+not
+being
 that
 the things
 being
@@ -90650,9 +90650,9 @@ flesh
 before
 -
 God
-however
 Out of
 Him
+however
 you
 are
 in
@@ -90660,12 +90660,12 @@ Christ
 Jesus
 who
 has been made
+wisdom
 unto us
 from
 God
-wisdom
-and
 righteousness
+and
 also
 sanctification
 and
@@ -90678,11 +90678,11 @@ boasting
 in [the]
 Lord
 let him boast
-brothers
 And I
 having come
 to
 you
+brothers
 came
 not
 according to
@@ -90696,8 +90696,8 @@ the
 testimony
 -
 of God
-for
 Nothing
+for
 I decided
 anything
 to know
@@ -90746,8 +90746,8 @@ so that
 the
 faith
 of you
-might be
 not
+might be
 in
 wisdom
 of men
@@ -90755,15 +90755,15 @@ but
 in
 power
 of God
-however
 Wisdom
+however
 we speak
 among
 the
 mature
+wisdom
 however
 not
-wisdom
 the
 age
 of this
@@ -90801,11 +90801,11 @@ the
 age
 of this
 has understood
-for
 if
+for
 they had understood [it]
--
 not
+-
 the
 Lord
 -
@@ -90835,16 +90835,16 @@ God
 for those
 loving
 Him
-for
 To us
+for
 has revealed [it]
 -
 God
 through
 the
 Spirit
-for
 The
+for
 Spirit
 all things
 searches
@@ -90853,10 +90853,10 @@ the
 depths
 -
 of God
-for
 Who
-among men
+for
 knows
+among men
 the things
 of the
 man
@@ -90882,9 +90882,9 @@ the
 Spirit
 -
 of God
+We
 now
 not
-We
 the
 spirit
 of the
@@ -90921,8 +90921,8 @@ of [the] Spirit
 by spiritual [means]
 spiritual things
 communicating
-however
 [The] natural
+however
 man
 not
 accepts
@@ -90931,8 +90931,8 @@ of the
 Spirit
 -
 of God
-for
 foolishness
+for
 to him
 they are
 and
@@ -90942,34 +90942,34 @@ to understand [them]
 because
 spiritually
 they are discerned
-however
 He who [is]
+however
 spiritual
 judges
 -
 all things
-however
 he himself
+however
 by
 no one
 is judged
-for
 Who
+for
 has known
 [the] mind
 of [the] Lord
 Who
 will instruct
 Him
-however
 We
+however
 [the] mind
 of Christ
 have
-brothers
 And I
-was able
+brothers
 not
+was able
 to speak
 to you
 as
@@ -90986,20 +90986,20 @@ you
 I gave to drink
 not
 solid food
-for
 not yet
+for
 were you able
 In fact
 not
 still
 now
 are you able
-for
 still
+for
 fleshly
 you are
-for
 Where
+for
 [are] among
 you
 jealousy
@@ -91012,36 +91012,36 @@ and
 according to
 man
 are walking
-for
 When
-indeed
+for
 might say
 one
 I
+indeed
 am
 of Paul
-however
 another
+however
 I
 of Apollos
 not
 fleshly
 are you
-then
 Who
+then
 is
 Apollos
-now
 Who
+now
 is
 Paul
 Servants
 through
 whom
 you believed
-as
 also
 to each
+as
 the
 Lord
 has given
@@ -91066,16 +91066,16 @@ but [only]
 the [One]
 giving growth
 God
-now
 The [one]
 planting
+now
 and
 the [one]
 watering
 one
 are
-now
 each
+now
 the
 own
 reward
@@ -91084,9 +91084,9 @@ according to
 the
 own
 labor
+Of God
 for
 we are
-Of God
 fellow workers
 God’s
 field
@@ -91106,19 +91106,19 @@ a wise
 master builder
 [the] foundation
 I have laid
-however
 another
-is building upon [it]
 however
+is building upon [it]
 Each one
+however
 let take heed
 how
 he builds upon [it]
+Foundation
 for
+another
 no one
 is able
-Foundation
-another
 to lay
 besides
 the [one]
@@ -91127,8 +91127,8 @@ which
 is
 Jesus
 Christ
-now
 If
+now
 anyone
 builds
 upon
@@ -91146,8 +91146,8 @@ the
 work
 manifest
 will become
-for
 the
+for
 day
 will disclose [it]
 because
@@ -91165,10 +91165,10 @@ fire
 itself
 will prove
 If
-will remain
 of anyone
 the
 work
+will remain
 which
 he built up
 a reward
@@ -91179,12 +91179,12 @@ the
 work
 will be burned up
 he will suffer loss
-however
 he himself
+however
 will be saved
+so
 however
 as
-so
 through
 fire
 Not
@@ -91212,8 +91212,8 @@ will destroy
 him
 -
 God
-for
 -
+for
 the temple
 -
 of God
@@ -91241,8 +91241,8 @@ let him become
 so that
 he may become
 wise
-for
 The
+for
 wisdom
 of the
 world
@@ -91252,8 +91252,8 @@ with
 -
 God
 is
-for
 It has been written
+for
 [He is] the [One]
 catching
 the
@@ -91278,8 +91278,8 @@ no one
 let boast
 in
 men
-for
 All things
+for
 of you
 are
 whether
@@ -91300,11 +91300,11 @@ or
 things to come
 all
 yours
-now
 you
-of Christ
 now
+of Christ
 Christ
+now
 of God
 So
 us
@@ -91327,15 +91327,15 @@ that
 faithful
 one
 shall be found
-however
 Me
+however
 to
 the smallest matter
 it is
 that
-I be examined
 by
 you
+I be examined
 or
 by
 a human
@@ -91344,8 +91344,8 @@ In fact
 neither
 myself
 do I examine
-for
 Nothing
+for
 against myself
 I am conscious of
 yet
@@ -91353,8 +91353,8 @@ not
 by
 this
 have I been justified
-however
 the [One]
+however
 judging
 me
 [the] Lord
@@ -91392,9 +91392,9 @@ to each
 from
 -
 God
+These things
 now
 brothers
-These things
 I have applied
 to
 myself
@@ -91421,18 +91421,18 @@ you be puffed up
 over
 the
 other
-for
 Who
+for
 you
 makes different
+What
 now
 have you
-What
 which
 not
 you did receive
-now
 If
+now
 also
 you did receive [it]
 why
@@ -91457,8 +91457,8 @@ also
 we
 you
 might reign with
-for
 I think
+for
 -
 God
 us
@@ -91481,20 +91481,20 @@ We
 [are] fools
 on account of
 Christ
-however
 you
+however
 wise
 in
 Christ
 we
 weak
-however
 you
+however
 strong
 You
 honored
-however
 we
+however
 without honor
 As far as
 the
@@ -91526,9 +91526,9 @@ As
 [the] scum
 of the
 earth
+we have become
 of all [the]
 refuse
-we have become
 until
 now
 Not
@@ -91542,8 +91542,8 @@ children
 my
 beloved
 admonishing [you]
-for
 If
+for
 ten thousand
 guardians
 you should have
@@ -91553,8 +91553,8 @@ yet
 not
 many
 fathers
-for
 in
+for
 Christ
 Jesus
 through
@@ -91563,8 +91563,8 @@ gospel
 I
 you
 have begotten
-therefore
 I exhort
+therefore
 you
 imitators
 of me
@@ -91600,17 +91600,17 @@ in
 every
 church
 I teach
-now
 As to
 not
 coming
+now
 of me
 to
 you
 have become puffed up
 some
-however
 I will come
+however
 shortly
 to
 you
@@ -91628,8 +91628,8 @@ being puffed up
 but
 the
 power
-for
 Not
+for
 in
 word
 the
@@ -91649,8 +91649,8 @@ you
 or
 in
 love
-then
 a spirit
+then
 of gentleness
 Actually
 is reported
@@ -91666,8 +91666,8 @@ among
 the
 pagans
 so as for
-one
 [the] wife
+one
 of the
 father
 to have
@@ -91689,14 +91689,14 @@ the
 deed
 this
 having done
-though
 I
 indeed
+though
 being absent
 -
 in body
-now
 being present
+now
 -
 in spirit
 already
@@ -91769,13 +91769,13 @@ lump
 as
 you are
 unleavened
-for
 Also
+for
 the
 Passover lamb
 of us
-Christ
 has been sacrificed
+Christ
 so that
 we might celebrate the feast
 not
@@ -91817,14 +91817,14 @@ swindlers
 or
 idolaters
 since
-then
 you would need
+then
 from
 the
 world
 to depart
-however
 Now
+however
 I wrote
 to you
 not
@@ -91849,8 +91849,8 @@ with
 such a one
 not even
 to eat
-for
 What
+for
 [is it] to me
 those
 outside
@@ -91860,8 +91860,8 @@ those
 within
 you
 do judge
-however
 Those
+however
 outside
 -
 God
@@ -91916,11 +91916,11 @@ angels
 we will judge
 How much more
 the things of this life
+The things of this life
 indeed
 so
-if
-The things of this life
 judgment [as to]
+if
 you have
 the [ones]
 being despised
@@ -91933,8 +91933,8 @@ For
 shame
 to you
 I say this
-not
 Thus
+not
 is there
 among
 you
@@ -91957,9 +91957,9 @@ and
 this
 before
 unbelievers
+Already
 indeed
 therefore
-Already
 altogether
 a defeat
 for you
@@ -92070,16 +92070,16 @@ the
 belly
 the
 for foods
-but
 -
+but
 God
 both
 this
 and
 these
 will destroy
-and
 -
+and
 the body [is]
 not
 -
@@ -92092,8 +92092,8 @@ the
 Lord
 for the
 body
-And
 -
+And
 God
 both
 the
@@ -92115,8 +92115,8 @@ of you
 members
 of Christ
 are
-then
 Having taken
+then
 the
 members
 of the
@@ -92137,16 +92137,16 @@ prostitute
 one
 body
 is
+Will become
 for
 it says
-Will become
 the
 two
 into
 flesh
 one
-however
 The [one]
+however
 being joined
 to the
 Lord
@@ -92158,16 +92158,16 @@ Flee
 sexual immorality
 Every
 sin
-if
 whatever
+if
 might do
 a man
 outside
 the
 body
 is
-however
 the [one]
+however
 sinning sexually
 against
 the
@@ -92196,19 +92196,19 @@ And
 not
 you are
 your own
-for
 you were bought
+for
 with a price
-therefore
 glorify
+therefore
 -
 God
 in
 the
 body
 of you
-now
 Concerning
+now
 the things about which
 you wrote
 [It is] good
@@ -92216,8 +92216,8 @@ for a man
 a woman
 not
 to touch
-however
 Because of
+however
 -
 sexual immorality
 each man
@@ -92238,8 +92238,8 @@ husband
 the
 duty
 let fulfill
-now
 likewise
+now
 also
 the
 wife
@@ -92255,8 +92255,8 @@ has authority over
 but
 the
 husband
-now
 likewise
+now
 also
 the
 husband
@@ -92298,16 +92298,16 @@ through
 the
 lack of self-control
 of you
-now
 This
+now
 I say
 by way of
 concession
 not
 by way of
 command
-now
 I wish
+now
 all
 men
 to be
@@ -92316,19 +92316,19 @@ even
 myself
 But
 each
-has
 his own
+has
 gift
 from
 God
-indeed
 one [has]
+indeed
 this
-however
 one
+however
 that
-now
 I say
+now
 to the
 unmarried
 and
@@ -92340,19 +92340,19 @@ if
 they should remain
 as
 even I
-however
 If
+however
 not
 they have self-control
 let them marry
-for
 better
+for
 it is
 to marry
 than
 to burn with passion
-now
 To those
+now
 having married
 I give this charge
 not
@@ -92365,8 +92365,8 @@ from
 a husband
 not
 is to be separated
-however
 if
+however
 indeed
 she is separated
 let her remain
@@ -92380,8 +92380,8 @@ a husband
 a wife
 not
 is to send away
-now
 To the
+now
 rest
 I say
 I
@@ -92391,8 +92391,8 @@ Lord
 If
 any
 brother
-has
 a wife
+has
 unbelieving
 and
 she
@@ -92419,8 +92419,8 @@ not
 let her divorce
 the
 husband
-for
 Is sanctified
+for
 the
 husband
 -
@@ -92437,19 +92437,19 @@ unbelieving
 in
 the
 husband
-then
 else
+then
 the
 children
 of you
 unclean
 are
-however
 now
+however
 holy
 they are
-however
 If
+however
 the
 unbeliever
 separates himself
@@ -92464,38 +92464,38 @@ sister
 in
 -
 such [cases]
-however
 Into
+however
 peace
 has called
 you
 -
 God
-for
-wife
 How
+for
 know you
+wife
 if
 the
 husband
 you will save
 Or
-husband
 how
 know you
+husband
 if
 the
 wife
 you will save
 If
 not
-as
 to each
+as
 has assigned
 the
 Lord
-as
 to each
+as
 has called
 -
 God
@@ -92554,8 +92554,8 @@ free
 to become
 rather
 take advantage
-for
 The [one]
+for
 in
 [the] Lord
 having been called
@@ -92567,8 +92567,8 @@ likewise
 the [one]
 free
 having been called
-is
 a slave
+is
 of Christ
 With a price
 you were bought
@@ -92576,26 +92576,26 @@ not
 become
 slaves
 of men
-brothers
 Each
 wherein
 that
 he was called
+brothers
 in
 that
 let him abide
 with
 God
-now
 Concerning
+now
 the
 virgins
 a commandment
 of [the] Lord
 not
 I have
-however
 judgment
+however
 I give
 as
 having received mercy
@@ -92603,8 +92603,8 @@ from
 [the] Lord
 trustworthy
 to be
-therefore
 I think
+therefore
 this
 good
 is
@@ -92629,8 +92629,8 @@ a wife
 Not
 seek
 a wife
-however
 If
+however
 also
 you shall have married
 not
@@ -92642,21 +92642,21 @@ the
 virgin
 not
 she did sin
-however
 tribulation
+however
 in the
 flesh
 will have
 -
 such
-now
 I
+now
 you
 am sparing
-now
-brothers
 This
+now
 I say
+brothers
 The
 season
 shortened
@@ -92698,15 +92698,15 @@ world
 as
 not
 using [it] as their own
-for
 Is passing away
+for
 the
 present form
 of the
 world
 this
-now
 I desire
+now
 you
 without concern
 to be
@@ -92720,8 +92720,8 @@ how
 he should please
 the
 Lord
-however
 the [one]
+however
 having been married
 cares for
 the things
@@ -92754,8 +92754,8 @@ body
 and
 in
 spirit
-however
 the [one]
+however
 having been married
 cares for
 the things
@@ -92765,8 +92765,8 @@ how
 she should please
 the
 husband
-now
 This
+now
 for
 the
 of you
@@ -92787,8 +92787,8 @@ devoted
 to the
 Lord
 without distraction
-however
 If
+however
 anyone
 to be behaving improperly
 to
@@ -92809,8 +92809,8 @@ let him do
 not
 he does sin
 let them marry
-however
 He who
+however
 stands
 in
 the
@@ -92820,8 +92820,8 @@ firm
 not
 having
 necessity
-however
 authority
+however
 having
 over
 the
@@ -92864,8 +92864,8 @@ may live
 the
 husband
 of her
-however
 if
+however
 shall have died
 the
 husband
@@ -92877,8 +92877,8 @@ to be married
 only
 in
 [the] Lord
-however
 More blessed
+however
 she is
 if
 in the same manner
@@ -92887,14 +92887,14 @@ according to
 -
 my
 judgment
-now
 I think
+now
 myself also
 [the] Spirit
 of God
 to have
-now
 Concerning
+now
 the things
 sacrificed to idols
 we know
@@ -92905,8 +92905,8 @@ we have
 -
 Knowledge
 puffs up
-but
 -
+but
 love
 builds up
 If
@@ -92919,8 +92919,8 @@ does he know
 as
 it is necessary
 to know
-however
 If
+however
 anyone
 loves
 -
@@ -92929,10 +92929,10 @@ he
 is known
 by
 Him
-therefore
 Concerning
 the
 eating
+therefore
 of the
 things sacrificed to idols
 we know
@@ -92948,9 +92948,9 @@ God
 if
 not
 one
+Even
 truly
 if indeed
-Even
 there are
 [those] called
 gods
@@ -93000,8 +93000,8 @@ in
 all [is]
 this
 knowledge
-now
 Some
+now
 -
 by habit
 until
@@ -93018,8 +93018,8 @@ of them
 weak
 being
 it is defiled
-however
 Food
+however
 us
 not
 will commend
@@ -93034,8 +93034,8 @@ nor
 if
 we should eat
 have we an advantage
-however
 Be careful
+however
 lest
 somehow
 the
@@ -93046,8 +93046,8 @@ an occasion of stumbling
 becomes
 to those
 being weak
-for
 If
+for
 anyone
 sees
 you
@@ -93069,22 +93069,22 @@ the
 things
 sacrificed to idols
 to eat
-for
 Is destroyed
+for
+the [one]
+being weak
 through
 -
 your
 knowledge
-the [one]
-being weak
 the
 brother
 for
 whom
 Christ
 died
-then
 Thus
+then
 sinning
 against
 the
@@ -93147,8 +93147,8 @@ yet
 at least
 to you
 I am
-for
 the
+for
 seal
 of my
 the
@@ -93239,8 +93239,8 @@ law
 these things
 not
 says
-for
 In
+for
 the
 of Moses
 law
@@ -93260,17 +93260,17 @@ because of
 us
 entirely
 is He speaking
-for
 For sake of
 us
+for
 it was written
 because
 ought
 in
 hope
-to plow
 the [one]
 plowing
+to plow
 and
 the [one]
 threshing
@@ -93350,23 +93350,23 @@ from
 the
 gospel
 to live
-however
 I
+however
 not
 have used
 none
 of these
-now
 Neither
 have I written
+now
 these things
 that
 thus
 it should be
 with
 me
-for
 [it were] good
+for
 me
 rather
 to die
@@ -93376,40 +93376,40 @@ boasting
 of me
 anyone
 will make void
-for
 If
+for
 I preach the gospel
 nothing
 there is
 to me
 boasting
-for
 necessity
+for
 me
 is laid upon
-however
 Woe
+however
 to me
 be
 if
 not
 I should preach the gospel
-for
 If
+for
 willingly
 this
 I do
 a reward
 I have
-however
 if
+however
 unwillingly
 a stewardship
 I am entrusted with
-then
 What
-is
+then
 of me
+is
 the
 reward
 That
@@ -93428,8 +93428,8 @@ of me
 in
 the
 gospel
-for
 Free
+for
 being
 from
 all
@@ -93496,8 +93496,8 @@ so that
 by all means
 some
 I might save
-now
 All [things]
+now
 I do
 on account of
 the
@@ -93513,11 +93513,11 @@ those
 in
 a race course
 running
-indeed
 all
+indeed
 run
-however
 one
+however
 receives
 the
 prize
@@ -93525,24 +93525,24 @@ Thus
 run
 that
 you might obtain [it]
-now
 Everyone
+now
 -
 striving
 in all things
 controls himself
-then
-indeed
 they
+indeed
+then
 that
 a perishable
 crown
 they might receive
-however
 we
+however
 an imperishable
-therefore
 I
+therefore
 thus
 run
 as
@@ -93568,12 +93568,12 @@ having preached
 myself
 disqualified
 I might be
-for
-brothers
 Not
 I want
+for
 you
 to be ignorant
+brothers
 that
 the
 fathers
@@ -93614,17 +93614,17 @@ all
 the
 same
 spiritual
-drink
 drank
-for
+drink
 they were drinking
+for
 from
 [the] spiritual
 accompanying [them]
 rock
-then
 the
 rock
+then
 was
 -
 Christ
@@ -93637,13 +93637,13 @@ of them
 was well pleased
 -
 God
-for
 they were strewn
+for
 in
 the
 wilderness
-now
 These things
+now
 types
 to us
 have become
@@ -93710,13 +93710,13 @@ perished
 by
 the
 Destroyer
-now
 These things
+now
 [as] types
 happened
 to them
-then
 were written
+then
 for
 admonition
 of us
@@ -93741,8 +93741,8 @@ has seized
 if
 not
 what is common to man
-now
 faithful
+now
 -
 [is] God
 who
@@ -93785,8 +93785,8 @@ of blessing
 that
 we bless
 not
-is it
 a participation
+is it
 in the
 blood
 -
@@ -93810,8 +93810,8 @@ body
 the
 many
 we are
-for
 -
+for
 all
 of
 the
@@ -93832,8 +93832,8 @@ fellow partakers
 in the
 altar
 are
-then
 What
+then
 do I mean
 That
 what is sacrificed to an idol
@@ -93853,9 +93853,9 @@ and
 not
 to God
 they sacrifice
-now
 Not
 I do wish
+now
 you
 fellow partakers
 -
@@ -93916,9 +93916,9 @@ inquiring
 on account of
 -
 conscience
-for
 The
 Lord’s
+for
 [is] the
 earth
 and
@@ -93927,10 +93927,10 @@ fullness
 of it
 If
 anyone
-of the
-unbelieving
 invites
 you
+of the
+unbelieving
 and
 you wish
 to go
@@ -93944,8 +93944,8 @@ inquiring
 on account of
 -
 conscience
-however
 If
+however
 anyone
 to you
 should say
@@ -93961,9 +93961,9 @@ having shown [it]
 and
 -
 conscience
+[the] conscience
 now
 I am saying
-[the] conscience
 not
 -
 your own
@@ -93971,9 +93971,9 @@ but
 that
 of the
 other
-for
 that
 what
+for
 the
 freedom
 of me
@@ -93991,8 +93991,8 @@ for
 that which
 I
 give thanks
-therefore
 Whether
+therefore
 you eat
 or
 drink
@@ -94005,9 +94005,9 @@ glory
 of God
 do
 Without offense
-be you
 both
 to Jews
+be you
 and
 Greeks
 and
@@ -94020,8 +94020,8 @@ I also
 all
 in all things
 please
-seeking
 not
+seeking
 the
 of myself
 profit
@@ -94037,8 +94037,8 @@ be
 as
 I also [am]
 of Christ
-now
 I commend
+now
 you
 that
 in all things
@@ -94051,8 +94051,8 @@ to you
 the
 teachings
 you are keeping
-however
 I want
+however
 you
 to know
 that
@@ -94063,13 +94063,13 @@ head
 -
 Christ
 is
-now
 [the] head
+now
 of [the] woman [is]
 the
 man
-now
 [the] head
+now
 -
 of Christ
 -
@@ -94086,8 +94086,8 @@ dishonors
 the
 head
 of him
-now
 Every
+now
 woman
 praying
 or
@@ -94099,23 +94099,23 @@ dishonors
 the
 head
 of her
+one
 for
 it is
-one
 and
 the
 same
 -
 with having been shaven
-for
 If
+for
 not
 covers her head
 a woman
 also
 let her be shorn
-now
 If [it is]
+now
 disgraceful
 to a woman
 -
@@ -94123,9 +94123,9 @@ to be shorn
 or
 to be shaven
 let her cover her head
-for
-truly
 A man
+truly
+for
 not
 ought
 to cover
@@ -94136,14 +94136,14 @@ and
 glory
 of God
 being
-however
 the
 woman
+however
 [the] glory
 of man
 is
-for
 Not
+for
 is
 man
 of
@@ -94152,8 +94152,8 @@ but
 woman
 of
 man
-for
 Truly
+for
 not
 was created
 man
@@ -94189,8 +94189,8 @@ separate from
 woman
 in
 [the] Lord
-for
 Just as
+for
 the
 woman
 of
@@ -94203,8 +94203,8 @@ man
 by
 the
 woman [is]
-however
 the
+however
 all things
 of
 -
@@ -94227,16 +94227,16 @@ itself
 does teach
 you
 that
+a man
 indeed
 if
-a man
 he has long hair
 a dishonor
 to him
 it is
+a woman
 however
 if
-a woman
 she has long hair
 glory
 to her
@@ -94248,8 +94248,8 @@ instead
 of a covering
 is given
 to her
-now
 If
+now
 anyone
 is inclined
 contentious
@@ -94264,8 +94264,8 @@ the
 churches
 -
 of God
-now
 In this
+now
 instructing
 not
 I do praise
@@ -94279,9 +94279,9 @@ for
 the
 worse
 you come together
-for
-indeed
 First
+indeed
+for
 coming together
 you
 in
@@ -94295,8 +94295,8 @@ and
 in part
 it
 I believe
-for
 It behooves
+for
 also
 factions
 among
@@ -94310,8 +94310,8 @@ evident
 should become
 among
 you
-therefore
 Coming
+therefore
 of you
 together
 in one
@@ -94321,8 +94321,8 @@ it is
 [the] Lord’s
 supper
 to eat
-for
 One
+for
 the
 own
 supper
@@ -94331,14 +94331,14 @@ in
 -
 eating
 and
-indeed
 this [one]
-is hungry
-however
-that [one]
-is drunken
 indeed
+is hungry
+that [one]
+however
+is drunken
 No
+indeed
 houses
 not
 have you
@@ -94367,8 +94367,8 @@ in
 this
 Not
 I praise [you]
-for
 I
+for
 received
 from
 the
@@ -94394,8 +94394,8 @@ He broke [it]
 and
 said
 This
-is
 of Me
+is
 the
 body
 which [is]
@@ -94435,8 +94435,8 @@ in
 -
 of Me
 remembrance
-for
 As often as
+for
 if
 you may eat
 the
@@ -94455,8 +94455,8 @@ until
 that
 He should come
 Therefore
--
 whoever
+-
 should eat
 the
 bread
@@ -94476,8 +94476,8 @@ of the
 blood
 of the
 Lord
-however
 Let examine
+however
 a man
 himself
 and
@@ -94491,8 +94491,8 @@ of
 the
 cup
 let him drink
-for
 The [one]
+for
 eating
 and
 drinking
@@ -94516,15 +94516,15 @@ sick
 and
 are fallen asleep
 many
-for
 If
+for
 ourselves
 we were judging
--
 not
+-
 we would come under judgment
-however
 Being judged
+however
 by
 the
 Lord
@@ -94555,18 +94555,18 @@ not
 for
 judgment
 you might come together
-And
 -
+And
 the other things
 as soon as
 -
 I might come
 I will set in order
-now
-brothers
 Concerning
+now
 -
 spiritual [gifts]
+brothers
 not
 I do want
 you
@@ -94608,12 +94608,12 @@ not
 in
 [the] Spirit
 Holy
-now
 Varieties
+now
 of gifts
 there are
-but
 -
+but
 the same
 Spirit
 and
@@ -94628,8 +94628,8 @@ and
 varieties
 of workings
 there are
-but
 the
+but
 same
 God
 -
@@ -94638,8 +94638,8 @@ the
 all things
 in
 everyone
-now
 To each
+now
 is given
 the
 manifestation
@@ -94648,17 +94648,17 @@ Spirit
 for
 the
 common profiting
-for
-truly
 To one
+truly
+for
 through
 the
 Spirit
 is given
 a word
 of wisdom
-now
 to another
+now
 a word
 of knowledge
 according to
@@ -94671,34 +94671,34 @@ by
 the
 same
 Spirit
-now
 to another
+now
 gifts
 of healing
 in
 that
 one
 Spirit
-now
 to another
+now
 working
 of miracles
-now
 to another
+now
 prophecy
-now
 to another
+now
 distinguishing
 of spirits
 and to a different one
 various kinds
 of tongues
-now
 to another
+now
 interpretation
 of tongues
-now
 All
+now
 these things
 works
 the
@@ -94712,8 +94712,8 @@ individually
 to each
 as
 He wills
-for
 Just as
+for
 the
 body
 one
@@ -94722,8 +94722,8 @@ and
 members
 many
 has
-now
 all
+now
 the
 members
 of the
@@ -94731,14 +94731,14 @@ body
 many
 being
 one
-body
 are
+body
 so
 also [is]
 -
 Christ
-for
 Also
+for
 in
 one
 Spirit
@@ -94761,12 +94761,12 @@ all
 one
 Spirit
 we were made to drink
-for
 Also
+for
 the
 body
-is
 not
+is
 one
 member
 but
@@ -94828,8 +94828,8 @@ all
 where
 [would be] the
 sense of smell
-however
 Now
+however
 -
 God
 has arranged
@@ -94843,8 +94843,8 @@ the
 body
 as
 He desired
-now
 If
+now
 were
 -
 all
@@ -94853,17 +94853,17 @@ member
 where
 [would be] the
 body
-however
-even
 Now
-many
-[are the] members
 however
+many
+even
+[are the] members
 one
+however
 body
-now
 Not
 is able
+now
 the
 eye
 to say
@@ -94888,20 +94888,20 @@ much
 rather
 those
 seeming
-weaker
-to be
 members
 of the
 body
+weaker
+to be
 indispensable
 are
 and
 those which
-to be
+we think
 less honorable
+to be
 of the
 body
-we think
 these
 honor
 more abundant
@@ -94913,8 +94913,8 @@ of us
 decorum
 more abundant
 have
-and
 -
+and
 the presentable [parts]
 of us
 no
@@ -94928,8 +94928,8 @@ the
 body
 to the [parts]
 being deficient
-having given
 more abundant
+having given
 honor
 that
 not
@@ -94962,8 +94962,8 @@ rejoice with [it]
 all
 the
 members
-now
 You
+now
 are
 [the] body
 of Christ
@@ -94972,8 +94972,8 @@ members
 in
 particular
 And
-indeed
 some
+indeed
 has appointed
 -
 God
@@ -95009,8 +95009,8 @@ all
 miracles
 Not
 all
-have
 gifts
+have
 of healings
 Not
 all
@@ -95019,8 +95019,8 @@ do speak
 Not
 all
 do interpret
-however
 Be desirous of
+however
 the
 gifts
 -
@@ -95037,12 +95037,12 @@ in the
 tongues
 -
 of men
+I speak
 and
 -
 of angels
-I speak
-however
 love
+however
 not
 have
 I have become
@@ -95073,8 +95073,8 @@ faith
 so as
 mountains
 to remove
-however
 love
+however
 not
 have
 nothing
@@ -95094,8 +95094,8 @@ body
 of me
 that
 I may boast
-however
 love
+however
 not
 have
 nothing
@@ -95131,8 +95131,8 @@ delights
 at
 -
 unrighteousness
-however
 rejoices
+however
 in the
 truth
 All things
@@ -95147,8 +95147,8 @@ endures
 Love
 never
 fails
-however
 if
+however
 [there are] prophesies
 they will be done away
 if
@@ -95157,16 +95157,16 @@ they will be ceased
 if
 knowledge
 it will pass away
-for
 In
 part
+for
 we know
 and
 in
 part
 we prophesy
-however
 when
+however
 should come
 the
 perfect
@@ -95193,15 +95193,15 @@ I did away with
 the things
 of the
 child
-for
 We see
+for
 presently
 through
 a glass
 in
 obscurity
-however
 then
+however
 face
 to
 face
@@ -95209,14 +95209,14 @@ presently
 I know
 in
 part
-however
 then
+however
 I will know fully
 as
 also
 I have been fully known
-however
 Now
+however
 abide
 faith
 hope
@@ -95224,24 +95224,24 @@ love
 the things
 three
 these
-however
 [the] greatest
+however
 of these [is]
 -
 love
 Earnestly pursue
 -
 love
-now
 earnestly desire
+now
 -
 spiritual gifts
+especially
 now
 that
-especially
 you might prophesy
-for
 The [one]
+for
 speaking
 in a tongue
 not
@@ -95249,15 +95249,15 @@ to men
 speaks
 but
 to God
-for
 no one
+for
 hears
-however
 in the Spirit
+however
 he utters
 mysteries
-however
 The [one]
+however
 prophesying
 to men
 speaks [for]
@@ -95271,31 +95271,31 @@ speaking
 in a tongue
 himself
 edifies
-however
 the [one]
+however
 prophesying
 [the] church
 edifies
-now
 I desire
+now
 all
 you
 to speak
 in tongues
+rather
 however
 that
-rather
 you should prophesy
-now
 greater [is]
+now
 the [one]
 prophesying
 than
 the [one]
 speaking
 in tongues
-if
 except
+if
 not
 he should interpret
 so that
@@ -95303,10 +95303,10 @@ the
 church
 edification
 might receive
+Now
 however
 brothers
 if
-Now
 I should come
 to
 you
@@ -95352,11 +95352,11 @@ being piped
 or
 -
 being harped
+Also
 for
 if
-Also
-[the] trumpet
 indistinct
+[the] trumpet
 sound
 gives
 who
@@ -95364,12 +95364,12 @@ will prepare himself
 for
 battle
 So
-if
 also
 you
 with
 the
 tongue
+if
 not
 intelligible
 speech
@@ -95378,14 +95378,14 @@ how
 will it be known
 what [is]
 being spoken
+You will be
 for
 into
 [the] air
-You will be
 speaking
+So many
 if
 it may be
-So many
 kinds
 of languages
 there are
@@ -95394,8 +95394,8 @@ in
 and
 none
 without meaning
-therefore
 If
+therefore
 not
 I know
 the
@@ -95417,8 +95417,8 @@ also
 you
 since
 zealous
-of spiritual gifts
 you are
+of spiritual gifts
 for
 the
 edification
@@ -95434,36 +95434,36 @@ in a tongue
 let him pray
 that
 he might interpret
-for
 If
+for
 I pray
 in a tongue
 the
 spirit
 of me
 prays
-but
 -
+but
 the mind
 of me
 unfruitful
 is
-then
 What
+then
 is it
 I will pray
 with the
 spirit
-however
 I will pray
+however
 also
 with the
 mind
 I will sing praise
 with the
 spirit
-however
 I will sing praise
+however
 also
 with the
 mind
@@ -95490,9 +95490,9 @@ what
 you say
 not
 he knows
-for
-truly
 You
+truly
+for
 well
 are giving thanks
 but
@@ -95537,8 +95537,8 @@ Yet
 in the
 evil
 be little children
-however
 in the
+however
 thinking
 full grown
 be
@@ -95576,8 +95576,8 @@ believing
 but
 to the
 unbelieving
-but
 -
+but
 prophecy
 [is] not
 to the
@@ -95585,8 +95585,8 @@ unbelieving
 but
 to the
 believing
-therefore
 If
+therefore
 gathers
 the
 church
@@ -95598,8 +95598,8 @@ and
 all
 should speak
 in tongues
-however
 come in
+however
 uninstructed ones
 or
 unbelievers
@@ -95607,12 +95607,12 @@ not
 will they say
 that
 you are mad
-however
 If
+however
 all
 prophesy
-then
 should come in
+then
 some
 unbeliever
 or
@@ -95646,8 +95646,8 @@ God
 among
 you
 is
-then
 What
+then
 is it
 brothers
 When
@@ -95683,22 +95683,22 @@ turn
 and
 one
 let interpret
-however
 If
+however
 not
 there is
 an interpreter
 let him be silent
 in
 [the] church
+to himself
 then
 let him speak
-to himself
 and
 -
 to God
-then
 Prophets
+then
 two
 or
 three
@@ -95707,16 +95707,16 @@ and
 the
 others
 let discern
-however
 If
+however
 to another
-sitting by
 a revelation should be made
+sitting by
 the
 first
 let be silent
-for
 You are able
+for
 [one] by
 one
 all
@@ -95732,8 +95732,8 @@ spirits
 of prophets
 to prophets
 are subject
-for
 Not
+for
 He is
 of disorder
 the
@@ -95753,8 +95753,8 @@ in
 the
 churches
 let them be silent
-for
 Not
+for
 it is allowed
 to them
 to speak
@@ -95765,8 +95765,8 @@ also
 the
 law
 says
-however
 If
+however
 anything
 to learn
 they desire
@@ -95776,8 +95776,8 @@ the
 own
 husbands
 let them ask
-for
 shameful
+for
 it is
 for a woman
 to speak
@@ -95799,8 +95799,8 @@ has it come
 If
 anyone
 considers
-himself to be
 a prophet
+himself to be
 or
 spiritual
 let him recognize
@@ -95809,10 +95809,10 @@ I write
 to you
 that
 of [the] Lord
-[the] commands
 are
-however
+[the] commands
 If
+however
 anyone
 is ignorant
 let him be ignored
@@ -95825,20 +95825,20 @@ to prophesy
 and
 -
 to speak
-in tongues
 not
 do forbid
-however
+in tongues
 All things
+however
 properly
 and
 with
 order
 let be done
-now
-brothers
 I make known
+now
 to you
+brothers
 the
 gospel
 that
@@ -95866,8 +95866,8 @@ if
 not
 in vain
 you have believed
-for
 I delivered
+for
 to you
 in
 the foremost
@@ -95917,8 +95917,8 @@ greater part
 remain
 until
 now
-however
 some
+however
 have fallen asleep
 Then
 He appeared
@@ -95927,16 +95927,16 @@ then
 to the
 apostles
 all
-then
 Last
+then
 of all
-He appeared
-also to me
 as
 the
 untimely birth
-for
+He appeared
+also to me
 I
+for
 am
 the
 least
@@ -95954,8 +95954,8 @@ the
 church
 -
 of God
-however
 [By the] grace
+however
 of God
 I am
 what
@@ -95975,9 +95975,9 @@ more abundantly
 than them
 all
 I toiled
-however
 not
 I
+however
 but
 the
 grace
@@ -95985,8 +95985,8 @@ grace
 of God
 with
 me
-therefore
 Whether
+therefore
 I
 or
 they
@@ -95995,8 +95995,8 @@ we preach
 and
 thus
 you believed
-now
 If
+now
 Christ
 is preached
 that
@@ -96013,8 +96013,8 @@ a resurrection
 of [the] dead
 not
 there is
-however
 If
+however
 a resurrection
 of [the] dead
 not
@@ -96022,13 +96022,13 @@ there is
 neither
 Christ
 has been raised
-then
 if
+then
 Christ
 not
 has been raised
-then
 [is] void
+then
 the
 preaching
 of us
@@ -96037,8 +96037,8 @@ also
 the
 faith
 of you
-then
 We are found
+then
 also
 false witnesses
 -
@@ -96060,16 +96060,16 @@ then
 [the] dead
 not
 are raised
-for
 If
+for
 [the] dead
 not
 are raised
 neither
 Christ
 has been raised
-then
 if
+then
 Christ
 not
 has been raised
@@ -96104,17 +96104,17 @@ more to be pitied
 than all
 men
 we are
-however
 Now
+however
+Christ
 has been raised
 out from
 [the] dead
-Christ
 firstfruit
 of those
 having fallen asleep
-for
 Since
+for
 by
 a man [came]
 death
@@ -96123,8 +96123,8 @@ by
 a man
 resurrection
 of [the] dead
-indeed
 For as
+indeed
 in
 -
 Adam
@@ -96137,8 +96137,8 @@ in
 Christ
 all
 will be made alive
-however
 Each
+however
 in
 the
 own
@@ -96173,8 +96173,8 @@ all
 authority
 and
 power
-for
 It behooves
+for
 Him
 to reign
 until
@@ -96189,18 +96189,18 @@ feet
 of Him
 [The] last
 enemy
+to be abolished [is]
 -
 death
-to be abolished [is]
-for
 All things
+for
 He has put in subjection
 under
 the
 feet
 of Him
-however
 When
+however
 it may be said
 that
 all things
@@ -96213,8 +96213,8 @@ having put in subjection
 to Him
 -
 all things
-now
 When
+now
 shall have been put in subjection
 to Him
 -
@@ -96261,7 +96261,6 @@ we
 are in danger
 every
 hour
-brothers
 Every
 day
 I die
@@ -96269,6 +96268,7 @@ as surely as
 the
 in you
 boasting
+brothers
 which
 I have
 in
@@ -96294,8 +96294,8 @@ are raised
 Let us eat
 and
 let us drink
-for
 tomorrow
+for
 we die
 Not
 be misled
@@ -96309,8 +96309,8 @@ righteously
 and
 not
 sin
-for
 ignorance
+for
 of God
 some
 have
@@ -96325,13 +96325,13 @@ How
 are raised
 the
 dead
-then
 With what
+then
 body
 do they come
 Fool
-What
 you
+What
 you sow
 not
 does come to life
@@ -96357,8 +96357,8 @@ or
 of some
 of the
 rest
-But
 -
+But
 God
 gives
 it
@@ -96378,19 +96378,19 @@ the
 same
 flesh
 but
-indeed
 one
+indeed
 of men
-now
 another
+now
 flesh
 of beasts
-now
 another
+now
 flesh
 of birds
-now
 another
+now
 of fish
 And
 bodies [there are]
@@ -96399,14 +96399,14 @@ and
 bodies
 earthly
 But
-truly
 one
+truly
 [is] the
 of the
 heavenly
 glory
-now
 another
+now
 that
 of the
 earthly
@@ -96421,8 +96421,8 @@ and
 another
 [the] glory
 of [the] stars
-for
 star
+for
 from star
 differs
 in
@@ -96531,8 +96531,8 @@ the
 image
 of the
 heavenly
-now
 This
+now
 I say
 brothers
 that
@@ -96557,8 +96557,8 @@ I tell
 All
 not
 we will sleep
-however
 all
+however
 we will be changed
 in
 an instant
@@ -96569,8 +96569,8 @@ at
 the
 last
 trumpet
-for
 The trumpet will sound
+for
 and
 the
 dead
@@ -96579,8 +96579,8 @@ imperishable
 and
 we
 will be changed
-for
 It behooves
+for
 the
 perishable
 this
@@ -96592,8 +96592,8 @@ mortal
 this
 to put on
 immortality
-now
 When
+now
 the
 perishable
 this
@@ -96616,34 +96616,34 @@ Has been swallowed up
 death
 in
 victory
-O death
 Where
 of you
+O death
 the
 victory
-O death
 Where
 of you
+O death
 the
 sting
-And
 -
+And
 the sting
 -
 of death [is]
 -
 sin
-and
 -
+and
 the power
 -
 of sin
 the
 law
-however
-[be] thanks
 to
+however
 God
+[be] thanks
 the [One]
 giving
 us
@@ -96659,8 +96659,8 @@ Therefore
 brothers
 of me
 beloved
-be
 steadfast
+be
 immovable
 abounding
 in
@@ -96679,8 +96679,8 @@ is
 in vain
 in
 [the] Lord
-now
 Concerning
+now
 the
 collection
 which [is]
@@ -96706,9 +96706,9 @@ aside
 him
 let put
 treasuring up
+-
 what
 if
--
 he may be prospered in
 so that
 not
@@ -96717,11 +96717,11 @@ I might come
 then
 collections
 there should be
-then
 When
+then
 I shall have arrived
-if
 whomever
+if
 you might approve
 with
 letters
@@ -96733,8 +96733,8 @@ bounty
 of you
 to
 Jerusalem
-then
 If
+then
 suitable
 it is
 for
@@ -96743,19 +96743,19 @@ to go
 with
 me
 they will go
-however
 I will come
+however
 to
 you
 when
 Macedonia
 I shall have gone through
-for
 Macedonia
+for
 I am going through
-then
 With
 you
+then
 possibly
 I will stay
 or
@@ -96765,19 +96765,19 @@ so that
 you
 me
 may equip
-if
 wherever
+if
 I may go
-for
 Not
 I want
+for
 you
 now
 in
 passing
 to see
-indeed
 I hope
+indeed
 a time
 certain
 to remain
@@ -96787,25 +96787,25 @@ if
 the
 Lord
 permits
-however
 I will remain
+however
 in
 Ephesus
 until
 -
 Pentecost
+A door
 for
 to me
 has opened
-A door
 great
 and
 productive
 and
 are opposing
 many
-now
 If
+now
 comes
 Timothy
 see
@@ -96814,20 +96814,20 @@ without fear
 he might be
 with
 you
-for
 the
+for
 work
 of [the] Lord
 he is doing
 as
 also I
-therefore
 Not
 anyone
+therefore
 him
 should despise
-however
 Equip
+however
 him
 in
 peace
@@ -96835,14 +96835,14 @@ so that
 he might come
 to
 me
-for
 I am expecting
+for
 him
 with
 the
 brothers
-now
 Concerning
+now
 Apollos
 the
 brother
@@ -96864,8 +96864,8 @@ was
 that
 now
 he should come
-however
 he will come
+however
 when
 he shall have opportunity
 Watch you
@@ -96880,8 +96880,8 @@ of you
 in
 love
 let be done
-now
 I exhort
+now
 you
 brothers
 you know
@@ -96912,8 +96912,8 @@ to everyone
 joining in the work
 and
 laboring
-however
 I rejoice
+however
 at
 the
 coming
@@ -96928,16 +96928,16 @@ your
 deficiency
 these
 have filled up
-for
 They refreshed
+for
 -
 my
 spirit
 and
 -
 yours
-therefore
 Recognize
+therefore
 -
 such as these
 Greet
@@ -97031,8 +97031,8 @@ in
 all
 -
 Achaia
-to you
 Grace
+to you
 and
 peace
 from
@@ -97105,8 +97105,8 @@ also
 the
 comfort
 of us
-however
 If
+however
 we are constricted
 [it is] for
 -
@@ -97141,20 +97141,20 @@ you
 knowing
 that
 as
-you are
 partners
+you are
 of the
 sufferings
 so
 also
 of the
 comfort
-for
-brothers
 Not
+for
 do we want
 you
 to be ignorant
+brothers
 as to
 the
 affliction
@@ -97234,8 +97234,8 @@ many
 thanks may be given
 for
 us
-For
 -
+For
 the boasting
 of us
 this
@@ -97264,15 +97264,15 @@ we have conducted ourselves
 in
 the
 world
-now
 more abundantly
+now
 toward
 you
+No
 for
+other things
 we write
 to you
-No
-other things
 other
 than
 what
@@ -97280,8 +97280,8 @@ you read
 or
 even
 understand
-now
 I hope
+now
 that
 to [the]
 end
@@ -97340,11 +97340,11 @@ to be set forward
 to
 -
 Judea
-therefore
 Thus
+therefore
 purposing
-then
 not
+then
 -
 lightness
 did I use
@@ -97365,8 +97365,8 @@ and
 -
 No
 no
-however
 Faithful
+however
 -
 God [is]
 that
@@ -97381,10 +97381,10 @@ was
 Yes
 and
 No
-for
 The
 -
 of God
+for
 Son
 Christ
 Jesus
@@ -97410,8 +97410,8 @@ Yes
 in
 Him
 it has always been
-for
 As many as
+for
 promises
 of God [there are]
 in
@@ -97430,8 +97430,8 @@ to God
 glory
 by
 us
-now
 The [One]
+now
 establishing
 us
 with
@@ -97456,8 +97456,8 @@ in
 the
 hearts
 of us
-however
 I
+however
 as witness
 -
 God
@@ -97473,8 +97473,8 @@ not yet
 have I come
 to
 Corinth
-that
 Not
+that
 we lord it over
 your
 -
@@ -97485,12 +97485,12 @@ are
 of the
 joy
 with you
-for
 in the
+for
 faith
 you stand firm
-for
 I judged
+for
 within myself
 this
 -
@@ -97501,8 +97501,8 @@ grief
 to
 you
 to come
-for
 If
+for
 I
 grieve
 you
@@ -97528,9 +97528,9 @@ grief
 I might have
 from [those]
 of whom
+it behooves
 me
 to rejoice
-it behooves
 trusting
 in
 all
@@ -97542,8 +97542,8 @@ joy
 of all
 of you
 is
-for
 Out of
+for
 much
 affliction
 and
@@ -97558,17 +97558,17 @@ not
 that
 you might be grieved
 but
-that
-you might know
 the
 love
+that
+you might know
 that
 I have
 more abundantly
 toward
 you
-however
 If
+however
 anyone
 has caused grief
 not
@@ -97577,11 +97577,11 @@ has he grieved
 but
 in
 part
-all
-you
 that
 not
 I might put it too severely
+all
+you
 Sufficient
 to
 such a one
@@ -97614,9 +97614,9 @@ to confirm
 toward
 him
 love
-indeed
 For
 this
+indeed
 also
 did I write
 so that
@@ -97629,13 +97629,13 @@ to
 everything
 obedient
 you are
-now
 To whomever
+now
 anything
 you forgive
 I also
-for
 and
+for
 I
 to whom
 I have forgiven
@@ -97653,14 +97653,14 @@ we should be outwitted
 by
 -
 Satan
-for
 not
+for
 of his
 -
 schemes
 we are ignorant
-now
 Having come
+now
 to
 -
 Troas
@@ -97695,10 +97695,10 @@ them
 I went out
 to
 Macedonia
-however
-[be] thanks
 To
+however
 God
+[be] thanks
 the [One]
 always
 leading in triumph
@@ -97731,15 +97731,15 @@ and
 in
 those
 perishing
-indeed
 to one
+indeed
 an odor
 from
 death
 to
 death
-now
 to one
+now
 a fragrance
 from
 life
@@ -97750,17 +97750,17 @@ for
 these things
 who [is]
 sufficient
-for
 Not
+for
 we are
+like
+the
+many
 peddling
 the
 word
 -
 of God
-like
-the
-many
 but
 as
 of
@@ -97830,8 +97830,8 @@ on
 tablets
 of hearts
 human
-now
 Confidence
+now
 such
 we have
 through
@@ -97869,16 +97869,16 @@ not
 of [the] letter
 but
 of [the] Spirit
-for
 the
+for
 letter
 kills
-but
 -
+but
 the Spirit
 gives life
-now
 If
+now
 the
 ministry
 -
@@ -97893,10 +97893,10 @@ glory
 so as for
 not
 to be able
+to look intently
 the
 sons
 of Israel
-to look intently
 into
 the
 face
@@ -97919,8 +97919,8 @@ Spirit
 will be
 in
 glory
-for
 If
+for
 in the
 ministry
 -
@@ -97934,8 +97934,8 @@ ministry
 -
 of righteousness
 [in] glory
-for
 Even
+for
 not
 has been glorified
 that
@@ -97948,8 +97948,8 @@ on account of
 the
 surpassing [it]
 glory
-for
 If
+for
 that which
 is fading away
 [was] through
@@ -97960,8 +97960,8 @@ that
 remaining
 in
 glory
-therefore
 Having
+therefore
 such
 hope
 great
@@ -97994,8 +97994,8 @@ were hardened
 the
 minds
 of them
-for
 Until
+for
 the
 present
 day
@@ -98018,8 +98018,8 @@ is being removed
 But
 unto
 this day
--
 when
+-
 shall be read
 Moses
 a veil
@@ -98028,8 +98028,8 @@ the
 heart
 of them
 lies
-however
 Whenever
+however
 if
 [one] shall have turned
 to
@@ -98037,20 +98037,20 @@ to
 is taken away
 the
 veil
-now
 The
+now
 Lord
 the
 Spirit
 is
-now
 where
+now
 the
 Spirit
 of [the] Lord [is]
 [there is] freedom
-now
 We
+now
 all
 having been unveiled
 in face
@@ -98110,8 +98110,8 @@ of men
 before
 -
 God
-however
 If
+however
 indeed
 is
 concealed
@@ -98152,16 +98152,16 @@ is
 [the] image
 -
 of God
-for
 Not
+for
 ourselves
 do we proclaim
 but
 Christ
 Jesus
 Lord
-now
 ourselves
+now
 servants
 of you
 for the sake of
@@ -98192,8 +98192,8 @@ of God
 in
 [the] face
 Christ
-now
 We have
+now
 the
 treasure
 this
@@ -98250,8 +98250,8 @@ the
 body
 of us
 should be manifested
-for
 always
+for
 we
 the
 living
@@ -98278,13 +98278,13 @@ death
 in
 us
 works
-but
 -
+but
 life
 in
 you
-however
 Having
+however
 the
 same
 spirit
@@ -98318,8 +98318,8 @@ and
 will present [us]
 with
 you
-For
 -
+For
 all things [are]
 for the sake of
 you
@@ -98357,8 +98357,8 @@ is being renewed
 day
 and
 day
-for
 The
+for
 momentary
 lightness
 -
@@ -98381,17 +98381,17 @@ but
 the things
 not
 being seen
-for
 The things
+for
 being seen [are]
 temporary
-however
 the things
+however
 not
 being seen
 [are] eternal
-for
 We know
+for
 that
 if
 -
@@ -98401,18 +98401,18 @@ house
 the
 tent
 should be destroyed
+a building
 from
 God
 we have
-a building
 a house
 not made with hands
 eternal
 in
 the
 heavens
-indeed
 And
+indeed
 in
 this
 we groan
@@ -98431,8 +98431,8 @@ having been clothed
 not
 naked
 we will be found
-for
 And
+for
 -
 being
 in
@@ -98442,8 +98442,8 @@ we groan
 being burdened
 because
 that
-we do wish
 not
+we do wish
 to be unclothed
 but
 to be clothed
@@ -98454,8 +98454,8 @@ mortal
 by
 -
 life
-now
 The [One]
+now
 having prepared
 us
 for
@@ -98469,8 +98469,8 @@ the
 pledge
 of the
 Spirit
-therefore
 being confident
+therefore
 always
 and
 knowing
@@ -98483,15 +98483,15 @@ we are absent
 from
 the
 Lord
-for
 by
 faith
+for
 we walk
 not
 by
 sight
-now
 We are confident
+now
 and
 are pleased
 rather
@@ -98514,17 +98514,17 @@ being away
 well-pleasing
 to Him
 to be
-For
 -
+For
 all
 of us
 to be revealed
+it behooves
 before
 the
 judgment seat
 -
 of Christ
-it behooves
 that
 may receive back
 each
@@ -98539,19 +98539,19 @@ whether
 good
 or
 evil
-therefore
 Knowing
+therefore
 the
 fear
 of the
 Lord
 men
 we persuade
-and
 to God
+and
 we have been made manifest
-now
 I hope
+now
 also
 in
 the
@@ -98565,9 +98565,9 @@ are we commending
 to you
 but
 occasion
-of boasting
 are giving
 to you
+of boasting
 on behalf of
 us
 so that
@@ -98581,15 +98581,15 @@ and
 not
 in
 [the] heart
-for
 If
+for
 we are beside ourselves
 [it is] to God
 or if
 we are sober-minded
 [it is] for you
-for
 The
+for
 love
 -
 of Christ
@@ -98613,9 +98613,9 @@ He died
 that
 those
 living
-should live
 no longer
 to themselves
+should live
 but
 to the [One]
 for
@@ -98655,8 +98655,8 @@ have passed away
 behold
 has come into being
 [the] new
-And
 -
+And
 all things
 [are] of
 -
@@ -98678,10 +98678,10 @@ how
 that
 God
 was
-reconciling
 in
 Christ
 [the] world
+reconciling
 to Himself
 not
 reckoning
@@ -98697,9 +98697,9 @@ the
 word
 -
 of reconciliation
-therefore
 For
 Christ
+therefore
 we are ambassadors
 as though
 -
@@ -98728,8 +98728,8 @@ might become
 of God
 in
 Him
-now
 Working together
+now
 also
 we exhort
 not
@@ -98741,8 +98741,8 @@ grace
 of God
 to receive
 you
-for
 He says
+for
 In a time
 acceptable
 I listened to
@@ -98762,10 +98762,10 @@ now
 [is the] day
 of salvation
 Nothing
-an obstacle
 before
 no one
 placing
+an obstacle
 so that
 not
 should be blemished
@@ -98857,13 +98857,13 @@ not
 being killed
 as
 being sorrowful
-yet
 always
+yet
 rejoicing
 as
 poor
-yet
 many
+yet
 enriching
 as
 nothing
@@ -98871,13 +98871,13 @@ having
 and yet
 all things
 possessing
-Corinthians
 The
 mouth
 of us
 has been opened
 to
 you
+Corinthians
 the
 heart
 of us
@@ -98886,14 +98886,14 @@ Not
 you are restrained
 by
 us
-however
 you are restrained
+however
 in
 the
 affections
 of you
-Now
 -
+Now
 [as] the same
 recompense
 as
@@ -98906,8 +98906,8 @@ Not
 become
 unequally yoked together
 with unbelievers
-for
 what
+for
 partnership [have]
 righteousness
 and
@@ -98918,8 +98918,8 @@ fellowship
 light
 with
 darkness
-now
 What
+now
 harmony
 Christ
 with
@@ -98930,19 +98930,19 @@ part
 to a believer
 with
 an unbeliever
-now
 What
+now
 agreement
 [the] temple
 of God
 with
 idols
-for
 We
+for
 [the] temple
 of God
-[the] living
 are
+[the] living
 as
 has said
 -
@@ -98969,12 +98969,12 @@ the midst
 of them
 and
 be separate
+says
+[the] Lord
 and
 unclean
 nothing
 touch
-says
-[the] Lord
 and I
 will receive
 you
@@ -98994,12 +98994,12 @@ daughters
 says
 [the] Lord
 Almighty
-therefore
-beloved
-having
 These
+therefore
+having
 -
 promises
+beloved
 we should cleanse
 ourselves
 from
@@ -99025,8 +99025,8 @@ For
 condemnation
 not
 I speak
-for
 I have before said
+for
 that
 in
 the
@@ -99059,8 +99059,8 @@ all
 the
 affliction
 of us
-for
 And
+for
 having come
 of us
 into
@@ -99084,17 +99084,17 @@ the [One]
 comforting
 the
 downcast
--
-God
 comforted
 us
+-
+God
 by
 the
 coming
 of Titus
-now
 not
 only
+now
 by
 the
 coming
@@ -99159,8 +99159,8 @@ that
 you were grieved
 unto
 repentance
-for
 you were grieved
+for
 according to
 God
 so that
@@ -99169,8 +99169,8 @@ nothing
 you might suffer loss
 through
 us
-for
 The
+for
 according to
 God
 grief
@@ -99179,24 +99179,24 @@ to
 salvation
 without regret
 produces
-and
 -
+and
 the of the
 world
 grief
 death
 produces
-for
 Behold
+for
 this very
 same
 thing
 according to
 God
 to have been grieved
+how much
 has produced
 in you
-how much
 earnestness
 but instead
 reasoned defense
@@ -99249,8 +99249,8 @@ God
 On account of
 this
 we have been comforted
-now
 Besides
+now
 the
 comfort
 of us
@@ -99321,10 +99321,10 @@ everything
 I am confident
 in
 you
-now
-brothers
 We make known
+now
 to you
+brothers
 the
 grace
 -
@@ -99359,10 +99359,10 @@ riches
 the
 generosity
 of them
-I testify [that]
 For
 according to
 [their] ability
+I testify [that]
 and
 beyond
 [their] ability
@@ -99458,8 +99458,8 @@ of your
 love
 genuineness
 proving
-for
 You know
+for
 the
 grace
 of the
@@ -99484,8 +99484,8 @@ a judgment
 in
 this [matter]
 I give
-indeed
 this
+indeed
 for you
 is profitable
 who
@@ -99500,8 +99500,8 @@ to will
 have begun
 from
 a year ago
-then
 Now
+then
 also
 the
 doing
@@ -99519,8 +99519,8 @@ to complete
 out of
 that which
 you have
-for
 If
+for
 the
 readiness
 is present
@@ -99532,8 +99532,8 @@ not
 as
 not
 he does have
-for
 Not
+for
 that
 to others [there may be]
 ease
@@ -99579,8 +99579,8 @@ the
 little
 not
 had lack
-however
 Thanks
+however
 -
 to God
 the [One]
@@ -99595,19 +99595,19 @@ the
 heart
 of Titus
 For
-indeed
 [our]
+indeed
 appeal
 he accepted
-however
 very earnest
+however
 being
 of his own accord
 he has gone out
 to
 you
-now
 We have sent
+now
 with
 him
 the
@@ -99622,9 +99622,9 @@ through
 all
 of the
 churches
-now
 not
 only
+now
 but
 also
 having been chosen
@@ -99664,8 +99664,8 @@ this
 being administered
 by
 us
-for
 We are taking great care to do
+for
 what is right
 not
 only
@@ -99675,8 +99675,8 @@ but
 also
 before
 men
-now
 We sent with
+now
 them
 the
 brother
@@ -99688,8 +99688,8 @@ many things
 often
 earnest
 to be
-however
 now
+however
 much
 earnest
 by [his] confidence
@@ -99713,8 +99713,8 @@ our
 of [the] churches
 [the] glory
 of Christ
-Therefore
 -
+Therefore
 the proof
 of the
 love
@@ -99731,9 +99731,9 @@ in
 face
 of the
 churches
-for
-now
 Concerning
+now
+for
 the
 service
 -
@@ -99746,8 +99746,8 @@ it is
 -
 to write
 to you
-for
 I know
+for
 the
 readiness
 of you
@@ -99768,8 +99768,8 @@ zeal
 has been provoking
 the
 greater number
-however
 I have sent
+however
 the
 brothers
 that
@@ -99811,8 +99811,8 @@ in
 the
 confidence
 this
-therefore
 Necessary
+therefore
 I esteemed [it]
 to exhort
 the
@@ -99837,8 +99837,8 @@ and
 not
 as
 covetousness
-now
 This
+now
 The [one]
 sowing
 sparingly
@@ -99865,14 +99865,14 @@ regret
 or
 of
 necessity
-for
 a cheerful
+for
 giver
 loves
 -
 God
-now
 Able [is]
+now
 -
 God
 all
@@ -99905,8 +99905,8 @@ abides
 to
 the
 age
-now
 The [One]
+now
 supplying
 seed
 to him
@@ -100015,8 +100015,8 @@ the
 indescribable
 of Him
 gift
-now
 Myself
+now
 I
 Paul
 exhort
@@ -100029,19 +100029,19 @@ gentleness
 -
 of Christ
 who
-indeed
 as to
 appearance
+indeed
 [am] humble
 among
 you
-however
 being absent
+however
 am bold
 toward
 you
-now
 I implore [you]
+now
 that
 not
 being present
@@ -100060,16 +100060,16 @@ as
 according to
 flesh
 walking
-for
 In
 flesh
+for
 walking
 not
 according to
 flesh
 do we wage war
-for
 The
+for
 weapons
 of the
 warfare
@@ -100083,8 +100083,8 @@ divinely
 to
 [the] demolition
 of strongholds
-overthrowing
 arguments
+overthrowing
 and
 every
 high thing
@@ -100137,9 +100137,9 @@ he
 so
 also [are]
 we
-for
 If
 even
+for
 more abundantly
 somewhat
 I should boast
@@ -100171,15 +100171,15 @@ by means of
 the
 letters
 For
-they say
-indeed
 the
 letters
+indeed
+they say
 [are] weighty
 and
 strong
-but
 -
+but
 the presence
 of the
 body
@@ -100205,8 +100205,8 @@ also
 being present
 -
 in action
-for
 Not
+for
 dare we
 to classify
 or
@@ -100228,8 +100228,8 @@ themselves
 with themselves
 not
 understand
-however
 We
+however
 not
 into
 the things
@@ -100251,8 +100251,8 @@ to reach
 as far as
 also
 you
-for
 Not
+for
 as
 not
 reaching
@@ -100260,8 +100260,8 @@ to
 you
 we are overextending
 ourselves
-for
 as far as
+for
 also
 you
 we came
@@ -100278,8 +100278,8 @@ boasting
 in
 others’
 labors
-however
 hope
+however
 having
 increasing
 the
@@ -100307,14 +100307,14 @@ in
 things
 ready
 to boast
-however
 The [one]
+however
 boasting
 in
 [the] Lord
 let him boast
-for
 Not
+for
 the [one]
 himself
 commending
@@ -100336,13 +100336,13 @@ but
 indeed
 you do bear with
 me
-for
 I am jealous as to
+for
 you
 of God
 with [the] jealousy
-for
 I have betrothed
+for
 you
 to one
 husband
@@ -100351,8 +100351,8 @@ pure
 to present
 -
 to Christ
-however
 I am afraid
+however
 lest
 by any means
 as
@@ -100377,21 +100377,21 @@ purity
 -
 in
 Christ
-for
-indeed
 If
+indeed
+for
 the [one]
 coming
-proclaims
 another
 Jesus
+proclaims
 whom
 not
 we did proclaim
 or
-you receive
 a spirit
 different
+you receive
 which
 not
 you did receive
@@ -100403,15 +100403,15 @@ not
 you did accept
 well
 are you bearing with [it]
-for
 I reckon
+for
 in nothing
 to have been inferior
 to those
 most eminent
 apostles
-however
 If
+however
 even
 unpolished
 -
@@ -100462,8 +100462,8 @@ having been in need
 not
 I did burden
 no one
-for
 -
+for
 the need
 of me
 completely filled up
@@ -100508,8 +100508,8 @@ you
 -
 God
 knows [I do]
-however
 What
+however
 I do
 also
 I will do
@@ -100528,8 +100528,8 @@ they might be found
 as
 also
 we
-For
 -
+For
 such [are]
 false apostles
 workers
@@ -100541,17 +100541,17 @@ of Christ
 And
 no
 wonder
-for
 himself
+for
 -
 Satan
 masquerades
 as
 an angel
 of light
-therefore
 [It is] not
 surprising
+therefore
 if
 also
 the
@@ -100573,12 +100573,12 @@ Again
 I say
 no
 one
-should think
 me
+should think
 a fool
 to be
-however
 if
+however
 otherwise
 even
 as
@@ -100614,15 +100614,15 @@ the
 flesh
 I also
 will boast
-for
 Gladly
+for
 you bear with
 -
 fools
 wise
 being
-for
 You bear [it]
+for
 if
 anyone
 you
@@ -100649,10 +100649,10 @@ as
 that
 we
 have been weak
-however
--
 In
 whatever
+however
+-
 anyone
 might be daring
 in
@@ -100788,13 +100788,13 @@ Father
 of the
 Lord
 Jesus
+knows
 the [One]
 being
 blessed
 to
 the
 ages
-knows
 that
 not
 I am lying
@@ -100827,11 +100827,11 @@ hands
 of him
 To boast
 it behooves [me]
-indeed
 not
 is it profitable
-however
+indeed
 I will go on
+however
 to
 visions
 and
@@ -100841,6 +100841,9 @@ I know
 a man
 in
 Christ
+ago
+years
+fourteen
 whether
 in
 [the] body
@@ -100855,9 +100858,6 @@ I know
 -
 God
 knows
-ago
-years
-fourteen
 having been caught up
 -
 such a man
@@ -100891,16 +100891,16 @@ he heard
 inexpressible
 words
 -
-to speak
 not
 being permitted
 to man
+to speak
 Concerning
 -
 such a man
 I will boast
-however
 concerning
+however
 myself
 not
 I will boast
@@ -100909,18 +100909,18 @@ not
 in
 the
 weaknesses
-for
 If
+for
 I should desire
 to boast
 not
 I will be
 a fool
-for
 [the] truth
+for
 I will be speaking
-however
 I refrain
+however
 lest
 anyone
 to
@@ -100974,14 +100974,14 @@ you
 the
 grace
 of Me
-for
 the
+for
 power
 in
 weakness
 is perfected
-therefore
 Most gladly
+therefore
 rather
 will I boast
 in
@@ -101009,8 +101009,8 @@ and
 difficulties
 for
 Christ
-for
 when
+for
 I might be weak
 then
 strong
@@ -101020,14 +101020,14 @@ a fool
 you
 me
 compelled
-for
 I
+for
 ought
 by
 you
 to have been commended
-for
 In no way
+for
 was I inferior
 to those
 most eminent
@@ -101036,8 +101036,8 @@ though
 even
 nothing
 I am
-indeed
 The
+indeed
 signs
 of the
 apostle
@@ -101047,14 +101047,14 @@ you
 in
 all
 perseverance
-both
 in signs
+both
 and
 wonders
 and
 miracles
-for
 In what
+for
 is it
 that
 you were inferior
@@ -101086,15 +101086,15 @@ you
 and
 not
 I will burden [you]
-for
 not
+for
 I seek
 what [is]
 yours
 but
 you
-for
 Not
+for
 ought
 the
 children
@@ -101106,8 +101106,8 @@ the
 parents
 for the
 children
-now
 I
+now
 most gladly
 will spend
 and
@@ -101122,8 +101122,8 @@ you
 loving
 less
 I am loved
-however
 Be it so
+however
 I
 not
 did burden
@@ -101173,16 +101173,16 @@ God
 in
 Christ
 we speak
-but
-beloved
 -
+but
 all things
+beloved
 for
 -
 your
 edification
-for
 I fear
+for
 lest
 perhaps
 having come
@@ -101274,8 +101274,8 @@ again
 not
 I will spare [anyone]
 since
-you seek
 a proof
+you seek
 -
 in
 me
@@ -101290,8 +101290,8 @@ but
 is powerful
 among
 you
-for
 And
+for
 He was crucified
 in
 weakness
@@ -101300,8 +101300,8 @@ He lives
 by
 power
 God’s
-for
 Also
+for
 we
 are weak
 in
@@ -101337,8 +101337,8 @@ if
 not
 unapproved
 you are
-now
 I hope
+now
 that
 you will know
 that
@@ -101346,8 +101346,8 @@ we
 not
 are
 unapproved
-now
 We pray
+now
 to
 -
 God
@@ -101367,13 +101367,13 @@ you
 what [is]
 right
 may do
-though
 we
+though
 as
 unapproved
 might appear
-for
 Nothing
+for
 have we power
 any
 against
@@ -101383,18 +101383,18 @@ but
 for
 the
 truth
-for
 We rejoice
+for
 when
 we
 might be weak
-however
 you
+however
 strong
 might be
+But this
 also
 We pray for
-But this
 the
 of you
 perfection
@@ -101422,8 +101422,8 @@ and
 not
 for
 tearing down
-brothers
 Finally
+brothers
 rejoice
 Be perfected
 be exhorted
@@ -101501,8 +101501,8 @@ To the
 churches
 -
 of Galatia
-to you
 Grace
+to you
 and
 peace
 from
@@ -101610,10 +101610,10 @@ what
 you received
 accursed
 let him be
-for
 Presently
-do I seek approval
+for
 of men
+do I seek approval
 or
 -
 God
@@ -101625,15 +101625,15 @@ For if
 yet
 men
 I were pleasing
--
 of Christ
 a servant
 not
+-
 I would be
-for
-brothers
 I make known
+for
 to you
+brothers
 the
 gospel
 -
@@ -101645,8 +101645,8 @@ not
 it is
 according to
 man
-for
 Neither
+for
 I
 from
 man
@@ -101659,8 +101659,8 @@ by
 a revelation
 of Jesus
 Christ
-for
 You have heard of
+for
 -
 my
 way of life
@@ -101692,14 +101692,14 @@ the
 countrymen
 of me
 more abundantly
-being
 zealous
+being
 of the
 fathers
 of me
 traditions
-however
 When
+however
 was pleased
 -
 having selected
@@ -101765,8 +101765,8 @@ with
 him
 days
 fifteen
-however
 Other
+however
 of the
 apostles
 none
@@ -101778,8 +101778,8 @@ the
 brother
 of the
 Lord
-now
 In what
+now
 I write
 to you
 behold
@@ -101799,8 +101799,8 @@ of Syria
 and
 -
 Cilicia
-then
 I was
+then
 unknown
 -
 by face
@@ -101811,8 +101811,8 @@ of Judea
 that [are]
 in
 Christ
-however
 Only
+however
 hearing
 they were
 that
@@ -101846,8 +101846,8 @@ Barnabas
 having taken with [me]
 also
 Titus
-now
 I went up
+now
 according to
 a revelation
 and
@@ -101860,9 +101860,9 @@ I proclaim
 among
 the
 Gentiles
-however
 apart
 individually
+however
 to those
 esteemed
 lest
@@ -101882,8 +101882,8 @@ a Greek
 being
 was compelled
 to be circumcised
-even
 because of
+even
 the
 brought in secretly
 false brothers
@@ -101916,8 +101916,8 @@ gospel
 might continue
 with
 you
-now
 Of
+now
 those
 esteemed
 to be
@@ -101929,13 +101929,13 @@ not
 to me
 makes a difference
 [the] person
-of a man
 -
 God
+of a man
 not
 does accept
-for
 to me
+for
 the
 esteemed
 nothing
@@ -101953,8 +101953,8 @@ just as
 Peter [with that]
 of the
 circumcision
-for
 the [One]
+for
 having worked
 in Peter
 for
@@ -101984,25 +101984,25 @@ esteemed
 pillars
 to be
 [the] right hands
-of fellowship
 gave
 to me
 and
 Barnabas
+of fellowship
 that
 we [should go]
 to
 the
 Gentiles
-however
 they
+however
 to
 the
 circumcision
 Only [they asked]
-that
 the
 poor
+that
 we should remember
 that
 also
@@ -102010,8 +102010,8 @@ I was eager
 the same
 thing
 to do
-however
 When
+however
 came
 Peter
 to
@@ -102023,9 +102023,9 @@ I opposed [him]
 because
 condemned
 he stood
-for
 Before
 -
+for
 came
 certain ones
 from
@@ -102034,8 +102034,8 @@ with
 the
 Gentiles
 he was eating
-however
 when
+however
 they came
 he was drawing back
 and
@@ -102085,9 +102085,9 @@ not
 like a Jew
 live
 why
-do you compel
 the
 Gentiles
+do you compel
 to Judaize
 We
 by birth
@@ -102097,8 +102097,8 @@ not
 of
 [the] Gentiles
 sinners
-nevertheless
 knowing
+nevertheless
 that
 not
 is justified
@@ -102136,8 +102136,8 @@ not
 will be justified
 any
 flesh
-however
 If
+however
 seeking
 to be justified
 in
@@ -102152,8 +102152,8 @@ of sin
 a minister
 Never
 may it be
-for
 If
+for
 that
 I had torn down
 these things
@@ -102162,8 +102162,8 @@ I build
 a transgressor
 myself
 I prove
-for
 I
+for
 through
 [the] Law
 to [the] Law
@@ -102173,24 +102173,24 @@ to God
 I might live
 
 
-now
 I live
+now
 no longer
 I
-however
 lives
+however
 in
 me
 Christ
-I have been crucified with then
 Christ that which
+I have been crucified with then
 now
 I live
 in
 [the] flesh
-I live
 through
 faith
+I live
 that
 from the
 Son
@@ -102210,8 +102210,8 @@ the
 grace
 -
 of God
-for
 if
+for
 through
 [the] Law
 righteousness [is]
@@ -102232,18 +102232,18 @@ Jesus
 Christ
 was publicly portrayed
 [as] having been crucified
-I wish
 This
 only
+I wish
 to learn
 from
 you
-the
-Spirit
-did you receive
 by
 works
 of [the] Law
+the
+Spirit
+did you receive
 or
 by
 hearing
@@ -102263,8 +102263,8 @@ if
 indeed
 also
 in vain
-therefore
 The [One]
+therefore
 supplying
 to you
 the
@@ -102291,20 +102291,20 @@ it was reckoned
 to him
 as
 righteousness
-then
 Know
+then
 that
 those
 of
 faith
 these
 sons
-of Abraham
 are
+of Abraham
+Having foreseen
 then
 the
 Scripture
-Having foreseen
 that
 by
 faith
@@ -102332,8 +102332,8 @@ along with
 the
 believing
 Abraham
-for
 As many as
+for
 of
 works
 of [the] Law
@@ -102341,8 +102341,8 @@ are
 under
 a curse
 are
-for
 it has been written
+for
 -
 Cursed [is]
 everyone
@@ -102360,8 +102360,8 @@ Law
 -
 to do
 them
-now
 That
+now
 by
 [the] law
 no one
@@ -102376,8 +102376,8 @@ righteous
 by
 faith
 will live
-And
 -
+And
 the Law
 not
 is
@@ -102443,12 +102443,12 @@ no one
 sets aside
 or
 adds thereto
+-
 And
+to Abraham
 were spoken
 the
 promises
--
-to Abraham
 and
 to the
 seed
@@ -102472,8 +102472,8 @@ of you
 who
 is
 Christ
-now
 This
+now
 I say
 [The] covenant
 having been confirmed beforehand
@@ -102495,8 +102495,8 @@ so as
 to nullify
 the
 promise
-for
 If
+for
 by
 [the] Law [is]
 the
@@ -102504,16 +102504,16 @@ inheritance
 [it is] no longer
 by
 a promise
-but
 -
+but
 to Abraham
 through
 a promise
 has granted [it]
 -
 God
-then
 Why
+then
 the
 Law
 -
@@ -102533,19 +102533,19 @@ angels
 in
 [the] hand
 of a mediator
-However
 -
+However
 a mediator
 of one [person]
 not
 is
-but
 -
+but
 God
 one
 is
-therefore
 The
+therefore
 Law
 [is] contrary to
 the
@@ -102554,17 +102554,17 @@ promises
 of God
 Never
 may it be
-for
 If
+for
 had been given
 a law
 -
 being able
 to impart life
--
 indeed
 from out of
 [the] Law
+-
 would have emerged
 -
 righteousness
@@ -102586,9 +102586,9 @@ Christ
 might be given
 to those
 believing
-now
 Before
 -
+now
 came
 -
 faith
@@ -102599,8 +102599,8 @@ having been locked up
 until
 the
 being about
-to be revealed
 faith
+to be revealed
 so that
 the
 Law
@@ -102613,16 +102613,16 @@ so that
 by
 faith
 we might be justified
-now
 Having come
+now
 -
 faith
 no longer
 under
 a trainer
 we are
-for
 All
+for
 sons
 of God
 you are
@@ -102632,8 +102632,8 @@ faith
 in
 Christ
 Jesus
-for
 As many as
+for
 into
 Christ
 you were baptized
@@ -102654,16 +102654,16 @@ there is
 male
 and
 female
-for
 all
+for
 you
 one
 are
 in
 Christ
 Jesus
-now
 If
+now
 you [are]
 Christ’s
 then
@@ -102674,8 +102674,8 @@ you are
 according to
 [the] promise
 heirs
-now
 I say
+now
 for
 as long as
 time
@@ -102692,9 +102692,9 @@ being
 Instead
 under
 guardians
+he is
 and
 trustees
-he is
 until
 the
 time appointed
@@ -102713,8 +102713,8 @@ of the
 world
 were
 held in bondage
-however
 When
+however
 had come
 the
 fullness
@@ -102741,8 +102741,8 @@ so that
 the
 divine adoption as sons
 we might receive
-now
 Because
+now
 you are
 sons
 sent forth
@@ -102762,21 +102762,21 @@ Abba
 -
 Father
 So
-you are
 no longer
+you are
 a slave
 but
 a son
-now
 if
+now
 a son
 also
 an heir
 through
 God
 But
-indeed
 at that time
+indeed
 not
 knowing
 God
@@ -102786,12 +102786,12 @@ by nature
 not
 being
 gods
-however
 now
+however
 having known
 God
-however
 rather
+however
 having been known
 by
 God
@@ -102809,8 +102809,8 @@ again
 anew
 to be enslaved
 you desire
-you observe
 Days
+you observe
 and
 months
 and
@@ -102838,8 +102838,8 @@ you
 In nothing
 me
 have You wronged
-now
 You know
+now
 that
 in
 weakness
@@ -102850,7 +102850,6 @@ to you
 at the
 first
 and
-not
 the
 test
 of you
@@ -102858,6 +102857,7 @@ in
 the
 flesh
 of me
+not
 you did despise [me]
 nor
 reject [me] with contempt
@@ -102870,13 +102870,13 @@ me
 even as
 Christ
 Jesus
-then
 What
+then
 the
 blessedness
 of you
-for
 I bear witness
+for
 to you
 that
 if
@@ -102904,8 +102904,8 @@ They desire
 so that
 them
 you might be zealous after
-now
 Good [it is]
+now
 to be zealous
 in
 a right [thing]
@@ -102930,8 +102930,8 @@ shall have been formed
 Christ
 in
 you
-indeed
 I was wishing
+indeed
 to be present
 with
 you
@@ -102950,19 +102950,19 @@ me
 those
 under
 [the] Law
-to be
 wishing
+to be
 the
 Law
 not
 you do listen to
-for
 It has been written
+for
 that
 Abraham
-had
 two
 sons
+had
 one
 of
 the
@@ -102973,16 +102973,16 @@ of
 the
 free
 But
-indeed
 the [one]
+indeed
 of
 the
 slave woman
 according to
 flesh
 has been born
-but
 the [one]
+but
 of
 the
 free
@@ -102992,13 +102992,13 @@ promise
 which things
 are
 allegorized
-for
 these
+for
 are
 two
 covenants
-indeed
 one
+indeed
 from
 Mount
 Sinai
@@ -103008,8 +103008,8 @@ begetting
 which
 is
 Hagar
-And
 -
+And
 Hagar
 Sinai
 Mount
@@ -103017,19 +103017,19 @@ is
 in
 -
 Arabia
-now
 she corresponds
+now
 to the
 present
 Jerusalem
-for
 she is in slavery
+for
 with
 the
 children
 of her
-But
 -
+But
 the above
 Jerusalem
 free
@@ -103038,8 +103038,8 @@ who
 is
 mother
 of us
-for
 It has been written
+for
 Rejoice
 O barren woman
 the [one]
@@ -103063,9 +103063,9 @@ of her
 having
 the
 husband
+You
 now
 brothers
-You
 like
 Isaac
 of promise
@@ -103097,8 +103097,8 @@ and
 the
 son
 of her
-for
 no
+for
 not
 will inherit
 the
@@ -103112,8 +103112,8 @@ of the
 free
 So then
 brothers
-we are
 not
+we are
 of [the] slave woman
 children
 but
@@ -103124,8 +103124,8 @@ freedom
 us
 Christ
 has set free
-therefore
 stand firm
+therefore
 and
 not
 again
@@ -103144,8 +103144,8 @@ Christ
 you
 nothing
 will profit
-now
 I testify
+now
 again
 to every
 man
@@ -103167,24 +103167,24 @@ are being justified
 from
 grace
 you have fallen away
-for
 We
+for
 through [the] Spirit
 by
 faith
 [the] hope
 of righteousness
 eagerly await
-for
 In
+for
 Christ
 Jesus
 neither
 circumcision
-nor
-uncircumcision
 any
 has power
+nor
+uncircumcision
 but only
 faith
 through
@@ -103193,8 +103193,8 @@ working
 You were running
 well
 Who
-cut into
 you
+cut into
 truth
 not
 to obey
@@ -103221,20 +103221,20 @@ that
 no
 other
 mind will you have
-however
 The [one]
+however
 troubling
 you
 will bear
 the
 judgment
-if
 whoever
+if
 he might be
+I
 now
 brothers
 if
-I
 circumcision
 still
 proclaim
@@ -103253,8 +103253,8 @@ will emasculate themselves
 those
 upsetting
 you
-for
 You
+for
 to
 freedom
 were called
@@ -103273,14 +103273,14 @@ through
 love
 serve
 one another
-For
 -
+For
 the entire
 Law
-is fulfilled
 in
 one
 word
+is fulfilled
 in
 this
 You shall love
@@ -103289,8 +103289,8 @@ neighbor
 of you
 as
 yourself
-however
 If
+however
 one another
 you bite
 and
@@ -103300,8 +103300,8 @@ lest
 by
 one another
 you might be consumed
-now
 I say
+now
 by [the] Spirit
 walk
 and
@@ -103310,40 +103310,40 @@ and
 no
 not
 you should gratify
-for
 The
+for
 flesh
 desires
 against
 the
 Spirit
-and
 -
+and
 the Spirit
 against
 the
 flesh
-for
 these
+for
 to one another
 are opposed
 in order
 not
-if
 that
+if
 you might wish
 those things
 you should do
-however
 If
+however
 [the] Spirit
 you are led by
 not
 you are
 under
 [the] Law
-now
 Evident
+now
 are
 the
 works
@@ -103384,8 +103384,8 @@ kingdom
 God’s
 not
 will inherit
-But
 -
+But
 the fruit
 of the
 Spirit
@@ -103405,8 +103405,8 @@ such
 no
 there is
 law
-now
 Those
+now
 -
 of Christ
 Jesus
@@ -103466,8 +103466,8 @@ the
 law
 -
 of Christ
-for
 If
+for
 thinks [himself]
 anyone
 to be
@@ -103476,8 +103476,8 @@ nothing
 being
 he deceives
 himself
-But
 -
+But
 the work
 of himself
 test
@@ -103495,14 +103495,14 @@ not
 as to
 -
 another
-for
 Each
+for
 -
 his own
 load
 shall bear
-now
 Let share
+now
 the [one]
 being taught
 in the
@@ -103517,9 +103517,9 @@ be misled
 God
 not
 is mocked
+Whatever
 for
 if
-Whatever
 might sow
 a man
 that
@@ -103537,8 +103537,8 @@ the
 flesh
 will reap
 decay
-however
 The [one]
+however
 sowing
 to
 the
@@ -103549,14 +103549,14 @@ Spirit
 will reap
 life
 eternal
-And
 -
+And
 [in] well
 doing
 not
 we should grow weary
-for
 in time
+for
 due
 we will reap a harvest
 not
@@ -103571,8 +103571,8 @@ we should work
 good
 toward
 all
-now
 especially
+now
 toward
 those
 of the household
@@ -103580,8 +103580,8 @@ of the
 of faith
 See
 in how large
-letters
 to you
+letters
 I have written
 with
 my own
@@ -103595,16 +103595,16 @@ these
 compel
 you
 to be circumcised
-that
 only
+that
 for the
 cross
 -
 of Christ
 not
 they might be persecuted
-for
 Not even
+for
 those
 being circumcised
 themselves
@@ -103620,8 +103620,8 @@ in
 your
 flesh
 they may boast
-however
 For me
+however
 never
 may it be
 to boast
@@ -103642,11 +103642,11 @@ to me
 has been crucified
 and I
 [to the] world
+Neither
 for
+circumcision
 anything
 is
-Neither
-circumcision
 nor
 uncircumcision
 instead
@@ -103659,10 +103659,10 @@ rule
 by this
 will walk
 peace [be]
-and
-mercy
 upon
 them
+and
+mercy
 and
 upon
 the
@@ -103675,8 +103675,8 @@ troubles
 to me
 no one
 let give
-for
 I
+for
 the
 marks
 -
@@ -103717,8 +103717,8 @@ faithful
 in
 Christ
 Jesus
-to you
 Grace
+to you
 and
 peace
 from
@@ -103881,11 +103881,11 @@ of Him
 for
 -
 to be
+us
 to
 [the] praise
 of [the] glory
 of Him
-us
 the [ones]
 having first trusted
 in
@@ -104161,14 +104161,14 @@ thoughts
 and
 we were
 children
-of wrath
 by nature
+of wrath
 as
 even
 the
 rest
-But
 -
+But
 God
 rich
 being
@@ -104224,8 +104224,8 @@ us
 in
 Christ
 Jesus
-For
 -
+For
 by grace
 you are
 saved
@@ -104246,9 +104246,9 @@ so that
 not
 anyone
 may boast
+Of Him
 for
 we are
-Of Him
 workmanship
 having been created
 in
@@ -104310,8 +104310,8 @@ without God
 in
 the
 world
-however
 Now
+however
 in
 Christ
 Jesus
@@ -104327,8 +104327,8 @@ the
 blood
 -
 of Christ
-for
 He Himself
+for
 is
 the
 peace
@@ -104343,9 +104343,9 @@ the
 barrier
 of the
 fence
+having broken down
 the
 hostility
-having broken down
 in
 the
 flesh
@@ -104550,8 +104550,8 @@ through
 the
 gospel
 of which
-servant
 I became
+servant
 according to
 the
 gift
@@ -104732,8 +104732,8 @@ and
 height
 and
 depth
-then
 to know
+then
 the
 surpassing
 -
@@ -104749,13 +104749,13 @@ the
 fullness
 -
 of God
-now
 To the [One]
+now
 being able
-to do
-exceedingly
 above
 all things
+to do
+exceedingly
 that
 we ask
 or
@@ -104786,8 +104786,8 @@ age
 of the
 ages
 Amen
-therefore
 Exhort
+therefore
 you
 I
 the
@@ -104856,8 +104856,8 @@ all
 and
 in
 all
-now
 One
+now
 to each
 of us
 has been given
@@ -104881,8 +104881,8 @@ gave
 gifts
 -
 to men
-And
 -
+And
 He ascended
 what
 is
@@ -104915,17 +104915,17 @@ all things
 And
 He
 gave
+some
 indeed
-some
 [to be] apostles
-now
 some
+now
 prophets
-now
 some
+now
 evangelists
-now
 some
+now
 shepherds
 and
 teachers
@@ -104992,15 +104992,15 @@ the
 scheming
 -
 of deceit
-however
 Speaking the truth
+however
 in
 love
 we should grow up
-in
-all things
 into
 Him
+in
+all things
 who
 is
 the
@@ -105036,8 +105036,8 @@ to
 of itself
 in
 love
-therefore
 This
+therefore
 I say
 and
 testify
@@ -105057,9 +105057,9 @@ of the
 mind
 of them
 being darkened
-being
 in the
 understanding
+being
 alienated from
 the
 life
@@ -105090,8 +105090,8 @@ of impurity
 all
 with
 greediness
-however
 You
+however
 not
 this way
 learned
@@ -105127,8 +105127,8 @@ according to
 desires
 -
 of deceit
-then
 to be renewed
+then
 in the
 spirit
 of the
@@ -105184,8 +105184,8 @@ The [one]
 stealing
 no longer
 let him steal
-however
 rather
+however
 let him toil
 working
 with the
@@ -105252,8 +105252,8 @@ you
 along with
 all
 malice
-now
 Be
+now
 to
 one another
 kind
@@ -105268,8 +105268,8 @@ in
 Christ
 forgave
 you
-therefore
 Be
+therefore
 imitators
 -
 of God
@@ -105299,8 +105299,8 @@ to God
 into
 an aroma
 of a sweet smell
-however
 Sexual immorality
+however
 and
 impurity
 all
@@ -105325,8 +105325,8 @@ are fitting
 but
 rather
 thanksgiving
-for
 This
+for
 you know
 realizing
 that
@@ -105354,9 +105354,9 @@ you
 let deceive
 with empty
 words
-for
 because of
 these things
+for
 comes
 the
 wrath
@@ -105367,17 +105367,17 @@ the
 sons
 -
 of disobedience
-therefore
 Not
+therefore
 be
 partakers
 with them
-for
 You were
+for
 once
 darkness
-however
 now
+however
 light
 in
 [the] Lord
@@ -105385,8 +105385,8 @@ as
 children
 of light
 walk
-for
 -
+for
 the fruit
 of the
 light [is]
@@ -105412,12 +105412,12 @@ works
 unfruitful
 -
 of darkness
-however
 rather
+however
 even
 expose [them]
-for
 the things
+for
 in secret
 being done
 by
@@ -105426,16 +105426,16 @@ shameful
 it is
 even
 to mention
-But
 -
+But
 everything
 being exposed
 by
 the
 light
 is made visible
-for
 everything
+for
 -
 becoming visible
 light
@@ -105455,8 +105455,8 @@ will shine upon
 you
 -
 Christ
-therefore
 Take heed
+therefore
 carefully
 how
 you walk
@@ -105605,9 +105605,9 @@ so that
 might present
 He
 to Himself
+in glory
 the
 church
-in glory
 not
 having
 spot
@@ -105643,8 +105643,8 @@ of himself
 wife
 himself
 loves
-for
 No one
+for
 at any time
 the
 of himself
@@ -105662,8 +105662,8 @@ Christ
 the
 church
 for
-we are
 members
+we are
 of the
 body
 of Him
@@ -105694,8 +105694,8 @@ mystery
 this
 great
 is
-however
 I
+however
 speak
 as to
 Christ
@@ -105717,8 +105717,8 @@ so
 let love
 as
 himself
-and
 -
+and
 the wife
 that
 she may respect
@@ -105732,8 +105732,8 @@ parents
 of you
 in
 [the] Lord
-for
 this
+for
 is
 right
 Honor
@@ -105821,11 +105821,11 @@ not
 to men
 knowing
 that
-if
 each one
+if
 whatever
-good
 he might have done
+good
 this
 he will receive [back]
 from
@@ -105890,11 +105890,11 @@ schemes
 of the
 devil
 because
+not
 is
 to us
 the
 wrestling
-not
 against
 blood
 and
@@ -105939,8 +105939,8 @@ and
 all things
 having done
 to stand
-therefore
 Stand
+therefore
 having girded
 the
 loins
@@ -105982,11 +105982,11 @@ evil one
 flaming
 to quench
 And
-take
 the
 helmet
 -
 of salvation
+take
 and
 the
 sword
@@ -106052,8 +106052,8 @@ as
 it behooves
 me
 to speak
-now
 That
+now
 may know
 also
 you
@@ -106091,9 +106091,9 @@ he may encourage
 the
 hearts
 of you
+Peace
 to the
 brothers
-Peace
 and
 love
 with
@@ -106138,8 +106138,8 @@ with
 [the] overseers
 and
 deacons
-to you
 Grace
+to you
 and
 peace
 from
@@ -106218,8 +106218,8 @@ in
 the
 heart
 you
-both
 in
+both
 the
 chains
 of me
@@ -106238,8 +106238,8 @@ grace
 all
 you
 are
-for
 Witness
+for
 my
 -
 God [is]
@@ -106294,11 +106294,11 @@ to
 and
 praise
 of God
-now
-brothers
-I want
 To know
+now
 you
+I want
+brothers
 that
 the things
 concerning
@@ -106344,23 +106344,23 @@ word
 of
 God
 to speak
-indeed
 Some
+indeed
 even
 from
 envy
 and
 strife
-however
 some
+however
 also
 from
 goodwill
 -
 Christ
 are proclaiming
-indeed
 the [ones]
+indeed
 out of
 love
 knowing
@@ -106370,8 +106370,8 @@ defense
 of the
 gospel
 I am appointed
-however
 the [ones]
+however
 out of
 selfish ambition
 -
@@ -106385,8 +106385,8 @@ to add
 to the
 chains
 of me
-then
 What
+then
 Only
 that
 in every
@@ -106404,8 +106404,8 @@ I rejoice
 Yes
 and
 I will rejoice
-for
 I know
+for
 that
 this
 for me
@@ -106452,8 +106452,8 @@ life
 or
 by
 death
-for
 To me
+for
 -
 to live
 [is] Christ
@@ -106461,8 +106461,8 @@ and
 -
 to die
 [is] gain
-however
 If [I am]
+however
 -
 to live
 in
@@ -106476,8 +106476,8 @@ what
 shall I choose
 Not
 I know
-however
 I am pressed
+however
 between
 the
 two
@@ -106491,12 +106491,12 @@ and
 with
 Christ
 to be
-for
 very much
+for
 more
 better
-but
 -
+but
 to remain
 the
 flesh
@@ -106582,8 +106582,8 @@ is
 to them
 a demonstration
 of destruction
-however
 to you
+however
 of salvation
 and
 this
@@ -106607,10 +106607,10 @@ also
 concerning
 Him
 to suffer
-having
 the
 same
 conflict
+having
 such as
 you saw
 in
@@ -106620,9 +106620,9 @@ now
 hear of
 in
 me
-therefore
 If [there is]
 any
+therefore
 encouragement
 in
 Christ
@@ -106720,8 +106720,8 @@ having become
 obedient
 unto
 death
-even
 [the] death
+even
 of [the] cross
 Therefore
 also
@@ -106743,9 +106743,9 @@ at
 the
 name
 of Jesus
-should bow
 every
 knee
+should bow
 in the heavens
 and
 on earth
@@ -106769,8 +106769,8 @@ of me
 just as
 always
 you have obeyed
-as
 not
+as
 in
 the
 presence
@@ -106792,8 +106792,8 @@ trembling
 your own
 salvation
 work out
-for
 God
+for
 is
 the [One]
 working
@@ -106869,8 +106869,8 @@ and
 rejoice with
 all
 you
-And
 -
+And
 likewise
 also
 you
@@ -106878,8 +106878,8 @@ be glad
 and
 rejoice with
 me
-however
 I hope
+however
 in
 [the] Lord
 Jesus
@@ -106894,19 +106894,19 @@ having known
 the things
 concerning
 you
-for
 No one
-like-minded
+for
 I have
+like-minded
 who
 genuinely
 the things
 relative to
 you
 will care for
-for
 Those
 all
+for
 the things
 of themselves
 are seeking
@@ -106914,8 +106914,8 @@ not
 the things
 of Christ
 Jesus
-But
 -
+But
 the proven worth
 of him
 you know
@@ -106929,10 +106929,10 @@ he has served
 in
 the
 gospel
-therefore
-indeed
-I hope
 Him
+indeed
+therefore
+I hope
 to send
 when
 -
@@ -106941,8 +106941,8 @@ the things
 concerning
 me
 immediately
-now
 I am persuaded
+now
 in
 [the] Lord
 that
@@ -106950,9 +106950,9 @@ also
 I myself
 soon
 I will come
+Necessary
 now
 I esteemed [it]
-Necessary
 Epaphroditus
 the
 brother
@@ -106961,8 +106961,8 @@ fellow worker
 and
 fellow soldier
 of me
-now
 of you
+now
 messenger
 and
 minster
@@ -106983,8 +106983,8 @@ because
 you heard
 that
 he was ill
-indeed
 And
+indeed
 he was sick
 nearly
 unto death
@@ -106993,9 +106993,9 @@ but
 God
 had mercy on
 him
-now
 not
 on him
+now
 alone
 but
 also
@@ -107006,8 +107006,8 @@ sorrow
 upon
 sorrow
 I should have
-therefore
 All the more speedily
+therefore
 I have sent
 him
 that
@@ -107018,8 +107018,8 @@ you may rejoice
 and I
 less anxious
 might be
-therefore
 Receive
+therefore
 him
 in
 [the] Lord
@@ -107051,10 +107051,10 @@ of
 toward
 me
 service
-brothers
-of me
 -
 Finally
+brothers
+of me
 rejoice
 in
 [the] Lord
@@ -107062,12 +107062,12 @@ The
 same things
 to write
 to you
-indeed
 to me
+indeed
 [is] not
 troublesome
-now
 for you
+now
 [is] safe
 Beware of
 the
@@ -107079,11 +107079,11 @@ workers
 beware of
 the
 false circumcision
+We
 for
 are
 the
 circumcision
-We
 those
 in [the] Spirit
 of God
@@ -107107,8 +107107,8 @@ in
 [the] flesh
 If
 any
-other
 thinks
+other
 to have confidence
 in
 [the] flesh
@@ -107184,8 +107184,8 @@ and
 be found
 in
 Him
-having
 not
+having
 my own
 righteousness
 which [is]
@@ -107236,8 +107236,8 @@ I have obtained [it]
 or
 already
 have been perfected
-however
 I am pursuing
+however
 if
 also
 I may lay hold
@@ -107250,18 +107250,18 @@ Christ
 Jesus
 Brothers
 I
+myself
 not
 do consider
-myself
 to have taken hold [of it]
-however
 One thing
-indeed
+however
 The things
+indeed
 behind
 forgetting
-now
 to the things
+now
 ahead
 reaching forward
 toward
@@ -107278,8 +107278,8 @@ of God
 in
 Christ
 Jesus
-therefore
 As many as
+therefore
 [are] mature
 this
 should be of mind
@@ -107301,10 +107301,10 @@ we have attained
 by the
 same
 to walk
-brothers
 Imitators together
 of me
 be
+brothers
 and
 observe
 those
@@ -107314,15 +107314,15 @@ as
 you have
 [for] a pattern
 us
-for
 Many
+for
 are walking
 [of] whom
 often
 I told
 you
-indeed
 now
+indeed
 even
 weeping
 I say
@@ -107352,8 +107352,8 @@ those
 things
 earthly
 minding
-for
 Of us
+for
 the
 citizenship
 in
@@ -107362,8 +107362,8 @@ exists
 from
 whence
 also
-we are awaiting
 a Savior
+we are awaiting
 [the] Lord
 Jesus
 Christ
@@ -107499,9 +107499,9 @@ of you
 in
 Christ
 Jesus
-brothers
 -
 Finally
+brothers
 whatever
 is
 true
@@ -107545,8 +107545,8 @@ of peace
 will be
 with
 you
-however
 I rejoiced
+however
 in
 [the] Lord
 greatly
@@ -107562,15 +107562,15 @@ wherein
 which
 also
 you were concerned
-however
 you were lacking opportunity
+however
 Not
 that
 as to
 destitution
 I speak
-for
 I
+for
 have learned
 in
 that which
@@ -107610,23 +107610,23 @@ having fellowship in
 my
 -
 affliction
-now
-Philippians
 Know
+now
 also
 you
+Philippians
 that
-when
-I went out
-from
-Macedonia
 in
 [the] beginning
 of the
 gospel
+when
+I went out
+from
+Macedonia
 not one
-church
 with me
+church
 had partnership
 with regard to
 the matter
@@ -107664,8 +107664,8 @@ abounding
 to
 [the] account
 of you
-however
 I have
+however
 all things
 and
 abound
@@ -107683,8 +107683,8 @@ acceptable
 well-pleasing
 -
 to God
-And
 -
+And
 [the] God
 of me
 will fill up
@@ -107700,8 +107700,8 @@ glory
 in
 Christ
 Jesus
-now
 To
+now
 [the] God
 and
 Father
@@ -107731,8 +107731,8 @@ you
 all
 the
 saints
-now
 especially
+now
 those
 from
 -
@@ -107768,8 +107768,8 @@ faithful
 brothers
 in
 Christ
-to you
 Grace
+to you
 and
 peace
 from
@@ -108057,14 +108057,14 @@ the
 dead
 so that
 might be
-He
 in
 all things
+He
 holding preeminence
 because
-was pleased
 in
 Him
+was pleased
 all
 the
 fullness
@@ -108110,8 +108110,8 @@ the
 deeds
 -
 evil
-however
 now
+however
 He has reconciled [You]
 in
 the
@@ -108159,10 +108159,10 @@ under
 -
 heaven
 of which
-a minister
 have become
 I
 Paul
+a minister
 Now
 I rejoice
 in
@@ -108191,9 +108191,9 @@ is
 the
 church
 of which
-a minister
 became
 I
+a minister
 according to
 the
 administration
@@ -108220,8 +108220,8 @@ and
 from
 the
 generations
-however
 now
+however
 having been manifested
 to the
 saints
@@ -108286,8 +108286,8 @@ in
 me
 in
 power
-for
 I want
+for
 you
 to know
 how great
@@ -108350,8 +108350,8 @@ you
 might delude
 by
 persuasive speech
-truly
 If
+truly
 indeed
 in the
 flesh
@@ -108376,8 +108376,8 @@ in
 Christ
 faith
 of you
-therefore
 Just as
+therefore
 you have received
 -
 Christ
@@ -108404,10 +108404,10 @@ thanksgiving
 Take heed
 lest
 anyone
+you
 there will be
 -
 taking captive
-you
 through
 -
 philosophy
@@ -108440,9 +108440,9 @@ Deity
 bodily
 and
 you are
-complete
 in
 Him
+complete
 who
 is
 the
@@ -108545,8 +108545,8 @@ having triumphed
 over them
 in
 it
-therefore
 Not
+therefore
 anyone
 you
 let judge
@@ -108568,8 +108568,8 @@ are
 a shadow
 the things
 coming
-however
 the
+however
 body [is]
 -
 of Christ
@@ -108654,9 +108654,9 @@ teachings
 of men
 which
 are
+an appearance
 indeed
 having
-an appearance
 of wisdom
 in
 self-imposed worship
@@ -108673,8 +108673,8 @@ against
 [the] indulgence
 of the
 flesh
-then
 If
+then
 you have been raised with
 -
 Christ
@@ -108685,11 +108685,11 @@ where
 -
 Christ
 is
-sitting
 at [the]
 right hand
 -
 of God
+sitting
 The things
 above
 set [your] minds on
@@ -108698,8 +108698,8 @@ the things
 on
 the
 earth
-for
 You have died
+for
 and
 the
 life
@@ -108712,9 +108712,9 @@ in
 -
 God
 When
-may be revealed
 -
 Christ
+may be revealed
 the
 life
 of you
@@ -108726,8 +108726,8 @@ Him
 will appear
 in
 glory
-therefore
 Put to death
+therefore
 the
 members
 which [are]
@@ -108762,8 +108762,8 @@ when
 you were living
 in
 them
-however
 Now
+however
 put off
 also
 you
@@ -108822,8 +108822,8 @@ and
 in
 all
 Christ [is]
-therefore
 Put on
+therefore
 as
 [the] elect
 -
@@ -108857,9 +108857,9 @@ you
 so
 also
 you
-now
 Beyond
 all
+now
 these
 [put on] the
 love
@@ -108919,9 +108919,9 @@ to
 God
 And
 everything
+which
 what
 if
-which
 you might do
 in
 word
@@ -108965,8 +108965,8 @@ the
 parents
 in
 all things
-for
 this
+for
 pleasing
 is
 in
@@ -109002,8 +109002,8 @@ of heart
 fearing
 the
 Lord
-if
 Whatever
+if
 you might do
 from
 [the] soul
@@ -109027,8 +109027,8 @@ The
 Lord
 Christ
 you serve
-for
 The [one]
+for
 doing wrong
 will be repaid [for]
 what
@@ -109161,9 +109161,9 @@ who
 is
 [one] of
 you
+All things
 to you
 they will make known
-All things
 -
 here
 Greets
@@ -109234,8 +109234,8 @@ all
 [the] will
 -
 of God
-for
 I bear witness
+for
 to him
 that
 he has
@@ -109289,10 +109289,10 @@ of [the] Laodiceans
 church
 it may be read
 and
-that
 the [one]
 from
 Laodicea
+that
 also
 you
 may read
@@ -109338,8 +109338,8 @@ and
 [the] Lord
 Jesus
 Christ
-to you
 Grace
+to you
 and
 peace
 We give thanks
@@ -109384,22 +109384,22 @@ and
 Father
 of us
 knowing
-the
-election
-of you
 brothers
 beloved
 by
 -
 God
+the
+election
+of you
 because
 the
 gospel
 of us
+not
 came
 to
 you
-not
 in
 word
 only
@@ -109424,9 +109424,9 @@ on account of
 you
 And
 you
-became
 imitators
 of us
+became
 and
 of the
 Lord
@@ -109454,9 +109454,9 @@ and
 in
 -
 Achaia
-for
 From
 you
+for
 has sounded forth
 the
 word
@@ -109488,8 +109488,8 @@ to have
 us
 to say
 anything
-for
 They themselves
+for
 concerning
 us
 report
@@ -109514,12 +109514,12 @@ and
 true
 and
 to await
-from
-the
-heavens
 the
 Son
 of Him
+from
+the
+heavens
 whom
 He raised
 out from
@@ -109534,10 +109534,10 @@ the
 wrath
 -
 coming
-for
-brothers
 You yourselves
+for
 know
+brothers
 the
 coming
 of us
@@ -109552,10 +109552,10 @@ but
 having previously suffered
 and
 having been mistreated
-in
-Philippi
 just as
 you know
+in
+Philippi
 we had boldness
 in
 the
@@ -109571,8 +109571,8 @@ of God
 amid
 much
 conflict
-For
 -
+For
 the exhortation
 of us
 [is] not
@@ -109595,10 +109595,10 @@ the
 gospel
 so
 we speak
-as
-pleasing
 not
+as
 men
+pleasing
 but
 God
 the [One]
@@ -109606,8 +109606,8 @@ examining
 the
 hearts
 of us
-for
 Never
+for
 at any time
 with
 word
@@ -109673,9 +109673,9 @@ because
 beloved
 to us
 you have become
+You remember
 for
 brothers
-You remember
 the
 labor
 of us
@@ -109699,8 +109699,8 @@ the
 gospel
 -
 of God
-witnesses
 You [are]
+witnesses
 and
 -
 God
@@ -109725,11 +109725,11 @@ a father
 children
 his own
 exhorting
+you
 and
 comforting
 and
 charging
-you
 unto
 -
 to walk
@@ -109780,11 +109780,11 @@ in
 you
 who
 believe
-for
-brothers
 You
-became
+for
 imitators
+became
+brothers
 of the
 churches
 -
@@ -109814,10 +109814,10 @@ from
 the
 Jews
 who
-having killed
 both
 the
 Lord
+having killed
 Jesus
 and
 their own
@@ -109847,17 +109847,17 @@ their
 -
 sins
 always
-now
 Has come
+now
 upon
 them
 the
 wrath
 to the
 utmost
+We
 however
 brothers
-We
 having been bereaved
 of
 you
@@ -109881,8 +109881,8 @@ we wanted
 to come
 to
 you
-indeed
 I
+indeed
 Paul
 both
 once
@@ -109893,8 +109893,8 @@ hindered
 us
 -
 Satan
-for
 Who [is]
+for
 our
 hope
 or
@@ -109915,8 +109915,8 @@ at
 -
 His
 coming
-for
 You
+for
 are
 the
 glory
@@ -109950,9 +109950,9 @@ of Christ
 in order
 -
 to strengthen
+you
 and
 to encourage
-you
 concerning
 the
 faith
@@ -109964,15 +109964,15 @@ in
 the
 tribulations
 these
-for
 Yourselves
+for
 you know
 that
 for
 this
 we are destined
-indeed
 And
+indeed
 when
 with
 you
@@ -110012,8 +110012,8 @@ would be
 the
 labor
 of us
-however
 Presently
+however
 having come
 Timothy
 to
@@ -110043,10 +110043,10 @@ just as
 also
 we
 you
-brothers
 because of
 this
 we were encouraged
+brothers
 as to
 you
 in
@@ -110068,10 +110068,10 @@ you
 are standing firm
 in
 [the] Lord
-for
-are we able
 What
+for
 thanksgiving
+are we able
 -
 to God
 to give
@@ -110107,8 +110107,8 @@ lacking
 in the
 faith
 of you
-now
 Himself
+now
 the
 God
 and
@@ -110125,8 +110125,8 @@ way
 of us
 to
 you
-now
 You
+now
 the
 Lord
 may make to increase
@@ -110171,13 +110171,13 @@ all
 the
 saints
 of Him
+Finally
 then
 brothers
-Finally
 we implore
+you
 and
 exhort
-you
 in
 [the] Lord
 Jesus
@@ -110200,8 +110200,8 @@ you walk [now]
 so
 you should abound
 more
-for
 You know
+for
 what
 instructions
 we gave
@@ -110210,8 +110210,8 @@ through
 the
 Lord
 Jesus
-for
 This
+for
 is
 [the] will
 -
@@ -110271,8 +110271,8 @@ we told before
 you
 and
 thoroughly warned
-for
 Not
+for
 has called
 us
 -
@@ -110285,9 +110285,9 @@ holiness
 So then
 the [one]
 rejecting [this]
-disregards
 not
 man
+disregards
 but
 -
 God
@@ -110301,8 +110301,8 @@ of Him
 Holy
 to
 you
-now
 Concerning
+now
 -
 brotherly love
 no
@@ -110310,8 +110310,8 @@ need
 you have [for me]
 to write
 to you
-for
 yourselves
+for
 you
 taught by God
 are
@@ -110319,8 +110319,8 @@ in order
 -
 to love
 one another
-for
 And
+for
 you are doing
 this
 toward
@@ -110331,10 +110331,10 @@ in
 all
 -
 Macedonia
-however
-brothers
 We exhort
+however
 you
+brothers
 to abound
 more and more
 and
@@ -110362,12 +110362,12 @@ and
 of no one
 need
 may have
-but
-brothers
 Not
 we do want
+but
 you
 to be ignorant
+brothers
 concerning
 those
 having fallen asleep
@@ -110382,8 +110382,8 @@ those
 not
 having
 hope
-for
 If
+for
 we believe
 that
 Jesus
@@ -110402,8 +110402,8 @@ Jesus
 will bring
 with
 Him
-for
 This
+for
 to you
 we declare
 in
@@ -110479,30 +110479,30 @@ with
 the
 words
 these
-now
-brothers
 Concerning
+now
 the
 times
 and
 the
 seasons
+brothers
 no
 need
 you have
 to you
 to be written
-for
 Yourselves
+for
 fully
 you know
 that
+[the] day
+of [the] Lord
 as
 a thief
 by
 night
-[the] day
-of [the] Lord
 in this manner
 comes
 For when
@@ -110512,9 +110512,9 @@ and
 security
 then
 suddenly
-destruction
 upon them
 comes
+destruction
 as
 the
 labor pains
@@ -110526,9 +110526,9 @@ and
 no
 not
 shall they escape
+You
 however
 brothers
-You
 not
 are
 in
@@ -110537,15 +110537,15 @@ that
 the
 day
 you
-should overtake
 like
 a thief
-for
+should overtake
 All
+for
 you
-are
 sons
 of light
+are
 and
 sons
 of day
@@ -110565,8 +110565,8 @@ but
 we should watch
 and
 we should be sober
-for
 Those
+for
 sleeping
 by night
 sleep
@@ -110575,8 +110575,8 @@ those
 becoming drunk
 by night
 get drunk
-however
 We
+however
 of [the] day
 being
 should be sober
@@ -110631,10 +110631,10 @@ another
 just as
 also
 you are doing
-however
-brothers
 We implore
+however
 you
+brothers
 to appreciate
 those
 toiling
@@ -110661,10 +110661,10 @@ of them
 Be at peace
 among
 yourselves
-now
-brothers
 We exhort
+now
 you
+brothers
 to admonish
 the
 unruly
@@ -110702,8 +110702,8 @@ pray
 In
 everything
 give thanks
-for
 this
+for
 [is the] will
 of God
 in
@@ -110718,8 +110718,8 @@ do quench
 Prophecies
 not
 do despise
-however
 All things
+however
 test
 To the
 good
@@ -110729,8 +110729,8 @@ every
 form
 of evil
 abstain
-now
 Himself
+now
 the
 God
 -
@@ -110812,8 +110812,8 @@ and
 the Lord
 Jesus
 Christ
-to you
 Grace
+to you
 and
 peace
 from
@@ -110823,14 +110823,14 @@ and
 the Lord
 Jesus
 Christ
-brothers
-we ought
 To thank
+we ought
 -
 God
 always
 concerning
 you
+brothers
 just as
 fitting
 it is
@@ -110942,8 +110942,8 @@ Lord
 of us
 Jesus
 who
-will suffer
 [the] penalty
+will suffer
 of destruction
 eternal
 away from
@@ -110970,10 +110970,6 @@ among
 all
 those
 having believed
-in
-the
-day
-that
 because
 was believed
 the
@@ -110981,6 +110977,10 @@ testimony
 of us
 to
 you
+in
+the
+day
+that
 for
 which
 also
@@ -111030,10 +111030,10 @@ and
 [the] Lord
 Jesus
 Christ
-now
-brothers
 We implore
+now
 you
+brothers
 by
 the
 coming
@@ -111147,13 +111147,13 @@ in
 -
 his
 time
-for
 The
+for
 mystery
--
-of lawlessness
 already
 is working
+-
+of lawlessness
 only [there is]
 the [one]
 restraining [it]
@@ -111185,9 +111185,9 @@ of the
 coming
 of Him
 whose
+is
 -
 coming
-is
 according to
 [the] working
 -
@@ -111246,8 +111246,8 @@ but
 having delighted
 -
 in unrighteousness
-however
 We
+however
 ought
 to give thanks
 -
@@ -111308,8 +111308,8 @@ or
 by
 letter
 from us
-now
 Himself
+now
 the
 Lord
 of us
@@ -111345,10 +111345,10 @@ work
 and
 word
 good
-brothers
 -
 Finally
 pray
+brothers
 for
 us
 that
@@ -111372,13 +111372,13 @@ perverse
 and
 evil
 men
-for
 not
+for
 all [are]
 of the
 faith
-however
 Faithful
+however
 is
 the
 Lord
@@ -111390,8 +111390,8 @@ will keep [you]
 from
 -
 evil
-now
 We are persuaded
+now
 in
 [the] Lord
 as to
@@ -111403,8 +111403,8 @@ both
 you are doing
 and
 you will do
-And
 -
+And
 the Lord
 may direct
 your
@@ -111421,10 +111421,10 @@ the
 steadfastness
 -
 of Christ
-now
-brothers
 We command
+now
 you
+brothers
 in
 [the] name
 of the
@@ -111447,8 +111447,8 @@ that
 you received
 from
 us
-for
 Yourselves
+for
 you know
 how
 it behooves [you]
@@ -111495,8 +111495,8 @@ for
 -
 you to imitate
 us
-for
 Even
+for
 when
 we were
 with
@@ -111512,8 +111512,8 @@ is willing
 to work
 neither
 let him eat
-for
 We hear
+for
 some
 are walking
 among
@@ -111523,8 +111523,8 @@ not at all
 working
 but
 being busybodies
-now
 To
+now
 such
 we warn
 and
@@ -111541,14 +111541,14 @@ working
 their own
 bread
 they may eat
+You
 now
 brothers
-You
 not
 shall grow weary
 [in] well-doing
-then
 If
+then
 anyone
 not
 obey
@@ -111574,8 +111574,8 @@ but
 admonish [him]
 as
 a brother
-now
 Himself
+now
 the
 Lord
 -
@@ -111680,8 +111680,8 @@ of God
 which [is]
 in
 faith
-And
 -
+And
 the goal
 of [our]
 instruction
@@ -111697,8 +111697,8 @@ and
 a faith
 sincere
 from which
-having missed the mark
 some
+having missed the mark
 have turned aside
 to
 meaningless discourse
@@ -111714,8 +111714,8 @@ nor
 [that] about
 which
 they confidently assert
-now
 We know
+now
 that
 good [is]
 the
@@ -111728,12 +111728,12 @@ uses
 knowing
 this
 that
-not
 for a righteous [one]
 law
+not
 is enacted
-however
 for [the] lawless
+however
 and
 insubordinate
 for [the] ungodly
@@ -111755,10 +111755,10 @@ and
 if
 anything
 other
-is opposed to
 in the
 being sound
 teaching
+is opposed to
 according to
 the
 gospel
@@ -111802,8 +111802,8 @@ being ignorant
 I did [it]
 in
 unbelief
-then
 Surpassingly increased
+then
 the
 grace
 of the
@@ -111817,9 +111817,9 @@ that [are]
 in
 Christ
 Jesus
+Trustworthy [is]
 the
 saying
-Trustworthy [is]
 and
 of full
 acceptance
@@ -111861,8 +111861,8 @@ Him
 to
 life
 eternal
-now
 To
+now
 [the] King
 of the
 ages
@@ -111879,13 +111879,13 @@ ages
 of the
 ages
 Amen
-[my] child
-Timothy
 This
 -
 charge
 I commit
 to you
+[my] child
+Timothy
 according to
 the
 going before
@@ -111905,8 +111905,8 @@ and
 a good
 conscience
 which
-having cast away
 some
+having cast away
 concerning
 the
 faith
@@ -111924,8 +111924,8 @@ that
 they may be disciplined
 not
 to blaspheme
-therefore
 I exhort
+therefore
 first
 of all
 to be made
@@ -111965,17 +111965,17 @@ Savior
 of us
 God
 who
-desires
 all
 men
+desires
 to be saved
 and
 to
 [the] knowledge
 of [the] truth
 to come
-for
 One
+for
 God [there is]
 one
 then
@@ -112003,18 +112003,18 @@ I
 a herald
 and
 an apostle
+[the] truth
+I am speaking
+not
+I do lie
 a teacher
 of [the] Gentiles
 in
 faith
 and
 truth
-[the] truth
-I am speaking
-not
-I do lie
-therefore
 I desire
+therefore
 to pray
 the
 men
@@ -112050,12 +112050,12 @@ or
 clothing
 costly
 but
-through
 with what
 is becoming
 to women
 professing
 [the] fear of God
+through
 works
 good
 A woman
@@ -112065,11 +112065,11 @@ let learn
 in
 all
 submissiveness
-however
-I do permit
-not
 To teach
+however
 a woman
+not
+I do permit
 nor
 to use authority over
 a man
@@ -112077,8 +112077,8 @@ but
 to be
 in
 quietness
-for
 Adam
+for
 first
 was formed
 then
@@ -112087,15 +112087,15 @@ And
 Adam
 not
 was deceived
-but
 -
+but
 the woman
 having been deceived
 into
 transgression
 has come
-however
 She will be saved
+however
 through
 -
 childbearing
@@ -112119,12 +112119,12 @@ aspires to
 of good
 a work
 he is desirous
-therefore
 It behooves
+therefore
 the
 overseer
-to be
 above reproach
+to be
 of one
 wife
 [the] husband
@@ -112153,8 +112153,8 @@ submission
 with
 all
 dignity
-but
 if
+but
 one
 the
 own
@@ -112173,11 +112173,11 @@ not
 having been puffed up
 into
 [the] judgment
+he might fall
 of the
 devil
-he might fall
-now
 It behooves [him]
+now
 also
 a testimony
 good
@@ -112187,15 +112187,15 @@ those
 outside
 so that
 not
-he might fall
 into
 reproach
+he might fall
 and
 [the] snare
 of the
 devil
-likewise
 Deacons
+likewise
 [must be] dignified
 not
 double-tongued
@@ -112213,17 +112213,17 @@ faith
 with
 clear
 a conscience
-now
 Also
 these
+now
 let them be tested
 first
 then
 let them serve
 blameless
 being
-likewise
 Women
+likewise
 [must be] dignified
 not
 slanderers
@@ -112236,20 +112236,20 @@ let be
 of one
 wife
 husbands
+[their] children
 well
 managing
-[their] children
 and
 the
 own
 households
-for
 Those
+for
 well
 having served
 a standing
-good
 for themselves
+good
 acquire
 and
 great
@@ -112268,17 +112268,17 @@ to come
 to
 you
 a short time
-however
 if
+however
 I should delay
 so that
 you may know
 how
 it behooves [one]
-to conduct oneself
 in
 [the] household
 of God
+to conduct oneself
 which
 is
 [the] church
@@ -112315,8 +112315,8 @@ in
 was taken up
 in
 glory
-But
 -
+But
 the Spirit
 expressly
 states
@@ -112370,8 +112370,8 @@ to be rejected
 with
 thanksgiving
 being received
-for
 it is sanctified
+for
 by
 [the] word
 of God
@@ -112381,8 +112381,8 @@ These things
 laying before
 the
 brothers
-you will be
 good
+you will be
 a servant
 of Christ
 Jesus
@@ -112397,51 +112397,51 @@ good
 teaching
 that
 you have closely followed
-But
 -
+But
 profane
 and
 silly
 fables
 refuse
-rather
 Train
+rather
 yourself
 to
 godliness
-For
 -
+For
 bodily
 exercise
 of
 a little
 is
 profit
-but
 -
+but
 godliness
 for
 everything
 profitable
 is
-holding
 [the] promise
+holding
 of life
 of the
 present
 and
 of the [one]
 coming
+Trustworthy [is]
 the
 saying
-Trustworthy [is]
 and
 of full
 acceptance
 worthy
-for
 For
 this
+for
 we toil
 and
 strive
@@ -112457,8 +112457,8 @@ of all
 men
 especially
 of believers
-these things
 Command
+these things
 and
 teach
 No one
@@ -112467,8 +112467,8 @@ your
 youth
 let despise
 but
-be
 a pattern
+be
 for the
 believers
 in
@@ -112526,12 +112526,12 @@ to the
 teaching
 Continue
 in them
-for
 this
+for
 doing
-you will save
 both
 yourself
+you will save
 and
 those
 hearing
@@ -112555,13 +112555,13 @@ sisters
 in
 all
 purity
-honor
 Widows
+honor
 who [are]
 truly
 widows
-however
 If
+however
 any
 widow
 children
@@ -112579,15 +112579,15 @@ recompense
 to give
 to
 parents
-for
 this
+for
 is
 pleasing
 before
 -
 God
-now
 She who [is]
+now
 indeed
 a widow
 and
@@ -112605,8 +112605,8 @@ prayers
 night
 and
 day
-however
 She
+however
 living in self-indulgence
 [while] living
 is dead
@@ -112616,8 +112616,8 @@ command
 so that
 above reproach
 they should be
-now
 If
+now
 anyone
 the
 own
@@ -112663,12 +112663,12 @@ every
 work
 good
 she has followed after
-however
 Younger
+however
 widows
 refuse
-for
 when
+for
 they might grow wanton against
 -
 Christ
@@ -112681,17 +112681,17 @@ the
 first
 faith
 they have cast off
-then
 At the same time
+then
 also
 [to be] idle
 they learn
 going about
 -
 house to house
-then
 not
 only
+then
 idle
 but
 also
@@ -112702,8 +112702,8 @@ speaking
 things
 not
 being proper
-therefore
 I want
+therefore
 [the] younger [ones]
 to marry
 to bear children
@@ -112715,8 +112715,8 @@ the [one]
 opposing
 of reproach
 on account
-for
 Already
+for
 some
 have turned aside
 after
@@ -112753,8 +112753,8 @@ in
 [the] word
 and
 [the] teaching
-for
 Says
+for
 the
 Scripture
 An ox
@@ -112846,8 +112846,8 @@ are
 going before [them]
 to
 judgment
-however
 of some
+however
 also
 they appear later
 Likewise
@@ -112886,10 +112886,10 @@ and
 the
 teaching
 should be blasphemed
-now
 Those
-having
+now
 believing
+having
 masters
 not
 let them despise [them]
@@ -112900,8 +112900,8 @@ but
 rather
 let them serve [them]
 because
-they are
 believing [ones]
+they are
 and
 beloved
 -
@@ -112949,8 +112949,8 @@ slander
 suspicions
 evil
 [and] constant frictions
-among men
 corrupted
+among men
 -
 in mind
 and
@@ -112962,16 +112962,16 @@ a means of gain
 to be
 -
 godliness
-however
 Is
+however
 gain
 great
 -
 godliness
 with
 contentment
-for
 Nothing
+for
 we brought
 into
 the
@@ -112981,15 +112981,15 @@ neither
 to carry out
 anything
 are we able
-however
 Having
+however
 sustenance
 and
 coverings
 with these
 we will be content
-however
 Those
+however
 desiring
 to be rich
 fall
@@ -113011,8 +113011,8 @@ into
 ruin
 and
 destruction
-for
 A root
+for
 of all kinds
 -
 of evils
@@ -113020,8 +113020,8 @@ is
 the
 love of money
 which
-stretching after
 some
+stretching after
 have been seduced
 away from
 the
@@ -113031,15 +113031,15 @@ themselves
 have pierced
 with sorrows
 many
+You
 however
 O
 man
 of God
-You
 these things
 flee
-now
 pursue
+now
 righteousness
 godliness
 faith
@@ -113122,8 +113122,8 @@ alone
 having
 immortality
 in light
-unapproachable
 dwelling
+unapproachable
 whom
 has seen
 no one
@@ -113196,8 +113196,8 @@ opposing arguments
 falsely called
 knowledge
 which
-professing
 some
+professing
 from
 the
 faith
@@ -113270,8 +113270,8 @@ tears
 so that
 with joy
 I may be filled
-having taken
 remembrance
+having taken
 of the
 within
 you
@@ -113290,8 +113290,8 @@ in the
 mother
 of you
 Eunice
-now
 I am persuaded
+now
 that
 also
 [it is] in
@@ -113316,8 +113316,8 @@ laying on
 of the
 hands
 of me
-for
 Not
+for
 has given
 us
 -
@@ -113330,8 +113330,8 @@ and
 of love
 and
 of self-control
-therefore
 Not
+therefore
 you should be ashamed of
 the
 testimony
@@ -113377,8 +113377,8 @@ Jesus
 before
 time
 eternal
-also
 having been made manifest
+also
 now
 by
 the
@@ -113388,12 +113388,12 @@ Savior
 of us
 Christ
 Jesus
-indeed
 having abolished
+indeed
 -
 death
-now
 having brought to light
+now
 life
 and
 immortality
@@ -113418,15 +113418,15 @@ I suffer
 But
 not
 I am ashamed
-for
 I know
+for
 whom
 I have believed
 and
 I am persuaded
 that
-He is
 able
+He is
 the
 deposit entrusted
 of me
@@ -113435,8 +113435,8 @@ for
 that
 -
 day
-retain
 [The] pattern
+retain
 of sound
 words
 which
@@ -113489,10 +113489,10 @@ often
 me
 he refreshed
 and
-not
 the
 chain
 of me
+not
 he was ashamed of
 But
 having arrived
@@ -113523,10 +113523,10 @@ he served
 very well
 you
 know
+You
 therefore
 child
 of me
-You
 be strong
 in
 the
@@ -113570,8 +113570,8 @@ that
 the [one]
 having enlisted him
 he might please
-now
 If
+now
 also
 competes
 anyone
@@ -113581,10 +113581,10 @@ if
 not
 lawfully
 he shall have competed
-it is necessary
 For the
 hardworking
 farmer
+it is necessary
 first
 of the
 fruits
@@ -113592,8 +113592,8 @@ to partake
 Consider
 the things
 I am saying
-for
 will give
+for
 you
 the
 Lord
@@ -113637,8 +113637,8 @@ elect
 so that
 also
 they
-may obtain
 [the] salvation
+may obtain
 that [is]
 in
 Christ
@@ -113649,8 +113649,8 @@ eternal
 Trustworthy [is]
 the
 saying
-for
 If
+for
 we have died together [with Him]
 also
 we will live together [with Him]
@@ -113668,8 +113668,8 @@ we are faithless
 He
 faithful
 remains
-for
 to deny
+for
 Himself
 not
 He is able
@@ -113689,9 +113689,9 @@ profitable
 of those
 hearing
 Hasten
-to present
 yourself
 approved
+to present
 -
 to God
 a workman
@@ -113701,16 +113701,16 @@ the
 word
 -
 of truth
-But
 -
+But
 worldly
 empty babblings
 avoid
-for
 on
 to more
-ungodliness
+for
 they will lead
+ungodliness
 and
 the
 talk
@@ -113738,8 +113738,8 @@ they are overthrowing
 the
 of some
 faith
-Nevertheless
 -
+Nevertheless
 the firm
 foundation
 of
@@ -113764,12 +113764,12 @@ naming
 the
 name
 of the Lord
-now
 In
 a great
+now
 house
-there are
 not
+there are
 only
 vessels
 golden
@@ -113781,16 +113781,16 @@ wooden
 and
 earthen
 and
-indeed
 some
+indeed
 unto
 honor
-however
 some
+however
 unto
 dishonor
-therefore
 If
+therefore
 anyone
 shall have cleansed
 himself
@@ -113809,13 +113809,13 @@ every
 work
 good
 having been prepared
-And
 -
+And
 youthful
 lusts
 flee
-now
 pursue
+now
 righteousness
 faith
 love
@@ -113828,8 +113828,8 @@ Lord
 out of
 pure
 a heart
-And
 -
+And
 foolish
 and
 ignorant
@@ -113839,15 +113839,15 @@ knowing
 that
 they breed
 quarrels
-now
-it behooves
 [The] bond-servant
+now
 of [the] Lord
 not
+it behooves
 to quarrel
 but
-to be
 gentle
+to be
 toward
 all
 able to teach
@@ -113881,8 +113881,8 @@ for
 -
 his
 will
-however
 This
+however
 realize
 that
 in
@@ -113891,8 +113891,8 @@ days
 will be present
 times
 difficult
-for
 Will be
+for
 -
 men
 lovers of self
@@ -113920,17 +113920,17 @@ lovers of God
 having
 a form
 of godliness
-but
 -
+but
 the power
 of it
 denying
 And
 these
 turn away from
-for
 Out of
 this sort
+for
 are
 those
 entering
@@ -113954,9 +113954,9 @@ a knowledge
 of [the] truth
 to come
 being able
-now
 By which
 way
+now
 Jannes
 and
 Jambres
@@ -113981,8 +113981,8 @@ not
 they will advance
 further
 much
-for
 -
+for
 the folly
 of them
 plain
@@ -113993,8 +113993,8 @@ also
 that
 of those [two]
 became
-however
 You
+however
 have closely followed
 my
 -
@@ -114034,9 +114034,9 @@ me
 delivered
 the
 Lord
-now
 Also
 all
+now
 -
 desiring
 to live
@@ -114045,8 +114045,8 @@ in
 Christ
 Jesus
 will be persecuted
-however
 Evil
+however
 men
 and
 impostors
@@ -114057,8 +114057,8 @@ worse
 deceiving
 and
 being deceived
-however
 You
+however
 abide
 in
 the things
@@ -114073,9 +114073,9 @@ and
 that
 from
 childhood
-you have known
 sacred
 writings
+you have known
 -
 being able
 you
@@ -114151,14 +114151,14 @@ complete
 patience
 and
 instruction
-for
 There will be
+for
 a time
 when
-not
 -
 sound
 teaching
+not
 they will endure
 but
 according to
@@ -114172,33 +114172,33 @@ having an itching
 -
 ear
 and
-indeed
 from
+indeed
 the
 truth
 -
 hearing
 they will turn away
-then
 unto
+then
 -
 myths
 they will be turned aside
-however
 You
+however
 be sober
 in
 all things
 endure afflictions
-do
 [the] work
+do
 of an evangelist
 the
 ministry
 of you
 fully carry out
-for
 I
+for
 already
 am being poured out
 and
@@ -114230,16 +114230,16 @@ will award
 to me
 the
 Lord
-the
-righteous
-judge
 in
 that
 -
 day
-however
+the
+righteous
+judge
 not
 only
+however
 to me
 but
 also
@@ -114254,8 +114254,8 @@ to come
 to
 me
 quickly
-for
 Demas
+for
 me
 has deserted
 having loved
@@ -114282,14 +114282,14 @@ having taken
 bring [him]
 with
 you
-for
 he is
+for
 to me
 useful
 for
 [the] ministry
-however
 Tychicus
+however
 I have sent
 to
 Ephesus
@@ -114313,8 +114313,8 @@ Alexander
 the
 coppersmith
 great
-harm
 to me
+harm
 did
 Will render
 to him
@@ -114328,8 +114328,8 @@ whom
 also
 you
 beware of
-for
 exceedingly
+for
 he has opposed
 -
 our
@@ -114349,8 +114349,8 @@ deserted
 Not
 to them
 may it be charged
-And
 -
+And
 the Lord
 me
 stood by
@@ -114410,8 +114410,8 @@ Erastus
 remained
 in
 Corinth
-however
 Trophimus
+however
 I left
 in
 Miletus
@@ -114446,8 +114446,8 @@ you all
 Paul
 a servant
 of God
-now
 an apostle
+now
 of Jesus
 Christ
 according to
@@ -114472,8 +114472,8 @@ God
 before
 time
 eternal
-now
 He revealed
+now
 [in] seasons
 [His] own
 in the
@@ -114534,8 +114534,8 @@ blameless
 of one
 wife
 [the] husband
-having
 children
+having
 believing
 not
 under
@@ -114543,15 +114543,15 @@ accusation
 of debauchery
 or
 insubordinate
-for
 It behooves
+for
 the
 overseer
+blameless
 to be
 as
 God’s
 steward
-blameless
 not
 self-willed
 not
@@ -114577,8 +114577,8 @@ teaching
 faithful
 word
 that
-he may be
 able
+he may be
 both
 to encourage
 with
@@ -114590,8 +114590,8 @@ and
 those
 contradicting [it]
 to convict
-for
 There are
+for
 many
 insubordinate
 empty talkers
@@ -114603,8 +114603,8 @@ of
 the
 circumcision
 whom
-to silence
 it is necessary
+to silence
 who
 whole
 households
@@ -114660,8 +114660,8 @@ All things [are]
 pure
 to the
 pure
-however
 to those
+however
 being defiled
 and
 unbelieving
@@ -114677,14 +114677,14 @@ and
 -
 conscience
 God
-to know
 they profess
-however
+to know
 in
+however
 works
 they deny [Him]
-being
 detestable
+being
 and
 disobedient
 and
@@ -114693,8 +114693,8 @@ any
 work
 good
 unfit
-however
 You
+however
 speak
 the things that
 are consistent with
@@ -114702,8 +114702,8 @@ are consistent with
 sound
 doctrine
 [The] aged [men]
-are to be
 sober-minded
+are to be
 dignified
 self-controlled
 sound
@@ -114729,8 +114729,8 @@ so that
 they may train
 the
 young [women]
-to be
 lovers of [their] husbands
+to be
 loving [their] children
 self-controlled
 pure
@@ -114772,11 +114772,11 @@ he who is
 of the
 contrary
 may be ashamed
+nothing
 having
 to say
 concerning
 us
-nothing
 evil
 Servants
 to their own
@@ -114793,8 +114793,8 @@ pilfering
 but
 all
 fidelity
-good
 showing
+good
 so that
 the
 doctrine
@@ -114806,8 +114806,8 @@ God
 they may adorn
 in
 all things
-for
 Has appeared
+for
 the
 grace
 -
@@ -114900,13 +114900,13 @@ peaceable
 to be
 gentle
 all
-humility
 showing
+humility
 toward
 all
 men
-for
 Were
+for
 once
 also
 we ourselves
@@ -114926,18 +114926,18 @@ living
 hateful
 hating
 one another
-however
 When
+however
 the
 kindness
 and
 the
 love of mankind
+appeared
 of the
 Savior
 of us
 God
-appeared
 not
 by
 works
@@ -115007,8 +115007,8 @@ and
 profitable
 -
 to men
-however
 Foolish
+however
 controversies
 and
 genealogies
@@ -115018,8 +115018,8 @@ and
 quarrels
 about [the] Law
 avoid
-for
 they are
+for
 unprofitable
 and
 worthless
@@ -115033,18 +115033,18 @@ admonition
 reject
 knowing
 that
+is corrupt
 -
 such a man
-is corrupt
 and
 is sinning
 being
 self-condemned
 When
 I shall send
+Artemas
 to
 you
-Artemas
 or
 Tychicus
 be diligent
@@ -115053,10 +115053,10 @@ to
 me
 into
 Nicopolis
-for
 there
-to winter
+for
 I have decided
+to winter
 Zenas
 the
 lawyer
@@ -115068,8 +115068,8 @@ so that
 nothing
 to them
 should be lacking
-now
 Let learn
+now
 also
 -
 our [people]
@@ -115130,8 +115130,8 @@ at
 [the] house
 of you
 church
-to you
 Grace
+to you
 and
 peace
 from
@@ -115189,12 +115189,12 @@ in
 us
 in
 Christ
-for
 Joy
+for
 great
+I have
 and
 encouragement
-I have
 by occasion of
 the
 love
@@ -115228,8 +115228,8 @@ being
 as
 Paul
 aged
-then
 now
+then
 also
 a prisoner
 of Christ
@@ -115240,35 +115240,35 @@ for
 -
 my
 child
+whom
 I have begotten
 in
 -
 chains
-whom
 Onesimus
 -
 once
 to you
 useless
-however
 now
+however
 both
 to you
 and
 to me
 useful
+whom
 I have sent back
 to you
-whom
 in person
 he who
 is
 -
 my
 very heart
+whom
 I
 was wishing
-whom
 with
 myself
 to keep
@@ -115282,14 +115282,14 @@ the
 chains
 of the
 gospel
-however
 Apart from
+however
 -
 your
 consent
 nothing
-to do
 I wished
+to do
 so that
 not
 as
@@ -115302,8 +115302,8 @@ may be
 but
 according to
 willingness
-for
 Perhaps
+for
 because of
 this
 he was separated [from you]
@@ -115323,8 +115323,8 @@ a brother
 beloved
 especially
 to me
-however
 how much
+however
 more
 to you
 both
@@ -115333,8 +115333,8 @@ in
 and
 in
 [the] Lord
-therefore
 If
+therefore
 me
 you consider
 a partner
@@ -115342,11 +115342,11 @@ receive
 him
 as
 me
-however
 If
+however
 in any way
-you
 he has wronged
+you
 or
 he owes [you]
 this
@@ -115395,14 +115395,14 @@ above
 what
 I say
 you will do
-now
 At the same time
+now
 also
 prepare
 for me
 a lodging
-for
 I hope
+for
 that
 through
 the
@@ -115440,14 +115440,14 @@ In many portions
 and
 in many ways
 long ago
+-
+God
 having spoken
 to the
 fathers
 in
 the
 prophets
--
-God
 in
 last
 -
@@ -115477,8 +115477,8 @@ and
 of the
 substance
 of Him
-then
 upholding
+then
 -
 all things
 by the
@@ -115504,16 +115504,16 @@ to the
 angels
 as much as
 more excellent
-a name
 beyond
 theirs
 He has inherited
-for
+a name
 To which
-of the
-angels
+for
 did He say
 ever
+of the
+angels
 Son
 of me
 are
@@ -115535,8 +115535,8 @@ will be
 to Me
 for
 a Son
-then
 When
+then
 again
 He brings
 the
@@ -115552,8 +115552,8 @@ all
 [the] angels
 of God
 And
-indeed
 as to
+indeed
 the
 angels
 He says
@@ -115569,15 +115569,15 @@ ministers
 of Him
 of fire
 a flame
-however
 Unto
+however
 the
 Son
-O
-God
 The
 throne
 of You
+O
+God
 [is] to
 the
 age
@@ -115613,10 +115613,10 @@ the
 companions
 of You
 And
-Lord
 You
 in
 [the] beginning
+Lord
 of the
 earth
 laid the foundation
@@ -115630,14 +115630,14 @@ the
 heavens
 They
 will perish
-however
 You
+however
 remain
 and
 all
-will grow old
 like
 a garment
+will grow old
 and
 like
 a robe
@@ -115647,8 +115647,8 @@ like
 a garment
 also
 they will be changed
-however
 You
+however
 the
 same
 are
@@ -115658,9 +115658,9 @@ years
 of You
 not
 will never end
-now
 To
 which
+now
 of the
 angels
 did He say
@@ -115703,8 +115703,8 @@ we have heard
 lest
 ever
 we should drift away
-for
 If
+for
 the
 by
 angels
@@ -115723,8 +115723,8 @@ recompense
 how
 we
 will escape
-having neglected
 such a great
+having neglected
 a salvation
 which
 a commencement
@@ -115742,8 +115742,8 @@ it was confirmed
 bearing witness
 -
 God
-together with [them]
 by signs
+together with [them]
 and
 wonders
 and
@@ -115757,8 +115757,8 @@ according to
 the
 of Him
 will
-for
 Not
+for
 to angels
 did He subject
 the
@@ -115768,8 +115768,8 @@ is coming
 of
 which
 we are speaking
-however
 Has testified
+however
 somewhere
 someone
 saying
@@ -115802,9 +115802,9 @@ under
 the
 feet
 of him
-for
 In
 -
+for
 subjecting
 to him
 -
@@ -115813,22 +115813,22 @@ nothing
 He left
 to him
 unsubject
-however
 At present
+however
 not yet
 do we see
 to Him
 -
 all things
 having been subjected
-however
-we see
 Who
+however
 a little
 one
 than
 [the] angels
 having been made lower
+we see
 Jesus
 because of
 the
@@ -115846,8 +115846,8 @@ for
 everyone
 He might taste
 death
-for
 It was fitting
+for
 to Him
 for
 whom [are]
@@ -115871,9 +115871,9 @@ of them
 through
 sufferings
 to make perfect
-for
-both
 The [One]
+both
+for
 sanctifying
 and
 those
@@ -115921,8 +115921,8 @@ to Me
 has given
 -
 God
-therefore
 Since
+therefore
 the
 children
 have partaken
@@ -115943,9 +115943,9 @@ He might destroy
 the [one]
 the
 power
+holding
 -
 of death
-holding
 that
 is
 the
@@ -115961,10 +115961,10 @@ all
 [their time]
 to live
 subject
-to slavery
 were
-for
+to slavery
 Not
+for
 surely
 [the] angels
 He helps
@@ -115980,8 +115980,8 @@ all things
 brothers
 to be made like
 so that
-He might become
 a merciful
+He might become
 and
 faithful
 high priest
@@ -115996,9 +115996,9 @@ the
 sins
 of the
 people
-for
 In
 that
+for
 has suffered
 He Himself
 having been tempted
@@ -116034,10 +116034,10 @@ all
 the
 house
 of Him
-for
 Of greater
-glory
+for
 He
+glory
 than
 Moses
 has been counted worthy
@@ -116051,20 +116051,20 @@ house [itself]
 the [one]
 having built
 it
-for
 Every
+for
 house
 is built
 by
 someone
-however
 the [One]
+however
 everything
 having built [is]
 God
 And
-indeed
 Moses
+indeed
 [was] faithful
 in
 all
@@ -116077,8 +116077,8 @@ unto
 a testimony
 of the things
 going to be spoken
-however
 Christ
+however
 as
 [the] Son
 over
@@ -116108,8 +116108,8 @@ the
 Spirit
 -
 Holy
-if
 Today
+if
 the
 voice
 of Him
@@ -116156,8 +116156,8 @@ Always
 they go astray
 -
 in the heart
-and
 of them
+and
 not
 have they known
 the
@@ -116212,8 +116212,8 @@ you
 by [the] deceitfulness
 -
 of sin
-for
 Partakers
+for
 -
 of Christ
 we have become
@@ -116229,8 +116229,8 @@ we should hold
 As
 -
 it is said
-if
 Today
+if
 the
 voice
 of Him
@@ -116244,8 +116244,8 @@ as
 in
 the
 rebellion
-for
 Who
+for
 [were those] having heard
 rebelled
 but
@@ -116257,8 +116257,8 @@ out of
 Egypt
 by the leading of
 Moses
-now
 With whom
+now
 was He indignant
 forty
 years
@@ -116272,8 +116272,8 @@ fell
 in
 the
 wilderness
-then
 To whom
+then
 did He swear that
 not
 shall they enter
@@ -116293,8 +116293,8 @@ they were able
 to enter in
 because of
 unbelief
-therefore
 We should fear
+therefore
 lest
 ever
 left remaining
@@ -116309,8 +116309,8 @@ any
 of
 you
 to have fallen short
-for
 And
+for
 we are [those]
 having had the gospel preached
 just as
@@ -116329,8 +116329,8 @@ the
 faith
 of those
 having heard
-for
 We enter
+for
 into
 the
 rest
@@ -116357,8 +116357,8 @@ from
 [the] foundation
 of [the] world
 have been finished
-for
 He has spoken
+for
 somewhere
 concerning
 the
@@ -116388,8 +116388,8 @@ into
 the
 rest
 of Me
-therefore
 Since
+therefore
 it remains [for]
 some
 to enter
@@ -116404,8 +116404,8 @@ did enter in
 because of
 disobedience
 again
-He appoints
 a certain
+He appoints
 day
 Today
 through
@@ -116416,8 +116416,8 @@ so long
 a time
 just as
 it has been said
-if
 Today
+if
 the
 voice
 of Him
@@ -116427,19 +116427,19 @@ harden
 the
 hearts
 of you
-for
 If
+for
 to them
 Joshua
 had given rest
--
 not
+-
 about
 another
-day
 He would have spoken
 after
 this
+day
 So then
 there remains
 a Sabbath rest
@@ -116447,8 +116447,8 @@ for the
 people
 -
 of God
-for
 The [one]
+for
 having entered
 into
 the
@@ -116467,8 +116467,8 @@ the
 own
 -
 God [did]
-therefore
 We should be diligent
+therefore
 to enter
 into
 that
@@ -116479,17 +116479,17 @@ not
 by
 the
 same
+anyone
 example
+should fall
 -
 of disobedience
-anyone
-should fall
+Living [is]
 for
 the
 word
 -
 of God
-Living [is]
 and
 active
 and
@@ -116505,8 +116505,8 @@ as far as
 of soul
 and
 spirit
-and
 of joints
+and
 also
 marrows
 and
@@ -116522,8 +116522,8 @@ creature
 hidden
 before
 Him
-however
 all things
+however
 [are] uncovered
 and
 laid bare
@@ -116535,8 +116535,8 @@ whom
 [is] our
 -
 reckoning
-therefore
 Having
+therefore
 a high priest
 great
 having passed through
@@ -116550,26 +116550,26 @@ of God
 we should hold firmly
 to [our]
 confession
+Not
 for
 have we
 a high priest
-Not
 not
 being able
 to sympathize
 with the
 weaknesses
 of us
-however
 [one] having been tempted
+however
 in
 all things
 by
 the same way
 without
 sin
-therefore
 We should come
+therefore
 with
 boldness
 to the
@@ -116585,8 +116585,8 @@ may find
 for
 in time of need
 help
-for
 Every
+for
 high priest
 from among
 men
@@ -116600,14 +116600,14 @@ relating to
 God
 that
 he should offer
-both
 gifts
+both
 and
 sacrifices
 for
 sins
-being able
 to exercise forbearance
+being able
 with those
 being ignorant
 and
@@ -116690,8 +116690,8 @@ days
 of the
 flesh
 of Him
-both
 prayers
+both
 and
 supplications
 to
@@ -116754,8 +116754,8 @@ sluggish
 you have become
 in the
 hearings
-for
 Even
+for
 you ought
 to be
 teachers
@@ -116763,8 +116763,8 @@ by
 the
 time
 again
-you have
 need of
+you have
 [one]
 to teach
 you
@@ -116779,29 +116779,29 @@ oracles
 of God
 and
 you have become
-[those] having
 need
+[those] having
 of milk
 not
 of solid
 food
-for
 Everyone
+for
 -
 partaking [only]
 of milk
 [is] inexperienced
 in [the] word
 of righteousness
-for
 an infant
+for
 he is
+[for the] mature
 however
 is
 -
 solid
 food
-[for the] mature
 the [ones]
 by
 -
@@ -116812,8 +116812,8 @@ training
 having
 for
 distinguishing
-both
 good
+both
 and
 evil
 Therefore
@@ -116830,8 +116830,8 @@ maturity
 we should go on
 not
 again
-laying
 a foundation
+laying
 of repentance
 from
 dead
@@ -116840,10 +116840,10 @@ and
 faith
 in
 God
-instruction
 about baptisms
-then
+instruction
 of laying on
+then
 of hands
 of [the] resurrection
 of [the] dead
@@ -116857,29 +116857,29 @@ if
 permits
 -
 God
-for
 [It is] impossible
+for
 to those
 once
 having been enlightened
-then
 having tasted
+then
 of the
 gift
 -
 heavenly
 and
 partakers
+having become
 of [the] Spirit
 Holy
-having become
 and
-having tasted
 [the] goodness
+having tasted
 of God’s
 word
-also
 [the] power
+also
 [of the] coming
 age
 and then
@@ -116896,8 +116896,8 @@ Son
 of God
 and
 subjecting [Him] to open shame
-for
 Land
+for
 -
 having drunk in
 the
@@ -116920,8 +116920,8 @@ of blessing
 from
 -
 God
-however
 [That] bringing forth
+however
 thorns
 and
 thistles
@@ -116934,11 +116934,11 @@ the
 end [is]
 unto
 burning
-however
-beloved
 We are persuaded
+however
 concerning
 you
+beloved
 of
 better [things]
 and
@@ -116948,8 +116948,8 @@ if
 even
 like this
 we speak
-for
 Not
+for
 unjust [is]
 -
 God
@@ -116967,18 +116967,18 @@ the
 name
 of Him
 having ministered
-and
-[still] ministering
 to the
 saints
-now
+and
+[still] ministering
 We desire
+now
 each
 of you
 the
 same
-earnestness
 to show
+earnestness
 toward
 the
 full assurance
@@ -116990,8 +116990,8 @@ so that
 not
 sluggish
 you may be
-however
 imitators
+however
 of those
 through
 faith
@@ -117000,8 +117000,8 @@ patience
 inheriting
 the
 promises
-For
 -
+For
 to Abraham
 having made His promise
 -
@@ -117009,9 +117009,9 @@ God
 since
 by
 no one
+He had
 greater
 to swear
-He had
 He swore
 by
 Himself
@@ -117031,15 +117031,15 @@ having waited patiently
 he obtained
 the
 promise
-for
 Men
+for
 by
 [one]
 greater
 swear
 and
-their
 of all
+their
 disputes
 an end
 for
@@ -117050,6 +117050,8 @@ in
 which
 more abundantly
 desiring
+-
+God
 to show
 to the
 heirs
@@ -117060,8 +117062,6 @@ unchangeableness
 of the
 purpose
 of Him
--
-God
 guaranteed [it]
 by an oath
 so that
@@ -117084,13 +117084,13 @@ of the
 being set before [us]
 hope
 which
-we have
 as
 an anchor
+we have
 of the
 soul
-both
 sure
+both
 and
 unshakable
 and
@@ -117102,10 +117102,10 @@ the
 veil
 where
 [the] forerunner
-Jesus
 for
 us
 has entered
+Jesus
 according to
 the
 order
@@ -117115,8 +117115,8 @@ having become
 to
 the
 age
-for
 This
+for
 -
 Melchizedek
 King
@@ -117145,13 +117145,13 @@ of
 all
 apportioned
 Abraham
-indeed
 first
+indeed
 being translated
 king
 of righteousness
-and
 then
+and
 also
 king
 of Salem
@@ -117169,8 +117169,8 @@ nor
 of life
 end
 having
-however
 having been made like
+however
 the
 Son
 -
@@ -117180,22 +117180,22 @@ a priest
 unto
 -
 all time
-now
 Consider
+now
 how great
 this one [was]
 to whom
 a tenth
 Abraham
-the
-patriarch
 gave
 out of
 the
 best spoils
+the
+patriarch
 And
-indeed
 those
+indeed
 out from
 the
 sons
@@ -117206,11 +117206,11 @@ receiving
 a commandment
 have
 to take a tenth
+from the
+people
 according to
 the
 law
-from the
-people
 that
 is
 from the
@@ -117222,8 +117222,8 @@ out of
 the
 loin
 of Abraham
-however
 The [one]
+however
 not
 tracing his ancestry
 from
@@ -117236,8 +117236,8 @@ having
 the
 promises
 has blessed
-now
 Apart from
+now
 all
 dispute
 the
@@ -117247,14 +117247,14 @@ the
 superior
 is blessed
 And
-indeed
 here
+indeed
 tithes
 dying
 men
 receive
-however
 in that place
+however
 it is testified
 that
 he lives on
@@ -117270,8 +117270,8 @@ the [one]
 tithes
 receiving
 paid the tithe
-for
 Still
+for
 in
 the
 loin
@@ -117282,18 +117282,18 @@ when
 met
 him
 Melchizedek
+If
 indeed
 then
-If
 perfection
 by
 the
 Levitical
 priesthood
 were
-for
 the
 people
+for
 upon
 it
 had received [the] Law
@@ -117304,8 +117304,8 @@ according to
 the
 order
 of Melchizedek
-to arise
 [for] another
+to arise
 priest
 and
 not
@@ -117314,8 +117314,8 @@ the
 order
 of Aaron
 to be named
-for
 Being changed
+for
 of the
 priesthood
 from
@@ -117324,9 +117324,9 @@ also
 of law
 a change
 takes place
-for
 [He] concerning
 whom
+for
 are said
 these things
 a tribe
@@ -117338,8 +117338,8 @@ no one
 has served
 at the
 altar
-for
 [It is] evident
+for
 that
 out of
 Judah
@@ -117369,19 +117369,19 @@ arises
 a priest
 another
 who
-has been constituted
 not
 according to
 a law
 of a commandment
 fleshly
+has been constituted
 but
 according to
 [the] power
 of a life
 indestructible
-for
 It is testified
+for
 -
 You [are]
 a priest
@@ -117392,25 +117392,25 @@ according to
 the
 order
 of Melchizedek
-for
-indeed
 A putting away
+indeed
+for
+there is
 of the preceding
 commandment
-there is
 because of
 -
 its
 weakness
 and
 uselessness
-for
 nothing
+for
 perfected
 the
 law
-then
 [the] introduction
+then
 of a better
 hope
 by
@@ -117424,16 +117424,16 @@ as much as
 not
 apart from
 an oath
-for
-truly
 those ones
+truly
+for
 without
 an oath
 are
-becoming
 priests
-however
+becoming
 [He]
+however
 with
 an oath
 through
@@ -117456,12 +117456,12 @@ so much
 also
 of a better
 covenant
-[the] guarantee
 has become
+[the] guarantee
 Jesus
 And
-indeed
 those
+indeed
 many
 are
 having become
@@ -117471,8 +117471,8 @@ because of
 by death
 being prevented from
 continuing
-But
 -
+But
 because of
 the
 abiding
@@ -117486,11 +117486,11 @@ He holds
 priesthood
 wherefore
 also
-He is able
 to save
 to
 the
 uttermost
+He is able
 those
 drawing near
 through
@@ -117504,11 +117504,11 @@ for
 to intercede
 for
 them
+Such
 indeed
 for us
 also
 was fitting
-Such
 a high priest
 holy
 innocent
@@ -117542,23 +117542,23 @@ then
 for those
 of the
 people
-for
 this
+for
 He did
 once for all
 Himself
 having offered up
-for
 The
 law
+for
 men
 appoints
 as high priests
 having
 weakness
-however
 the
 word
+however
 of the
 oath
 which [is]
@@ -117570,13 +117570,13 @@ to
 the
 age
 having been perfected
-now
 [The] sum
+now
 of
 the things
 being spoken of [is that]
-we have
 such
+we have
 a high priest
 who
 sat down
@@ -117589,9 +117589,9 @@ Majesty
 in
 the
 heavens
-a minister
 in the
 holy places
+a minister
 and
 in the
 tabernacle
@@ -117603,33 +117603,33 @@ the
 Lord
 not
 man
-for
 Every
+for
 high priest
 in order
 -
 to offer
-both
 gifts
+both
 and
 sacrifices
 is appointed
 wherefore [it was]
 necessary
 to have
+something
 also
 [for] this One
-something
 that
 He might offer
-then
-certainly
 If
+certainly
+then
 He were
 on
 earth
--
 not even
+-
 would He be
 a priest
 there being
@@ -117643,9 +117643,9 @@ who
 a copy
 and
 shadow
+serve
 of the
 heavenly
-serve
 as
 was divinely instructed
 Moses
@@ -117653,9 +117653,9 @@ being about
 to complete
 the
 tabernacle
+See that
 for
 He says
-See that
 you shall make
 all things
 according to
@@ -117667,36 +117667,36 @@ you
 in
 the
 mountain
-however
 Now
+however
 more excellent
-a ministry
 He has obtained
+a ministry
 as much as
 also
-He is
-[the] mediator
 of a better
+He is
 covenant
+[the] mediator
 which
 upon
 better
 promises
 has been enacted
-for
 If
+for
 the
 first
 that
 had been
 faultless
--
 not
+-
 for a second
-a place
 would have been sought
-for
+a place
 Finding fault
+for
 with them
 He says
 Behold
@@ -117837,34 +117837,34 @@ new
 He has made obsolete
 the
 first
-then
 that
+then
 growing old
 and
 aging
 [is] near
 vanishing
+Had
 indeed
 therefore
-Had
 also
 the
 first
 regulations
 of worship
-and
 -
+and
 a sanctuary
 earthly
+A tabernacle
 for
 was prepared
-A tabernacle
 the
 first [room]
 in
 which [were]
-both
 -
+both
 the lampstand
 and
 the
@@ -117877,8 +117877,8 @@ bread
 which
 is called
 [the] Holy [Place]
-now
 Behind
+now
 the
 second
 veil
@@ -117887,8 +117887,8 @@ veil
 being called
 the Holy
 of Holies
-having
 [the] golden
+having
 altar of incense
 and
 the
@@ -117916,8 +117916,8 @@ the
 tablets
 of the
 covenant
-then
 Above
+then
 it
 [were the] cherubim
 of glory
@@ -117932,12 +117932,12 @@ now [the time]
 to speak
 in
 detail
-now
 These things
+now
 thus
 having been prepared
-indeed
 into
+indeed
 the
 first
 tabernacle
@@ -117949,8 +117949,8 @@ priests
 the
 sacred services
 accomplishing
-however
 [Enters] into
+however
 the
 second
 once
@@ -117998,8 +117998,8 @@ time
 present
 in
 which
-both
 gifts
+both
 and
 sacrifices
 are offered
@@ -118024,9 +118024,9 @@ until
 [the] time
 of reformation
 being imposed
+Christ
 however
 having appeared as
-Christ
 high priest
 of the
 having come
@@ -118051,8 +118051,8 @@ blood
 of goats
 and
 calves
-however
 through
+however
 the
 own
 blood
@@ -118064,8 +118064,8 @@ holy places
 eternal
 redemption
 having obtained
-for
 If
+for
 the
 blood
 of goats
@@ -118128,24 +118128,24 @@ the
 first
 covenant
 transgressions
+the
+promise
 might receive
 those
 having been called
-the
-promise
 of the
 eternal
 inheritance
-for
 Where
+for
 [there is] a will
+[the] death
 [it is] necessary
 to establish
-[the] death
 of the [one]
 having made [it]
-for
 A will
+for
 after
 death
 [is] affirmed
@@ -118164,8 +118164,8 @@ first
 apart from
 blood
 has been inaugurated
-for
 Having been spoken
+for
 of every
 commandment
 according to
@@ -118191,8 +118191,8 @@ wool
 scarlet
 and
 hyssop
-both
 itself
+both
 the
 book
 and
@@ -118212,10 +118212,10 @@ unto
 you
 -
 God
-then
 And
 the
 tabernacle
+then
 and
 all
 the
@@ -118241,10 +118241,10 @@ blood-shedding
 not
 there is
 forgiveness
-then [for]
 [It was] necessary
-indeed
+then [for]
 the
+indeed
 representations
 of the things
 in
@@ -118252,21 +118252,21 @@ the
 heavens
 with these
 to be purified
-however
 themselves
+however
 the
 heavenly things
-sacrifices
 with better
+sacrifices
 than
 these
-for
-has entered
-Christ
 Not
+for
 into
 made by hands
+has entered
 holy places
+Christ
 copies
 of the
 true [ones]
@@ -118308,8 +118308,8 @@ to have suffered
 from
 [the] foundation
 of [the] world
-however
 Now
+however
 once
 in
 [the] consummation
@@ -118332,8 +118332,8 @@ it is apportioned
 to men
 once
 to die
-then
 after
+then
 this
 [to face] judgment
 so
@@ -118345,8 +118345,8 @@ having been offered
 in order
 -
 of many
-[the] sins
 to bear
+[the] sins
 for
 a second time
 apart from
@@ -118357,11 +118357,11 @@ Him
 awaiting
 for
 salvation
+A shadow
 for
+having
 the
 law
-having
-A shadow
 of the
 coming
 good things
@@ -118409,8 +118409,8 @@ these
 of sins
 every
 year
-indeed
 Impossible [it is]
+indeed
 [for the] blood
 of bulls
 and
@@ -118428,8 +118428,8 @@ and
 offering
 not
 You have desired
-however
 a body
+however
 You have prepared
 me
 Burnt offerings
@@ -118440,18 +118440,18 @@ not
 You have delighted in
 Then
 I said
--
-O God
 Behold
+I have come
 in
 [the] scroll
 of [the] book
 it is written
 of
 Me
-I have come
 -
 to do
+-
+O God
 the
 will
 of You
@@ -118504,31 +118504,31 @@ of Jesus
 Christ
 once for all
 And
-indeed
 every
+indeed
 priest
 stands
 every
 day
 ministering
 and
-repeatedly
-offering
 the
 same
+repeatedly
+offering
 sacrifices
 which
 never
 are able
 to take away
 sins
-however
 This [One]
+however
 one
-sacrifice
 for
 sins
 having offered
+sacrifice
 in
 -
 perpetuity
@@ -118549,8 +118549,8 @@ of Him
 for the
 feet
 of Him
-for
 By one
+for
 offering
 He has perfected
 for
@@ -118558,16 +118558,16 @@ for
 all time
 those
 being sanctified
-now
 Bears witness
+now
 to us
 also
 the
 Spirit
 -
 Holy
-for
 after
+for
 -
 having said
 This [is]
@@ -118608,17 +118608,17 @@ no
 not
 will I remember
 any more
-now
 Where
+now
 forgiveness
 of these [is]
 no longer [is there]
 an offering
 for
 sin
+Having
 therefore
 brothers
-Having
 confidence
 for
 the
@@ -118677,8 +118677,8 @@ confession
 of [our]
 hope
 firmly
-for [is]
 faithful
+for [is]
 the [One]
 having promised
 And
@@ -118700,16 +118700,16 @@ as
 with some
 but
 encouraging [one another]
-more
 and
 so much
+more
 as
 you see
 drawing near
 the
 Day
-for
 [If] willingly
+for
 sin
 we
 after [we are]
@@ -118724,20 +118724,20 @@ for
 sins
 remains
 a sacrifice
-however
 terrifying
+however
 a certain
 expectation
 of judgment
 and
-fury
 of fire
-being about
+fury
 to devour
+being about
 the
 adversaries
-anyone
 Having set aside
+anyone
 [the] law
 of Moses
 without
@@ -118751,8 +118751,8 @@ he dies
 How much
 think you
 worse
-punishment
 will he deserve
+punishment
 the [one]
 the
 Son
@@ -118760,12 +118760,12 @@ Son
 of God
 having trampled upon
 and
-ordinary
-having esteemed
 the
 blood
 of the
 covenant
+ordinary
+having esteemed
 by
 which
 he was sanctified
@@ -118775,8 +118775,8 @@ Spirit
 -
 of grace
 having insulted
-for
 We know
+for
 the [One]
 having said
 Mine
@@ -118797,34 +118797,34 @@ into
 [the] hands
 of God
 [the] living
-however
 Remember
+however
 the
 former
 days
 in
 which
 having been enlightened
-you endured
 a great
 conflict
+you endured
 of sufferings
-indeed
 this
-both
+indeed
 by revilings
+both
 and
 tribulations
 being made a spectacle
-now
 this
+now
 partners
 of those
 thus
 passing through [them]
 having become
-for
 Both
+for
 with the
 prisoners
 you sympathized
@@ -118840,13 +118840,13 @@ you accepted
 knowing
 to have
 yourselves
-possession
 a better
+possession
 and
 abiding
-therefore
 Not
 throw away
+therefore
 the
 boldness
 of you
@@ -118854,10 +118854,10 @@ which
 has
 a great
 reward
-for
 Of endurance
-need
+for
 You have
+need
 so that
 the
 will
@@ -118867,8 +118867,8 @@ having done
 you may receive
 the
 promise
-for
 Yet
+for
 A little
 very
 while
@@ -118878,8 +118878,8 @@ will come
 and
 not
 will delay
-however
 The one
+however
 righteous
 of Mine
 by
@@ -118895,10 +118895,10 @@ soul
 of Me
 in
 him
-however
 We
-are
+however
 not
+are
 of [those] drawing back
 to
 destruction
@@ -118907,18 +118907,18 @@ of faith
 to
 [the] preserving
 [of the] soul
-now
 Is
+now
 faith
 of [things] hoped for
 [the] assurance
-[the] conviction
 of things
+[the] conviction
 not
 being seen
-for
 In
 this
+for
 were commended
 the
 ancients
@@ -118938,9 +118938,9 @@ the things
 being seen
 have been made
 By faith
-Abel
 a more excellent
 sacrifice
+Abel
 than
 Cain
 offered
@@ -118979,22 +118979,22 @@ had taken up
 him
 -
 God
-for
 Before
+for
 the
 translation
 he was commended
 to have pleased
 -
 God
-now
 Without
+now
 faith
 [it is] impossible
 to please [Him]
+To believe
 for
 it behooves
-To believe
 the one
 drawing near
 -
@@ -119008,8 +119008,8 @@ Him
 a rewarder
 He becomes
 By faith
-Noah
 having been divinely instructed
+Noah
 concerning
 the things
 not yet
@@ -119032,8 +119032,8 @@ of the
 according to
 faith
 righteousness [that is]
-heir
 he became
+heir
 By faith
 being called
 Abraham
@@ -119041,8 +119041,8 @@ obeyed
 to go out
 into
 a place
-he was going
 that
+he was going
 to receive
 for
 an inheritance
@@ -119073,8 +119073,8 @@ of the
 promise
 -
 same
-for
 He was awaiting
+for
 the
 -
 foundations
@@ -119108,10 +119108,10 @@ Therefore
 also
 from
 one man
-having been as good as dead
 were born
 and
 he
+having been as good as dead
 as
 the
 stars
@@ -119156,8 +119156,8 @@ they are
 on
 the
 earth
-for
 Those
+for
 such things
 saying
 make manifest
@@ -119165,21 +119165,21 @@ that [their]
 own country
 they are seeking
 And
-indeed
 if
-they had been remembering
+indeed
 that
+they had been remembering
 from
 where
 they came out
--
 they would have had
+-
 opportunity
 to return
-however
 Now
-they stretch forward to
+however
 a better [one]
+they stretch forward to
 that
 is
 a heavenly [one]
@@ -119190,10 +119190,10 @@ them
 -
 God
 God
-of them
 to be called
-indeed
+of them
 He has prepared
+indeed
 for them
 a city
 By faith
@@ -119307,8 +119307,8 @@ to be called
 [the] son
 of [the] daughter
 of Pharaoh
-having chosen
 rather
+having chosen
 to suffer affliction with
 the
 people
@@ -119329,8 +119329,8 @@ the
 reproach
 -
 of Christ
-for
 he was looking
+for
 toward
 the
 reward
@@ -119343,8 +119343,8 @@ the
 anger
 of the
 king
-for
 the
+for
 Invisible [One]
 as
 seeing
@@ -119407,19 +119407,19 @@ And
 what
 more
 shall I say
-for
 Will fail
+me
+for
+telling
 the
 time
-me
-telling
 of
 Gideon
 Barak
 Samson
 Jephthah
-also
 David
+also
 and
 Samuel
 and
@@ -119451,8 +119451,8 @@ mighty
 in
 war
 [the] armies
-of foreigners
 put to flight
+of foreigners
 Received back
 women
 by
@@ -119460,8 +119460,8 @@ resurrection
 the
 dead
 of them
-then
 others
+then
 were tortured
 not
 having accepted
@@ -119471,15 +119471,15 @@ so that
 a better
 resurrection
 they might obtain
-then
 Others
+then
 of mockings
 and
 of scourgings
 trial
 received
-also
 in addition
+also
 of chains
 and
 imprisonment
@@ -119499,9 +119499,15 @@ skins
 being destitute
 being oppressed
 being mistreated
-wandering
+of whom
+not
+was
+worthy
+the
+world
 in
 deserts
+wandering
 and
 mountains
 and
@@ -119511,12 +119517,6 @@ and
 holes
 of the
 earth
-of whom
-not
-was
-worthy
-the
-world
 And
 these
 all
@@ -119543,14 +119543,14 @@ they should be made perfect
 Therefore
 also
 we
-having
 such a great
+having
 encompassing
 us
 a cloud
 of witnesses
-having laid aside
 weight
+having laid aside
 every
 and
 the
@@ -119582,19 +119582,19 @@ endured
 [the] cross
 [its] shame
 having despised
-and
 at
 right hand
+and
 of the
 throne
 -
 of God
 sat down
-for
 Consider fully
+for
 the [One]
-having endured
 such great
+having endured
 from
 -
 sinners
@@ -119636,13 +119636,13 @@ faint
 by
 Him
 being reproved
-for
 Whom
+for
 He loves
 [the] Lord
 disciplines
-now
 He scourges
+now
 every
 son
 whom
@@ -119656,17 +119656,17 @@ you
 is treating
 -
 God
-for
 what
+for
 son [is there]
 whom
 not
 disciplines
 [his] father
-however
 If
-you are
+however
 without
+you are
 of discipline
 of which
 partakers
@@ -119678,9 +119678,9 @@ and
 not
 sons
 you are
-indeed
 Furthermore
 -
+indeed
 of the
 flesh
 of us
@@ -119699,9 +119699,9 @@ Father
 of spirits
 and
 shall live
-indeed
-Truly
 -
+Truly
+indeed
 for
 a few
 days
@@ -119710,8 +119710,8 @@ that
 seeming good
 to them
 they were disciplining [us]
-but [He]
 -
+but [He]
 for
 [our]
 benefitting
@@ -119721,29 +119721,29 @@ to share
 of the
 holiness
 of Him
-now
 All
+now
 discipline
-indeed
 for
+indeed
 those
 being present
-seems
 not
+seems
 of joy
 to be
 but
 of grief
-however
 afterward
+however
 [the] fruit
 peaceable
-of righteousness
 to those
 by
 it
 having been trained
 it yields
+of righteousness
 Therefore
 the
 drooping
@@ -119765,13 +119765,13 @@ not
 the
 lame
 should be put out of joint
-however
 should be healed
+however
 rather
+Peace
 pursue
 with
 all
-Peace
 and
 -
 holiness
@@ -119818,8 +119818,8 @@ sold
 the
 birthright
 of himself
-for
 You know
+for
 that
 even
 afterward
@@ -119828,8 +119828,8 @@ to inherit
 the
 blessing
 he was rejected
-for
 of repentance
+for
 place
 not
 he found
@@ -119838,8 +119838,8 @@ with
 tears
 having earnestly sought
 it
-for
 Not
+for
 you have come to
 [that] being touched
 and
@@ -119865,9 +119865,9 @@ excused themselves
 to be addressed
 to them
 [the] word
-for
 not
 they could bear
+for
 that
 being commanded
 If even
@@ -119884,8 +119884,8 @@ the thing
 appearing [that]
 Moses
 said
-I am
 Greatly afraid
+I am
 and
 trembling
 But
@@ -119910,8 +119910,8 @@ in
 [the] heavens
 and
 to [the] judge
-of all
 God
+of all
 and
 to [the] spirits
 of [the] righteous
@@ -119934,15 +119934,15 @@ lest
 you refuse
 the [One]
 speaking
-for
 If
+for
+they
 not
 escaped
-they
-having refused
-the [One]
 on
 earth
+having refused
+the [One]
 divinely instructing [them]
 much
 less
@@ -119959,8 +119959,8 @@ the
 earth
 shook
 at that time
-however
 now
+however
 He has promised
 saying
 Yet
@@ -119975,8 +119975,8 @@ but
 also
 -
 heaven
-now
 This
+now
 Yet
 once [more]
 signifies
@@ -120007,8 +120007,8 @@ with
 reverence
 and
 awe
-for
 Also
+for
 the
 God
 of us
@@ -120021,9 +120021,9 @@ let abide
 Of hospitality
 not
 be forgetful
-for
 through
 this
+for
 unawares
 some
 have entertained
@@ -120050,8 +120050,8 @@ and
 the
 marriage bed
 undefiled
-for
 the sexually immoral
+for
 and
 adulterers
 will judge
@@ -120063,8 +120063,8 @@ manner of life
 being satisfied
 with the
 present
-for
 He Himself
+for
 has said
 Never
 not
@@ -120100,11 +120100,11 @@ word
 -
 of God
 of whom
+considering
 the
 outcome
 of [their]
 way of life
-considering
 imitate
 the
 faith
@@ -120125,8 +120125,8 @@ and
 strange
 not
 be carried away
-for
 [it is] good
+for
 by grace
 to be strengthened
 for the
@@ -120151,9 +120151,9 @@ those
 in the
 tabernacle
 serving
+Whose
 for
 is brought
-Whose
 of animals
 the
 blood [as sacrifices]
@@ -120198,8 +120198,8 @@ the
 reproach
 of Him
 bearing
-for
 Not
+for
 we have
 here
 an abiding
@@ -120208,16 +120208,16 @@ but
 the
 coming [one]
 we are seeking for
-then
 Through
 Him
+then
 we should offer
+[the] sacrifice
+of praise
 through
 everything
 to
 God
-[the] sacrifice
-of praise
 that
 is
 [the] fruit
@@ -120226,15 +120226,15 @@ confessing
 the
 name
 of Him
-And
 -
+And
 the good
 and
 of sharing
 not
 be forgetful
-for
 with such
+for
 sacrifices
 is well pleased
 -
@@ -120245,8 +120245,8 @@ leading
 you
 and
 be submissive
-for
 they
+for
 watch
 over
 the
@@ -120263,15 +120263,15 @@ they might do
 and
 not
 groaning
-indeed
 unprofitable
+indeed
 for you [is]
 this
 Pray
 for
 us
-for
 we are persuaded
+for
 that
 a good
 conscience
@@ -120279,10 +120279,10 @@ we have
 in
 all things
 well
-to conduct ourselves
 desiring
-now
+to conduct ourselves
 More abundantly
+now
 I exhort [you]
 this
 to do
@@ -120290,8 +120290,8 @@ so that
 more quickly
 I may be restored
 to you
-now
 [May] the
+now
 God
 -
 of peace
@@ -120299,16 +120299,16 @@ of peace
 having brought
 out from
 [the] dead
-by
-[the] blood
-of [the] covenant
-eternal
 the
 Shepherd
 of the
 sheep
 -
 great
+by
+[the] blood
+of [the] covenant
+eternal
 the
 Lord
 of us
@@ -120343,8 +120343,8 @@ ages
 of the
 ages
 Amen
-now
 I exhort
+now
 you
 brothers
 bear with
@@ -120352,8 +120352,8 @@ the
 word
 -
 of exhortation
-for
 only
+for
 in
 few words
 I have written
@@ -120406,15 +120406,15 @@ in
 the
 Dispersion
 Greetings
-brothers
-of me
 All
 joy
 esteem [it]
+brothers
+of me
 when
 trials
-various
 you might fall into
+various
 knowing
 that
 the
@@ -120424,8 +120424,8 @@ of your
 faith
 produces
 endurance
-And
 -
+And
 endurance
 work
 [its] perfect
@@ -120438,8 +120438,8 @@ complete
 in
 nothing
 lacking
-now
 If
+now
 any
 of you
 lacks
@@ -120448,23 +120448,23 @@ let him ask
 from
 the [One]
 giving
+God
 to all
 generously
 and
 not
 finding fault
-God
 and
 it will be given
 to him
-however
 Let him ask
+however
 in
 faith
 nothing
 doubting
-for
 The [one]
+for
 doubting
 is like
 a wave
@@ -120472,8 +120472,8 @@ of [the] sea
 being blown by the wind
 and
 being tossed by the wind
-for
 Not
+for
 let suppose
 the
 man
@@ -120492,8 +120492,8 @@ all
 the
 ways
 of him
-however
 Let boast
+however
 the
 brother
 -
@@ -120502,8 +120502,8 @@ in
 the
 exaltation
 of him
-then
 he who [is]
+then
 rich
 in
 the
@@ -120514,8 +120514,8 @@ like
 a flower
 of grass
 he will pass away
-for
 Has risen
+for
 the
 sun
 with
@@ -120571,18 +120571,18 @@ let say
 By
 God
 I am being tempted
-For
 -
+For
 God
 unable to be tempted
 is
 by evils
-now
 tempts
+now
 He Himself
 no one
-however
 A man
+however
 is tempted
 by
 the
@@ -120597,8 +120597,8 @@ desire
 having conceived
 gives birth to
 sin
-and
 -
+and
 sin
 having become fully grown
 brings forth
@@ -120649,8 +120649,8 @@ Know [this]
 brothers
 my
 beloved
-however
 Let be
+however
 every
 man
 swift
@@ -120664,8 +120664,8 @@ to speak
 slow
 unto
 anger
-for
 [the] anger
+for
 of man
 [the] righteousness
 of God
@@ -120690,8 +120690,8 @@ to save
 the
 souls
 of you
-however
 Be
+however
 doers
 of [the] word
 and
@@ -120720,8 +120720,8 @@ natural
 of him
 in
 a mirror
-for
 he has viewed
+for
 himself
 and
 has gone away
@@ -120730,8 +120730,8 @@ immediately
 he has forgotten
 what like
 he was
-however
 The [one]
+however
 having looked intently
 into
 [the] law
@@ -120741,10 +120741,10 @@ that
 of freedom
 and
 having continued in [it]
-having been
 not
 a hearer
 forgetful
+having been
 but
 a doer
 of [the] work
@@ -120769,9 +120769,9 @@ deceiving
 [the] heart
 of himself
 of this one
+worthless [is]
 the
 religion
-worthless [is]
 Religion
 pure
 and
@@ -120781,8 +120781,8 @@ the
 God
 and
 Father
-is
 this
+is
 to visit
 orphans
 and
@@ -120812,8 +120812,8 @@ Jesus
 Christ
 -
 of glory
-for
 If
+for
 might come
 into
 assembly
@@ -120823,15 +120823,15 @@ with a gold ring
 in
 apparel
 splendid
-then
 might come in
+then
 also
 a poor [man]
 in
 shabby
 apparel
-also
 you should look
+also
 upon
 the [one]
 wearing
@@ -120891,8 +120891,8 @@ He promised
 to those
 loving
 Him
-however
 You
+however
 have dishonored
 the
 poor
@@ -120920,8 +120920,8 @@ you
 If
 indeed
 [the] law
-royal
 you keep
+royal
 according to
 the
 Scripture
@@ -120933,8 +120933,8 @@ as
 yourself
 well
 you are doing
-however
 If
+however
 you show partiality
 sin
 you are committing
@@ -120944,21 +120944,21 @@ the
 law
 as
 transgressors
-for
 Whoever
+for
 all
 the
 law
 shall keep
-but
 shall stumble
+but
 in
 one [point]
 he has become
 of all
 guilty
-for
 The [One]
+for
 having said
 Not
 you shall commit adultery
@@ -120966,12 +120966,12 @@ said
 also
 Not
 you shall murder
-however
 If
+however
 not
 you do commit adultery
-however
 do commit murder
+however
 you have become
 a transgressor
 of [the] law
@@ -120984,10 +120984,10 @@ as
 by
 [the] law
 of freedom
-to be judged
 being about
-For
+to be judged
 -
+For
 judgment
 without mercy [will be]
 to the [one]
@@ -120997,18 +120997,18 @@ mercy
 Triumphs over
 mercy
 judgment
-brothers
-of me
 What [is]
 the
 profit
+brothers
+of me
 if
 faith
-to have
 says
 anyone
-however
+to have
 works
+however
 not
 he has
 Not
@@ -121028,10 +121028,10 @@ lacking
 -
 of daily
 food
-then
 says
-to them
+then
 anyone
+to them
 out from
 you
 Go
@@ -121040,9 +121040,9 @@ peace
 be warmed
 and
 be filled
-however
 not
 gives
+however
 to them
 the
 needful things
@@ -121104,12 +121104,12 @@ demons
 believe [that]
 and
 shudder
+Do you want
 however
+to come to know
 O
 man
 foolish
-Do you want
-to come to know
 that
 -
 faith
@@ -121155,8 +121155,8 @@ the
 Scripture
 -
 saying
-then
 Believed
+then
 Abraham
 -
 God
@@ -121180,8 +121180,8 @@ not
 by
 faith
 alone
-then
 Likewise
+then
 also
 Rahab
 the
@@ -121197,8 +121197,8 @@ and
 by another
 way
 having sent [them] forth
-for
 Just as
+for
 the
 body
 apart from
@@ -121213,19 +121213,19 @@ apart from
 works
 dead
 is
-brothers
-of mine
 Not
 many [of you]
 teachers
 let be
+brothers
+of mine
 knowing
 that
 greater
 judgment
 we will receive
-for
 In many ways
+for
 we stumble
 all
 If
@@ -121243,8 +121243,8 @@ indeed
 all
 the
 body
-now
 If
+now
 of the
 horses
 -
@@ -121332,15 +121332,15 @@ being set on fire
 by
 -
 hell
-for
 All
+for
 kinds
-both
 of beasts
+both
 and
 of birds
-both
 of creeping things
+both
 and
 things of the sea
 is subdued
@@ -121350,12 +121350,12 @@ by the
 race
 of the
 human
-but
 -
+but
 the tongue
+no one
 to subdue
 is able
-no one
 of men
 [it is] an unruly
 evil
@@ -121388,10 +121388,10 @@ proceed forth
 blessing
 and
 cursing
-brothers
-of Me
 Not
 ought
+brothers
+of Me
 these things
 so
 to be
@@ -121408,10 +121408,10 @@ pours forth
 and
 -
 bitter
-brothers
-of me
 Not
 is able
+brothers
+of me
 a fig tree
 olives
 to produce
@@ -121420,8 +121420,8 @@ a vine
 figs
 Nor
 a salt [spring]
-to produce
 fresh
+to produce
 water
 Who
 [is] wise
@@ -121440,11 +121440,11 @@ of him
 in
 [the] humility
 of wisdom
-however
 If
-you have
+however
 jealousy
 bitter
+you have
 and
 self-interest
 in
@@ -121469,8 +121469,8 @@ but
 [is] earthly
 unspiritual
 demonic
-for
 Where
+for
 jealousy
 and
 self-interest [exist]
@@ -121480,8 +121480,8 @@ and
 every
 evil
 thing
-But
 -
+But
 the from above
 wisdom
 first
@@ -121499,8 +121499,8 @@ of fruits
 good
 impartial
 sincere
-now
 [The] fruit
+now
 of righteousness
 in
 peace
@@ -121573,12 +121573,12 @@ hostility
 [with]
 God
 is
-therefore
-if
 Whoever
+if
+therefore
 has chosen
-to be
 a friend
+to be
 of the
 world
 an enemy
@@ -121601,26 +121601,26 @@ that
 He has made to dwell
 in
 us
-however
 Greater
-grace
+however
 He gives
+grace
 Therefore
 it says
 -
 God
 [the] proud
 opposes
-however
 to [the] humble
+however
 gives
 grace
-therefore
 Subject yourselves
+therefore
 -
 to God
-however
 Resist
+however
 the
 devil
 and
@@ -121679,12 +121679,12 @@ speaks against
 and
 judges
 [the] Law
-however
 If
+however
 [the] Law
 you judge
-you are
 not
+you are
 a doer
 of [the] Law
 but
@@ -121699,8 +121699,8 @@ being able
 to save
 and
 to destroy
-however
 You
+however
 who
 are
 -
@@ -121736,9 +121736,9 @@ What [is]
 the
 life
 of you
+A vapor
 just
 it is
-A vapor
 -
 for
 a little [while]
@@ -121761,8 +121761,8 @@ we will do
 this
 or
 that
-however
 Now
+however
 you boast
 in
 the
@@ -121773,8 +121773,8 @@ boasting
 such
 evil
 is
-therefore
 To [him] knowing
+therefore
 good
 to do
 and
@@ -121877,9 +121877,9 @@ righteous
 not
 does he resist
 you
+Be patient
 therefore
 brothers
-Be patient
 until
 the
 coming
@@ -121915,9 +121915,9 @@ coming
 of the
 Lord
 has drawn near
-brothers
 Not
 grumble
+brothers
 against
 one another
 so that
@@ -121930,9 +121930,9 @@ before
 the
 doors
 is standing
-brothers
-take
 [As] an example
+take
+brothers
 -
 of suffering evils
 and
@@ -121960,17 +121960,17 @@ outcome
 from [the] Lord
 you have seen
 that
+full of compassion
 is
 the
 Lord
-full of compassion
 and
 [is] merciful
+Before
+all things
 however
 brothers
 of me
-Before
-all things
 not
 swear
 neither [by]
@@ -121983,8 +121983,8 @@ nor
 other
 any
 oath
-however
 Be
+however
 of you
 the
 Yes
@@ -122045,8 +122045,8 @@ he might be [one]
 having committed
 it will be forgiven
 him
-therefore
 Confess
+therefore
 to one another
 the
 sins
@@ -122062,8 +122062,8 @@ prevails
 of a righteous [man]
 being made effective
 Elijah
-was
 a man
+was
 of like nature
 to us
 and
@@ -122158,9 +122158,9 @@ of [the] blood
 of Jesus
 Christ
 Grace
+to you
 and
 peace
-to you
 may be multiplied
 Blessed [be]
 the
@@ -122218,9 +122218,9 @@ last
 in
 which
 you greatly rejoice
-if
 for a little while
 at present
+if
 being necessary
 having been put to grief
 by
@@ -122236,9 +122236,9 @@ more precious
 than gold
 -
 perishing
-though
 by
 fire
+though
 being refined
 may be discovered
 to result in
@@ -122255,13 +122255,13 @@ whom
 not
 having seen
 you love
-now
 on
 whom
 now [though]
 not
 seeing
 believing
+now
 you exult
 with joy
 inexpressible
@@ -122315,8 +122315,8 @@ it was revealed
 that
 not
 themselves
-however
 you
+however
 they were serving
 in those things
 which
@@ -122335,9 +122335,9 @@ from
 heaven
 into
 which
-to look
 desire
 angels
+to look
 Therefore
 having girded up
 the
@@ -122431,13 +122431,13 @@ without blemish
 and
 without spot
 of Christ
-indeed
 having been foreknown
+indeed
 before
 [the] foundation
 of [the] world
-however
 having been revealed
+however
 in
 [the] last
 -
@@ -122494,8 +122494,8 @@ but
 of imperishable
 by
 [the] word
-of God
 living
+of God
 and
 abiding
 because
@@ -122517,16 +122517,16 @@ and
 the
 flower
 falls away
-but
 -
+but
 the word
 of [the] Lord
 abides
 to
 the
 age
-now
 This
+now
 is
 the
 word
@@ -122534,8 +122534,8 @@ word
 having been proclaimed
 to
 you
-therefore
 Having put aside
+therefore
 all
 malice
 and
@@ -122568,17 +122568,17 @@ that
 [is] good
 the
 Lord
-coming
 To
 whom
+coming
 a stone
 living
-indeed
 by
 men
+indeed
 rejected
-however
 in the sight of
+however
 God
 chosen
 [and] precious
@@ -122621,14 +122621,14 @@ Him
 no
 not
 shall be put to shame
+To you
 therefore [is]
 the
 preciousness
-To you
 -
 believing
-however
 [to those] disobeying
+however
 [The] stone
 which
 have rejected
@@ -122654,8 +122654,8 @@ to
 which
 also
 they were appointed
-however
 You
+however
 [are] a race
 chosen
 a royal
@@ -122666,9 +122666,9 @@ a people
 for [His]
 possession
 so that
-you may proclaim
 the
 excellencies
+you may proclaim
 of the [One]
 out of
 darkness
@@ -122683,15 +122683,15 @@ who
 once [were]
 not
 a people
-however
 now
+however
 [the] people
 of God
 those
 not
 having received mercy
-however
 now
+however
 having received mercy
 Beloved
 I exhort [you]
@@ -122735,12 +122735,12 @@ in
 [the] day
 of visitation
 Be in subjection
-for the sake of
-the
-Lord
 to every
 human
 institution
+for the sake of
+the
+Lord
 whether
 to [the] king
 as
@@ -122754,8 +122754,8 @@ being sent
 for
 vengeance
 to evildoers
-then
 praise
+then
 to well doers
 because
 this
@@ -122776,8 +122776,8 @@ free
 and
 not
 as
-having
 a cover-up
+having
 for
 evil
 the
@@ -122815,8 +122815,8 @@ but
 also
 to the
 unreasonable
-for
 This
+for
 [is] acceptable
 if
 for sake of
@@ -122827,8 +122827,8 @@ anyone
 griefs
 suffering
 unjustly
-for
 What kind of
+for
 credit [is it]
 if
 sinning
@@ -122845,9 +122845,9 @@ this [is]
 commendable
 before
 God
-for
 To this
 hereunto
+for
 you have been called
 because
 also
@@ -122881,16 +122881,16 @@ reviled in return
 suffering
 not
 threatened
-however
 He gave [Himself] over
+however
 to Him
 judging
 justly
 Who
-Himself
 the
 sins
 of us
+Himself
 bore
 in
 the
@@ -122910,8 +122910,8 @@ By whose
 -
 wounds
 you have been healed
-for
 You were
+for
 like
 sheep
 going astray
@@ -122926,15 +122926,15 @@ Overseer
 of the
 souls
 of you
-wives
 Likewise
+wives
 be subject
 to the
 own
 husbands
 so that
-if
 even
+if
 any
 are disobedient
 to the
@@ -122988,8 +122988,8 @@ before
 -
 God
 of great worth
-for
 In this way
+for
 formerly
 also
 the
@@ -123014,8 +123014,8 @@ lord
 him
 calling
 of whom
-children
 you have become
+children
 doing good
 and
 not
@@ -123047,8 +123047,8 @@ to be hindered
 the
 prayers
 of you
-Now
 -
+Now
 the end
 All [be]
 single-minded
@@ -123065,8 +123065,8 @@ or
 insult
 for
 insult
-however
 on the contrary
+however
 blessing
 because
 to
@@ -123075,8 +123075,8 @@ you were called
 so that
 blessing
 you should inherit
-for
 The [one]
+for
 desiring
 life
 to love
@@ -123095,8 +123095,8 @@ lips
 not
 to speak
 deceit
-also
 Let him turn away
+also
 from
 evil
 and
@@ -123118,8 +123118,8 @@ of Him
 toward
 prayer
 of them
-however
 [The] face
+however
 of [the] Lord
 [is] against
 those doing
@@ -123141,16 +123141,16 @@ you should suffer
 because of
 righteousness
 [you are] blessed
-And
 -
+And
 the threats
 of them
 not
 you should be afraid of
 neither
 should you be troubled
-however
 [As] Lord
+however
 -
 Christ
 sanctify
@@ -123178,8 +123178,8 @@ gentleness
 and
 fear
 a conscience
-good
 having
+good
 so that
 in
 this
@@ -123193,8 +123193,8 @@ good
 in
 Christ
 manner of life
-for
 [It is] better
+for
 doing good
 if
 wills [it]
@@ -123220,21 +123220,21 @@ you
 He might bring
 -
 to God
-indeed
 having been put to death
+indeed
 in [the] flesh
-however
 having been made alive
+however
 in [the] spirit
 in
 which
-having gone
-He preached
 also
 to the
 in
 prison
 spirits
+having gone
+He preached
 having disobeyed
 at one time
 when
@@ -123261,9 +123261,9 @@ water
 which
 also
 you
+prefigures
 now
 saving
-prefigures
 baptism
 not
 of flesh
@@ -123294,8 +123294,8 @@ and
 authorities
 and
 powers
-therefore
 Christ
+therefore
 having suffered
 in [the] flesh
 also
@@ -123304,6 +123304,12 @@ the
 same
 mind
 arm yourselves with
+because
+the [one]
+having suffered
+[in the] flesh
+is done with
+sin
 so as
 -
 no longer
@@ -123316,16 +123322,10 @@ the
 remaining
 in
 [the] flesh
-time
 to live
-because
-the [one]
-having suffered
-[in the] flesh
-is done with
-sin
-for
+time
 [Is] sufficient
+for
 the
 past
 time
@@ -123367,30 +123367,30 @@ to judge
 [the] living
 and
 [the] dead
-indeed
 To
 this [end]
+indeed
 even
 to [the] dead
 the gospel was proclaimed
 so that
-indeed
 they might be judged
+indeed
 according to
 men
 in [the] flesh
-however
 they might live
+however
 according to
 God
 in [the] spirit
-now
 Of all
+now
 the
 end
 has drawn near
-therefore
 Be clear minded
+therefore
 and
 sober
 for the purpose of
@@ -123516,8 +123516,8 @@ Spirit
 upon
 you
 rests
-for
 Not
+for
 any
 of you
 let suffer
@@ -123530,14 +123530,14 @@ an evildoer
 or
 as
 a troublesome meddler
-however
 if
+however
 as
 a Christian
 not
 let him be ashamed
-however
 let him glorify
+however
 -
 God
 in
@@ -123556,8 +123556,8 @@ the
 house
 -
 of God
-now
 if
+now
 first
 from
 us
@@ -123599,8 +123599,8 @@ souls
 of them
 in
 well doing
--
 Elders
+-
 among
 you
 I exhort
@@ -123612,8 +123612,8 @@ of the
 -
 of Christ
 sufferings
-also
 who [am]
+also
 of the
 being about
 to be revealed
@@ -123642,8 +123642,8 @@ exercising lordship over
 -
 those in your charge
 but
-being
 examples
+being
 to the
 flock
 And
@@ -123656,12 +123656,12 @@ unfading
 -
 of glory
 crown
-younger [ones]
 Likewise
+younger [ones]
 be subject
 to [your] elders
-now
 All
+now
 one to another
 -
 humility
@@ -123671,12 +123671,12 @@ because
 God
 [the] proud
 opposes
-however
 to [the] humble
+however
 He gives
 grace
-therefore
 Be humbled
+therefore
 under
 the
 mighty
@@ -123730,8 +123730,8 @@ world
 in your
 brotherhood
 to be accomplished
-now
 The
+now
 God
 of all
 grace
@@ -123761,9 +123761,9 @@ ages
 of the
 ages
 Amen
-to you
 Through
 Silvanus
+to you
 the
 faithful
 brother
@@ -123814,9 +123814,9 @@ apostle
 of Jesus
 Christ
 To those
+equally precious
 with ours
 having obtained
-equally precious
 a faith
 through
 [the] righteousness
@@ -123828,9 +123828,9 @@ Savior
 Jesus
 Christ
 Grace
+to you
 and
 peace
-to you
 be multiplied
 in
 [the] knowledge
@@ -123842,13 +123842,13 @@ the
 Lord
 of us
 Accordingly
+-
+all things
 to us
 the
 divine
 power
 of Him
--
-all things
 -
 toward
 life
@@ -123871,15 +123871,15 @@ the
 precious
 and
 magnificent
-promises
 to us
+promises
 He has given
 so that
 through
 these
 you might become
-partakers
 of [the] divine
+partakers
 nature
 having escaped
 the
@@ -123889,10 +123889,10 @@ world
 in
 desire
 decay
-now
 And
 very [reason]
 for this
+now
 earnestness
 all
 having brought in
@@ -123903,44 +123903,44 @@ faith
 of you
 -
 virtue
-and
 into
+and
 -
 virtue
 -
 knowledge
-then
 into
+then
 -
 knowledge
 -
 self-control
-then
 into
+then
 -
 self-control
 -
 endurance
-then
 into
+then
 -
 endurance
 -
 godliness
-then
 in
+then
 -
 godliness
 -
 brotherly affection
-then
 in
+then
 -
 brotherly affection
 -
 love
-for
 These things
+for
 in you
 being
 and
@@ -123958,16 +123958,16 @@ of us
 Jesus
 Christ
 knowledge
-for
 In whomever
+for
 not
 are present
 these things
 blind
 he is
 being short sighted
-having received
 forgetfulness
+having received
 of the
 purification
 the
@@ -123975,8 +123975,8 @@ former
 of him
 sins
 Therefore
-brothers
 rather
+brothers
 be diligent
 sure
 your
@@ -123985,15 +123985,15 @@ calling
 and
 election
 to make
-for
 these things
+for
 practicing
 never
 not
 shall you stumble
 at any time
-for
 In this way
+for
 richly
 will be supplied
 to you
@@ -124025,8 +124025,8 @@ in
 the
 being present [in you]
 truth
-now
 Right
+now
 I esteem it
 as
 long as
@@ -124057,8 +124057,8 @@ Jesus
 Christ
 has made clear
 to me
-now
 I will be diligent
+now
 also
 at every time
 to have
@@ -124071,8 +124071,8 @@ departure
 these things
 a lasting remembrance
 to make
-for
 Not
+for
 cleverly devised
 fables
 having followed out
@@ -124088,13 +124088,13 @@ power
 and
 coming
 but
-having been
 eyewitnesses
+having been
 -
 of His
 majesty
-for
 Having received
+for
 from
 God
 [the] Father
@@ -124102,9 +124102,9 @@ honor
 and
 glory
 a voice
-such as follows
 was brought
 to Him
+such as follows
 by
 the
 Majestic
@@ -124143,9 +124143,9 @@ more certain
 the
 prophetic
 word
+to which
 well
 you do
-to which
 taking heed
 as
 to a lamp
@@ -124175,8 +124175,8 @@ of its own
 interpretation
 not
 is
-for
 Not
+for
 by [the] will
 of man
 was brought
@@ -124191,8 +124191,8 @@ spoke
 from
 God
 men
-however
 There were
+however
 also
 false prophets
 among
@@ -124250,8 +124250,8 @@ destruction
 of them
 not
 slumbers
-for
 If
+for
 -
 God
 [the] angels
@@ -124305,8 +124305,8 @@ in
 sensuality
 conduct
 He rescued
-for
 through seeing
+for
 and
 hearing
 that
@@ -124328,15 +124328,15 @@ was tormented
 out of
 temptation
 to deliver
-then
 [the] unrighteous
+then
 unto
 [the] day
 of judgment
 being punished
 to keep
-then
 especially
+then
 those
 after
 [the] flesh
@@ -124350,9 +124350,9 @@ despising
 Bold
 self-willed
 glorious ones
-blaspheming
 not
 they tremble
+blaspheming
 whereas
 angels
 in strength
@@ -124368,8 +124368,8 @@ before
 [the] Lord
 a reviling
 judgment
-however
 These
+however
 like
 irrational
 animals
@@ -124408,8 +124408,8 @@ deceptions
 of them
 feasting with
 you
-having
 eyes
+having
 full
 of adultery
 and
@@ -124439,11 +124439,11 @@ who
 [the] wage
 of unrighteousness
 loved
-however
 reproof
+however
+he had
 for his own
 transgression
-he had
 [by] a donkey
 mute
 in
@@ -124470,8 +124470,8 @@ gloom
 -
 of darkness
 has been reserved
-for
 Arrogant
+for
 of vanity
 speaking words
 they entice
@@ -124490,18 +124490,18 @@ freedom
 them
 promising
 themselves
-being
 slaves
+being
 -
 of corruption
-for
 By what
+for
 anyone
 has been subdued
 by that
 he is enslaved
-for
 If
+for
 having escaped
 the
 pollutions
@@ -124515,8 +124515,8 @@ and
 Savior
 Jesus
 Christ
-now
 in these
+now
 again
 having been entangled
 they are subdued
@@ -124527,8 +124527,8 @@ last [state]
 worse
 than the
 first
-for
 Better
+for
 it would have been
 for them
 not
@@ -124564,30 +124564,30 @@ having washed
 to [her]
 rolling place
 in [the] mire
-beloved
-now
 This
+now
+beloved
 [is the] second
-letter
 to you
 I am writing
+letter
 in
 which
 I am stirring up
+of you
 in
 putting [you] in remembrance
-of you
 -
 pure
 mind
 to remember
 the
 having been spoken beforehand
+words
 by
 the
 holy
 prophets
-words
 and
 of the
 -
@@ -124625,9 +124625,9 @@ promise
 of the
 coming
 of Him
-for
 From
 [the time] that
+for
 the
 fathers
 fell asleep
@@ -124637,8 +124637,8 @@ continue
 from
 [the] beginning
 of creation
-indeed
 It is concealed from
+indeed
 them
 this
 willingly
@@ -124666,8 +124666,8 @@ world
 with water
 having been deluged
 perished
-But
 -
+But
 now
 the heavens
 and
@@ -124688,13 +124688,13 @@ destruction
 -
 of ungodly
 men
-however
-beloved
 [This] one
+however
 thing
 not
 let be hidden from
 you
+beloved
 that
 one
 day
@@ -124722,8 +124722,8 @@ but
 is patient
 toward
 you
-willing
 not
+willing
 [for] any
 to perish
 but
@@ -124731,8 +124731,8 @@ all
 to
 repentance
 to come
-however
 Will come
+however
 [the] day
 of [the] Lord
 like
@@ -124743,8 +124743,8 @@ the
 heavens
 with a roar
 will pass away
-then
 elements
+then
 burning with heat
 will be dissolved
 and
@@ -124755,12 +124755,12 @@ in
 it
 works
 will be found
-in this way
 These things
+in this way
 all
 being dissolved
-ought
 what kind
+ought
 to be
 you
 In
@@ -124786,8 +124786,8 @@ and
 [the] elements
 burning with heat
 are melting
-however
 New
+however
 heavens
 and
 earth
@@ -124866,9 +124866,9 @@ the
 own
 of them
 destruction
+You
 therefore
 beloved
-You
 knowing [this] beforehand
 beware
 that
@@ -124882,8 +124882,8 @@ you should fall from
 the
 own
 steadfastness
-however
 Grow
+however
 in
 grace
 and
@@ -124964,10 +124964,10 @@ fellowship
 may have
 with
 us
-now
 Indeed
 the
 fellowship
+now
 -
 of us
 [is] with
@@ -125008,11 +125008,11 @@ God
 light
 is
 and
+darkness
 in
 Him
 not
 is
-darkness
 none
 If
 we should say
@@ -125032,8 +125032,8 @@ not
 do practice
 the
 truth
-however
 If
+however
 in
 the
 light
@@ -125080,8 +125080,8 @@ we should confess
 the
 sins
 of us
-He is
 faithful
+He is
 and
 just
 that
@@ -125123,11 +125123,11 @@ And
 if
 anyone
 should sin
+an advocate
 we have
 with
 the
 Father
-an advocate
 Jesus
 Christ
 [the] Righteous [One]
@@ -125139,11 +125139,11 @@ for
 the
 sins
 of us
-and
 not
 for
 the
 of ours
+and
 only
 but
 also
@@ -125183,9 +125183,9 @@ the
 truth
 not
 is
+Whoever
 however
 -
-Whoever
 may keep
 His
 -
@@ -125210,20 +125210,20 @@ claiming
 in
 Him
 to abide
+ought
 just as
 that
 walk
-ought
 also
 He
 in the same way
 walked
 Beloved
-I am writing
-to you
 not
 a commandment
 new
+I am writing
+to you
 but
 a commandment
 old
@@ -125296,8 +125296,8 @@ in
 him
 not
 there is
-however
 The [one]
+however
 hating
 the
 brother
@@ -125323,9 +125323,9 @@ has blinded
 the
 eyes
 of him
-little children
 I am writing
 to you
+little children
 because
 have been forgiven
 your
@@ -125335,39 +125335,39 @@ for the sake of
 the
 name
 of Him
-fathers
 I am writing
 to you
+fathers
 because
 you have known
 Him who [is]
 from
 [the] beginning
-young men
 I am writing
 to you
+young men
 because
 you have overcome
 the
 evil [one]
-little children
 I have written
 to you
+little children
 because
 you know
 the
 Father
-fathers
 I have written
 to you
+fathers
 because
 you know
 Him who [is]
 from
 [the] beginning
-young men
 I have written
 to you
+young men
 because
 strong
 you are
@@ -125406,7 +125406,6 @@ Father
 in
 him
 because
-not
 all
 that [is]
 in
@@ -125426,6 +125425,7 @@ the
 vaunting
 of
 life
+not
 is
 from
 the
@@ -125436,15 +125436,15 @@ the
 world
 is
 And
-is passing away
 the
 world
+is passing away
 and
 the
 desire
 of it
-however
 the [one]
+however
 doing
 the
 will
@@ -125483,13 +125483,13 @@ not
 they were
 of
 us
-for
 if
+for
 of
 us
 they had been
--
 they would have remained
+-
 with
 us
 But
@@ -125511,9 +125511,9 @@ Holy [One]
 and
 know you
 all
+Not
 I have written
 to you
-Not
 because
 not
 you know
@@ -125663,8 +125663,8 @@ you shall abide
 in
 Him
 And
-little children
 now
+little children
 abide
 in
 Him
@@ -125935,15 +125935,15 @@ works
 of him
 evil
 were
-however
 those
+however
 of the
 brother
 of him
 righteous
-brothers
 not
 be surprised
+brothers
 if
 hates
 you
@@ -126012,9 +126012,9 @@ brothers
 [our]
 lives
 to lay down
+Whoever
 now
 -
-Whoever
 might have
 the
 goods
@@ -126043,8 +126043,8 @@ abides
 in
 him
 Little children
-we should love
 not
+we should love
 in word
 nor
 in
@@ -126098,8 +126098,8 @@ toward
 -
 God
 and
-if
 whatever
+if
 we might ask
 we receive
 from
@@ -126235,12 +126235,12 @@ the
 world
 is
 already
-little children
 You
 from
 -
 God
 are
+little children
 and
 have overcome
 them
@@ -126416,9 +126416,9 @@ and
 the
 love
 of Him
+having been perfected
 in
 us
-having been perfected
 is
 By
 this
@@ -126452,8 +126452,8 @@ Son [as]
 Savior
 of the
 world
-if
 Whoever
+if
 shall confess
 that
 Jesus
@@ -126550,8 +126550,8 @@ the
 fear
 punishment
 has
-now
 the [one]
+now
 fearing
 not
 has been perfected
@@ -126579,8 +126579,8 @@ of him
 should hate
 a liar
 he is
-for
 The [one]
+for
 not
 loving
 the
@@ -126588,13 +126588,13 @@ brother
 of him
 whom
 he has seen
-not
-is he able
 -
 God
 whom
 not
 he has seen
+not
+is he able
 to love
 And
 this
@@ -126654,8 +126654,8 @@ the
 commandments
 of Him
 keep
-for
 This
+for
 is
 the
 love
@@ -126868,6 +126868,12 @@ has
 These things
 have I written
 to you
+so that
+you may know
+that
+life
+you have
+eternal
 to those
 believing
 in
@@ -126877,12 +126883,6 @@ of the
 Son
 -
 of God
-so that
-you may know
-that
-life
-eternal
-you have
 And
 this
 is
@@ -126908,8 +126908,8 @@ we know
 that
 He hears
 us
-if
 whatever
+if
 we might ask
 we know
 that
@@ -126934,8 +126934,8 @@ death
 he shall ask
 and
 He will give
-life
 him
+life
 to those
 sinning
 not
@@ -126999,8 +126999,8 @@ in
 the
 evil [one]
 lies
-now
 We know
+now
 that
 the
 Son
@@ -127049,10 +127049,10 @@ the
 children
 of her
 whom
+I
 love
 in
 truth
-I
 and
 not
 I
@@ -127117,15 +127117,15 @@ from
 the
 Father
 And
-lady
 now
 I implore
 you
-I am writing
-to you
+lady
 not
 as
 a commandment
+I am writing
+to you
 new
 but
 that which
@@ -127159,12 +127159,12 @@ in
 it
 you should walk
 For
+many
+deceivers
 have entered
 into
 the
 world
-many
-deceivers
 those
 not
 confessing
@@ -127239,9 +127239,9 @@ to rejoice
 him
 not
 tell
-for
 the [one]
 telling
+for
 him
 to rejoice
 partakes
@@ -127250,8 +127250,8 @@ works
 of him
 -
 evil
-having
 Many things
+having
 to you
 to write
 not
@@ -127308,8 +127308,8 @@ prospers
 your
 -
 soul
-for
 I rejoiced
+for
 exceedingly
 coming
 of [the] brothers
@@ -127324,10 +127324,10 @@ in
 truth
 are walking
 Greater
-joy
 than these things
 not
 I have
+joy
 that
 I should hear of
 -
@@ -127340,8 +127340,8 @@ walking
 Beloved
 faithfully
 you are doing
-if
 whatever
+if
 you might have done
 toward
 the
@@ -127363,8 +127363,8 @@ having set forward
 worthily
 -
 of God
-for
 On behalf
+for
 of the
 name
 they went forth
@@ -127373,8 +127373,8 @@ accepting
 from
 the
 Gentiles
-therefore
 We
+therefore
 ought
 to receive
 -
@@ -127458,9 +127458,9 @@ by
 itself
 the
 truth
-also
 and
 we
+also
 bear witness
 and
 you know
@@ -127470,8 +127470,8 @@ testimony
 of us
 true
 is
-I had
 Many things
+I had
 to write
 to you
 but
@@ -127483,8 +127483,8 @@ and
 pen
 to you
 to write
-however
 I hope
+however
 soon
 you
 to see
@@ -127508,8 +127508,8 @@ Jude
 of Jesus
 Christ
 servant
-then
 brother
+then
 of James
 To those
 in
@@ -127521,8 +127521,8 @@ in Jesus
 Christ
 having been kept
 called
-to you
 Mercy
+to you
 and
 peace
 and
@@ -127551,8 +127551,8 @@ having been delivered
 to the
 saints
 faith
-for
 Came in stealthily
+for
 certain
 men
 those
@@ -127581,13 +127581,13 @@ of us
 Jesus
 Christ
 denying
+To remind
 now
+you
 I want
 having known
 at one time
 all this
-To remind
-you
 that
 Jesus
 a people
@@ -127601,8 +127601,8 @@ those
 not
 having believed
 He destroyed
-both
 [The] angels
+both
 -
 not
 having kept
@@ -127648,21 +127648,25 @@ of fire
 eternal
 [the] penalty
 undergoing
-yet
 Likewise
+yet
 also
 these
 dreaming [ones]
-indeed
 [the] flesh
+indeed
 defile
-then
 authority
+then
 set aside
-and
 glorious [ones]
+and
 blaspheme
+-
 But
+Michael
+the
+archangel
 when
 with the
 devil
@@ -127673,28 +127677,24 @@ about
 Moses’
 body
 not
--
-Michael
-the
-archangel
 did dare
 a judgment
-blasphemous
 to bring against [him]
+blasphemous
 but
 said
 Rebuke
 you
 [the] Lord
-however
-indeed
 These
+however
 whatever things
+indeed
 not
 they have seen
 they speak evil of
-then
 whatever things
+then
 naturally
 as
 the
@@ -127765,8 +127765,8 @@ of darkness
 to
 [the] age
 has been reserved
-then
 Prophesied
+then
 also
 as to these
 [the] seventh
@@ -127828,9 +127828,9 @@ flattering
 faces
 profit
 for the sake of
+You
 however
 beloved
-You
 remember
 the
 words
@@ -127853,11 +127853,11 @@ In
 time
 there will be
 scoffers
-following
 after
 -
 their own
 passions
+following
 -
 of ungodlinesses
 These
@@ -127868,9 +127868,9 @@ worldly-minded
 [the] Spirit
 not
 having
+You
 however
 beloved
-You
 building up
 yourselves
 in the
@@ -127898,16 +127898,16 @@ unto
 life
 eternal
 And
-indeed
 those who
-are doubting
+indeed
 have mercy on
+are doubting
 save
 out of
 [the] fire
 snatching
-then
 to others
+then
 show mercy
 with
 fear
@@ -127919,8 +127919,8 @@ the
 flesh
 having been stained
 clothing
-now
 To Him
+now
 being able
 to keep
 you
@@ -127974,10 +127974,10 @@ to the
 bond-servants
 of Him
 what things
+it behooves
 to take place
 in
 quickness
-it behooves
 And
 He signified [it]
 having sent
@@ -128018,8 +128018,8 @@ the things
 in
 it
 having been written
-for
 -
+for
 the time [is]
 near
 John
@@ -128031,9 +128031,9 @@ in
 -
 Asia
 Grace
+to you
 and
 peace
-to you
 from
 Him
 being
@@ -128264,8 +128264,8 @@ the
 breasts
 with a sash
 golden
-And
 -
+And
 the head
 of Him
 and
@@ -128384,8 +128384,8 @@ Death
 and
 of
 Hades
-therefore
 Write
+therefore
 the things that
 you have seen
 and
@@ -128510,8 +128510,8 @@ of you
 -
 first
 you have abandoned
-therefore
 Remember
+therefore
 from where
 you have fallen
 and
@@ -128521,8 +128521,8 @@ the
 first
 works
 do
-however
 If
+however
 not
 I am coming
 to you
@@ -128626,13 +128626,13 @@ of Satan
 Not
 fear
 what
-to suffer
 you are about
+to suffer
 Behold
 is about
+to cast
 the
 devil
-to cast
 [some] of
 you
 into
@@ -128767,10 +128767,10 @@ teaching
 of the
 Nicolaitans
 likewise
-therefore
 Repent
-however
+therefore
 If
+however
 not
 I am coming
 to you
@@ -128812,9 +128812,9 @@ and
 on
 the
 stone
-having been written
 a name
 new
+having been written
 which
 no one
 has known
@@ -128962,9 +128962,9 @@ according to
 the
 works
 of you
+To you
 however
 I say
-To you
 to [the]
 rest
 of those
@@ -128996,8 +128996,8 @@ to what
 you have
 hold fast
 until
--
 which [time]
+-
 I might come
 And
 the [one]
@@ -129094,8 +129094,8 @@ that remain
 which
 are about
 to die
-for
 not
+for
 I have found
 your
 works
@@ -129104,8 +129104,8 @@ in the sight of
 the
 God
 of Me
-therefore
 Remember
+therefore
 what
 you have received
 and
@@ -129114,8 +129114,8 @@ and
 keep [it]
 and
 repent
-therefore
 If
+therefore
 not
 you shall watch
 I will come
@@ -129234,14 +129234,14 @@ you
 a door
 having been opened
 which
-it
-to shut
 no one
 is able
+to shut
+it
 because
 little
-power
 you have
+power
 and yet
 you have kept
 My
@@ -129417,14 +129417,14 @@ your
 -
 works
 that
-you are
 neither
 cold
+you are
 nor
 hot
 I wish
-you would be
 cold
+you would be
 or
 hot
 So
@@ -129503,14 +129503,14 @@ of you
 so that
 you may see
 I
-if
 as many as
+if
 might love
 I rebuke
 and
 discipline
-therefore
 be zealous
+therefore
 and
 repent
 Behold
@@ -129604,10 +129604,10 @@ and
 I will show
 to you
 what
+it behooves
 to take place
 after
 these things
-it behooves
 Immediately
 I was
 in
@@ -129838,14 +129838,14 @@ before
 the
 throne
 saying
+Worthy
+are You
 the
 Lord
 and
 -
 God
 of us
-Worthy
-are You
 to receive
 -
 glory
@@ -129905,8 +129905,8 @@ the
 seals
 of it
 And
-was able
 no one
+was able
 in
 -
 heaven
@@ -130169,8 +130169,8 @@ and
 in
 them
 everything
-saying
 I heard
+saying
 To the [One]
 sitting
 on
@@ -130438,14 +130438,14 @@ they were crying
 in a voice
 loud
 saying
+Until
+when
 O
 Lord
 -
 holy
 and
 true
-Until
-when
 not
 do You judge
 and
@@ -130677,8 +130677,8 @@ to the
 four
 angels
 to whom
-to them
 it had been given
+to them
 to harm
 the
 earth
@@ -130793,8 +130793,8 @@ behold
 a multitude
 great
 which
-it
 to number
+it
 no one
 was able
 out of
@@ -131714,16 +131714,16 @@ and
 smoke
 and
 brimstone
-was killed
-a
-third
-of
-mankind
 By
 -
 three
 plagues
 these
+was killed
+a
+third
+of
+mankind
 by
 the
 fire
@@ -131739,23 +131739,23 @@ out of
 the
 mouths
 of them
-for
 The
+for
 powers
 of the
 horses
-are
 in
 the
 mouths
 of them
+are
 and
 in
 the
 tails
 of them
-for
 the
+for
 tails
 of them
 [are] like
@@ -131888,8 +131888,8 @@ right
 upon
 the
 sea
-and
 the
+and
 left
 upon
 the
@@ -131940,6 +131940,7 @@ And
 the
 angel
 whom
+I saw
 standing
 on
 the
@@ -131948,7 +131949,6 @@ and
 on
 the
 land
-I saw
 lifted up
 the
 hand
@@ -132211,8 +132211,8 @@ standing
 And
 if
 anyone
-should desire
 them
+should desire
 to harm
 fire
 goes out
@@ -132336,11 +132336,11 @@ three
 and
 a half
 and
-not
-they will allow
 the
 bodies
 of them
+not
+they will allow
 to be put
 into
 a tomb
@@ -132374,9 +132374,9 @@ And
 after
 the
 three
+days
 and
 a half
-days
 [the] spirit
 of life
 from
@@ -132787,9 +132787,9 @@ against
 the
 dragon
 and
-warred [back]
 the
 dragon
+warred [back]
 and
 the
 angels
@@ -132799,8 +132799,8 @@ not
 had he strength
 nor
 a place
-for them
 was found
+for them
 any longer
 in
 -
@@ -133247,9 +133247,9 @@ dwelling
 on
 the
 earth
+of whom
 not
 have been written
-of whom
 the
 names
 of them
@@ -133352,8 +133352,8 @@ signs
 great
 so that
 even
-it should cause
 fire
+it should cause
 out of
 -
 heaven
@@ -133418,8 +133418,8 @@ beast
 and
 should cause
 that
-if
 as many as
+if
 not
 would worship
 the
@@ -133498,8 +133498,8 @@ the
 number
 of the
 beast
-for
 number
+for
 a man’s
 it is
 and
@@ -133609,16 +133609,16 @@ with
 women
 not
 have not been defiled
-for
 pure
+for
 they are
 these
 -
 following
 the
 Lamb
--
 wherever
+-
 He shall go
 These
 have been redeemed
@@ -133822,11 +133822,11 @@ of the
 name
 of it
 Here
-is
 the
 endurance
 of the
 saints
+is
 those
 keeping
 the
@@ -133863,8 +133863,8 @@ from
 the
 labors
 of them
-for
 -
+for
 the works
 of them
 follow
@@ -133967,16 +133967,16 @@ sharp
 And
 another
 angel
+came
+out of
+the
+altar
 -
 having
 authority
 over
 the
 fire
-came
-out of
-the
-altar
 and
 he called
 in a voice
@@ -134349,11 +134349,11 @@ and
 every
 soul
 living
+died
 that was
 in
 the
 sea
-died
 And
 the
 third
@@ -134565,8 +134565,8 @@ three
 unclean
 like
 frogs
-for
 they are
+for
 spirits
 of demons
 performing
@@ -134654,8 +134654,8 @@ and
 thunders
 and
 an earthquake
-great
 there was
+great
 such as
 not
 had there been
@@ -134832,12 +134832,12 @@ precious
 and
 pearls
 holding
+a cup
+golden
 in
 the
 hand
 of her
-a cup
-golden
 being full
 of abominations
 and
@@ -134851,8 +134851,8 @@ upon
 the
 forehead
 of her
-was written
 a name
+was written
 a mystery
 Babylon
 the
@@ -134945,10 +134945,10 @@ on
 the
 earth
 whose
--
-names
 not
 are written
+-
+names
 in
 the
 book
@@ -135004,8 +135004,8 @@ when
 he shall have come
 a little while
 him
-to remain
 it behooves
+to remain
 And
 the
 beast
@@ -135033,9 +135033,9 @@ ten
 horns
 which
 you saw
-are
 ten
 kings
+are
 who
 a kingdom
 not yet
@@ -135074,9 +135074,9 @@ Lamb
 will overcome
 them
 because
-He is
 Lord
 of lords
+He is
 and
 King
 of kings
@@ -135100,10 +135100,10 @@ where
 the
 prostitute
 sits
-are
 peoples
 and
 multitudes
+are
 and
 nations
 and
@@ -135122,9 +135122,9 @@ will hate
 the
 prostitute
 and
+desolate
 will make
 her
-desolate
 and
 naked
 and
@@ -135137,8 +135137,8 @@ her
 they will burn
 with
 fire
-For
 -
+For
 God
 has put
 into
@@ -135272,10 +135272,10 @@ from
 -
 heaven
 saying
+Come
 the
 people
 of me
-Come
 out of
 her
 so that
@@ -135285,11 +135285,11 @@ in the
 sins
 of her
 and
-so that
 of
 the
 plagues
 of her
+so that
 not
 you may receive
 For
@@ -135335,11 +135335,11 @@ herself
 and
 lived in luxury
 as much
+give
+to her
 torment
 and
 misery
-give
-to her
 because
 in
 the
@@ -135446,12 +135446,12 @@ mourn
 for
 her
 because
-no one
-buys
-no longer
 the
 cargo
 of them
+no one
+buys
+no longer
 cargo
 of gold
 and
@@ -135793,11 +135793,11 @@ nations
 And
 in
 her
-was found
 [the] blood
 of prophets
 and
 of saints
+was found
 and
 of all
 those
@@ -135974,8 +135974,8 @@ she should be clothed in
 fine linen
 bright
 pure
-For
 -
+For
 the fine linen
 the
 righteousness acts
@@ -136019,9 +136019,9 @@ he says
 to me
 See that you
 not
-I am
 A fellow servant
 with you
+I am
 and
 the
 brothers
@@ -136034,8 +136034,8 @@ of Jesus
 -
 God
 worship
-for
 The
+for
 testimony
 of Jesus
 is
@@ -136067,8 +136067,8 @@ righteousness
 He judges
 and
 makes war
-And
 -
+And
 the eyes
 of Him
 a flame
@@ -136223,8 +136223,8 @@ them
 and
 [the] flesh
 of all
-both
 free
+both
 and
 slaves
 and
@@ -136616,8 +136616,8 @@ the [One]
 sitting
 on
 it
-from
 whose
+from
 -
 face
 fled
@@ -136714,11 +136714,11 @@ the
 death
 -
 second
+is
 the
 lake
 of
 fire
-is
 And
 if
 anyone
@@ -136743,8 +136743,8 @@ new
 and
 an earth
 new
-for
 -
+for
 the first
 heaven
 and
@@ -136759,13 +136759,13 @@ not
 is
 any longer
 And
-I saw
 the
 city
 -
 holy
 [the] Jerusalem
 new
+I saw
 coming down
 out of
 -
@@ -136901,8 +136901,8 @@ he
 will be
 My
 son
-But
 -
+But
 to the cowardly
 and
 unbelieving
@@ -137025,8 +137025,8 @@ gates
 angels
 twelve
 and
-having been inscribed
 names
+having been inscribed
 which
 are
 of the
@@ -137233,25 +137233,25 @@ not
 I saw
 in
 it
-for
 -
+for
 the Lord
 -
 God
 -
 Almighty
-and
-the
-Lamb
 temple
 of it
 is
+and
+the
+Lamb
 And
 the
 city
 no
-has
 need
+has
 of the
 sun
 nor
@@ -137260,8 +137260,8 @@ moon
 that
 they should shine
 in it
-for
 the
+for
 glory
 -
 of God
@@ -137300,8 +137300,8 @@ no
 not
 shall be shut
 by day
-for
 night
+for
 not
 will be
 there
@@ -137482,10 +137482,10 @@ the
 servants
 of Him
 the things that
+must
 come to pass
 in
 quickness
-must
 And
 behold
 I am coming
@@ -137528,9 +137528,9 @@ he says
 to me
 See that you
 not
-I am
 Fellow servant
 of you
+I am
 and
 with the
 brothers
@@ -137560,9 +137560,9 @@ prophecy
 of the
 book
 this
-for
 the
 time
+for
 near
 is
 The [one]
@@ -137599,8 +137599,8 @@ to each
 as
 the
 work
-his
 is
+his
 I [am]
 the
 Alpha

@@ -12,7 +12,7 @@
 @description=Gramatical type  of noun or pronoun (e.g. Common, Personal)
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-04-05T09:35:43Z
+@dateWritten=2023-04-05T10:04:10Z
 
 Common
 Common
@@ -26,13 +26,13 @@ Proper
 
 
 Proper
-
 Proper
 
 
-Proper
 
 Proper
+Proper
+
 
 
 Proper
@@ -40,8 +40,8 @@ Proper
 
 Common
 Personal
-
 Proper
+
 
 
 Proper
@@ -51,61 +51,61 @@ Proper
 
 
 Proper
-
 Proper
 
 
-Proper
 
 Proper
+Proper
 
 
-Proper
 
 Proper
+Proper
 
 
-Proper
 
 Proper
+Proper
 
 
-Proper
 
 Proper
+Proper
 
 
-Proper
 
 Proper
+Proper
+
 
 
 Proper
 
 
 Proper
-
 Proper
+
 
 
 Proper
 
 
 Proper
-
 Proper
 
 
-Proper
 
 Proper
+Proper
+
 
 
 Proper
 
 Common
-
 Proper
+
 
 
 Proper
@@ -113,68 +113,68 @@ Proper
 
 
 Proper
-
 Proper
 
 
-Proper
 
 Proper
+Proper
 
 
-Proper
 
 Proper
+Proper
 
 
-Proper
 
 Proper
+Proper
 
 
-Proper
 
 Proper
+Proper
 
 
-Proper
 
 Proper
+Proper
 
 
-Proper
 
 Proper
+Proper
 
 
-Proper
 
 Proper
+Proper
 
 
-Proper
 
 Proper
+Proper
 
 
-Proper
 
 Proper
+Proper
 
 
-Proper
 
 Proper
+Proper
 
 
-Proper
 
 Proper
+Proper
 
 
-Proper
 
 Proper
+Proper
+
 
 
 Proper
@@ -195,58 +195,58 @@ Proper
 
 
 Proper
-
 Proper
 
 
-Proper
 
 Proper
+Proper
 
 
-Proper
 
 Proper
+Proper
 
 
-Proper
 
 Proper
+Proper
 
 
-Proper
 
 Proper
+Proper
 
 
-Proper
 
 Proper
+Proper
 
 
-Proper
 
 Proper
+Proper
 
 
-Proper
 
 Proper
+Proper
 
 
-Proper
 
 Proper
+Proper
 
 
-Proper
 
 Proper
+Proper
 
 
-Proper
 
 Proper
+Proper
+
 
 
 Proper
@@ -315,8 +315,8 @@ Common
 
 Common
 
-
 Proper
+
 
 Common
 Personal
@@ -331,8 +331,8 @@ Personal
 
 
 Personal
-
 Demonstrative
+
 Personal
 
 
@@ -371,8 +371,8 @@ Common
 Common
 Personal
 Proper
-
 Personal
+
 
 
 Common
@@ -381,8 +381,8 @@ Personal
 
 Common
 Personal
-
 Demonstrative
+
 
 
 
@@ -419,8 +419,8 @@ Personal
 Common
 
 
-Proper
 
+Proper
 
 
 Common
@@ -532,10 +532,10 @@ Proper
 
 Common
 
+Personal
 Proper
 Common
 Proper
-Personal
 
 
 
@@ -544,8 +544,8 @@ Personal
 Common
 Proper
 
-
 Personal
+
 
 
 Relative
@@ -794,10 +794,10 @@ Proper
 
 Common
 
+Common
 
 Proper
 
-Common
 Common
 
 Common
@@ -930,8 +930,8 @@ Proper
 Common
 
 Common
-
 Demonstrative
+
 
 
 
@@ -954,8 +954,8 @@ Common
 
 Common
 Personal
-
 Personal
+
 
 Proper
 
@@ -975,8 +975,8 @@ Personal
 
 
 Common
-Personal
 
+Personal
 Common
 
 Common
@@ -1084,8 +1084,8 @@ Common
 
 Common
 
-
 Personal
+
 Personal
 
 
@@ -1264,8 +1264,8 @@ Common
 
 Personal
 
-
 Common
+
 
 Common
 
@@ -1316,8 +1316,8 @@ Common
 
 Personal
 
-
 Common
+
 
 Common
 
@@ -1382,8 +1382,8 @@ Personal
 
 Personal
 Demonstrative
-
 Personal
+
 
 
 
@@ -1918,9 +1918,9 @@ Common
 
 
 
+Relative
 
 
-Relative
 
 
 
@@ -1940,9 +1940,9 @@ Common
 Common
 
 Common
+Relative
 
 
-Relative
 
 
 
@@ -1984,16 +1984,16 @@ Common
 
 
 
+Relative
 
 
-Relative
 
 
 
 
 Common
-
 Personal
+
 
 Personal
 
@@ -2007,9 +2007,9 @@ Personal
 
 
 Common
+Relative
 
 
-Relative
 
 
 Common
@@ -2019,9 +2019,9 @@ Common
 
 
 Common
+Relative
 
 
-Relative
 
 
 
@@ -2121,8 +2121,8 @@ Common
 
 
 
-
 Personal
+
 
 Personal
 
@@ -2208,8 +2208,8 @@ Common
 
 
 
-
 Relative
+
 
 
 Common
@@ -2217,8 +2217,8 @@ Personal
 
 Personal
 Common
-
 Personal
+
 
 Personal
 
@@ -2235,8 +2235,8 @@ Common
 Personal
 
 
-
 Relative
+
 
 
 
@@ -2255,8 +2255,8 @@ Common
 
 Common
 Personal
-
 Personal
+
 
 Personal
 
@@ -2267,28 +2267,28 @@ Personal
 
 Common
 
-
 Common
 
+
 Common
 
 
 
 Common
-
 
 Common
 
+
 Common
 Personal
 
 
 Proper
-
 
 Common
 
 
+
 Common
 
 
@@ -2332,9 +2332,9 @@ Common
 Common
 
 Common
-
 Personal
 
+
 Personal
 
 
@@ -2403,9 +2403,9 @@ Personal
 
 
 Personal
-
 Personal
 
+
 Personal
 
 
@@ -2545,9 +2545,9 @@ Personal
 
 Common
 Personal
-
 Personal
 
+
 Common
 
 
@@ -2609,10 +2609,10 @@ Personal
 
 
 Common
+Personal
 Personal
 
 
-Personal
 
 
 
@@ -2792,10 +2792,10 @@ Personal
 
 Common
 Personal
-
 Personal
 
 
+
 Personal
 
 Common
@@ -3010,9 +3010,9 @@ Personal
 
 
 Personal
-
 Interrogative
 
+
 Personal
 
 
@@ -3136,7 +3136,6 @@ Common
 
 Common
 Personal
-
 
 
 
@@ -3144,6 +3143,7 @@ Personal
 
 
 Relative
+
 Common
 
 
@@ -3154,10 +3154,10 @@ Common
 
 
 Personal
-
 Interrogative
 
 
+
 Common
 
 
@@ -3269,10 +3269,10 @@ Personal
 
 
 
+Interrogative
 
 
 Personal
-Interrogative
 Common
 Relative
 
@@ -3318,13 +3318,13 @@ Common
 
 
 Personal
-
 
 
 Relative
 
 
 
+
 Personal
 
 Common
@@ -3333,10 +3333,10 @@ Common
 Personal
 
 Personal
-
 Demonstrative
 
 
+
 Common
 
 
@@ -3749,13 +3749,13 @@ Personal
 Common
 
 Common
-
 
 
 
 
 Personal
 
+
 Common
 
 
@@ -3770,9 +3770,9 @@ Personal
 
 
 Personal
-
 Common
 
+
 Common
 
 
@@ -3881,8 +3881,8 @@ Common
 Demonstrative
 
 
-Proper
 
+Proper
 
 
 Common
@@ -3947,8 +3947,8 @@ Common
 
 
 
-Proper
 
+Proper
 Common
 
 Personal
@@ -4052,12 +4052,12 @@ Common
 
 
 Common
-
 Personal
 
 
 
 
+
 Personal
 
 Common
@@ -4255,8 +4255,8 @@ Common
 
 
 
-Proper
 
+Proper
 
 Common
 Personal
@@ -4281,8 +4281,8 @@ Demonstrative
 
 
 
-Proper
 
+Proper
 
 Common
 Personal
@@ -4295,12 +4295,12 @@ Personal
 
 Common
 Personal
-
 Interrogative
 
 
 
 
+
 Personal
 
 Common
@@ -4361,12 +4361,12 @@ Common
 Demonstrative
 
 Common
-
 
 
 
 Proper
 
+
 Common
 
 
@@ -4428,11 +4428,11 @@ Personal
 
 
 
-Common
 Common
 
 
 
+Common
 
 
 
@@ -4644,8 +4644,8 @@ Common
 Demonstrative
 
 
-Proper
 
+Proper
 
 
 Common
@@ -4769,11 +4769,11 @@ Personal
 
 Common
 Demonstrative
-
 Personal
 
 
 
+
 Personal
 
 
@@ -5034,9 +5034,9 @@ Common
 Common
 Personal
 
+Relative
 
 
-Relative
 Common
 
 Common
@@ -5082,12 +5082,12 @@ Common
 Personal
 
 Personal
-
 
 
 Relative
 
 
+
 Personal
 
 
@@ -5161,11 +5161,11 @@ Common
 Personal
 
 Personal
-
 
 
 Common
 
+
 Common
 
 
@@ -5357,9 +5357,9 @@ Common
 Common
 
 
+Common
 
 
-Common
 
 
 
@@ -5390,10 +5390,10 @@ Common
 
 
 Common
+Personal
 Personal
 
 
-Personal
 
 Common
 
@@ -5429,9 +5429,9 @@ Personal
 
 
 Common
+Relative
 
 
-Relative
 
 Personal
 
@@ -5575,7 +5575,6 @@ Common
 Common
 
 Common
-
 
 
 
@@ -5584,6 +5583,7 @@ Relative
 
 
 
+
 Demonstrative
 Common
 
@@ -5656,7 +5656,6 @@ Personal
 
 Proper
 Relative
-
 
 
 
@@ -5683,12 +5682,13 @@ Relative
 
 
 
-Personal
 
+Personal
 Demonstrative
 
 
 
+
 Proper
 
 
@@ -5819,11 +5819,11 @@ Proper
 
 
 Common
-
 
 Interrogative
 
 
+
 Common
 Demonstrative
 
@@ -5873,13 +5873,13 @@ Common
 Common
 
 Common
-
 Common
 
 
 
 
 
+
 Common
 
 
@@ -5940,9 +5940,9 @@ Common
 
 Personal
 
+Personal
 Proper
 
-Personal
 
 Common
 
@@ -6040,7 +6040,6 @@ Indefinite
 
 
 Common
-
 
 Relative
 
@@ -6049,6 +6048,7 @@ Relative
 Common
 
 
+
 Personal
 
 
@@ -6161,7 +6161,6 @@ Common
 Common
 
 Relative
-
 
 
 
@@ -6169,6 +6168,7 @@ Personal
 
 
 
+
 Personal
 
 
@@ -6219,9 +6219,9 @@ Common
 
 
 
+Common
 
 
-Common
 
 Common
 
@@ -6278,11 +6278,11 @@ Common
 
 
 Personal
-
 
 
 Interrogative
 
+
 Common
 Common
 
@@ -6513,8 +6513,8 @@ Interrogative
 Demonstrative
 Personal
 Common
-Personal
 
+Personal
 
 
 
@@ -6590,12 +6590,12 @@ Common
 
 Common
 Common
-
 
 
 
 Relative
 
+
 Common
 
 
@@ -6604,9 +6604,9 @@ Common
 Common
 
 Personal
+Relative
 
 
-Relative
 
 
 
@@ -6977,9 +6977,9 @@ Personal
 
 Common
 Personal
+Relative
 
 
-Relative
 
 
 Common
@@ -7002,8 +7002,8 @@ Common
 Common
 Demonstrative
 
-Proper
 
+Proper
 
 Common
 
@@ -7048,11 +7048,11 @@ Common
 
 
 Personal
-
 Relative
 
 
 
+
 Common
 
 
@@ -7080,7 +7080,6 @@ Common
 
 Common
 Common
-
 Common
 
 
@@ -7089,6 +7088,7 @@ Common
 
 
 
+
 Common
 
 
@@ -7115,7 +7115,6 @@ Common
 
 
 Common
-
 Relative
 
 
@@ -7126,6 +7125,7 @@ Relative
 
 
 
+
 Common
 
 
@@ -7154,7 +7154,6 @@ Common
 Common
 
 Common
-
 Demonstrative
 
 
@@ -7162,14 +7161,15 @@ Demonstrative
 Relative
 
 
-Personal
 
+Personal
 
 
 Relative
 
 
 
+
 Relative
 
 
@@ -7246,10 +7246,10 @@ Common
 
 
 
+Personal
 Personal
 
 
-Personal
 
 Common
 
@@ -7279,7 +7279,6 @@ Relative
 
 
 Relative
-
 
 
 
@@ -7287,6 +7286,7 @@ Relative
 Personal
 
 
+
 Common
 
 
@@ -7394,7 +7394,6 @@ Demonstrative
 
 
 Common
-
 
 
 
@@ -7412,6 +7411,7 @@ Relative
 Relative
 
 
+
 Common
 
 Personal
@@ -7570,12 +7570,12 @@ Common
 
 Common
 Personal
-
 Relative
 
 
 
 
+
 Common
 
 
@@ -7798,11 +7798,11 @@ Common
 
 Common
 
-Common
-Personal
 
+Common
 
 Common
+Personal
 
 
 Common
@@ -8145,12 +8145,12 @@ Common
 
 Common
 Personal
-
 
 Common
 
-Proper
+
 
+Proper
 
 
 Common
@@ -8168,7 +8168,6 @@ Proper
 Common
 
 Personal
-
 
 Relative
 
@@ -8177,13 +8176,14 @@ Relative
 
 
 
+
 Common
 Personal
-
 
 Personal
 
 
+
 Common
 
 Common
@@ -8692,7 +8692,6 @@ Common
 
 Common
 Common
-
 
 Personal
 
@@ -8700,14 +8699,15 @@ Personal
 Relative
 
 
+
 Common
 
 
 Common
 Common
-
 Relative
 
+
 Personal
 
 
@@ -9214,8 +9214,8 @@ Common
 
 Common
 
-Common
 
+Common
 
 
 
@@ -9314,8 +9314,8 @@ Personal
 
 
 
-Common
 
+Common
 
 
 
@@ -9423,8 +9423,8 @@ Proper
 Proper
 
 
-Proper
 
+Proper
 
 
 Common
@@ -9436,10 +9436,10 @@ Proper
 Common
 Personal
 
+Interrogative
 
 
 Common
-Interrogative
 
 
 Common
@@ -9465,8 +9465,8 @@ Proper
 Common
 
 Personal
-
 Personal
+
 Interrogative
 Personal
 
@@ -9511,8 +9511,8 @@ Personal
 
 
 Common
-
 Personal
+
 Personal
 
 
@@ -9543,8 +9543,8 @@ Common
 
 Common
 
-
 Relative
+
 
 
 
@@ -9555,8 +9555,8 @@ Common
 
 Common
 
-
 Relative
+
 
 
 
@@ -9638,8 +9638,8 @@ Proper
 Personal
 Proper
 Common
-Personal
 
+Personal
 
 
 
@@ -9673,9 +9673,9 @@ Personal
 
 
 Personal
+Relative
 
 
-Relative
 
 
 Common
@@ -9683,9 +9683,9 @@ Personal
 
 
 Personal
+Relative
 
 
-Relative
 
 
 Common
@@ -9694,8 +9694,8 @@ Personal
 Personal
 
 Personal
-
 Interrogative
+
 
 Common
 
@@ -9941,11 +9941,10 @@ Personal
 
 Common
 
-
 Interrogative
 
-Common
 
+Common
 
 
 Proper
@@ -9957,6 +9956,7 @@ Proper
 
 
 Proper
+
 
 
 
@@ -10087,8 +10087,8 @@ Common
 Demonstrative
 
 
-Common
 
+Common
 
 Proper
 
@@ -10177,9 +10177,9 @@ Proper
 
 
 
-
 Common
 Personal
+
 
 Common
 
@@ -10271,8 +10271,8 @@ Common
 
 Proper
 
-
 Interrogative
+
 
 
 
@@ -10309,8 +10309,8 @@ Common
 Common
 
 Common
-
 Relative
+
 
 Personal
 
@@ -10327,8 +10327,8 @@ Common
 
 Common
 
-
 Relative
+
 
 
 Common
@@ -10339,9 +10339,9 @@ Common
 Personal
 Personal
 
+Relative
 
 
-Relative
 
 
 
@@ -10374,8 +10374,8 @@ Common
 
 
 Common
-
 Common
+
 
 
 Common
@@ -10587,9 +10587,9 @@ Personal
 
 Common
 
+Common
 
 
-Common
 
 
 Common
@@ -10617,8 +10617,8 @@ Common
 
 
 Personal
-
 Relative
+
 
 
 
@@ -10628,8 +10628,8 @@ Common
 
 Common
 
-
 Relative
+
 
 
 
@@ -10646,16 +10646,16 @@ Personal
 
 
 
-Personal
 
+Personal
 
 
 Common
 
 
 Common
-
 Relative
+
 
 
 Personal
@@ -10736,8 +10736,8 @@ Personal
 Personal
 
 
-Personal
 
+Personal
 Common
 
 Common
@@ -10747,10 +10747,10 @@ Common
 Personal
 
 
+Personal
 
 Common
 
-Personal
 
 
 Common
@@ -10845,9 +10845,9 @@ Common
 
 
 
+
 Common
 Personal
-
 
 
 
@@ -11023,8 +11023,8 @@ Common
 
 Common
 
-
 Relative
+
 
 Common
 
@@ -11033,8 +11033,8 @@ Common
 
 
 Personal
-
 Interrogative
+
 Proper
 
 
@@ -11057,17 +11057,17 @@ Personal
 Common
 Personal
 
-
 Common
 
 
 
 
 
-Personal
 
+Personal
 
 Relative
+
 
 
 Common
@@ -11290,8 +11290,8 @@ Common
 Personal
 
 
-Common
 
+Common
 
 Common
 
@@ -11342,7 +11342,6 @@ Common
 
 
 Common
-
 
 
 
@@ -11352,6 +11351,7 @@ Interrogative
 
 
 
+
 Proper
 
 Personal
@@ -11378,9 +11378,9 @@ Personal
 
 
 Personal
-
 Interrogative
 
+
 Personal
 
 
@@ -11510,12 +11510,12 @@ Personal
 
 
 Common
-
 
 Relative
 
 
 
+
 Personal
 
 
@@ -11628,11 +11628,11 @@ Common
 
 
 Personal
-
 Personal
 
 
 
+
 Common
 
 Common
@@ -11696,9 +11696,9 @@ Personal
 
 
 
-Proper
 
 
+Proper
 
 Proper
 
@@ -11808,10 +11808,10 @@ Interrogative
 
 Common
 Relative
-
 Personal
 
 
+
 Personal
 
 
@@ -11875,22 +11875,22 @@ Personal
 
 
 Personal
-
 
 Relative
 
 
+
 Personal
 
 
 
 Personal
 Common
-
 
 Relative
 
 
+
 Personal
 
 
@@ -11938,10 +11938,10 @@ Proper
 
 
 
+Common
 
 Personal
 Common
-Common
 Proper
 
 
@@ -11955,10 +11955,10 @@ Personal
 
 
 
+Common
 
 Personal
 Common
-Common
 Proper
 
 
@@ -11966,11 +11966,11 @@ Proper
 Proper
 
 Personal
-
 
 
 Interrogative
 
+
 Personal
 
 Personal
@@ -12051,7 +12051,6 @@ Common
 
 
 Personal
-
 Demonstrative
 
 
@@ -12060,6 +12059,7 @@ Demonstrative
 
 
 
+
 Common
 
 
@@ -12084,8 +12084,8 @@ Common
 Common
 
 
-Common
 
+Common
 
 
 
@@ -12187,7 +12187,6 @@ Proper
 
 
 Proper
-
 
 
 
@@ -12208,6 +12207,7 @@ Common
 Common
 
 
+
 Common
 
 
@@ -12222,9 +12222,9 @@ Common
 Personal
 Common
 Common
-
 
 Personal
+
 Personal
 
 Common
@@ -12241,6 +12241,7 @@ Personal
 
 
 Personal
+
 
 
 Common
@@ -12249,7 +12250,6 @@ Common
 Common
 
 
-
 Relative
 
 
@@ -12389,7 +12389,6 @@ Demonstrative
 
 
 Common
-
 
 
 
@@ -12397,6 +12396,7 @@ Relative
 
 
 
+
 Common
 
 
@@ -12439,10 +12439,10 @@ Personal
 Personal
 Personal
 Common
-
 
 Relative
 
+
 Personal
 Personal
 Personal
@@ -12475,11 +12475,11 @@ Personal
 Common
 
 Personal
-
 
 Interrogative
 
 
+
 Personal
 
 
@@ -12515,9 +12515,9 @@ Personal
 Interrogative
 Common
 Demonstrative
-
 
 Interrogative
+
 Personal
 
 Common
@@ -12611,7 +12611,6 @@ Common
 Common
 
 Personal
-
 Personal
 
 
@@ -12619,6 +12618,7 @@ Personal
 
 
 
+
 Personal
 
 Common
@@ -12672,7 +12672,6 @@ Common
 
 Common
 Personal
-
 Relative
 
 
@@ -12684,6 +12683,7 @@ Relative
 
 
 
+
 Common
 
 
@@ -12825,12 +12825,13 @@ Common
 Demonstrative
 
 
+Relative
 
 
-Relative
 
 
 Personal
+
 
 
 Common
@@ -12838,7 +12839,6 @@ Common
 
 Proper
 
-
 Common
 Personal
 
@@ -12923,7 +12923,6 @@ Personal
 
 
 Common
-
 
 
 
@@ -12932,11 +12931,12 @@ Relative
 
 
 
-Common
 
+Common
 Relative
 
 
+
 Common
 Personal
 
@@ -12990,21 +12990,21 @@ Common
 Common
 
 Common
-
 
 Relative
 
 
 
 
+
 Common
+
 
 
 Common
 Demonstrative
 
 
-
 Common
 
 
@@ -13021,8 +13021,8 @@ Common
 
 
 
-Common
 
+Common
 
 
 
@@ -13141,8 +13141,8 @@ Proper
 
 
 
-Proper
 
+Proper
 
 Common
 Personal
@@ -13270,15 +13270,15 @@ Personal
 
 
 Common
-
 
 
 Common
+
 Interrogative
 
 
-Common
 
+Common
 
 
 
@@ -13540,8 +13540,8 @@ Common
 Proper
 
 
-
 Relative
+
 
 Personal
 
@@ -13570,8 +13570,8 @@ Common
 Common
 
 Common
-
 Personal
+
 
 Common
 Personal
@@ -13624,8 +13624,8 @@ Common
 
 Common
 Common
-
 Personal
+
 
 
 Common
@@ -13642,9 +13642,9 @@ Common
 
 
 Common
-Personal
 
 
+Personal
 
 
 Common
@@ -13673,8 +13673,8 @@ Personal
 
 Personal
 Common
-
 Relative
+
 
 Personal
 
@@ -13699,8 +13699,8 @@ Common
 
 
 Common
-
 Personal
+
 
 
 
@@ -13739,17 +13739,17 @@ Common
 
 
 
-
 Relative
+
 
 
 
 Common
 
 
+Relative
 
 
-Relative
 
 
 
@@ -13760,8 +13760,8 @@ Common
 
 
 
-
 Interrogative
+
 
 
 
@@ -13774,17 +13774,17 @@ Common
 
 Common
 
-
 Relative
+
 
 
 
 Common
 
 
+Relative
 
 
-Relative
 
 
 
@@ -13794,8 +13794,8 @@ Common
 Personal
 
 
-
 Interrogative
+
 
 
 Common
@@ -13883,9 +13883,9 @@ Common
 
 
 Common
+Demonstrative
 
 
-Demonstrative
 
 
 
@@ -13947,8 +13947,8 @@ Common
 
 Common
 
-
 Relative
+
 
 
 
@@ -14018,8 +14018,8 @@ Common
 
 Personal
 
-
 Common
+
 
 
 
@@ -14043,8 +14043,8 @@ Common
 
 Common
 
-
 Demonstrative
+
 Personal
 
 
@@ -14171,8 +14171,8 @@ Common
 Common
 
 
-Proper
 
+Proper
 
 
 
@@ -14204,8 +14204,8 @@ Personal
 
 
 
-
 Common
+
 Common
 Relative
 
@@ -14734,9 +14734,9 @@ Personal
 
 
 Common
+Demonstrative
 
 Common
-Demonstrative
 
 
 
@@ -14770,13 +14770,13 @@ Common
 
 
 
+
 Common
 Demonstrative
 
 
 
 Common
-
 
 
 
@@ -14842,8 +14842,8 @@ Common
 Common
 Personal
 
-
 Demonstrative
+
 
 
 
@@ -14881,14 +14881,14 @@ Common
 
 Common
 
-
 Interrogative
-
 
 
 
 
 Common
+
+
 Relative
 
 
@@ -14911,10 +14911,10 @@ Demonstrative
 Relative
 
 
-
-
 Common
 Personal
+
+
 
 
 
@@ -15177,16 +15177,16 @@ Personal
 
 Personal
 
-
 Relative
 
 
-Common
 
+Common
 Relative
 
 
 Relative
+
 
 
 
@@ -15381,9 +15381,8 @@ Common
 Personal
 
 Personal
-Common
-
 
+Common
 
 
 
@@ -15399,6 +15398,7 @@ Common
 
 
 Personal
+
 
 
 Common
@@ -15407,8 +15407,8 @@ Personal
 Common
 
 
-
 Personal
+
 
 
 Possessive
@@ -15538,8 +15538,8 @@ Personal
 
 
 Personal
-
 Common
+
 Common
 Common
 
@@ -15580,7 +15580,6 @@ Personal
 
 Common
 
-
 Personal
 
 
@@ -15604,6 +15603,7 @@ Personal
 
 
 Personal
+
 
 
 
@@ -15641,10 +15641,10 @@ Personal
 
 
 
-
 Personal
 
 
+
 Common
 
 
@@ -15693,7 +15693,6 @@ Personal
 Personal
 
 Common
-
 
 Personal
 
@@ -15707,6 +15706,7 @@ Personal
 
 
 
+
 Common
 
 
@@ -15867,11 +15867,11 @@ Common
 
 
 Common
-
 Common
 
 
 
+
 Personal
 
 
@@ -15880,14 +15880,14 @@ Personal
 
 
 Personal
-
 Personal
 
 
 
 
-Demonstrative
+
 
+Demonstrative
 
 Common
 Demonstrative
@@ -15921,6 +15921,7 @@ Demonstrative
 
 Common
 Personal
+
 
 
 
@@ -15931,11 +15932,10 @@ Proper
 Proper
 
 
-
 Common
-
 
 Interrogative
+
 Personal
 
 Personal
@@ -16116,8 +16116,8 @@ Personal
 
 Personal
 
-Proper
 
+Proper
 Common
 
 
@@ -16145,11 +16145,11 @@ Personal
 
 
 Personal
-
 
 Demonstrative
 
 
+
 Common
 Personal
 
@@ -16428,7 +16428,6 @@ Personal
 
 
 Personal
-
 
 
 
@@ -16437,6 +16436,7 @@ Personal
 Common
 
 
+
 Personal
 
 
@@ -16513,10 +16513,10 @@ Personal
 
 Personal
 Common
-
 
 Relative
 
+
 Personal
 
 
@@ -16652,13 +16652,13 @@ Common
 
 
 Personal
-
 Demonstrative
 
 
 
 
 
+
 Common
 
 Common
@@ -16727,8 +16727,8 @@ Personal
 
 
 
-Common
 
+Common
 
 
 
@@ -16826,9 +16826,9 @@ Personal
 
 Interrogative
 
-Common
 Common
 
+Common
 
 
 
@@ -16976,7 +16976,6 @@ Common
 
 
 Personal
-
 
 
 
@@ -16984,6 +16983,7 @@ Personal
 
 Common
 
+
 Common
 
 
@@ -17009,6 +17009,7 @@ Personal
 Proper
 
 Common
+
 
 Proper
 
@@ -17020,7 +17021,6 @@ Personal
 
 
 
-
 Common
 
 Common
@@ -17067,12 +17067,12 @@ Common
 
 Common
 Common
-
 
 Common
 
 
 
+
 Personal
 
 Common
@@ -17195,9 +17195,9 @@ Common
 Common
 
 
-Common
 
 Common
+Common
 Relative
 
 
@@ -17214,9 +17214,9 @@ Personal
 Personal
 
 Proper
-
 Interrogative
 
+
 Personal
 Proper
 
@@ -17281,12 +17281,12 @@ Proper
 Common
 
 Personal
-
 Interrogative
 
 
 
 
+
 Personal
 
 
@@ -17297,14 +17297,13 @@ Proper
 Personal
 
 Proper
-
 Interrogative
 
+
 Proper
 
 
 Proper
-
 
 
 
@@ -17322,8 +17321,9 @@ Interrogative
 
 
 
-Proper
+
 
+Proper
 
 
 
@@ -17481,11 +17481,11 @@ Common
 
 Proper
 Relative
-
 
 Common
 Common
 
+
 Personal
 
 Common
@@ -17563,10 +17563,10 @@ Common
 
 
 Personal
-
 
 Common
 
+
 Common
 
 
@@ -17613,9 +17613,9 @@ Personal
 
 
 
-Common
 Common
 
+Common
 
 
 
@@ -17665,7 +17665,6 @@ Personal
 
 Interrogative
 Personal
-
 
 Indefinite
 
@@ -17674,6 +17673,7 @@ Indefinite
 
 
 
+
 Proper
 
 Demonstrative
@@ -17681,8 +17681,8 @@ Demonstrative
 
 
 
-Personal
 
+Personal
 
 
 Common
@@ -17887,6 +17887,7 @@ Common
 Common
 
 Common
+
 
 
 
@@ -17900,7 +17901,6 @@ Proper
 
 
 
-
 Common
 
 
@@ -18008,10 +18008,10 @@ Common
 
 
 Common
-
 
 
 Common
+
 Common
 
 
@@ -18173,7 +18173,6 @@ Common
 
 
 Common
-
 
 
 
@@ -18184,6 +18183,7 @@ Common
 
 Common
 
+
 Common
 
 
@@ -18435,9 +18435,9 @@ Personal
 
 Personal
 Common
-
 Personal
 
+
 Personal
 Common
 
@@ -18715,11 +18715,11 @@ Proper
 Personal
 
 
-Common
+Personal
 
+Common
 
 
-Personal
 
 
 Common
@@ -18828,8 +18828,8 @@ Personal
 
 
 
-
 Common
+
 
 
 Common
@@ -18898,8 +18898,8 @@ Common
 
 
 
-
 Demonstrative
+
 
 
 
@@ -19075,8 +19075,8 @@ Common
 
 
 
-Proper
 
+Proper
 
 Common
 Personal
@@ -19118,8 +19118,8 @@ Common
 
 
 
-Proper
 
+Proper
 
 Common
 Personal
@@ -19304,11 +19304,10 @@ Proper
 Personal
 
 Common
-Common
-
 
 
 
+Common
 
 
 
@@ -19327,6 +19326,7 @@ Proper
 
 
 Proper
+
 
 
 
@@ -19409,9 +19409,9 @@ Common
 
 Common
 
+Personal
 
 
-Personal
 
 
 
@@ -19546,11 +19546,11 @@ Common
 
 Common
 
+Common
 
 
 Common
 
-Common
 Common
 
 
@@ -19585,8 +19585,8 @@ Personal
 Common
 
 
-
 Common
+
 
 
 
@@ -19974,21 +19974,21 @@ Personal
 
 
 
-Common
 
 Common
 
+Common
 
 Common
 
 
 Common
-
 Relative
-
 
 
 Relative
+
+
 
 
 
@@ -20079,8 +20079,8 @@ Personal
 
 Common
 Personal
-
 Relative
+
 
 
 Common
@@ -20151,8 +20151,8 @@ Personal
 
 
 
-
 Relative
+
 
 
 
@@ -20265,14 +20265,14 @@ Common
 Personal
 Personal
 
-
 Common
 
-Common
 
 Common
 
+Common
 Demonstrative
+
 
 
 
@@ -20317,8 +20317,8 @@ Common
 
 Common
 
-
 Demonstrative
+
 
 
 
@@ -20344,6 +20344,7 @@ Common
 
 Personal
 
+Demonstrative
 
 
 
@@ -20351,7 +20352,6 @@ Personal
 
 
 
-Demonstrative
 Relative
 
 
@@ -20419,6 +20419,7 @@ Common
 
 
 
+Demonstrative
 
 
 
@@ -20427,7 +20428,6 @@ Common
 
 
 
-Demonstrative
 Relative
 
 
@@ -20505,8 +20505,8 @@ Personal
 
 
 Personal
-
 Relative
+
 
 
 Personal
@@ -20591,8 +20591,8 @@ Common
 
 
 Interrogative
-Common
 Personal
+Common
 
 
 Common
@@ -20635,8 +20635,8 @@ Personal
 
 
 
-
 Common
+
 
 Demonstrative
 Common
@@ -20769,8 +20769,8 @@ Common
 
 
 Personal
-
 Interrogative
+
 Demonstrative
 
 
@@ -20903,8 +20903,8 @@ Personal
 
 Personal
 
-Common
 
+Common
 
 
 
@@ -21022,11 +21022,11 @@ Proper
 
 
 
-Common
 
 
 
 
+Common
 
 
 
@@ -21264,8 +21264,8 @@ Common
 Common
 
 Interrogative
-
 Personal
+
 
 Common
 
@@ -21412,8 +21412,8 @@ Common
 
 
 Personal
-
 Personal
+
 
 
 
@@ -21675,8 +21675,8 @@ Common
 
 
 
-
 Relative
+
 Common
 
 
@@ -21767,8 +21767,8 @@ Personal
 Proper
 Demonstrative
 
-
 Personal
+
 
 Proper
 
@@ -21888,8 +21888,8 @@ Common
 Common
 
 Personal
-
 Relative
+
 
 
 
@@ -21964,8 +21964,8 @@ Personal
 
 
 
-Common
 
+Common
 Common
 
 
@@ -22166,8 +22166,8 @@ Personal
 
 Personal
 Interrogative
-Common
 
+Common
 
 
 
@@ -22386,10 +22386,10 @@ Personal
 Common
 
 
-
 Personal
 
 Common
+
 
 
 
@@ -22457,8 +22457,8 @@ Common
 Personal
 
 
-
 Relative
+
 
 Personal
 
@@ -22618,8 +22618,8 @@ Common
 Common
 Personal
 
-
 Proper
+
 
 
 
@@ -22637,8 +22637,8 @@ Common
 Common
 Common
 
-
 Personal
+
 
 
 
@@ -22652,8 +22652,8 @@ Proper
 Relative
 
 Common
-
 Relative
+
 
 Personal
 
@@ -22757,8 +22757,8 @@ Personal
 
 
 
-
 Personal
+
 
 Common
 
@@ -22843,14 +22843,14 @@ Common
 
 
 
+Common
 
 Personal
-Common
 Relative
 
+
 Common
 Personal
-
 Common
 
 
@@ -23042,8 +23042,8 @@ Personal
 
 
 
-
 Relative
+
 Personal
 
 Personal
@@ -23124,9 +23124,9 @@ Common
 Personal
 
 
+Demonstrative
 
 Indefinite
-Demonstrative
 
 
 Common
@@ -23136,8 +23136,8 @@ Common
 
 Personal
 Interrogative
-Common
 
+Common
 
 
 
@@ -23471,8 +23471,8 @@ Interrogative
 Personal
 
 
-
 Common
+
 
 
 
@@ -23495,8 +23495,8 @@ Common
 Personal
 
 Personal
-
 Personal
+
 Interrogative
 Personal
 
@@ -23555,8 +23555,8 @@ Common
 
 
 
-Proper
 
+Proper
 Personal
 
 
@@ -23613,9 +23613,9 @@ Personal
 
 
 Personal
+Relative
 
 
-Relative
 
 
 Common
@@ -23623,9 +23623,9 @@ Personal
 
 
 Personal
+Relative
 
 
-Relative
 
 
 Common
@@ -23637,8 +23637,8 @@ Personal
 Common
 
 Personal
-
 Interrogative
+
 
 Common
 
@@ -23650,17 +23650,17 @@ Common
 
 Common
 Personal
-
 Interrogative
+
 
 Common
 Common
 
 Common
 Personal
+Relative
 
 
-Relative
 
 Personal
 
@@ -23887,16 +23887,16 @@ Personal
 
 Common
 
-
 Proper
 
 
 
 
 
-Personal
 
+Personal
 Proper
+
 
 
 
@@ -24113,8 +24113,8 @@ Personal
 Common
 
 
-Proper
 
+Proper
 
 
 Common
@@ -24267,8 +24267,8 @@ Common
 
 
 
-
 Personal
+
 
 
 
@@ -24307,8 +24307,8 @@ Personal
 Personal
 
 Personal
-
 Relative
+
 
 
 Demonstrative
@@ -24321,8 +24321,8 @@ Personal
 Personal
 
 
-
 Relative
+
 Personal
 
 
@@ -24378,8 +24378,8 @@ Personal
 
 
 Personal
-
 Relative
+
 
 
 
@@ -24387,9 +24387,9 @@ Personal
 
 Personal
 
+Relative
 
 
-Relative
 
 Personal
 Common
@@ -24410,8 +24410,8 @@ Personal
 Common
 Personal
 
-
 Relative
+
 
 
 
@@ -24503,8 +24503,8 @@ Personal
 
 Personal
 
-
 Personal
+
 
 
 
@@ -24659,8 +24659,8 @@ Common
 
 
 Common
-
 Relative
+
 
 Common
 
@@ -24681,8 +24681,8 @@ Personal
 
 
 Personal
-
 Relative
+
 
 
 Common
@@ -24743,11 +24743,11 @@ Common
 
 
 Personal
-
 Relative
 
 
 
+
 Common
 
 Common
@@ -24970,8 +24970,8 @@ Common
 Common
 
 
-Proper
 
+Proper
 Personal
 
 Personal
@@ -25009,6 +25009,7 @@ Personal
 
 
 Common
+
 
 
 
@@ -25017,7 +25018,6 @@ Common
 
 Common
 Demonstrative
-
 Common
 
 Common
@@ -25133,11 +25133,11 @@ Proper
 
 Personal
 Common
-
 
 
 Relative
 
+
 Personal
 
 Personal
@@ -25145,8 +25145,8 @@ Personal
 
 
 Personal
-
 Interrogative
+
 Personal
 
 Personal
@@ -25156,7 +25156,6 @@ Personal
 Personal
 
 Personal
-
 
 
 Personal
@@ -25168,6 +25167,7 @@ Personal
 
 
 
+
 Common
 Personal
 
@@ -25270,22 +25270,22 @@ Personal
 
 
 Personal
-
 
 Relative
 
 
 
 
+
 Personal
 
 Personal
 Common
-
 
 Relative
 
 
+
 Personal
 
 
@@ -25468,14 +25468,14 @@ Personal
 
 
 Personal
-
 
 Common
 
+
 Relative
 
-Common
 
+Common
 
 
 Personal
@@ -25610,9 +25610,9 @@ Proper
 
 
 
-Common
 
 
+Common
 
 
 Proper
@@ -25629,9 +25629,9 @@ Proper
 
 
 
+Common
 
 
-Common
 
 Common
 
@@ -25733,9 +25733,9 @@ Common
 
 
 Common
-
 Personal
 
+
 Personal
 Common
 Common
@@ -25805,11 +25805,11 @@ Common
 
 
 Personal
-
 
 Relative
 
 
+
 Common
 Demonstrative
 
@@ -25953,12 +25953,12 @@ Personal
 
 
 Common
-
 
 
 Interrogative
 
 
+
 Personal
 
 
@@ -26053,7 +26053,6 @@ Personal
 Personal
 
 Common
-
 
 
 
@@ -26074,6 +26073,7 @@ Relative
 
 
 
+
 Common
 
 
@@ -26087,9 +26087,9 @@ Personal
 
 Common
 Personal
-
 Demonstrative
 
+
 Common
 
 Personal
@@ -26286,9 +26286,9 @@ Common
 Personal
 
 
+Proper
 
 Personal
-Proper
 Relative
 
 Common
@@ -26373,8 +26373,8 @@ Common
 
 Interrogative
 Personal
-Common
 
+Common
 
 
 
@@ -26660,8 +26660,8 @@ Common
 
 
 Personal
-Common
 
+Common
 
 
 
@@ -26773,19 +26773,19 @@ Common
 
 
 Personal
-
 
 Demonstrative
 
 
+
 Common
 Personal
-
 
 Relative
 
 
 
+
 Common
 Personal
 
@@ -26817,11 +26817,11 @@ Demonstrative
 
 
 Common
-
 
 
 
 Common
+
 Common
 Relative
 
@@ -26951,8 +26951,8 @@ Common
 
 
 
-Common
 
+Common
 
 
 
@@ -26961,11 +26961,11 @@ Personal
 
 
 Interrogative
-
 
 
 Relative
 
+
 Personal
 
 Demonstrative
@@ -27156,7 +27156,6 @@ Common
 Common
 
 Common
-
 
 
 
@@ -27167,6 +27166,7 @@ Common
 Personal
 
 
+
 Personal
 
 
@@ -27192,13 +27192,13 @@ Personal
 
 
 Common
-
 
 
 
 Common
 
 
+
 Common
 
 
@@ -27383,9 +27383,9 @@ Common
 
 
 Personal
-
 
 Relative
+
 Personal
 
 
@@ -27455,8 +27455,8 @@ Personal
 
 Common
 
-Indefinite
 
+Indefinite
 
 
 Personal
@@ -27511,13 +27511,13 @@ Personal
 
 
 Personal
-
 
 
 Personal
 
 
 
+
 Relative
 
 
@@ -27687,8 +27687,8 @@ Common
 
 
 
-Personal
 
+Personal
 
 
 
@@ -27699,8 +27699,8 @@ Proper
 Personal
 
 
-Personal
 
+Personal
 
 Personal
 
@@ -28052,7 +28052,6 @@ Common
 
 
 Personal
-
 
 
 
@@ -28062,6 +28061,7 @@ Common
 
 
 
+
 Interrogative
 
 Personal
@@ -28134,10 +28134,10 @@ Common
 Personal
 Common
 Personal
-
 
 Relative
 
+
 Personal
 
 
@@ -28351,9 +28351,9 @@ Personal
 
 
 
+Common
 
 
-Common
 
 
 Proper
@@ -28403,8 +28403,8 @@ Common
 
 
 
-Common
 
+Common
 
 
 
@@ -28422,9 +28422,9 @@ Personal
 
 Interrogative
 
-Common
 Common
 
+Common
 
 
 Common
@@ -28490,8 +28490,8 @@ Personal
 
 
 
-Proper
 
+Proper
 
 
 
@@ -28583,7 +28583,6 @@ Common
 
 
 Personal
-
 
 
 
@@ -28592,8 +28591,9 @@ Personal
 
 
 Common
-Common
+
 
+Common
 
 
 
@@ -28666,7 +28666,6 @@ Personal
 
 Common
 Relative
-
 
 
 
@@ -28676,6 +28675,7 @@ Proper
 
 
 Common
+
 Relative
 
 
@@ -28732,9 +28732,9 @@ Proper
 
 
 Personal
-
 Interrogative
 
+
 Relative
 
 
@@ -28752,9 +28752,9 @@ Personal
 Proper
 
 Personal
+Interrogative
 
 
-Interrogative
 
 
 
@@ -28875,8 +28875,8 @@ Personal
 Personal
 
 
-Common
 Proper
+Common
 Relative
 
 
@@ -28887,12 +28887,12 @@ Common
 Personal
 
 Common
-
 Relative
 
 
 
 
+
 Personal
 
 
@@ -28913,7 +28913,6 @@ Common
 
 
 Personal
-
 
 
 
@@ -28922,6 +28921,7 @@ Common
 Common
 Personal
 
+
 Common
 
 
@@ -29053,8 +29053,8 @@ Indefinite
 Proper
 
 
-Indefinite
 
+Indefinite
 
 
 Common
@@ -29083,6 +29083,7 @@ Common
 Common
 
 Common
+
 
 
 
@@ -29103,7 +29104,6 @@ Personal
 
 
 
-
 Demonstrative
 
 Common
@@ -29333,7 +29333,6 @@ Common
 
 
 Personal
-
 
 
 Proper
@@ -29347,6 +29346,7 @@ Proper
 
 
 
+
 Common
 
 
@@ -29481,7 +29481,6 @@ Common
 
 
 Common
-
 
 
 
@@ -29492,9 +29491,10 @@ Common
 
 
 Common
-Demonstrative
+
 
 
+Demonstrative
 
 
 
@@ -29541,12 +29541,12 @@ Common
 
 
 Common
-
 Demonstrative
 
 
 
 
+
 Common
 
 
@@ -29685,7 +29685,6 @@ Common
 
 
 Proper
-
 
 
 
@@ -29699,6 +29698,7 @@ Personal
 
 
 
+
 Personal
 
 
@@ -29728,8 +29728,8 @@ Common
 
 Common
 
-Common
 
+Common
 
 
 
@@ -29787,8 +29787,8 @@ Personal
 Proper
 
 
-Personal
 Common
+Personal
 
 Common
 
@@ -29864,9 +29864,9 @@ Common
 Interrogative
 
 Demonstrative
-
 Personal
 
+
 Common
 
 
@@ -29926,12 +29926,12 @@ Relative
 
 Common
 Personal
-
 
 
 
 Common
 
+
 Proper
 
 
@@ -30218,8 +30218,8 @@ Personal
 
 Common
 
-Proper
 
+Proper
 
 
 Common
@@ -30421,20 +30421,20 @@ Personal
 
 Common
 
-Proper
 
 
+
 Common
 Personal
-
 
-Common
+Proper
 
 
+Common
+Personal
 
 
 Common
-Personal
 
 
 Proper
@@ -30515,13 +30515,13 @@ Proper
 
 
 Personal
+
 
 
 
 
 Common
 Personal
-
 Relative
 
 
@@ -30533,9 +30533,9 @@ Demonstrative
 Common
 Personal
 
+Interrogative
 
 
-Interrogative
 
 Personal
 
@@ -30567,9 +30567,9 @@ Personal
 Common
 
 
-Common
 
 
+Common
 
 
 Personal
@@ -30595,8 +30595,8 @@ Demonstrative
 Common
 Personal
 
-
 Interrogative
+
 
 Common
 Demonstrative
@@ -30687,8 +30687,8 @@ Personal
 
 Personal
 
-Common
 
+Common
 
 
 
@@ -30703,10 +30703,10 @@ Personal
 
 Common
 Personal
-
-Common
 
 Personal
+
+Common
 Common
 
 
@@ -31189,8 +31189,8 @@ Common
 Personal
 
 
-
 Personal
+
 
 
 Common
@@ -31246,12 +31246,12 @@ Common
 Common
 
 
-Common
 
 
 
 Common
 Personal
+Common
 
 
 Common
@@ -31285,12 +31285,12 @@ Proper
 
 
 
-
 Common
 Personal
 
 
 Common
+
 
 
 
@@ -31323,8 +31323,8 @@ Proper
 Common
 
 
-
 Personal
+
 Personal
 
 Common
@@ -31574,8 +31574,8 @@ Personal
 Common
 Personal
 
-Personal
 
+Personal
 
 Personal
 
@@ -31624,8 +31624,8 @@ Common
 
 Common
 
-
 Common
+
 
 
 Common
@@ -31641,8 +31641,8 @@ Proper
 
 Proper
 Proper
-
 Proper
+
 
 Common
 Personal
@@ -31742,10 +31742,10 @@ Common
 
 
 
+Common
 
 
 Personal
-Common
 Common
 Common
 Interrogative
@@ -31816,8 +31816,8 @@ Personal
 
 Common
 
-
 Interrogative
+
 
 
 
@@ -31908,8 +31908,8 @@ Proper
 
 
 Proper
-
 Personal
+
 Common
 
 Personal
@@ -32048,16 +32048,16 @@ Personal
 
 
 Personal
-Proper
 
+Proper
 
 
 Common
 
 
+Common
 
 
-Common
 Proper
 
 Proper
@@ -32211,8 +32211,8 @@ Proper
 Proper
 
 Common
-
 Proper
+
 
 Common
 
@@ -32252,8 +32252,8 @@ Personal
 
 
 
-
 Common
+
 
 Common
 
@@ -32310,14 +32310,14 @@ Personal
 Personal
 
 
-
 Relative
+
 
 
 Personal
+Personal
 
 
-Personal
 
 
 Personal
@@ -32356,8 +32356,8 @@ Common
 
 Personal
 
-
 Common
+
 
 Common
 
@@ -32567,8 +32567,8 @@ Personal
 
 
 Common
-Proper
 
+Proper
 Demonstrative
 
 
@@ -32583,8 +32583,8 @@ Demonstrative
 Common
 
 Personal
-
 Relative
+
 
 
 
@@ -32611,8 +32611,8 @@ Common
 Common
 Personal
 
-
 Common
+
 
 Personal
 
@@ -32680,8 +32680,8 @@ Proper
 Proper
 
 
-Common
 
+Common
 
 
 Common
@@ -32705,13 +32705,13 @@ Common
 Relative
 
 Common
-Personal
 
+Personal
 
 
 Personal
-
 Personal
+
 
 
 
@@ -32789,9 +32789,9 @@ Proper
 Personal
 
 
-Common
-
 Personal
+
+Common
 
 
 
@@ -32846,8 +32846,8 @@ Common
 
 Common
 Proper
-
 Common
+
 
 Proper
 
@@ -32964,10 +32964,10 @@ Common
 
 Personal
 
-Common
 
 Common
 
+Common
 
 
 Demonstrative
@@ -33132,8 +33132,8 @@ Common
 
 
 Common
-
 Common
+
 
 Personal
 
@@ -33276,8 +33276,8 @@ Common
 
 Common
 Personal
-
 Personal
+
 
 
 
@@ -33404,8 +33404,8 @@ Common
 Common
 
 
-Proper
 
+Proper
 
 Common
 Personal
@@ -33541,8 +33541,8 @@ Common
 Relative
 
 
-
 Personal
+
 
 
 
@@ -33575,10 +33575,10 @@ Proper
 Personal
 
 Common
-Common
 
 
 
+Common
 
 
 
@@ -33737,8 +33737,6 @@ Common
 Common
 
 Personal
-
-
 
 
 
@@ -33747,12 +33745,14 @@ Personal
 Common
 Personal
 
-Common
 
 
 Common
+
 
+Common
 Indefinite
+
 
 Proper
 
@@ -33771,8 +33771,8 @@ Personal
 
 Proper
 
-
 Demonstrative
+
 Relative
 
 Proper
@@ -33815,8 +33815,8 @@ Common
 
 
 Personal
-
 Common
+
 
 Common
 
@@ -33864,8 +33864,8 @@ Common
 
 
 Personal
-
 Personal
+
 
 
 Common
@@ -33925,16 +33925,16 @@ Personal
 
 Common
 Personal
-
 Personal
+
 
 Common
 
 
 
 Personal
-
 Interrogative
+
 
 
 Proper
@@ -34204,8 +34204,8 @@ Common
 Common
 Personal
 
-
 Personal
+
 
 
 
@@ -34278,8 +34278,8 @@ Personal
 
 Personal
 Interrogative
-Common
 Personal
+Common
 
 
 
@@ -34297,8 +34297,8 @@ Personal
 
 Personal
 Interrogative
-Common
 Personal
+Common
 
 
 
@@ -34314,8 +34314,8 @@ Relative
 
 
 Interrogative
-Common
 Personal
+Common
 
 
 
@@ -34394,8 +34394,8 @@ Common
 
 Common
 Personal
-
 Relative
+
 Common
 
 
@@ -34429,8 +34429,8 @@ Common
 
 Common
 Personal
-
 Interrogative
+
 
 
 Common
@@ -34501,8 +34501,8 @@ Personal
 
 
 
-
 Common
+
 
 Common
 
@@ -34561,8 +34561,8 @@ Common
 
 Common
 Personal
-
 Interrogative
+
 Personal
 
 Common
@@ -34605,8 +34605,8 @@ Common
 
 
 Common
-
 Common
+
 
 
 
@@ -34669,8 +34669,8 @@ Common
 
 
 Proper
-
 Common
+
 Indefinite
 Common
 
@@ -34779,8 +34779,8 @@ Personal
 
 
 Personal
-
 Common
+
 
 Common
 
@@ -34958,11 +34958,11 @@ Personal
 Common
 Demonstrative
 
-Personal
-
 
 
 Proper
+
+Personal
 
 
 
@@ -35064,8 +35064,8 @@ Relative
 
 
 
-
 Relative
+
 
 
 
@@ -35170,8 +35170,8 @@ Personal
 Common
 
 
-Common
 
+Common
 
 
 Common
@@ -35196,8 +35196,8 @@ Personal
 
 
 Personal
-
 Interrogative
+
 
 
 Common
@@ -35275,9 +35275,9 @@ Personal
 
 
 Indefinite
+Personal
 
 Proper
-Personal
 
 
 
@@ -35320,8 +35320,8 @@ Common
 Personal
 
 
-
 Common
+
 
 
 Common
@@ -35353,8 +35353,8 @@ Personal
 
 Personal
 
-
 Demonstrative
+
 
 Common
 
@@ -35407,8 +35407,8 @@ Personal
 
 
 
-
 Interrogative
+
 Personal
 
 
@@ -35441,19 +35441,19 @@ Demonstrative
 
 Common
 
-
 Personal
 
+
 Common
 Common
 Personal
 
 Common
-
 
 
 Demonstrative
 
+
 Common
 
 Personal
@@ -35466,11 +35466,11 @@ Personal
 
 Common
 Personal
-
 
 
 Demonstrative
 
+
 Relative
 
 
@@ -35483,10 +35483,10 @@ Common
 
 Common
 Personal
-
 
 
 Demonstrative
+
 Common
 
 
@@ -35500,7 +35500,6 @@ Personal
 
 Common
 Personal
-
 
 
 
@@ -35513,6 +35512,7 @@ Relative
 
 
 
+
 Personal
 
 Personal
@@ -35566,9 +35566,9 @@ Common
 Common
 
 
-Personal
 
 
+Personal
 
 Common
 Indefinite
@@ -35704,9 +35704,9 @@ Personal
 Common
 Personal
 Interrogative
-
 Demonstrative
 
+
 Common
 
 
@@ -35885,18 +35885,18 @@ Relative
 
 
 
+Relative
 
 
-Relative
 
 
 Personal
-
 
 Relative
 
 
 
+
 Relative
 
 
@@ -35934,8 +35934,8 @@ Personal
 
 
 
-Personal
 
+Personal
 
 
 
@@ -36036,8 +36036,8 @@ Personal
 
 
 Personal
-
 Interrogative
+
 Demonstrative
 
 
@@ -36046,8 +36046,8 @@ Demonstrative
 Common
 
 
-Common
 
+Common
 
 
 Personal
@@ -36064,8 +36064,8 @@ Relative
 
 Proper
 
-Personal
 
+Personal
 
 
 Common
@@ -36204,8 +36204,8 @@ Demonstrative
 Personal
 
 
-Common
 
+Common
 
 
 Common
@@ -36282,6 +36282,7 @@ Personal
 
 
 
+Personal
 
 
 Common
@@ -36289,18 +36290,17 @@ Common
 
 
 
-Personal
 
 
 Personal
 
 Common
-
 
 
 Personal
 
 
+
 Common
 
 
@@ -36389,10 +36389,10 @@ Personal
 Common
 
 
-Common
+Personal
 
+Common
 
-Personal
 
 Personal
 
@@ -36464,17 +36464,17 @@ Proper
 
 Personal
 Indefinite
-
 Personal
 
+
 Common
 
 
 Personal
 
 
-Common
 
+Common
 
 
 
@@ -36584,13 +36584,13 @@ Personal
 
 
 Personal
-
 
 
 
 Personal
 
 
+
 Common
 Personal
 
@@ -36671,13 +36671,12 @@ Common
 
 
 Common
-
 
 
 
 Relative
-Common
 
+Common
 
 
 
@@ -36688,6 +36687,7 @@ Common
 Relative
 
 
+
 Personal
 
 
@@ -36732,13 +36732,13 @@ Common
 Indefinite
 
 Proper
-
 
 
 
 
 Indefinite
 
+
 Proper
 
 
@@ -36754,10 +36754,10 @@ Indefinite
 Proper
 Proper
 Personal
-
 
 Interrogative
 
+
 Demonstrative
 
 Relative
@@ -36803,9 +36803,9 @@ Common
 Common
 
 
-Common
 Common
 
+Common
 
 
 
@@ -36871,7 +36871,6 @@ Personal
 Common
 Demonstrative
 Common
-
 
 
 
@@ -36880,6 +36879,7 @@ Common
 
 
 
+
 Common
 Personal
 
@@ -36930,7 +36930,6 @@ Common
 Personal
 Common
 Common
-
 
 
 
@@ -36941,6 +36940,7 @@ Personal
 
 
 
+
 Personal
 
 Common
@@ -36950,7 +36950,6 @@ Personal
 
 Interrogative
 Personal
-
 
 Common
 
@@ -36958,6 +36957,7 @@ Common
 
 
 
+
 Proper
 
 Common
@@ -36975,17 +36975,17 @@ Indefinite
 
 
 Personal
-
 Personal
+
 Interrogative
 Personal
-
 
 
 Proper
 
 
 
+
 Proper
 
 Common
@@ -37044,9 +37044,9 @@ Common
 
 
 Personal
+Relative
 
 
-Relative
 
 
 Common
@@ -37054,9 +37054,9 @@ Personal
 
 
 Personal
+Relative
 
 
-Relative
 
 
 Common
@@ -37066,23 +37066,23 @@ Personal
 Demonstrative
 
 Personal
-
 Interrogative
 
+
 Common
 
 
 Common
-
 
 Personal
 
 
 
 
-
 Relative
+
 
+
 Personal
 
 
@@ -37189,8 +37189,8 @@ Personal
 Relative
 
 
-Proper
 
+Proper
 
 
 Proper
@@ -37249,9 +37249,9 @@ Proper
 
 
 Relative
-
 
 Demonstrative
+
 Personal
 
 
@@ -37484,17 +37484,17 @@ Personal
 
 Common
 Demonstrative
-
 
 
-Personal
 Common
 
+Personal
 
 Interrogative
-Personal
+
 
 
+Personal
 
 
 Proper
@@ -37513,9 +37513,9 @@ Personal
 
 
 Personal
-
 Relative
 
+
 Demonstrative
 
 Common
@@ -37524,10 +37524,10 @@ Common
 Common
 Personal
 Personal
-
 
 
 Relative
+
 Personal
 
 
@@ -37571,13 +37571,13 @@ Personal
 
 Personal
 Proper
-
 
 
 Relative
 
 
 
+
 Personal
 
 Personal
@@ -37723,12 +37723,12 @@ Personal
 
 
 Personal
-
 
 Personal
 
 
 
+
 Common
 
 Common
@@ -37843,15 +37843,15 @@ Common
 
 
 Common
+
 
+Relative
 
 
 
-Relative
 Common
 
 
-
 Common
 
 Common
@@ -37873,11 +37873,11 @@ Personal
 
 
 Personal
-
 
 
 Personal
 
+
 Common
 
 
@@ -37899,10 +37899,10 @@ Personal
 Common
 
 Common
-
 
 
 Relative
+
 Common
 
 
@@ -37929,9 +37929,9 @@ Common
 
 Common
 
+Relative
 
 
-Relative
 Common
 
 
@@ -38021,9 +38021,9 @@ Common
 
 Personal
 
+Personal
 Proper
 
-Personal
 
 Common
 
@@ -38190,7 +38190,6 @@ Common
 
 
 Common
-
 
 Relative
 
@@ -38201,6 +38200,7 @@ Common
 
 
 
+
 Common
 
 
@@ -38342,13 +38342,13 @@ Relative
 Personal
 
 Common
-
 
 
 
 
 
 Common
+
 Common
 Indefinite
 
@@ -38367,12 +38367,12 @@ Proper
 
 
 Common
-
 
 
 
 
 Proper
+
 Indefinite
 
 
@@ -38420,24 +38420,24 @@ Common
 
 Personal
 
+Relative
 Indefinite
 
-Relative
 
 Personal
-
 
 
-Personal
 
 Personal
 
 Personal
 Interrogative
 Demonstrative
+
 
 
 
+Personal
 
 
 
@@ -38473,8 +38473,8 @@ Personal
 
 Common
 Indefinite
-
 Common
+
 Indefinite
 Common
 Proper
@@ -38537,28 +38537,27 @@ Personal
 Common
 Proper
 Proper
-
 
 
 
 
 
 
-Common
 
 
+Common
 
 
 Proper
 
 
+
 Common
 
 Relative
 
 
 Personal
-
 
 
 
@@ -38571,6 +38570,7 @@ Indefinite
 
 
 
+
 Indefinite
 
 Common
@@ -38732,7 +38732,6 @@ Personal
 
 
 Personal
-
 
 
 
@@ -38748,6 +38747,7 @@ Personal
 
 Interrogative
 
+
 Personal
 
 Common
@@ -38813,9 +38813,9 @@ Common
 
 
 Common
-
 Indefinite
 
+
 Personal
 
 
@@ -38836,9 +38836,9 @@ Common
 
 
 Personal
-
 Personal
 
+
 Personal
 
 Common
@@ -39023,9 +39023,9 @@ Demonstrative
 Personal
 Demonstrative
 
-Common
 Indefinite
 Common
+Common
 
 
 Common
@@ -39041,8 +39041,8 @@ Personal
 Common
 Relative
 
-
 Personal
+
 
 
 
@@ -39330,9 +39330,9 @@ Common
 Common
 
 Common
+Demonstrative
 
 
-Demonstrative
 
 
 
@@ -39433,12 +39433,12 @@ Common
 Common
 Personal
 
-
 Personal
 
-Personal
 
 Personal
+Personal
+
 
 
 Demonstrative
@@ -39678,8 +39678,8 @@ Common
 
 Personal
 
-
 Relative
+
 
 
 Personal
@@ -39832,8 +39832,8 @@ Common
 Indefinite
 
 
-Common
 
+Common
 
 
 
@@ -39902,8 +39902,8 @@ Personal
 
 
 Personal
-
 Relative
+
 
 Interrogative
 
@@ -39974,8 +39974,8 @@ Personal
 
 
 
-
 Interrogative
+
 
 Personal
 
@@ -40051,16 +40051,16 @@ Interrogative
 
 
 
-
 Demonstrative
 
 
-Common
 
 Common
 
+Common
 
 Personal
+
 
 Common
 
@@ -40162,8 +40162,8 @@ Demonstrative
 Relative
 
 
-
 Common
+
 
 
 
@@ -40193,8 +40193,8 @@ Common
 
 
 Demonstrative
-
 Demonstrative
+
 
 
 
@@ -40246,8 +40246,8 @@ Demonstrative
 
 
 Common
-
 Interrogative
+
 
 
 
@@ -40275,10 +40275,10 @@ Demonstrative
 Relative
 
 
-
-
 Common
 Personal
+
+
 
 
 
@@ -40348,8 +40348,8 @@ Personal
 
 
 
-
 Demonstrative
+
 
 Common
 
@@ -40396,8 +40396,8 @@ Relative
 
 
 Personal
-
 Common
+
 
 
 
@@ -40408,7 +40408,6 @@ Interrogative
 
 
 
-
 Common
 
 
@@ -40416,19 +40415,20 @@ Common
 
 
 
-Relative
 
+Relative
 
 
 
 Common
+
 
 
 
 Common
 
-Personal
 
+Personal
 
 
 Common
@@ -40440,8 +40440,8 @@ Common
 
 
 
-
 Common
+
 
 
 
@@ -40515,14 +40515,14 @@ Common
 
 
 
-
 Common
-Demonstrative
 
+Demonstrative
 
 
 
 Interrogative
+
 
 
 Personal
@@ -40763,8 +40763,8 @@ Common
 
 Common
 Common
-Common
 
+Common
 Common
 
 
@@ -40827,8 +40827,8 @@ Relative
 
 
 
-
 Personal
+
 
 
 
@@ -40846,10 +40846,10 @@ Common
 
 Common
 
-
 Personal
 
 Common
+
 
 
 Common
@@ -40860,12 +40860,11 @@ Common
 
 
 Common
-
-
 
 
 
 Demonstrative
+
 Common
 Proper
 
@@ -40873,10 +40872,13 @@ Relative
 
 
 Proper
+
 
 
 
 Common
+
+
 
 
 
@@ -40887,8 +40889,6 @@ Common
 
 Common
 
-
-
 Demonstrative
 
 Personal
@@ -41007,10 +41007,9 @@ Personal
 
 Common
 
-
-Personal
 
 
+Personal
 
 
 
@@ -41018,6 +41017,7 @@ Personal
 
 
 Relative
+
 
 
 Common
@@ -41099,13 +41099,13 @@ Common
 Common
 
 Common
-
 Personal
 
 
 
 
 
+
 Common
 
 Common
@@ -41482,8 +41482,8 @@ Common
 
 
 
-Indefinite
 
+Indefinite
 
 
 Demonstrative
@@ -41723,9 +41723,8 @@ Personal
 
 Personal
 Common
-
-
 Interrogative
+
 
 Personal
 
@@ -41735,6 +41734,7 @@ Common
 
 
 
+
 Common
 
 
@@ -41761,7 +41761,6 @@ Personal
 Demonstrative
 
 Common
-
 
 
 
@@ -41785,6 +41784,7 @@ Common
 
 
 
+
 Common
 
 
@@ -41851,7 +41851,6 @@ Personal
 
 
 Common
-
 
 
 
@@ -41859,6 +41858,7 @@ Common
 Personal
 
 
+
 Common
 
 
@@ -41967,9 +41967,9 @@ Common
 
 Relative
 
-Common
 Common
 
+Common
 
 Interrogative
 Common
@@ -42123,11 +42123,11 @@ Common
 
 
 Personal
-
 
 Personal
 
 
+
 Interrogative
 
 
@@ -42135,8 +42135,8 @@ Common
 Personal
 
 Common
-
 Personal
+
 Common
 
 
@@ -42296,10 +42296,10 @@ Common
 
 
 Common
-
 
 Interrogative
 
+
 Demonstrative
 
 
@@ -42527,7 +42527,6 @@ Personal
 Personal
 
 Common
-
 
 
 
@@ -42537,6 +42536,7 @@ Common
 
 
 Personal
+
 Interrogative
 
 
@@ -42765,10 +42765,10 @@ Personal
 
 
 Common
-
 
 
 Common
+
 Indefinite
 
 
@@ -42901,7 +42901,6 @@ Common
 Personal
 
 Proper
-
 
 
 
@@ -42914,6 +42913,7 @@ Personal
 
 
 
+
 Demonstrative
 
 Personal
@@ -42935,12 +42935,12 @@ Personal
 
 
 Personal
-
 
 
 
 
 Personal
+
 Common
 
 
@@ -43116,15 +43116,15 @@ Common
 
 
 Personal
-
 Interrogative
 
-Personal
 
+Personal
 Common
 
 
 
+
 Relative
 
 
@@ -43449,7 +43449,6 @@ Common
 
 Common
 Proper
-
 
 
 
@@ -43457,6 +43456,7 @@ Proper
 
 
 Relative
+
 Common
 
 Proper
@@ -43516,20 +43516,20 @@ Common
 
 Common
 Proper
-
 Relative
 
 
+
 Common
 Personal
 
 
 Personal
-
 
 Relative
 
 
+
 Personal
 
 Personal
@@ -43630,11 +43630,11 @@ Personal
 
 
 Common
-
 
 Demonstrative
 
 
+
 Personal
 
 
@@ -43676,9 +43676,9 @@ Common
 
 
 
+Common
 
 
-Common
 
 
 Common
@@ -43876,11 +43876,11 @@ Common
 
 
 Personal
-
 Relative
 
 
 
+
 Common
 
 Common
@@ -43894,8 +43894,8 @@ Personal
 
 
 Indefinite
-Common
 Personal
+Common
 
 Common
 
@@ -44196,13 +44196,13 @@ Personal
 
 
 Personal
-
 
 
 Personal
 
 
 
+
 Common
 Proper
 
@@ -44331,9 +44331,9 @@ Proper
 
 
 Common
-Personal
 Personal
 
+Personal
 
 
 
@@ -44359,7 +44359,6 @@ Proper
 
 
 
-Common
 Common
 
 
@@ -44367,6 +44366,7 @@ Common
 Personal
 
 
+Common
 
 
 
@@ -44515,8 +44515,8 @@ Common
 Common
 Personal
 
-Common
 
+Common
 
 
 Personal
@@ -44539,10 +44539,10 @@ Common
 
 
 
-Common
 
 Common
 Personal
+Common
 
 
 Common
@@ -44554,8 +44554,8 @@ Demonstrative
 Personal
 
 
-Common
 
+Common
 
 
 
@@ -44600,10 +44600,10 @@ Common
 
 
 Personal
-
 Common
 
 
+
 Relative
 
 
@@ -44622,11 +44622,11 @@ Personal
 Common
 
 Common
-
 Personal
 
 
 Common
+
 Personal
 
 
@@ -44721,15 +44721,15 @@ Common
 Common
 
 Relative
-
 
 
 Common
 
+
 Relative
 
-Common
 
+Common
 
 
 
@@ -44844,8 +44844,8 @@ Common
 
 
 Common
-Common
 
+Common
 Common
 
 Common
@@ -44972,8 +44972,8 @@ Common
 Personal
 Common
 Common
-
 Personal
+
 Personal
 
 Common
@@ -45008,8 +45008,8 @@ Common
 Interrogative
 
 
-
 Common
+
 
 
 Personal
@@ -45177,8 +45177,8 @@ Personal
 
 
 
-Common
 
+Common
 
 
 
@@ -45241,8 +45241,8 @@ Personal
 
 Common
 
-
 Interrogative
+
 
 Personal
 
@@ -45270,8 +45270,8 @@ Common
 
 Personal
 
-
 Interrogative
+
 
 
 
@@ -45295,9 +45295,9 @@ Demonstrative
 Common
 
 
+Relative
 
 
-Relative
 
 
 Personal
@@ -45393,8 +45393,8 @@ Personal
 
 Personal
 Common
-
 Interrogative
+
 Common
 
 Common
@@ -45509,15 +45509,15 @@ Common
 Common
 
 
-
 Common
+
 
 
 Common
 Interrogative
 Personal
-Common
 
+Common
 
 
 
@@ -45564,8 +45564,8 @@ Common
 
 
 Common
-Common
 
+Common
 
 Common
 Common
@@ -45593,8 +45593,8 @@ Proper
 
 Common
 Proper
-
 Common
+
 
 
 
@@ -45630,8 +45630,8 @@ Proper
 
 Proper
 Common
-
 Personal
+
 Proper
 
 
@@ -45656,8 +45656,8 @@ Common
 
 Common
 Personal
-
 Proper
+
 Personal
 Common
 
@@ -45759,8 +45759,8 @@ Personal
 
 
 Common
-
 Demonstrative
+
 
 
 Common
@@ -45793,8 +45793,8 @@ Common
 Relative
 
 
-
 Common
+
 Common
 Relative
 
@@ -45869,8 +45869,8 @@ Common
 Common
 
 Common
-
 Common
+
 
 
 
@@ -45879,8 +45879,8 @@ Common
 
 Common
 
-
 Common
+
 
 
 Common
@@ -45927,8 +45927,8 @@ Personal
 
 
 
-
 Personal
+
 
 Personal
 Common
@@ -46272,8 +46272,8 @@ Common
 
 
 
-
 Common
+
 
 
 
@@ -46571,16 +46571,16 @@ Common
 
 
 
-
+Demonstrative
 
 Common
 
 
 Common
-Personal
-Demonstrative
 
+
 Common
+Personal
 
 
 Personal
@@ -46599,8 +46599,8 @@ Personal
 Common
 
 
-
 Common
+
 
 Common
 
@@ -46622,8 +46622,8 @@ Personal
 
 Personal
 
-
 Interrogative
+
 
 
 Personal
@@ -46634,9 +46634,9 @@ Demonstrative
 
 
 
-Personal
-
 Common
+
+Personal
 
 Interrogative
 Personal
@@ -46659,7 +46659,6 @@ Personal
 Personal
 Common
 
-
 Personal
 
 
@@ -46667,8 +46666,8 @@ Personal
 
 
 
-Personal
 
+Personal
 
 
 
@@ -46693,13 +46692,14 @@ Interrogative
 Personal
 
 
-Personal
 
+Personal
 
 
 
 
 Personal
+
 
 
 
@@ -46739,8 +46739,8 @@ Common
 
 Common
 
-Proper
 
+Proper
 Proper
 Proper
 
@@ -46753,8 +46753,8 @@ Personal
 
 
 Common
-
 Personal
+
 
 
 Personal
@@ -46850,22 +46850,22 @@ Common
 
 Personal
 
-
 Demonstrative
 
 
 
 
 
+Personal
 
 
 
 
-Personal
 
 
 
 
+
 Personal
 Common
 
@@ -47017,9 +47017,9 @@ Personal
 Proper
 
 Personal
-
 Proper
 
+
 Personal
 Proper
 Common
@@ -47031,8 +47031,8 @@ Common
 
 
 
-Personal
 
+Personal
 
 
 
@@ -47152,10 +47152,10 @@ Proper
 
 Personal
 
-Common
-Indefinite
 
 Personal
+Common
+Indefinite
 
 
 
@@ -47299,9 +47299,9 @@ Common
 Common
 
 Common
-
 Common
 
+
 Common
 
 
@@ -47323,7 +47323,6 @@ Personal
 Personal
 
 Personal
-
 
 
 
@@ -47346,16 +47345,17 @@ Common
 
 
 
-Common
 
 Common
 
+Common
 
 
 
 Personal
 
 
+
 Common
 
 Common
@@ -47377,11 +47377,11 @@ Interrogative
 
 Common
 Common
-
 Personal
 
 
 
+
 Common
 Personal
 
@@ -47399,11 +47399,11 @@ Proper
 
 
 Personal
-
 
 Demonstrative
 
 
+
 Common
 Personal
 
@@ -47471,7 +47471,6 @@ Proper
 
 
 Proper
-
 
 
 Proper
@@ -47479,6 +47478,7 @@ Proper
 
 
 
+
 Common
 
 
@@ -47509,7 +47509,6 @@ Proper
 
 
 Proper
-
 
 
 
@@ -47518,18 +47517,19 @@ Proper
 
 Common
 
+
 Personal
 
 
 
 
 Personal
-
 
 
 Indefinite
 Common
 
+
 Personal
 
 
@@ -47537,11 +47537,11 @@ Personal
 Personal
 
 Common
-
 
 Personal
 
 
+
 Personal
 
 
@@ -47553,11 +47553,11 @@ Common
 
 
 Personal
-
 
-Proper
 
 Personal
+
+Proper
 
 
 Common
@@ -47593,10 +47593,10 @@ Common
 
 
 Personal
-
 Proper
 
 
+
 Common
 
 
@@ -47665,7 +47665,6 @@ Personal
 
 Proper
 Relative
-
 
 
 Common
@@ -47678,6 +47677,7 @@ Common
 Common
 
 
+
 Common
 
 
@@ -47702,10 +47702,10 @@ Personal
 
 
 Personal
-
 Interrogative
 
 
+
 Demonstrative
 
 
@@ -47877,7 +47877,6 @@ Common
 
 
 Personal
-
 
 
 
@@ -47890,6 +47889,7 @@ Relative
 
 
 
+
 Proper
 
 Common
@@ -47996,15 +47996,14 @@ Common
 
 
 Common
-
 
 
 Personal
 
 
 
-Relative
 
+Relative
 
 
 Demonstrative
@@ -48013,6 +48012,7 @@ Demonstrative
 
 
 
+
 Proper
 
 Personal
@@ -48076,14 +48076,14 @@ Personal
 
 Common
 Personal
-
 Demonstrative
 
 
 
 
-Common
+
 
+Common
 
 
 
@@ -48100,11 +48100,11 @@ Demonstrative
 
 
 
+Common
 
 
 Common
 Demonstrative
-Common
 
 
 
@@ -48117,9 +48117,9 @@ Common
 
 
 
+Personal
 
 
-Personal
 
 Common
 
@@ -48135,8 +48135,8 @@ Demonstrative
 Common
 Common
 Proper
-
 Common
+
 Common
 
 
@@ -48189,9 +48189,9 @@ Common
 
 
 
-Common
 Common
 
+Common
 
 Common
 
@@ -48313,15 +48313,15 @@ Personal
 
 
 Proper
-
 
 
-
 Common
 
 Common
+
 
 
+
 Common
 Common
 
@@ -48543,10 +48543,10 @@ Common
 
 
 Personal
-
 Personal
 
 
+
 Personal
 
 
@@ -48613,12 +48613,12 @@ Common
 
 
 Common
-
 
 Personal
 
 
 
+
 Personal
 
 
@@ -48638,8 +48638,8 @@ Relative
 
 Common
 
-
 Demonstrative
+
 
 
 Proper
@@ -48717,11 +48717,11 @@ Common
 
 
 Personal
-
 Personal
 
-Common
 
+
+Common
 
 
 Personal
@@ -48796,8 +48796,8 @@ Personal
 Common
 
 Common
-
 Demonstrative
+
 Personal
 
 Personal
@@ -48986,8 +48986,8 @@ Common
 Personal
 
 Personal
-
 Personal
+
 
 
 
@@ -49141,6 +49141,7 @@ Common
 
 Common
 
+
 Common
 
 
@@ -49148,7 +49149,6 @@ Relative
 
 
 Common
-
 
 
 
@@ -49179,16 +49179,16 @@ Personal
 Personal
 
 
-
 Relative
+
 
 Personal
 
+Personal
 Common
 Common
 Common
 
-Personal
 
 
 
@@ -49338,8 +49338,8 @@ Proper
 
 
 Personal
-
 Interrogative
+
 Personal
 Proper
 
@@ -49397,8 +49397,8 @@ Personal
 
 
 Personal
-
 Interrogative
+
 
 
 Personal
@@ -49453,8 +49453,8 @@ Proper
 
 
 
-
 Proper
+
 
 
 
@@ -49542,8 +49542,8 @@ Demonstrative
 Personal
 
 
-
 Relative
+
 
 
 Common
@@ -49606,8 +49606,8 @@ Personal
 Proper
 
 
-Proper
 
+Proper
 
 
 Personal
@@ -49766,8 +49766,8 @@ Proper
 
 Proper
 
-
 Indefinite
+
 
 
 Personal
@@ -49815,8 +49815,8 @@ Proper
 
 
 Common
-Personal
 
+Personal
 
 Personal
 Proper
@@ -49830,8 +49830,8 @@ Common
 Personal
 Common
 
-Proper
 
+Proper
 
 Proper
 
@@ -49938,9 +49938,9 @@ Common
 Personal
 
 Common
+Relative
 Indefinite
 
-Relative
 
 Personal
 
@@ -49948,12 +49948,12 @@ Personal
 
 
 
-
 Common
 
 
 
 Common
+
 
 
 
@@ -50003,8 +50003,8 @@ Common
 
 
 
-
 Common
+
 
 
 
@@ -50037,10 +50037,10 @@ Common
 
 
 Demonstrative
-Common
 
 Common
 
+Common
 
 Proper
 
@@ -50131,8 +50131,8 @@ Common
 
 Common
 
-Common
 
+Common
 
 
 Common
@@ -50217,8 +50217,8 @@ Personal
 Common
 
 Personal
-
 Demonstrative
+
 
 
 
@@ -50273,8 +50273,8 @@ Personal
 Common
 Relative
 
-
 Personal
+
 Proper
 
 
@@ -50296,8 +50296,8 @@ Indefinite
 
 
 Common
-
 Personal
+
 
 Interrogative
 
@@ -50310,12 +50310,12 @@ Common
 
 
 Proper
-Common
-
-
 Proper
 Common
 Personal
+Common
+
+
 Demonstrative
 
 
@@ -50337,9 +50337,9 @@ Common
 Demonstrative
 
 Common
+
 Relative
 Personal
-
 
 
 
@@ -50631,8 +50631,8 @@ Common
 Common
 
 Common
-
 Demonstrative
+
 
 
 Common
@@ -50655,8 +50655,8 @@ Common
 Common
 
 
-
 Personal
+
 
 Common
 
@@ -50721,8 +50721,8 @@ Personal
 
 
 
-
 Proper
+
 
 Proper
 
@@ -50840,18 +50840,18 @@ Common
 Common
 
 Common
-
 Demonstrative
+
 
 Common
 
 Possessive
 
-
 Demonstrative
 
 
 Personal
+
 
 
 
@@ -50904,8 +50904,8 @@ Common
 Common
 
 
-
 Relative
+
 
 
 Common
@@ -51078,10 +51078,10 @@ Personal
 
 
 Personal
-Common
-Proper
 
 
+Common
+Proper
 
 
 
@@ -51108,8 +51108,8 @@ Personal
 
 Personal
 
-
 Personal
+
 
 Personal
 
@@ -51176,9 +51176,9 @@ Common
 Demonstrative
 
 
+Relative
 
 
-Relative
 
 
 
@@ -51259,8 +51259,8 @@ Common
 Common
 
 
-Relative
 
+Relative
 
 
 
@@ -51384,8 +51384,8 @@ Common
 Proper
 
 
-Proper
 
+Proper
 
 
 Demonstrative
@@ -51399,8 +51399,8 @@ Proper
 Personal
 
 
-Personal
 
+Personal
 
 
 Demonstrative
@@ -51600,10 +51600,10 @@ Common
 Demonstrative
 
 
-Proper
-
 
 Personal
+
+Proper
 
 
 Common
@@ -51652,8 +51652,8 @@ Common
 Possessive
 Common
 
-
 Personal
+
 
 
 
@@ -51675,8 +51675,8 @@ Common
 
 
 Proper
-
 Personal
+
 Proper
 
 
@@ -51708,8 +51708,8 @@ Proper
 
 Common
 
-
 Personal
+
 
 
 
@@ -51872,9 +51872,9 @@ Personal
 Common
 Personal
 
+Demonstrative
 
 
-Demonstrative
 
 Common
 
@@ -51928,8 +51928,8 @@ Common
 
 Common
 Common
-
 Common
+
 
 Common
 
@@ -51969,9 +51969,10 @@ Common
 
 Common
 Personal
+Demonstrative
+
 
 Proper
-Demonstrative
 
 
 
@@ -51979,7 +51980,6 @@ Demonstrative
 
 
 Common
-
 
 
 Personal
@@ -52005,8 +52005,8 @@ Personal
 
 Common
 
-
 Relative
+
 
 Personal
 
@@ -52124,8 +52124,8 @@ Personal
 
 
 
-Indefinite
 Personal
+Indefinite
 
 
 
@@ -52167,8 +52167,8 @@ Personal
 Personal
 
 
-
 Demonstrative
+
 
 
 Personal
@@ -52214,14 +52214,14 @@ Personal
 
 
 
-
 Indefinite
+
 
 Common
 
+Relative
 
 
-Relative
 Demonstrative
 
 Demonstrative
@@ -52238,17 +52238,17 @@ Common
 Common
 
 
-Personal
 
+Personal
 Relative
 Personal
 
 
 
 Demonstrative
-Common
 
 Personal
+Common
 
 Personal
 
@@ -52483,8 +52483,8 @@ Proper
 
 
 Common
-
 Personal
+
 
 
 Common
@@ -52505,8 +52505,8 @@ Common
 
 
 
-
 Personal
+
 
 
 
@@ -52515,8 +52515,8 @@ Common
 
 Common
 Personal
-
 Personal
+
 
 
 Common
@@ -52564,14 +52564,14 @@ Personal
 
 Common
 Personal
-
-
 
 
 
 Common
 Personal
 
+
+
 Personal
 
 
@@ -52757,12 +52757,12 @@ Common
 
 
 
-
-Proper
 
 
 Common
 
+Proper
+
 
 
 
@@ -52779,14 +52779,14 @@ Common
 
 
 Demonstrative
-
 Demonstrative
 
 
-Personal
 
+Personal
 Personal
 
+
 Interrogative
 
 
@@ -52925,6 +52925,7 @@ Common
 
 
 Common
+Proper
 
 
 
@@ -52941,7 +52942,6 @@ Common
 
 
 Common
-Proper
 Personal
 
 
@@ -53069,8 +53069,8 @@ Common
 Personal
 
 
-Common
 
+Common
 
 Proper
 
@@ -53165,14 +53165,14 @@ Common
 
 Common
 Personal
-
 
 Demonstrative
 
-Common
 
 Common
+
 
+Common
 
 
 
@@ -53205,11 +53205,11 @@ Demonstrative
 
 
 Personal
-
 Interrogative
-Common
+
 
 Personal
+Common
 
 
 
@@ -53366,10 +53366,10 @@ Common
 
 
 Personal
-
 Demonstrative
 
 
+
 Common
 
 
@@ -53390,10 +53390,10 @@ Personal
 
 
 Common
-
 Demonstrative
 
 
+
 Common
 
 Common
@@ -53594,10 +53594,10 @@ Common
 
 
 Common
-
 
 
 Common
+
 Relative
 Personal
 
@@ -53677,15 +53677,15 @@ Common
 Common
 Personal
 
-Common
 
+Common
 
 
 Common
 Personal
 
-Common
 
+Common
 
 
 Personal
@@ -53752,6 +53752,7 @@ Common
 
 
 Proper
+
 
 
 
@@ -53762,7 +53763,6 @@ Personal
 
 
 
-
 Common
 Demonstrative
 Interrogative
@@ -53771,8 +53771,8 @@ Personal
 
 
 
-Proper
 
+Proper
 
 Personal
 
@@ -53937,10 +53937,10 @@ Personal
 Proper
 Proper
 Proper
-
 Demonstrative
 
 
+
 Personal
 
 
@@ -54054,10 +54054,10 @@ Common
 Common
 
 Personal
-
 Personal
 
 
+
 Personal
 
 
@@ -54084,11 +54084,11 @@ Demonstrative
 
 Possessive
 Common
-
 
 
 Demonstrative
 
+
 Personal
 
 
@@ -54438,13 +54438,13 @@ Common
 
 Common
 Personal
-
 
 
 Common
 
 
 
+
 Personal
 
 
@@ -54504,7 +54504,6 @@ Personal
 
 
 Personal
-
 Personal
 
 
@@ -54513,17 +54512,17 @@ Personal
 
 
 
-Personal
 
+Personal
 
 Demonstrative
 
 
+
 Personal
 
 
 Personal
-
 
 
 
@@ -54534,6 +54533,7 @@ Proper
 
 
 
+
 Proper
 Interrogative
 
@@ -54551,7 +54551,6 @@ Personal
 
 
 Personal
-
 Personal
 
 
@@ -54559,6 +54558,7 @@ Personal
 
 
 
+
 Common
 
 
@@ -54585,20 +54585,20 @@ Personal
 
 
 
-Common
 Common
 Common
 
 
-
 Common
 Personal
 
+Common
 
 Demonstrative
 
 
 
+
 Common
 Relative
 
@@ -54613,7 +54613,6 @@ Personal
 Common
 
 Proper
-
 
 
 
@@ -54621,6 +54620,7 @@ Proper
 Common
 
 
+
 Common
 Demonstrative
 
@@ -54666,19 +54666,19 @@ Proper
 
 
 Proper
-
 Common
 
 
 
+
 Common
 
 Personal
-
 Indefinite
 
-Personal
+
 
+Personal
 
 Personal
 
@@ -54716,8 +54716,8 @@ Common
 
 Demonstrative
 
-Common
 
+Common
 
 
 Personal
@@ -54751,9 +54751,9 @@ Common
 
 
 
+Proper
 
 Personal
-Proper
 
 
 
@@ -54808,15 +54808,14 @@ Common
 
 Common
 Personal
-
 Proper
 
 
 
-Common
 
 Common
 
+Common
 Common
 
 
@@ -54826,6 +54825,7 @@ Common
 
 
 
+
 Common
 
 
@@ -54870,15 +54870,15 @@ Personal
 
 
 Demonstrative
-
 
 Personal
-Interrogative
 
+Interrogative
 
 Demonstrative
 
 
+
 Personal
 
 
@@ -54952,8 +54952,8 @@ Common
 
 
 
-Proper
 
+Proper
 
 
 
@@ -55049,7 +55049,6 @@ Personal
 
 Common
 Personal
-
 
 
 
@@ -55065,6 +55064,7 @@ Personal
 
 
 
+
 Personal
 
 
@@ -55095,7 +55095,6 @@ Personal
 
 
 Personal
-
 
 
 
@@ -55105,6 +55104,7 @@ Common
 
 
 
+
 Common
 
 Common
@@ -55143,13 +55143,13 @@ Common
 Personal
 
 Personal
-
 
 
 
 Common
 Personal
 
+
 Demonstrative
 
 Common
@@ -55188,7 +55188,6 @@ Personal
 
 
 Personal
-
 
 Personal
 
@@ -55199,18 +55198,19 @@ Personal
 
 
 
+
 Personal
 
 
 
 Personal
-
 
 Personal
 
 
 
 
+
 Personal
 Personal
 
@@ -55266,10 +55266,10 @@ Interrogative
 Personal
 
 Proper
-Indefinite
-Relative
 
 Common
+Relative
+Indefinite
 
 
 Personal
@@ -55286,8 +55286,8 @@ Personal
 Personal
 
 
-Relative
 Personal
+Relative
 
 
 Personal
@@ -55416,9 +55416,9 @@ Personal
 
 
 Common
-
 Common
 
+
 Common
 
 
@@ -55470,10 +55470,10 @@ Personal
 
 
 Common
-
 
 
 Personal
+
 Relative
 
 
@@ -55502,12 +55502,12 @@ Proper
 Common
 
 Proper
-
 
 
 
 
 Personal
+
 Common
 Relative
 
@@ -55540,8 +55540,8 @@ Common
 
 Common
 
-Common
 
+Common
 
 Personal
 
@@ -55555,10 +55555,10 @@ Personal
 
 
 Personal
-
 Personal
 
 
+
 Common
 
 
@@ -55635,10 +55635,10 @@ Common
 
 Common
 Personal
-
 Personal
 
 
+
 Common
 
 
@@ -55713,11 +55713,11 @@ Personal
 Personal
 
 Personal
-
 Personal
 
 
 
+
 Common
 Personal
 
@@ -55818,9 +55818,9 @@ Personal
 
 
 Personal
-
 Personal
 
+
 Personal
 
 
@@ -55887,7 +55887,6 @@ Common
 
 
 Personal
-
 Proper
 
 
@@ -55898,6 +55897,7 @@ Proper
 
 
 
+
 Common
 
 
@@ -55938,10 +55938,10 @@ Common
 Common
 
 Personal
-
 Personal
 
 
+
 Common
 
 
@@ -55959,10 +55959,10 @@ Common
 
 
 Common
-
 
 Common
 
+
 Common
 Demonstrative
 
@@ -56090,10 +56090,10 @@ Demonstrative
 Personal
 
 
+Proper
 
 
 
-Proper
 
 
 Common
@@ -56124,10 +56124,10 @@ Proper
 
 Personal
 Common
-
 
 Personal
 
+
 Common
 
 
@@ -56141,9 +56141,9 @@ Proper
 Indefinite
 
 
+Demonstrative
 
 Common
-Demonstrative
 
 Common
 
@@ -56375,14 +56375,14 @@ Personal
 
 Personal
 Common
-Demonstrative
 
-
+Demonstrative
 Personal
 
+
 Proper
-Common
 
+Common
 Personal
 
 
@@ -56390,7 +56390,6 @@ Proper
 
 
 Common
-
 Demonstrative
 
 
@@ -56398,17 +56397,18 @@ Demonstrative
 
 
 
+
 Common
 
 
 Personal
-
 
 Demonstrative
 
 
 
 
+
 Personal
 
 
@@ -56550,10 +56550,10 @@ Demonstrative
 
 
 
-Demonstrative
 
 
 Proper
+Demonstrative
 
 
 Personal
@@ -56615,9 +56615,9 @@ Common
 
 
 Common
-
 Common
 
+
 Common
 Demonstrative
 
@@ -56681,8 +56681,8 @@ Common
 Personal
 
 Proper
-
 Demonstrative
+
 
 
 Interrogative
@@ -56726,8 +56726,8 @@ Personal
 
 Common
 
-
 Personal
+
 Indefinite
 
 
@@ -56858,8 +56858,8 @@ Relative
 Common
 Demonstrative
 
-Personal
 
+Personal
 
 
 
@@ -57105,11 +57105,11 @@ Personal
 Proper
 
 Common
-
 
 Personal
 
 
+
 Common
 
 Interrogative
@@ -57244,7 +57244,6 @@ Proper
 
 
 Common
-
 
 
 Proper
@@ -57257,12 +57256,13 @@ Proper
 
 
 
-Personal
 
+Personal
 
 
 
 Proper
+
 Common
 
 
@@ -57481,8 +57481,8 @@ Proper
 
 Common
 Personal
-
 Demonstrative
+
 
 
 
@@ -57536,8 +57536,8 @@ Proper
 
 Personal
 
-Common
 
+Common
 
 
 
@@ -57569,20 +57569,20 @@ Personal
 
 
 Common
-
 
 
-
 Proper
 
 
+
 Proper
 
-Personal
 
+Personal
 Proper
 
 
+
 Common
 
 
@@ -57601,7 +57601,6 @@ Common
 
 Common
 Personal
-
 
 
 
@@ -57609,6 +57608,7 @@ Personal
 Relative
 
 
+
 Common
 
 Personal
@@ -57708,7 +57708,6 @@ Common
 
 
 Personal
-
 Demonstrative
 
 
@@ -57717,6 +57716,7 @@ Demonstrative
 
 
 
+
 Personal
 
 
@@ -57780,8 +57780,8 @@ Proper
 
 Personal
 
-
 Personal
+
 
 Common
 
@@ -57792,14 +57792,14 @@ Common
 
 
 
-
 Personal
 
-Common
 
+Common
 Proper
 
 
+
 Personal
 
 
@@ -57836,9 +57836,9 @@ Proper
 
 
 Personal
-
 Indefinite
 
+
 Personal
 
 
@@ -57854,13 +57854,13 @@ Common
 
 
 Demonstrative
-
 
 
 Proper
 
 
 
+
 Personal
 
 
@@ -57927,8 +57927,8 @@ Personal
 
 
 Personal
-
 Personal
+
 
 
 
@@ -57999,9 +57999,9 @@ Relative
 
 
 Personal
-
 Indefinite
 
+
 Personal
 
 
@@ -58030,8 +58030,8 @@ Demonstrative
 
 Common
 
-Common
 
+Common
 
 
 Personal
@@ -58088,8 +58088,8 @@ Common
 
 Common
 
-
 Demonstrative
+
 
 Personal
 
@@ -58127,8 +58127,8 @@ Common
 
 
 
-
 Demonstrative
+
 
 Common
 
@@ -58360,7 +58360,6 @@ Personal
 
 
 Personal
-
 Personal
 
 
@@ -58368,6 +58367,7 @@ Personal
 
 
 
+
 Common
 
 
@@ -58382,13 +58382,13 @@ Common
 
 
 Proper
-
 
 
 
 
 
 Proper
+
 Relative
 
 
@@ -58405,9 +58405,9 @@ Proper
 
 
 
+Personal
 
 
-Personal
 
 
 
@@ -58456,9 +58456,9 @@ Common
 Proper
 
 
-Common
 
 Proper
+Common
 
 
 Personal
@@ -58496,8 +58496,8 @@ Proper
 Demonstrative
 
 
-
 Personal
+
 
 Demonstrative
 
@@ -58565,9 +58565,9 @@ Indefinite
 
 
 Common
-
 Demonstrative
 
+
 Proper
 
 
@@ -58752,10 +58752,10 @@ Demonstrative
 
 
 Personal
-
 
 Common
 
+
 Common
 Demonstrative
 
@@ -58766,8 +58766,8 @@ Common
 Demonstrative
 
 
-
 Personal
+
 
 
 
@@ -58776,10 +58776,10 @@ Common
 
 
 Personal
-
 Demonstrative
 
 
+
 Interrogative
 Common
 
@@ -58872,9 +58872,9 @@ Proper
 
 
 Personal
+Demonstrative
 
 Personal
-Demonstrative
 Common
 
 
@@ -58980,7 +58980,6 @@ Common
 Common
 
 Common
-
 Proper
 
 
@@ -58988,6 +58987,7 @@ Proper
 
 
 
+
 Personal
 
 
@@ -59026,8 +59026,8 @@ Common
 
 
 Indefinite
-
 Personal
+
 
 Common
 
@@ -59102,8 +59102,8 @@ Personal
 Common
 
 
-
 Relative
+
 Personal
 
 
@@ -59120,8 +59120,8 @@ Common
 
 Common
 
-Proper
 
+Proper
 
 
 Personal
@@ -59225,8 +59225,8 @@ Proper
 Personal
 Common
 Personal
-
 Personal
+
 
 Common
 
@@ -59360,23 +59360,23 @@ Common
 
 Personal
 
-Common
+Personal
 
+Common
 
 Common
 
-Personal
 
 Common
 
 Personal
-
 
 Personal
 
-Common
 
 Common
+Common
+
 
 Personal
 
@@ -59529,8 +59529,8 @@ Personal
 
 Relative
 
-Demonstrative
 
+Demonstrative
 
 
 
@@ -59546,8 +59546,8 @@ Interrogative
 
 
 Proper
-
 Demonstrative
+
 Relative
 Personal
 
@@ -59584,18 +59584,18 @@ Relative
 
 
 
+Demonstrative
 
 
 
 
 
-Demonstrative
 
 Interrogative
 
 Personal
-
 Indefinite
+
 
 
 
@@ -59680,8 +59680,8 @@ Personal
 
 Personal
 
-
 Personal
+
 
 
 
@@ -59727,9 +59727,9 @@ Common
 Proper
 
 
-Personal
 
 
+Personal
 
 
 
@@ -59871,7 +59871,6 @@ Personal
 
 
 Personal
-
 
 
 Common
@@ -59880,6 +59879,7 @@ Personal
 
 
 
+
 Personal
 
 
@@ -60000,9 +60000,9 @@ Personal
 Common
 
 
+Relative
 Indefinite
 
-Relative
 
 
 
@@ -60057,8 +60057,8 @@ Common
 Common
 Relative
 
-
 Common
+
 
 
 
@@ -60093,9 +60093,9 @@ Common
 Personal
 
 
-
 Personal
 
+
 Personal
 
 Personal
@@ -60160,11 +60160,11 @@ Proper
 Common
 
 Interrogative
-
 
 
 Personal
 
+
 Personal
 
 
@@ -60480,8 +60480,8 @@ Personal
 
 Personal
 
-
 Relative
+
 
 
 
@@ -60535,8 +60535,8 @@ Common
 
 
 
-
 Personal
+
 
 Common
 Demonstrative
@@ -60606,12 +60606,12 @@ Interrogative
 Personal
 
 Common
-
 Personal
 
 
 
 
+
 Relative
 
 
@@ -60643,9 +60643,9 @@ Common
 Personal
 
 
+Relative
 Indefinite
 
-Relative
 
 
 Common
@@ -60678,8 +60678,8 @@ Personal
 Common
 
 
-
 Common
+
 
 
 
@@ -60840,11 +60840,11 @@ Demonstrative
 
 Personal
 
-
 Personal
 
 
 
+
 Common
 
 Personal
@@ -60897,8 +60897,8 @@ Personal
 Personal
 
 Personal
-
 Demonstrative
+
 Personal
 
 Common
@@ -60977,17 +60977,17 @@ Common
 
 
 Common
-
 
 Common
 
 
 
 
-Personal
 
+Personal
 
 Common
+
 
 
 
@@ -61118,9 +61118,9 @@ Personal
 Common
 
 
+Demonstrative
 Interrogative
 
-Demonstrative
 Relative
 
 
@@ -61177,11 +61177,11 @@ Common
 Personal
 
 Common
-
 
 
 Common
 
+
 Common
 
 
@@ -61208,9 +61208,9 @@ Common
 
 Common
 
+Personal
 
 
-Personal
 
 Common
 
@@ -61313,8 +61313,8 @@ Personal
 Common
 
 Personal
-
 Personal
+
 
 Common
 
@@ -61470,11 +61470,11 @@ Personal
 Personal
 Common
 
-
 Demonstrative
 
 
 
+
 Common
 
 
@@ -61494,20 +61494,20 @@ Personal
 
 
 Common
-
 
 Common
+
 Relative
 
 Personal
 
 
 
-Common
 
 
 Personal
 Personal
+Common
 
 Personal
 
@@ -61774,14 +61774,14 @@ Personal
 
 
 
-
 Personal
 
-Common
 
+Common
 
 
 Demonstrative
+
 
 
 
@@ -61800,8 +61800,8 @@ Personal
 
 
 
-Common
 Personal
+Common
 
 Personal
 Personal
@@ -61895,10 +61895,10 @@ Common
 
 Common
 Personal
-
 
 
 Personal
+
 Personal
 
 
@@ -61993,8 +61993,8 @@ Common
 Common
 
 Common
-
 Proper
+
 
 
 
@@ -62079,8 +62079,8 @@ Personal
 
 Personal
 
-
 Proper
+
 Proper
 
 Common
@@ -62242,11 +62242,11 @@ Personal
 
 
 Common
+
 
 Common
 Demonstrative
 
-
 Demonstrative
 
 
@@ -62261,6 +62261,7 @@ Common
 
 
 Common
+
 
 
 
@@ -62275,7 +62276,6 @@ Personal
 
 
 
-
 Common
 
 
@@ -62331,8 +62331,8 @@ Demonstrative
 Relative
 
 Personal
-
 Demonstrative
+
 Personal
 
 
@@ -62375,6 +62375,7 @@ Proper
 
 Common
 
+
 Proper
 Proper
 
@@ -62382,7 +62383,6 @@ Proper
 
 
 
-
 Personal
 
 
@@ -62414,10 +62414,10 @@ Proper
 Common
 
 Personal
-
 Personal
 
 
+
 Common
 
 Personal
@@ -62468,9 +62468,9 @@ Personal
 Interrogative
 Common
 
+
 Common
 Demonstrative
-
 
 
 
@@ -62478,8 +62478,8 @@ Personal
 
 
 
-
 Demonstrative
+
 
 
 
@@ -62599,9 +62599,9 @@ Common
 
 Possessive
 
-
 Common
 
+
 Possessive
 
 
@@ -62818,13 +62818,13 @@ Proper
 
 Personal
 Personal
-
 
 
 Personal
 
 
 
+
 Personal
 Common
 
@@ -62880,8 +62880,8 @@ Personal
 Personal
 
 Proper
-
 Personal
+
 
 
 
@@ -62901,12 +62901,12 @@ Proper
 
 Common
 
-
 Personal
 
 
 
 
+
 Personal
 
 
@@ -63069,11 +63069,11 @@ Proper
 Proper
 
 Common
-
 
 
 Demonstrative
 
+
 Common
 
 
@@ -63082,8 +63082,8 @@ Common
 
 
 
-Common
 
+Common
 
 Common
 
@@ -63126,8 +63126,8 @@ Relative
 
 
 
-
 Common
+
 
 
 Proper
@@ -63215,8 +63215,8 @@ Proper
 Proper
 
 Proper
-
 Proper
+
 
 
 Common
@@ -63257,8 +63257,8 @@ Personal
 
 Demonstrative
 
-Proper
 
+Proper
 
 
 
@@ -63269,14 +63269,14 @@ Proper
 Common
 
 
-Common
 Common
 
-
+Common
 
 Common
 
 
+
 Common
 Common
 
@@ -63343,9 +63343,9 @@ Common
 
 
 
-Common
 
 
+Common
 
 
 
@@ -63388,9 +63388,9 @@ Common
 
 
 
-
 Personal
 
+
 Common
 
 Demonstrative
@@ -63410,9 +63410,9 @@ Demonstrative
 Common
 
 Common
-Personal
 
 
+Personal
 
 
 
@@ -63542,12 +63542,12 @@ Proper
 Proper
 
 
+Common
 
 
-Common
-Common
 
 
+Common
 
 
 
@@ -63700,11 +63700,11 @@ Personal
 Personal
 
 Common
-
 Proper
 
 
 
+
 Common
 
 
@@ -63727,7 +63727,6 @@ Common
 
 Common
 
-Proper
 
 
 
@@ -63735,8 +63734,9 @@ Common
 
 
 
-
 Common
+
+Proper
 
 
 Personal
@@ -63946,8 +63946,8 @@ Personal
 Common
 
 
-
 Indefinite
+
 
 Common
 
@@ -63956,8 +63956,8 @@ Personal
 Indefinite
 
 
-
 Proper
+
 
 
 
@@ -64124,12 +64124,12 @@ Relative
 
 Common
 Demonstrative
-
 Demonstrative
 
 
 
 
+
 Proper
 
 
@@ -64214,13 +64214,13 @@ Common
 Demonstrative
 
 Common
-
 
 
 Common
 
 
 
+
 Proper
 
 
@@ -64286,8 +64286,8 @@ Proper
 
 Common
 
-
 Proper
+
 Proper
 
 
@@ -64386,8 +64386,8 @@ Proper
 
 
 
-Common
 
+Common
 
 Personal
 Personal
@@ -64535,7 +64535,6 @@ Personal
 
 
 Personal
-
 
 
 
@@ -64544,6 +64543,7 @@ Personal
 Demonstrative
 
 
+
 Interrogative
 Common
 
@@ -64585,17 +64585,17 @@ Interrogative
 
 
 Personal
-
 Demonstrative
 
 
+
 Proper
 
 
 Proper
 Common
-
 Demonstrative
+
 Interrogative
 
 Personal
@@ -64675,7 +64675,6 @@ Relative
 
 
 Proper
-
 Relative
 
 
@@ -64683,6 +64682,7 @@ Relative
 
 
 Personal
+
 
 Common
 
@@ -64690,34 +64690,34 @@ Common
 
 Common
 
-Proper
 
 
-
 Common
+
 
 
 
+Proper
 Relative
 
 
+Proper
 
 
 
 
-Proper
 
 Relative
 Common
 
 
 Common
-Relative
-
 
 Common
 
+Relative
 
+
 Relative
 
 
@@ -64760,13 +64760,13 @@ Common
 Relative
 
 Personal
-
 
 Proper
 
-Common
 
+Common
 Personal
+
 
 Common
 
@@ -64917,8 +64917,8 @@ Relative
 
 Proper
 Common
-Common
 
+Common
 
 
 
@@ -64979,11 +64979,11 @@ Personal
 Common
 Demonstrative
 
+Proper
 
 
 
 Common
-Proper
 
 
 
@@ -65029,10 +65029,10 @@ Personal
 Common
 
 Common
+Demonstrative
 Demonstrative
 
 
-Demonstrative
 
 Common
 
@@ -65097,9 +65097,9 @@ Personal
 
 
 
-Common
 
 Personal
+Common
 
 
 Common
@@ -65148,10 +65148,10 @@ Proper
 
 
 
+Personal
 Common
 Common
 
-Personal
 
 Relative
 
@@ -65256,12 +65256,12 @@ Common
 
 
 Personal
-
 
 
 
 Proper
 
+
 Common
 
 
@@ -65325,16 +65325,16 @@ Proper
 
 
 Proper
-
 Proper
 
+
 Proper
 Proper
 
 
 Proper
-
 Proper
+
 
 Proper
 Proper
@@ -65376,9 +65376,9 @@ Common
 
 
 
+Interrogative
 
 Demonstrative
-Interrogative
 
 
 
@@ -65391,10 +65391,10 @@ Common
 
 
 
+Proper
 
 
 
-Proper
 
 
 Common
@@ -65539,8 +65539,8 @@ Common
 
 
 
-
 Relative
+
 
 
 Common
@@ -65610,8 +65610,8 @@ Common
 Personal
 
 Personal
-
 Proper
+
 
 
 Personal
@@ -65704,12 +65704,12 @@ Personal
 
 Common
 Demonstrative
-
 Common
 
 
 
 
+
 Common
 
 Personal
@@ -65817,12 +65817,12 @@ Proper
 
 
 Common
+Personal
 
 Proper
 
 
 Common
-Personal
 Demonstrative
 
 Proper
@@ -65847,9 +65847,9 @@ Interrogative
 
 Common
 Common
-
 Proper
 
+
 Personal
 
 
@@ -65873,8 +65873,8 @@ Common
 
 
 Common
-
 Personal
+
 
 
 Common
@@ -65887,8 +65887,8 @@ Personal
 
 
 
-
 Relative
+
 
 Common
 
@@ -65985,7 +65985,6 @@ Indefinite
 Common
 
 
-
 Common
 
 
@@ -65995,6 +65994,7 @@ Common
 
 
 
+
 Common
 Common
 
@@ -66022,12 +66022,12 @@ Common
 
 
 Common
-
 
 
 
 Proper
 
+
 Proper
 
 
@@ -66085,8 +66085,8 @@ Proper
 Common
 
 
-Proper
 
+Proper
 
 Personal
 
@@ -66114,9 +66114,9 @@ Common
 
 
 Personal
-
 Relative
 
+
 Demonstrative
 Personal
 
@@ -66266,18 +66266,17 @@ Personal
 Common
 Personal
 Proper
-
 Relative
 Personal
 
 
 
 
+
 Common
 Proper
 
 Demonstrative
-
 
 Personal
 
@@ -66287,6 +66286,7 @@ Personal
 
 
 
+
 Common
 Common
 
@@ -66338,8 +66338,8 @@ Demonstrative
 
 Personal
 
-Common
 
+Common
 
 
 
@@ -66392,12 +66392,12 @@ Common
 Personal
 Proper
 Proper
-
-
 Relative
+
 Common
 
 
+
 Common
 Common
 
@@ -66413,8 +66413,8 @@ Common
 Common
 Personal
 Common
-
 Proper
+
 
 
 Common
@@ -66433,8 +66433,8 @@ Personal
 
 
 
-
 Relative
+
 
 
 Personal
@@ -66442,11 +66442,11 @@ Personal
 
 
 Common
-
 Relative
 
 
 
+
 Common
 Demonstrative
 
@@ -66504,8 +66504,8 @@ Common
 Personal
 
 
-Common
 
+Common
 
 Common
 Personal
@@ -66720,12 +66720,12 @@ Common
 Common
 
 
+Common
 
 
 
-Common
-Common
 
+Common
 
 
 
@@ -66740,9 +66740,9 @@ Personal
 
 
 Proper
+Common
 
 Proper
-Common
 
 
 
@@ -66759,15 +66759,15 @@ Personal
 
 
 Proper
-
 
 
 
 Common
 
 
-
 Personal
+
+
 
 
 
@@ -66892,8 +66892,8 @@ Common
 
 
 
-
 Common
+
 
 
 
@@ -67008,9 +67008,9 @@ Personal
 Proper
 Relative
 
-
 Proper
 
+
 Proper
 Proper
 
@@ -67020,7 +67020,6 @@ Common
 Proper
 
 Relative
-
 
 Common
 Personal
@@ -67029,9 +67028,10 @@ Personal
 Common
 
 
-Common
+
 
 
+Common
 
 
 
@@ -67099,10 +67099,10 @@ Common
 Common
 
 
-Common
 
 Common
 
+Common
 
 
 
@@ -67127,17 +67127,17 @@ Common
 Common
 
 Common
-Proper
 
 Common
+Proper
 
 Common
-
 Common
 
 
 
 
+
 Personal
 
 
@@ -67146,8 +67146,8 @@ Indefinite
 
 
 Personal
-
 Relative
+
 Common
 Common
 
@@ -67174,8 +67174,8 @@ Common
 Indefinite
 Common
 
-
 Proper
+
 
 
 Proper
@@ -67205,8 +67205,8 @@ Common
 Common
 
 Common
-
 Common
+
 Indefinite
 Proper
 Common
@@ -67291,8 +67291,8 @@ Common
 Common
 
 
-Proper
 
+Proper
 
 Common
 Demonstrative
@@ -67452,8 +67452,8 @@ Common
 
 Common
 Common
-
 Common
+
 
 Common
 
@@ -67486,8 +67486,8 @@ Personal
 Common
 
 
-Proper
 Common
+Proper
 
 
 
@@ -67526,9 +67526,9 @@ Common
 Personal
 
 Common
-
 
 Common
+
 Common
 
 Common
@@ -67602,7 +67602,6 @@ Personal
 
 
 Common
-
 
 
 
@@ -67613,6 +67612,7 @@ Common
 
 
 
+
 Common
 
 
@@ -67643,8 +67643,8 @@ Common
 
 
 Personal
-
 Interrogative
+
 
 Demonstrative
 
@@ -68023,9 +68023,9 @@ Common
 
 Common
 
-Common
 
 Common
+Common
 
 Personal
 
@@ -68040,9 +68040,9 @@ Relative
 
 Common
 Demonstrative
-
 Personal
 
+
 Common
 
 
@@ -68115,8 +68115,8 @@ Common
 
 
 Common
-
 Common
+
 
 Common
 
@@ -68308,8 +68308,8 @@ Personal
 
 
 Common
-
 Relative
+
 Personal
 
 
@@ -68381,16 +68381,16 @@ Common
 
 
 
-
-
 Personal
+
+
 Common
 
 
 
 Common
-
 Relative
+
 
 
 Personal
@@ -68498,8 +68498,8 @@ Common
 Common
 Personal
 
-Proper
 
+Proper
 
 Common
 
@@ -68588,8 +68588,8 @@ Common
 
 Proper
 
-Common
 
+Common
 
 
 
@@ -68597,10 +68597,10 @@ Proper
 
 Relative
 
-
-Proper
 Common
 
+
+Proper
 Relative
 
 
@@ -68618,8 +68618,8 @@ Common
 
 
 Common
-Personal
 
+Personal
 
 
 
@@ -69159,8 +69159,8 @@ Common
 
 Common
 Proper
-
 Proper
+
 
 Personal
 Common
@@ -69306,8 +69306,8 @@ Common
 
 
 
-Common
 
+Common
 
 
 Common
@@ -69371,8 +69371,8 @@ Common
 Demonstrative
 
 
-
 Proper
+
 
 
 
@@ -69417,18 +69417,9 @@ Common
 
 
 Personal
-
 Proper
 
 
-Common
-
-
-Common
-
-
-
-Common
 
 Common
 
@@ -69437,13 +69428,22 @@ Common
 
 
 
+Common
+
+Common
+
+
+Common
+
+
+
 
 
 
 
 Common
-
 Proper
+
 
 
 
@@ -69498,8 +69498,8 @@ Common
 
 Common
 Demonstrative
-
 Common
+
 Indefinite
 Common
 Proper
@@ -69517,8 +69517,8 @@ Proper
 
 
 Indefinite
-
 Personal
+
 Relative
 
 
@@ -69564,8 +69564,8 @@ Common
 Proper
 Proper
 
-
 Common
+
 
 Common
 
@@ -69591,9 +69591,9 @@ Common
 
 
 
+
 Proper
 Common
-
 
 
 
@@ -69622,8 +69622,8 @@ Common
 
 
 
-
 Personal
+
 
 
 
@@ -69646,8 +69646,8 @@ Common
 
 
 
-Proper
 
+Proper
 
 
 
@@ -69668,108 +69668,108 @@ Personal
 
 Common
 Demonstrative
-
-
-Relative
-
-
-Common
-
-Common
-
-
-Proper
-
-
-Personal
-
-Common
-Personal
-
-Personal
-
-
-Common
-
-
-
-Common
-
-Common
-
-Common
-
-
-
-Personal
-Common
-
-Common
-
-
-Common
-Demonstrative
-
-
-Common
-Personal
-
-
-
-
-
-Common
-
-
-
-
-Common
-Personal
-Demonstrative
-
-
-
-Common
-
-
-
-Personal
-
-Common
-
-Common
-Personal
-
-
-Common
-Common
-
-Common
-Common
-Personal
-
-
-
-
-
-Proper
-
-
-Personal
-
-Personal
-
-
-Common
-
-
-
-Personal
 
 Relative
 
 
 
+Common
+
+Common
+
+Proper
+
+
+
+Personal
+
+Common
+Personal
+
+Personal
+
+
+Common
+
+
+Common
+
+Common
+
+
+Common
+
+
+
+Personal
+Common
+
+Common
+
+
+Common
+Demonstrative
+
+
+Common
+Personal
+
+
+
+
+
+Common
+
+
+
+
+Common
+Personal
+Demonstrative
+
+
+
+Common
+
+
+
+Personal
+
+Common
+
+Common
+Personal
+
+
+Common
+Common
+
+Common
+Common
+
+Personal
+
+
+
+
+Proper
+
+
+Personal
+
+Personal
+
+
+Common
+
+
+
+
+Personal
+Relative
+
+
+
 
 
 
@@ -69787,8 +69787,8 @@ Common
 
 Proper
 
-
 Common
+
 Common
 
 
@@ -69969,8 +69969,8 @@ Personal
 Indefinite
 
 
-Proper
 
+Proper
 
 Common
 Personal
@@ -70048,8 +70048,8 @@ Common
 Common
 Personal
 
-
 Proper
+
 
 
 Proper
@@ -70090,15 +70090,15 @@ Proper
 
 
 Common
-
 
 
 Indefinite
 
-Common
-
 
 Common
+
+Common
+
 
 Common
 
@@ -70200,8 +70200,8 @@ Personal
 Proper
 
 
-
 Common
+
 
 
 
@@ -70213,9 +70213,9 @@ Common
 
 Indefinite
 Common
-Common
-Proper
 
+Proper
+Common
 Proper
 
 
@@ -70320,24 +70320,24 @@ Demonstrative
 Common
 Personal
 
-
 Common
 
-Common
 
 Common
+Common
+
 Proper
-
 Personal
+
 
 Personal
 Relative
+
 Personal
 
 
 Common
 Personal
-
 
 
 
@@ -70358,6 +70358,8 @@ Proper
 Common
 
 Common
+
+Personal
 Proper
 
 
@@ -70368,8 +70370,6 @@ Common
 Relative
 
 
-Personal
-
 
 
 
@@ -70378,8 +70378,8 @@ Common
 
 
 
-
 Personal
+
 
 Common
 
@@ -70448,8 +70448,8 @@ Personal
 
 
 Common
-
 Proper
+
 
 
 
@@ -70487,8 +70487,8 @@ Personal
 
 
 Common
-
 Common
+
 
 Common
 
@@ -70525,44 +70525,44 @@ Personal
 
 
 Common
-
-Proper
-
-Personal
-
-
-
-Common
-
-
-Personal
-
-
-
-Common
-
-
-Common
-
-
-
-Personal
-
-
-
 Proper
 
 
+Personal
+
+
 
 Common
+
+
+Personal
+
+
+
+Common
+
+
+Common
+
+
+
+Personal
+
+
+
 Proper
 
 
 
+Common
+Proper
 
 
 
 Personal
+
+
+
 
 Proper
 
@@ -70687,10 +70687,10 @@ Relative
 
 Common
 
-
 Proper
 
 Indefinite
+
 Common
 Common
 Proper
@@ -70723,8 +70723,8 @@ Personal
 Common
 
 
-Proper
 
+Proper
 
 Proper
 
@@ -70778,10 +70778,10 @@ Personal
 Proper
 
 
+
+
+
 Proper
-
-
-
 
 
 
@@ -70846,8 +70846,8 @@ Proper
 Indefinite
 Proper
 Common
-
 Common
+
 Indefinite
 
 Proper
@@ -71046,8 +71046,8 @@ Common
 Common
 
 Personal
-Proper
 
+Proper
 
 
 
@@ -71076,750 +71076,6 @@ Relative
 Common
 
 Personal
-
-
-
-Demonstrative
-
-
-
-
-
-
-
-Common
-
-
-Common
-
-
-
-Personal
-
-
-Proper
-
-Interrogative
-
-
-Common
-Relative
-
-
-
-Common
-
-
-
-
-Proper
-
-
-Common
-
-Proper
-
-
-
-Common
-
-
-
-
-Proper
-
-
-Proper
-
-
-
-
-Proper
-
-
-
-Common
-
-
-Common
-
-Common
-
-
-Personal
-
-
-
-
-
-
-Personal
-
-
-
-Personal
-
-Personal
-
-
-Proper
-
-
-Common
-
-
-Personal
-
-Relative
-
-Interrogative
-
-Common
-
-Relative
-
-
-
-
-Proper
-Common
-Common
-
-
-
-
-Common
-
-
-
-
-
-Common
-
-
-
-
-Common
-
-
-Personal
-
-
-Common
-Personal
-
-
-Common
-
-Personal
-
-
-Personal
-
-
-
-
-
-
-
-Personal
-
-Indefinite
-
-Common
-
-
-Proper
-
-Personal
-
-
-
-
-
-
-Proper
-
-
-Proper
-
-
-Personal
-
-
-
-Personal
-
-
-
-
-
-
-
-
-
-
-Proper
-
-Personal
-
-Proper
-
-
-
-Common
-
-
-
-Proper
-
-Personal
-
-
-
-Personal
-Personal
-Common
-
-
-
-Personal
-
-
-
-
-
-
-
-
-Personal
-Personal
-
-
-
-
-Common
-
-
-
-
-
-Personal
-
-Common
-
-
-Common
-
-
-
-
-
-
-
-
-
-
-
-Interrogative
-Common
-
-Personal
-
-
-Proper
-
-
-
-Common
-
-Demonstrative
-
-Common
-
-
-
-
-
-
-Common
-Personal
-
-
-Common
-
-
-Personal
-
-Common
-
-
-
-Proper
-
-Personal
-
-Common
-
-
-Common
-Personal
-
-
-
-Common
-
-
-
-Proper
-
-
-Proper
-Relative
-
-Proper
-Demonstrative
-
-
-Common
-Proper
-Common
-
-Common
-
-
-
-
-Personal
-
-Personal
-
-
-
-
-
-
-Personal
-
-
-Common
-
-
-
-
-
-Personal
-
-
-Common
-
-Proper
-
-
-Common
-
-
-Common
-
-
-
-
-Common
-
-Common
-
-
-
-Common
-
-
-Personal
-
-
-Common
-
-Personal
-
-
-Common
-Relative
-
-
-Common
-Proper
-
-Common
-
-Proper
-Proper
-Demonstrative
-
-
-Common
-Personal
-
-
-Common
-
-
-
-
-Proper
-
-
-
-Proper
-
-
-Common
-Relative
-
-Proper
-Proper
-
-
-Proper
-
-
-Personal
-
-Common
-Common
-
-
-Common
-Relative
-
-
-
-
-
-
-
-
-
-
-
-
-Common
-
-
-Personal
-
-Personal
-Common
-
-Relative
-
-
-
-
-Common
-
-
-
-Proper
-Relative
-
-
-
-
-Common
-Demonstrative
-
-Common
-
-
-
-
-Common
-
-
-Personal
-
-
-
-
-
-Common
-
-Common
-
-
-
-
-Common
-Personal
-Relative
-
-
-
-Personal
-
-
-
-Personal
-
-
-
-
-Personal
-
-
-Common
-
-
-
-Demonstrative
-
-
-
-
-
-Common
-Common
-
-
-
-Demonstrative
-
-
-Common
-
-Common
-Common
-
-
-
-Common
-Personal
-
-
-
-
-Personal
-
-
-
-Proper
-
-Common
-Demonstrative
-
-
-Common
-
-
-
-
-
-
-
-Common
-
-
-
-
-Common
-
-Relative
-
-
-Proper
-
-
-
-
-Common
-
-Common
-
-
-Common
-
-
-
-Personal
-
-Common
-
-
-
-Common
-
-
-Proper
-
-
-Common
-
-
-Indefinite
-
-
-
-Demonstrative
-Relative
-
-Common
-
-
-
-
-
-Personal
-
-
-Personal
-
-
-Common
-Proper
-Proper
-
-
-
-Personal
-
-Common
-Indefinite
-
-
-
-Common
-
-
-Common
-
-
-
-
-Proper
-
-
-
-Common
-
-
-Common
-
-Common
-
-
-
-Proper
-
-Proper
-
-
-Personal
-
-
-Common
-
-
-
-
-Common
-Common
-
-
-
-Personal
-
-
-Proper
-
-Personal
-
-
-Personal
-
-
-
-Common
-Proper
-
-
-
-Common
-Common
-
-Common
-Indefinite
-
-Common
-
-
-Common
-
-
-
-Common
-
-
-
-Personal
-
-Relative
-
-
-
-
-
-
-
-Common
-
-
-Common
-
-
-Common
-
-
-
-
-Common
-
-
-
-Common
-
-Personal
-Proper
-
-
-
-
-
-
-
-Common
-
-
-
-
-
-
-
-
-Common
-Personal
-
-
-
-
-Common
-
-
-Common
-Relative
-
-Common
-
-Personal
-
 
 
 Demonstrative
@@ -71831,415 +71087,27 @@ Demonstrative
 
 
 
+Common
+
 
 Common
 
 
 
-
-Common
-
-
-
-Common
-
-Relative
-
+Personal
 
 
 Proper
-
-Personal
-
-
-
-Common
-Personal
-
-Personal
-
-
-
-
-
-Personal
-
-
-
-Common
-Demonstrative
-
-
-
-
-Common
-
-Common
-
-
-Personal
-
-
-
-Common
-
-
-Common
-Personal
-
-
-
-
-
-Proper
-
-
-Proper
-
-
-Proper
-Relative
-
-Common
-
-Personal
-
-Relative
-
-Personal
-
-
-
-Common
-Personal
-
-
-
-
-Personal
-
-
-
-Common
-
-
-
-Personal
-
-
-
-Personal
-
-Common
-
-
-
-Common
-
-Common
-
-
-
-Proper
-
-Common
-
-Personal
-
-
-Common
-
-
-
-
-
-Common
-
-Personal
-
-Common
-
-
-Personal
-
-
-
-Common
-Proper
-Proper
-Personal
 Interrogative
 
 
 
-
-Common
-
-
-Demonstrative
-
-
-
-
-Common
-
-
-
-
-Common
-
-Common
-
-Common
-
-Common
-
-
-
-
-
-
-
-Common
-
-
-
-Common
-
-
-Proper
-
-Proper
-
-Proper
-
-
-
-Common
-
-
-
-
-
-
-Indefinite
-
-Personal
-Common
-Proper
-
-Proper
-Relative
-
-
-Proper
-
-
-
-
-Proper
-
-
-Common
-Proper
-
-
-Common
-Common
-
-Personal
-
-
-Common
-
-
-
-
-
-Common
-
-
-
-Common
-
-Personal
-
-
-Common
-
-Common
-
-
-
-Proper
-
-
-Proper
-
-Proper
-Relative
-
-
-
-
-Common
-
-
-Common
-
-
-
-
-
-Common
-
-Common
-
-
-Common
-
-
-Common
-
-
-
-Common
-
-
-Common
-
-
-Common
-
-
-Common
-
-
-
-Proper
-
-Proper
-
-
-
-
-Proper
-
-
-Personal
-
-Common
-
-
-
-
-Common
-
-
-Common
-
-
-
-
-
-Proper
-
-Common
-Proper
-
-
-Demonstrative
-
-Common
-
-
-Proper
-Common
-
-Proper
-
-
-
-
-Personal
-Common
-Proper
-
-
-
-Common
-Common
-
-
-
-
-
-
-Common
-Relative
-
-
-Proper
-
-
-Common
-
-
-Indefinite
-
-
-Personal
-
-Common
-
-
-
-
-
-Proper
 Common
 Relative
 
 
 
-
-
-
-
 Common
-Proper
-
-Proper
-
-
-Demonstrative
-
-Common
-
-Proper
-
-Common
-
-Common
-
-Indefinite
-
-
-
-Common
-
-
-Proper
-
-Common
-Proper
-Common
-
-
-
-
-
-
 
 
 
@@ -72249,3980 +71117,116 @@ Proper
 
 Common
 
+Proper
+
+
+
+Common
+
+
+
+
+Proper
+
+
+Proper
+
+
+
+
+Proper
+
+
+
+Common
+
+
+Common
+
+Common
+
+
+Personal
+
+
+
+
+
+
+Personal
+
+
+
+Personal
+
+Personal
+
+
+Proper
+
+
+Common
+
+
+Personal
 
 Relative
-
-
-
-
-Common
-
-
-Common
-Common
-
-Personal
-
-
-
-Common
-
-Personal
-
-Common
-
-
-
-Proper
-
-
-
-Common
-
-Common
-
-
-
-
-
-Common
-
-
-Common
-
-Personal
-
-
-
-
-Personal
-
-Proper
-
-Common
-Demonstrative
-
-Proper
-
-
-
-
-Common
-
-Common
-
-
-Common
-
-
-Common
-
-
-Common
-
-
-Common
-Common
-
-
-Common
-
-
-
-Common
-
-
-
-Common
-
-Proper
-
-Personal
-
-
-
-Common
-
-
-Personal
-
-Common
-
-
-Common
-
-
-
-Common
-
-Personal
-
-
-
-
-Common
-Personal
-
-
-
-
-
-Personal
-
-
-Common
-Personal
-
-
-Personal
-
-
-
-
-
-
-
-
-
-
-
-
-
-Common
-
-
-Common
-
-
-
-
-
-
-Common
-
-
-
-Common
-
-
-
-
-
-
-Common
-Relative
-
-
-Personal
-
-
-
-Common
-
-
-
-
-
-Common
-
-Personal
-
-
-Proper
-
-Personal
-
-
-
-
-
-
-
-
-Common
-
-Common
-Personal
-
-
-Personal
-
-Common
-Proper
-
-
-
-Common
-
-Common
-
-
-
-
-
-
-
-Common
-
-Proper
-
-Common
-Proper
-
-
-Proper
-
-
-
-
-
-
-
-
-Personal
-
-Common
-
-Common
-
-
-Common
-Common
-Proper
-
-
-
-Common
-
-Proper
-
-
-Common
-
-
-
-Common
-
-
-
-
-
-Proper
-
-
-Common
-
-
-
-Personal
-
-
-
-
-
-
-
-
-
-
-
-Common
-
-Personal
-
-
-Proper
-
-
-
-
-
-Personal
-
-
-
-
-Personal
-
-Common
-
-
-Personal
-
-
-Common
-Personal
-
-
-
-Common
-
-
-
-Proper
-
-
-Common
-Demonstrative
-
-
-
-
-
-Common
-
-
-Common
-
-Common
-
-
-
-
-Common
 
 Interrogative
 
-Proper
-
-
-Proper
-
-Personal
-
-
-
-
-
-Common
-
-
-
-
-
-
-Proper
-
-Proper
-
-
-
-
-Proper
-
-
-
-
-
-
-Personal
-
-
-Proper
-
-
-
-Common
-
-Common
-
-Common
-
-
-
-Personal
-
-Common
-
-
-
-
-
-Common
-
-Proper
-
-Common
-
-
-
-
-Common
-
-
-Personal
-
-
-Common
-
-Common
-Common
-
-
-Common
-
-
-
-Personal
-Common
 Common
 
 Relative
 
 
 
-Common
-
-Common
-
-
-
-
-
-
-Common
-
-Common
-
-
-
-
-Proper
-
-Proper
-
-
-Proper
-
-
-Common
-
-Proper
-
-
-Proper
-
-
-
-Proper
-
-
-
-Common
-Common
-
-Common
-
-
-Proper
-
-Proper
-
-
-Proper
-
-Proper
-
-Proper
-
-Proper
-Proper
-
-Common
-
-
-Proper
-
-
-Personal
-
-Common
-
-
-
-
-Common
-
-
-
-
-Personal
-
-Proper
-
-Proper
-
-
-Common
-Relative
-
-Personal
-
-
-
-
-
-
-
-Common
-Personal
-
-
-
-Personal
-
-
-
-
-Common
-
-
-Proper
-
-
-
-
-Proper
-
-
-
-Proper
-
-
-Common
-
-Common
-
-
-Common
-
-
-
-
-
-Proper
-Common
-
-
-
-
-Common
-
-Proper
-
-Common
-Indefinite
-Common
-Common
-
-Relative
-Common
-Proper
-Relative
-
-
-
-Common
-Proper
-Proper
-Common
-
-Demonstrative
-
-Proper
-
-Proper
-
-
-
-Common
-
-Common
-
-
-Personal
-Proper
-
-Common
-
-
-
-
-Common
-Personal
-
-
-
-Common
-
-
-Common
-
-Proper
-
-
-Proper
-
-Common
-
-
-
-Personal
-
-
-
-
-Common
-
-
-Common
-Common
-
-
-
-Common
-
-
-
-
-Common
-
-Common
-
-
-
-
-
-Common
-Common
-
-Personal
-
-
-
-
-
-
-Common
-
-Common
-
-
-
-
-Personal
-Common
-
-Common
-
-
-
-Common
-
-
-Common
-
-
-
-
-
-
-
-Common
-
-Common
-
-
-
-
-Proper
-
-
-Proper
-
-
-Proper
-
-Proper
-
-Proper
-
-
-Personal
-
-
-Proper
-
-Personal
-
-
-
-Proper
-
-
-Proper
-
-Proper
-
-
-
-
-Common
-
-Common
-
-Common
-
-
-
-
-Common
-
-Common
-
-
-Common
-
-
-Common
-
-Personal
-
-Common
-Common
-
-
-
-Personal
-Indefinite
-Common
-Common
-
-
-Common
-
-
-Proper
-
-
-
-
-Common
-
-Common
-Proper
-
-
-
-
-Common
-
-
-Common
-
-Common
-Demonstrative
-Proper
-
-
-Common
-Personal
-
-
-Common
-
-
-
-Common
-
-Common
-Proper
-
-
-Common
-
-
-Personal
-
-Personal
-
-
-
-Common
-
-Personal
-
-
-
-
-
-Common
-
-
-Common
-Proper
-
-
-Common
-Personal
-
-Common
-
-
-
-
-
-Demonstrative
-
-Common
-
-Proper
-Common
-
-
-Common
-
-
-Personal
-
-Common
-
-Proper
-Common
-Proper
-Common
-
-Common
-Proper
-Common
-
-
-
-Personal
-
-
-Proper
-Personal
-
-Common
-Relative
-
-
-
-
-Proper
-
-
-Proper
-Common
-
-
-Common
-Personal
-Relative
-
-
-
-Common
-Personal
-
-Common
-
-Demonstrative
-
-Common
-
-Common
-
-
-Proper
-Common
-Proper
-
-Proper
-
-Common
-
-Common
-Personal
-Common
-Common
-
-
-Common
-Proper
-
-
-
-Proper
-
-Common
-
-Interrogative
-Personal
-
-
-
-
-Personal
-
-
-
-
-Personal
-Relative
-
-
-
-
-Common
-
-Common
-
-Common
-Common
-Common
-Common
-Proper
-
-
-
-Personal
-
-
-Common
-Personal
-
-Common
-
-Common
-Demonstrative
-
-
-
-
-
-Proper
-
-
-Common
-Personal
-Demonstrative
-
-
-
-Common
-
-Common
-
-
-
-Common
-
-
-
-
-
-Common
-Common
-
-
-Proper
-
-Personal
-
-
-
-
-
-
-Personal
-
-
-
-
-Common
-
-
-Common
-
-
-Common
-
-Personal
-
-
-Relative
-
-
-Common
-
-
-
-Personal
-
-
-Proper
-
-Proper
-Relative
-
-
-Common
-Personal
-
-
-Common
-
-Personal
-Personal
-
-
-
-
-Common
-
-Common
-
-Demonstrative
-
-Common
-
-
-Common
-Personal
-
-Proper
-
-
-
-
-Common
-
-
-
-Common
-Personal
-
-Personal
-Personal
-
-
-Personal
-
-
-
-Personal
-
-
-
-
-
-
-Common
-
-
-
-
-Personal
-
-
-Proper
-
-
-
-
-
-
-
-
-
-
-
-Personal
-
-Common
-
-
-Proper
-
-Common
-
-
-
-Common
-Common
-
-
-
-
-
-Common
-Personal
-
-
-Common
-
-Relative
-
-Common
-
-
-
-Common
-
-
-
-Personal
-Common
-Common
-
-
-Demonstrative
-Personal
-Common
-Common
-
-
-
-
-Relative
-
-
-
-Common
-Proper
-
-
-Demonstrative
-
-
-
-
-
-
-
-
-
-
-
-
-Common
-
-
-Common
-
-
-
-
-
-Common
-
-Personal
-
-
-Common
-Personal
-Common
-Relative
-
-
-
-
-Indefinite
-
-Personal
-
-
-Personal
-
-
-
-
-Common
-
-Personal
-
-Common
-Demonstrative
-
-
-
-Common
-
-
-
-
-
-
-
-Common
-
-Proper
-
-
-Proper
-Relative
-
-Personal
-
-Personal
-
-
-Common
-
-Common
-
-
-
-Common
-
-
-
-Common
-
-
-
-Common
-
-Common
-
-
-
-
-
-Common
-
-Common
-
-
-
-
-Proper
-
-
-
-
-
-Proper
-
-
-Proper
-
-
-
-Personal
-
-
-
-Common
-
-Common
-
-
-Personal
-
-
-
-Personal
-
-
-
-Common
-
-
-
-
-Common
-
-
-
-Personal
-
-Common
-
-Personal
-
-Common
-Common
-
-
-Personal
-
-Common
-
-
-
-Common
-
-
-
-Common
-
-
-
-
-Common
-
-Common
-
-
-Relative
-
-
-
-Common
-
-
-
-
-Common
-
-Common
-
-
-
-Common
-
-
-
-
-
-
-Common
-
-
-
-
-
-
-Common
-
-
-Common
-
-
-Proper
-
-Proper
-
-
-Personal
-
-
-Common
-Personal
-
-
-
-
-Common
-
-Common
-
-Personal
-
-
-Proper
-
-
-Common
-
-Common
-
-Common
-
-
-
-
-Proper
-
-
-
-
-Personal
-
-
-Common
-
-
-
-
-
-
-
-
-
-
-Proper
-
-Common
-
-
-
-
-
-
-
-
-Common
-
-Common
-
-
-Common
-
-
-
-Common
-
-
-
-
-Common
-
-
-
-
-Common
-
-Common
-Personal
-
-Common
-
-Common
-
-
-
-Common
-Personal
-
-
-
-Common
-
-Common
-
-
-
-
-
-
-
-
-
-
-
-Common
-
-
-
-Common
-
-
-Common
-
-
-
-
-Common
-Personal
-
-
-
-Personal
-
-
-
-
-Common
-
-Proper
-Proper
-
-Proper
-
-
-
-
-
-
-
-Indefinite
-Common
-
-
-Common
-
-Proper
-
-
-
-Common
-Common
-Personal
-Relative
-
-
-Demonstrative
-
-
-Proper
-
-Relative
-
-Personal
-
-
-
-
-Common
-
-
-
-
-Common
-
-
-
-Common
-Personal
-
-
-
-
-
-
-
-Common
-
-Relative
-
-Proper
-
-
-Common
-Personal
-
-
-
-Common
-
-Common
-
-
-Personal
-
-
-
-Proper
-Proper
-
-
-Proper
-Proper
-
-Personal
-
-
-
-
-Common
-
-
-Common
-
-Proper
-
-
-
-
-Common
-Common
-
-Common
-
-
-Common
-
-
-
-Common
-
-
-
-
-
-Common
-Proper
-
-Proper
-
-
-Common
-Personal
-
-
-
-Common
-
-
-
-Common
-Interrogative
-Demonstrative
-
-
-Personal
-
-Personal
-Common
-
-
-Personal
-
-Demonstrative
-
-
-
-
-Common
-
-Relative
-
-
-Common
-
-
-Common
-
-
-Common
-
-
-
-
-Personal
-Relative
-
-
-
-Common
-
-
-
-Common
-
-
-Common
-Personal
-
-
-
-Personal
-
-
-
-Personal
-Common
-
-
-Common
-
-
-Common
-
-Common
-
-Common
-Personal
-
-Demonstrative
-
-
-
-
-Common
-
-
-
-Personal
-
-
-
-Proper
-
-Proper
-
-
-
-
-Common
-
-
-
-Proper
-
-
-
-Common
-
-Personal
-
-
-
-
-Common
-Personal
-
-
-
-
-Common
-
-
-
-
-
-
-Proper
-
-Proper
-
-
-
-Common
-Demonstrative
-
-
-
-
-
-
-Proper
-
-
-Proper
-
-
-Proper
-
-
-Common
-
-Common
-
-
-
-Common
-
-
-
-
-
-Common
-Personal
-
-
-
-Common
-
-Common
-
-
-Personal
-
-Common
-
-
-
-Common
-
-Personal
-
-Common
-
-Relative
-
-
-
-
-Proper
-
-
-
-Proper
-
-
-
-Proper
-
-Common
-
-
-Proper
-
-
-
-Proper
-
-
-
-
-Common
-
-Common
-
-
-Common
-Relative
-
-
-
-
-
-
-Common
-
-Relative
-
-
-Common
-
-Personal
-
-
-
-
-Common
-Common
-Common
-
-
-Common
-
-
-
-
-Common
-
-Indefinite
-
-
-
-Proper
-
-
-Common
-
-
-
-
-
-Common
-
-Proper
-
-
-
-
-
-Common
-
-Common
-
-
-
-Proper
-
-
-Proper
-
-Personal
-
-
-Proper
-
-Proper
-
-Indefinite
-
-
-Personal
-
-
-Common
-
-
-
-Proper
-
-
-Common
-Demonstrative
-
-
-
-
-
-
-Common
-
-
-
-Proper
-
-Proper
-
-
-Common
-
-Common
-
-
-Common
-
-
-
-Common
-
-
-
-Proper
-
-
-
-Common
-
-
-Common
-
-
-
-
-
-Relative
-
-Common
-
-
-Personal
-
-
-Indefinite
-
-
-
-Common
-
-Proper
-
-
-
-
-
-Personal
-
-
-
-
-Common
-Proper
-
-
-
-Common
-
-
-
-
-
-
-Common
-Demonstrative
-
-
-Common
-
-
-Proper
-
-
-Personal
-Common
-Common
-Personal
-
-
-
-Common
-
-
-Personal
-
-
-Common
-
-
-Common
-Personal
-
-
-Common
-
-Common
-
-Common
-
-
-
-
-Common
-Common
-
-Personal
-
-
-Common
-
-
-
-
-Personal
-
-
-
-
-
-Personal
-
-Personal
-
-Common
-
-
-Common
-Personal
-
-
-Interrogative
-
-
-Common
-
-Common
-
-
-Common
-
-Common
-Relative
-
-
-
-Common
-Personal
-
-Personal
-
-
-
-
-
-Common
-
-Common
-Proper
-
-
-Relative
-Common
-
-
-
-
-
-Common
-
-
-Proper
-
-Proper
-
-Common
-
-Common
-Relative
-
-
-Common
-
-
-Common
-
-Personal
-
-
-
-
-Personal
-
-Proper
-
-Common
-Common
-
-Personal
-Proper
-
-
-
-
-Common
-
-
-
-Common
-Common
-
-Common
-Personal
-
-Demonstrative
-
-
-Common
-
-Common
-
-
-
-Demonstrative
-
-
-
-
-Common
-Proper
-
-
-
-
-
-Personal
-
-
-
-Personal
-
-
-
-
-
-
-Common
-
-Common
-
-
-
-Common
-
-Relative
-
-
-Common
-Personal
-
-Personal
-
-Common
-
-Demonstrative
-
-
-Common
-
-Personal
-
-
-
-
-
-
-Common
-
-
-
-Common
-
-
-Personal
-
-
-
-Common
-
-Common
-
-
-Common
-
-
-
-
-Common
-
-Proper
-
-Common
-
-
-Common
-
-
-Personal
-
-
-
-Common
-
-
-Common
-
-
-
-
-Common
-
-
-
-
-
-
-Common
-
-Common
-
-Personal
-
-
-Proper
-
-
-Proper
-
-Proper
-Proper
-
-
-Proper
-
-Proper
-Common
-
-
-
-Common
-
-
-Common
-Personal
-
-Common
-
-
-
-Common
-
-
-
-Proper
-
-Proper
-
-Proper
-Common
-
-
-Common
-
-
-
-
-Indefinite
-
-Personal
-
-Personal
-Common
-
-
-Common
-Personal
-Relative
-
-
-
-Personal
-
-
-
-Common
-
-
-Personal
-
-
-
-Personal
-Proper
-
-Proper
-Common
-
-
-Common
-Personal
-
-
-Common
-
-Common
-Personal
-Proper
-Proper
-
-
-Proper
-
-Proper
-
-Personal
-
-Common
-
-
-
-
-
-
-Common
-
-
-
-Personal
-
-
-Common
-
-Personal
-
-Demonstrative
-
-
-
-
-
-Common
-
-
-
-Common
-
-Relative
-
-Personal
-
-
-
-
-
-
-
-
-
-Proper
-
-
-
-Common
-
-
-Common
-
-
-
-
-
-Common
-
-Proper
-
-Proper
-
-Personal
-Common
-
-
-Common
-
-
-
-Common
-
-
-
-
-Common
-
-
-Common
-
-
-Common
-
-
-
-Personal
-
-Proper
-
-Proper
-
-
-Proper
-
-
-
-
-
-
-
-
-Common
-
-Common
-
-
-Indefinite
-Common
-
-
-Proper
-Proper
-
-
-
-
-Common
-
-Common
-
-
-Relative
-
-
-Common
-
-Common
-
-
-
-Proper
-
-
-
-
-Proper
-
-
-Proper
-
-Proper
-
-
-
-
-Personal
-
-Proper
-
-
-
-Personal
-
-
-Common
-
-
-Demonstrative
-
-
-Common
-
-
-Personal
-
-Personal
-
-
-Proper
-
-
-Proper
-
-
-Proper
-
-Proper
-
-Proper
-
-
-
-Common
-
-Common
-
-
-Common
-
-
-
-Proper
-
-Proper
-
-
-Common
-
-
-
-
-Proper
-
-
-Proper
-
-
-
-
-Common
-Indefinite
-Common
-Proper
-Common
-Common
-
-
-
-Common
-Proper
-Relative
-
-
-
-
-Proper
-
-Proper
-Common
-
-
-Proper
-Demonstrative
-
-Personal
-
-
-
-
-Personal
-
-
-
-
-
-
-
-Common
-Demonstrative
-
-
-
-
-Proper
-
-Common
-Personal
-
-
-
-
-
-Common
-
-Personal
-
-
-Common
-
-
-
-
-Common
-
-
-
-
-Proper
-
-
-
-Common
-
-
-Common
-
-
-
-Common
-
-Common
-
-
-
-Proper
-
-
-Common
-
-
-
-
-Common
-
-
-Common
-
-
-Proper
-
-
-
-
-Proper
-
-
-
-Proper
-
-
-
-
-Personal
-
-Common
-Proper
-
-
-
-Proper
-
-
-Proper
-
-Common
-
-Common
-
-Proper
-
-Common
-Proper
-Indefinite
-
-
-
-
-Personal
-
-
-
-
-Proper
-
-Personal
-
-
-
-Common
-
-
-
-
-
-Proper
-
-
-
-
-Common
-Personal
-
-Personal
-
-
-
-Proper
-
-
-Proper
-
-
-
-
-
-Common
-
-
-Proper
-Relative
-
-
-
-Common
-Proper
-Common
-Common
-
-
-
-
-Demonstrative
-
-Common
-Common
-Indefinite
-
-
-Common
-
-Common
-
-
-
-Common
-
-Common
-
-Common
-
-
-
-
-
-
-
-Common
-
-Indefinite
-Common
-Common
-Proper
-Common
-Common
-Proper
-
-
-Common
-
-Relative
-
-Common
-
-Common
-
-
-
-
-
-Proper
-
-
-
-
-
-Common
-Personal
-
-
-
-
-Personal
-
-
-Common
-
-
-
-
-Common
-Personal
-
-
-
-Personal
-
-
-
-Personal
-
-
-Common
-Common
-Indefinite
-
-Common
-Common
-
-Personal
-Relative
-Common
-
-
-
-Common
-Personal
-
-Demonstrative
-
-
-Proper
-
-Personal
-
-
-Demonstrative
-
-Common
-Common
-
-Common
-
-
-
-Relative
-
-Personal
-Common
-Common
-
-Demonstrative
-
-
-
-Common
-
-Proper
-
-
-
-
-Common
-
-
-Personal
-
-Common
-Proper
-Proper
-
-
-Personal
-
-
-Personal
-
-Common
-
-
-Common
-Personal
-
-
-
-
-Common
-
-Common
-Personal
-
-
-Proper
-
-
-Proper
-
-
-
-Common
-
-
-Common
-
-
-Personal
-
-Common
-
-Demonstrative
-
-Common
-
-Personal
-
-Common
-
-
-
-
-Common
-Relative
-
-
-
-
-
-Personal
-
-
-
-
-
-Common
-
-Personal
-
-
-Common
-
-Personal
-
-Common
-
-
-
-
-Personal
-
-Common
-
-
-Common
-
-
-Common
-
-
-Personal
-Relative
-Common
-Demonstrative
-
-
-Personal
-
-
-
-Common
-
-
-Common
-Personal
-
-
-
-Common
-
-
-
-Common
-Proper
-
-Proper
-
-
-
-Common
-
-
-Personal
-
-Common
-
-
-Common
-
-
-
-
-
-Common
-
-Common
-
-
-
-
-Common
-
-
-
-
-Common
-
-
-
-Common
-
-
-
-
-
-
-Common
-
-Common
-
-
-Common
-
-Personal
-
-
-
-
-Common
-
-
-Proper
-
-Common
-
-
-
-
-Personal
-
-
-
-
-
-
-Common
-
-
-
-
-
-
-Proper
-
-Proper
-
-
-Personal
-
-
-Common
-Interrogative
-Personal
-
-
-
-
-
-
-
-
-
-
-Common
-Proper
-
-
-Personal
-
-
-Common
-Personal
-
-
-Personal
-
-Common
-
-Common
-
-
-
-
-
-Common
-Personal
-
-
-Personal
-
-Demonstrative
-
-Common
-
-Common
-
-
-
-Common
-
-
-Personal
-
-
-Personal
-
-
-
-
-Personal
-
-
-Common
-
-Common
-
-
-
-
-
-Common
-
-Common
-
-
-
-Common
-
-Common
-
-
-
-Common
-Demonstrative
-
-
-
-Common
-
-Common
-Demonstrative
-
-
-Proper
-
-
-
-Common
-
-
-
-
-
-
-
-Common
-
-
-Proper
-
-
-Personal
-
-Personal
-
-
-Common
-
-
-
-
-Common
-
-
-
-Personal
-
-
-
-
-
-Personal
-Personal
-
-
-
-
-Common
-
-Common
-
-Common
-Demonstrative
-
-
-
-
-
-
-
-
-
-Personal
-
-
-
-
-
-
-Common
-
-
-
-
-Common
-
-
-
-Proper
-
-
-
-
-Common
-
-
-
-
-
-Proper
-
-
-Proper
-
-
-Proper
-
-
-Common
-
-
-
-
-
-
-
-Proper
-
-
-Personal
-
-
-Common
-
-
-Personal
-
-
-Common
-
-
-
-
-
-
-Proper
-
-
-
-
-
-
-
-Demonstrative
-
-
-Proper
-
-Proper
-Relative
-Personal
-
-Personal
-
-Indefinite
-
-Personal
-
-
-
-
-Proper
-
-
-Proper
-
-
-
-Proper
-Common
-
-
-Common
-
-
-
-
-
-
-
-
-
-
-
-
-Common
-Indefinite
-
-
-
-
-
-Common
-
-
-
-Common
-Proper
-
-Personal
-
-
-
-Common
-
-
-
-Personal
-
-Proper
-
-Indefinite
-Common
-
-
-Common
-
-
-
-
-Common
-
-Demonstrative
-
-
-
-Relative
-
-Proper
-
-Demonstrative
-
-
-
-Common
-Proper
-
-Common
-
-
-Proper
-
-
-
-
-Common
-
-
-Common
-
-Demonstrative
-
-
-
-
-
-
-Proper
-
-
-
-
-Personal
-
-
-Common
-
-
-Common
-
-
-
-Proper
-
-
-Proper
-
-Proper
-Relative
-
-
-
-Common
-
-
-
-
-Demonstrative
-
-
-
-
-Proper
-Relative
-
-
-Common
-
-
-Common
-
-
-Common
-
-
-Common
-
-
-Demonstrative
-
-
-
-
-
-Personal
-
-
-
-Proper
-Common
-
-
-
-Common
-
-
-
-
-
-
-
-
-Proper
-
-
-
-
-
-Proper
-
-
-
-Proper
-
-Common
-
-Common
-
-
-
-
-
-
-Common
-
-
-
-
-Proper
-
-
-Common
-
-
-
-
-Common
-
-
-
-
-Proper
-
-
-Proper
-
-
-
-
-
-Proper
-
-
-Proper
-
-
-Common
-
-
-Proper
-
-
-Proper
-
-
-
-
-
-Personal
-
-
-
-
-Proper
-
-Personal
-
-Proper
-
-
-Common
-Personal
-
-Personal
-
-
-
-
-Common
-
-
-
-
-
-Common
-
-
-
-
-
-
 
-
-Common
-
-
-Common
-
-
-
-
-Indefinite
-
-
-Proper
-
-
-Common
-
-Personal
-
-Indefinite
-
-
-
-
-
-Demonstrative
-Interrogative
-
-
-
-
-
-Common
-Common
-
-
-
-Proper
-
-
-Common
-
-
-
-Personal
-
-
-
-Common
-
-
-
-
-Interrogative
-
-
-Demonstrative
-
-
-Personal
-
-Common
-
-
-Indefinite
-
-
-
-Common
-Personal
-
-
-
-Interrogative
-
-
-Demonstrative
-
-
-
-
-
-
-
-
-
-
-
-
-
-Indefinite
-
-
-Indefinite
-
-
-
 Proper
-
-
-
-
-Common
-
-Common
-
-
-
-
-
-Personal
-
-
-
-
-
-
-Common
-Personal
-
-
-Common
-
-Relative
-
-
-Common
-
-Relative
-
-
-Demonstrative
-Personal
-
-Personal
-
-Common
-
-
-
-Common
-
-
-
-
-Personal
-Demonstrative
-Common
-
-Common
-Common
-
-
-
-
 Common
-
-
-
 Common
-
-
 
-Indefinite
-Personal
 
 
-Common
 
 Common
-
-
 
 
 
 
 
-
-Common
 Common
-
-
 
-Common
 
-Common
 
 
 Common
 
-
-Common
 
-Common
 Personal
 
 
 Common
-
-
-
-
-Personal
-
-
-
-
-
-
-
-
-
-Personal
-
-
-
-Personal
-
-
-
-
-
-
-
-Indefinite
-
-
 Personal
-Common
-
-
-
-
-Common
-
 
 
 Common
 
-Common
-
-
-
-Common
-
-Common
-
-Common
-Common
-Common
-
-Common
-Common
-
-
-
-
-
-
-
-Common
-
-Common
-
-
-Common
-
-
-
-
-Common
-
-
-
-
-
-Common
-
-Relative
-
-
-
-Common
-
-Common
-
-Common
-Relative
-
-Common
-
-
-
 Personal
-
-
-
-
-Common
-
-
-
 
 
-
-
-
 Personal
 
-Demonstrative
 
 
 
-
-Proper
 
 
 
 Personal
 
 Indefinite
-Common
-
-Personal
-
-
-Relative
-
-Proper
-
-Proper
 
 Common
-Common
-Proper
-
-
-
-Personal
-
-Demonstrative
-
-
-
-Proper
-
-
-Proper
-
-
-Indefinite
-
-Common
-Proper
-
-
-Common
-
-
-
-
-Proper
-
-Proper
-Common
-Personal
-
-
-
-Proper
-
-
-
-
 
 
 Proper
@@ -76234,138 +71238,10 @@ Personal
 
 
 
-
-Personal
-
-
-
-
-Common
-
-Common
-
-
-
-
-Common
-
-
-Common
-
-
-
-
-Proper
-
-
-
-
-
 Proper
 
 
 Proper
-
-
-Proper
-
-
-Common
-
-Proper
-
-
-
-
-
-Proper
-Proper
-
-
-Personal
-
-
-
-
-Common
-
-
-Personal
-
-Common
-Personal
-
-
-Common
-Personal
-
-Personal
-
-
-
-
-
-Common
-
-
-
-
-
-
-Common
-Indefinite
-Common
-Proper
-Proper
-
-
-Common
-Relative
-
-Common
-
-
-
-Common
-
-Proper
-
-Common
-
-
-Common
-
-
-
-Common
-Personal
-
-
-
-Proper
-
-
-
-
-
-
-
-Common
-
-Common
-
-Common
-
-Proper
-
-
-
-
-
-
-
-
-Personal
 
 
 Personal
@@ -76375,584 +71251,15 @@ Personal
 Personal
 
 
-Personal
-
-Common
-
-
-Personal
-
-
-Common
-Demonstrative
-
-
-Common
-
-Common
 
 
 
-Personal
-
-Common
-
-Common
-
-Proper
-
-Common
-
-Proper
 
 
 
 
 
 Proper
-
-
-Personal
-
-
-Common
-
-
-
-
-Common
-
-Demonstrative
-
-Common
-
-
-Common
-
-
-
-Proper
-
-
-Common
-
-
-Proper
-
-
-
-
-
-
-Common
-Indefinite
-
-Common
-
-
-
-
-
-Common
-
-Personal
-
-
-
-Common
-
-Common
-
-Common
-
-Common
-
-
-Personal
-
-Personal
-
-
-Personal
-Common
-Demonstrative
-
-
-
-Personal
-
-
-Common
-
-
-
-Proper
-
-Common
-
-
-
-Common
-
-
-Demonstrative
-
-Proper
-
-
-
-Proper
-
-
-Common
-
-
-Common
-
-
-
-
-Proper
-
-
-Personal
-Proper
-
-Proper
-
-
-Proper
-
-Common
-
-
-Common
-
-
-
-Proper
-
-
-
-
-Personal
-
-
-
-Common
-
-
-
-
-
-Personal
-
-
-Common
-
-
-
-
-
-
-
-
-
-
-Personal
-
-Common
-
-
-
-
-Proper
-
-
-
-Proper
-
-
-
-
-Common
-
-
-Proper
-
-
-Common
-Indefinite
-
-
-
-
-
-Common
-
-Proper
-
-
-
-Common
-
-
-Indefinite
-Proper
-Common
-Proper
-
-Common
-Common
-
-
-
-
-
-Common
-
-
-Proper
-Demonstrative
-
-
-
-Common
-
-Common
-
-
-
-Common
-
-
-
-
-
-
-
-Proper
-
-
-
-Common
-Proper
-
-Demonstrative
-
-
-
-
-Common
-
-
-Personal
-Proper
-
-Proper
-
-Personal
-
-
-Personal
-
-
-Common
-
-Common
-
-
-Personal
-
-
-
-Proper
-
-
-Common
-
-
-Common
-
-Personal
-Relative
-
-
-
-
-
-
-
-Common
-
-
-
-
-
-
-
-
-
-Common
-
-
-Proper
-Proper
-
-
-
-
-
-Proper
-
-
-Proper
-Proper
-
-
-
-Common
-
-
-Proper
-
-
-Indefinite
-Common
-
-
-
-Personal
-
-Common
-
-
-
-
-
-
-Personal
-
-
-
-
-Common
-
-
-
-
-
-
-Interrogative
-
-
-
-
-
-
-Proper
-Common
-
-
-Proper
-Proper
-
-Common
-Common
-
-Common
-
-
-
-
-
-
-
-Personal
-Demonstrative
-
-
-
-Proper
-
-
-
-
-
-Common
-
-Common
-Proper
-
-
-Personal
-
-Proper
-Common
-
-
-Common
-
-
-
-Personal
-
-
-Common
-
-
-
-
-
-
-Common
-
-
-
-
-
-
-Common
-
-
-Common
-
-
-
-
-
-
-Common
-
-Common
-
-
-Indefinite
-
-
-
-
-
-Common
-
-
-Common
-
-
-Personal
-
-
-Common
-
-Common
-
-
-
-Common
-Proper
-
-Demonstrative
-
-
-Common
-
-
-
-
-
-
-Proper
-
-
-Common
-
-Common
-
-
-
-Proper
-
-Common
-
-
-
-
-Common
-
-
-
-Common
-Proper
-
-
-
-
-
-
-
-
-Common
-Personal
-Common
-
-Common
-
-
-
-Personal
-
-Common
-
-
-Common
-
-
-
-
-
-Indefinite
-
-
-
-
-Common
-
-
-
-
-
-Common
-
-
-
-Common
-
-Common
-Proper
-
-
-Personal
-
-Proper
-Relative
-Proper
-
-
-Indefinite
-Proper
-
-Common
-
-Common
-Demonstrative
-
-
-
-
-
-Common
-
-
 
 Personal
 
@@ -76960,26 +71267,19 @@ Proper
 
 
 
+Common
+
+
+
 Proper
 
-
 Personal
-Interrogative
-
 
 
 
 Personal
-
+Personal
 Common
-
-Relative
-
-
-Common
-
-
-
 
 
 
@@ -76991,95 +71291,14 @@ Personal
 
 
 
-Common
-Demonstrative
-
-Demonstrative
-
-
-
-
-
-
-Proper
-
-
-
-Proper
-
-
-Common
-
 
 Personal
-
-
-
-Common
-
-Common
-Proper
-
-
-
-
-
-
-
-
-
-Common
 Personal
 
 
 
 
-
-
-
-
 Common
-
-
-
-
-
-
-Common
-Personal
-
-
-Common
-Common
-
-
-
-Common
-
-Common
-
-Common
-
-
-
-
-
-
-Demonstrative
-
-
-Proper
-
-
-Common
-
-
-Proper
-
-Proper
-
-
-Proper
 
 
 
@@ -77087,208 +71306,10 @@ Proper
 
 Personal
 
-
-Personal
-
-Proper
-
-
-
-
-
-Proper
-
-
-
-Personal
-Proper
-
-Proper
-Personal
-
-Common
-
-
-Proper
-
-
-
-
-Common
-Demonstrative
 Common
 
 
 
-
-Common
-
-Indefinite
-Proper
-Common
-Common
-
-Common
-
-Proper
-
-
-Common
-
-
-Common
-Relative
-
-
-
-
-Demonstrative
-Common
-
-
-Common
-
-
-
-Demonstrative
-
-Common
-
-Common
-Personal
-
-
-
-
-
-
-
-
-Proper
-
-
-
-
-Proper
-
-Proper
-Demonstrative
-
-
-
-Common
-
-
-
-
-Common
-
-
-Common
-
-
-
-
-Demonstrative
-
-Personal
-
-Common
-
-Common
-
-
-
-
-
-
-Common
-Proper
-
-
-
-
-
-
-
-
-
-Common
-Personal
-Relative
-
-
-Proper
-
-
-Common
-
-
-
-
-
-
-Common
-
-
-
-
-Proper
-
-
-
-
-Common
-
-Common
-
-
-
-
-
-Common
-
-Proper
-
-Proper
-Proper
-Common
-Proper
-
-Proper
-
-
-
-
-Common
-
-
-Personal
-
-Common
-
-Indefinite
-
-
-Proper
-
-Personal
-
-
-
-Personal
-
-
-
-Personal
-
-
-Common
-
-
-
-
-Indefinite
 
 
 
@@ -77301,458 +71322,68 @@ Common
 
 
 Interrogative
+Common
+
+Personal
+
+
+Proper
+
+
+
+Common
+
+Demonstrative
+
+Common
+
 
 
 
 
 
 Common
+Personal
+
+
+Common
+
+
+Personal
+
+Common
+
+
 
 Proper
 
 Personal
 
+Common
+
+
+Common
+Personal
+
+
+
+Common
 
 
 
 Proper
 
 
-Common
-
-
-
-Common
-
-
-
-
-
-Common
-
-
-
-
-
-
-Common
-
-
-
-
 Proper
-
-
-
-Common
-
-
-Common
-
-Common
-
-
-Interrogative
-Common
-
 Relative
 
-
-
-
-Common
-
-Common
-
-
 Proper
-
-
-
-
-
-
 Demonstrative
 
 
-Personal
-
-
-
-
-
-
-
-
-
-Common
-Demonstrative
-
-
-
-
-
-Common
-Personal
-
-
-
-Proper
-
-
-
-Personal
-Common
-
-
-Indefinite
-Common
-
-
-
-Common
-
-
-Personal
-
-
-Indefinite
-
-
-
-
-
-Common
-
-
-
-
-
-Common
-
-
-
-
-
-
-
-Relative
-
-
-
-Common
-
-
-Common
-Demonstrative
-
-Demonstrative
-
-
-
-Common
-
-
-
-
-
-Common
-
-Proper
-
-
-Common
-
-
-
-
-
-
-Proper
-
-
-
-Common
-Demonstrative
-
-
-Personal
-Common
-
-
-
-
-Proper
-
-
-Common
-
-
-Common
-Personal
-
-
-
-
-
-
-
-Proper
-
-Common
-
-
-
-Proper
-
-
-Personal
-Proper
-Proper
-
-
-Proper
-Proper
-
-Proper
-
-Proper
-
-
-Proper
-
-Proper
-Proper
-
-Proper
-
-Demonstrative
-
-
-Personal
-
-Proper
-
-Personal
-
-
-
-Common
-
-
-
-Proper
-
-
-
-Personal
-
-
-Proper
-
-Common
-
-
-
-Common
-
-
-
-
-
-
-Common
-
-Personal
-
-Common
-
-Proper
-
-Personal
-
-
-
-
-
-
-
-Common
-
-Common
-
-
-Common
-
-
-
-Common
-
-
-
-
-Indefinite
-Common
 Common
 Proper
-
-
-
 Common
-
-Common
-
-
-
-Proper
-
-
-
-
-
-Common
-
-
-
-Common
-
-
-
-
-
-
-
-Proper
-
-Personal
-
-
-
-
-
-
-
-Common
-Personal
-
-Personal
-
-
-
-
-
-
-Common
-
-
-
-
-
-
-
-Common
-
-
-
-
-
-Common
-
-
-
-
-
-
-Personal
-
-
-
-Common
-
-
-
-Proper
-
-
-
-
-Proper
-
-
-
-
-
-Personal
-
-
-
-
-Personal
-
-
-Proper
-
-Personal
-
-
-Proper
-
-
-
-
-
-
-Proper
-
-
-
-
-
-Proper
-
-
-
-
-
-Proper
-
-
-
-Proper
-
-
-Proper
-
-
-
-Personal
-
-
-
-Proper
-
-
-
-
-
-Personal
-
-Common
-
-Common
-
-
-Proper
-
-
-
-Proper
-
-
-Proper
-
-
-
 
 Common
 
@@ -77760,36 +71391,12 @@ Common
 
 
 Personal
-
-Personal
 Personal
 
 
 
-Common
-
-Relative
 
 
-
-Proper
-
-
-Personal
-
-
-Common
-
-
-
-Common
-
-
-Common
-
-Common
-
-Common
 
 
 Personal
@@ -77801,81 +71408,36 @@ Common
 
 
 
-
-
-
-
-
 Personal
-
-
-Personal
-
 
 
 Common
-
-
 
 
 Proper
 
-
-Common
-Common
-
 Common
 
 
 Common
-Personal
-Proper
-
-
-
-
-
-Common
-Personal
-
-
-Proper
-
-
-Personal
-
-Personal
-
 
 
 
 
 Common
 
+Common
+
 
 
 Common
+
 
 Personal
 
 
 Common
 
-Common
-Personal
-
-
-
-Common
-
-
-Common
-
-Personal
-
-
-
-Common
 Personal
 
 
@@ -77883,232 +71445,46 @@ Common
 Relative
 
 
-
 Common
 Proper
 
-
 Common
 
-Common
-
-Common
-
-
-
-Personal
-
-
-
-
-
-Common
-Personal
-Personal
-
-
-Relative
-
-
-
-Common
-
-
-Personal
-
-
-
-Common
-
-
-
-
-
-Common
-
-
-
-
-
-
-
-
-
-Common
-
-Common
-Personal
-
-Personal
-
-
-
-Common
-
-Relative
-Personal
-
-Common
-
-
-
-Common
-
-
-Common
-
-Common
-Relative
-
-
-
-Common
-
-
-Personal
-
-
-
-
-
-Common
-Personal
-Common
-
-
-Personal
-
-
-
-Common
-
-
-Personal
-Personal
-
-Common
-
-
-
-
-
-Common
-
-Personal
-
-
-
-
-Common
-Common
-
-Common
-
-
-
-Common
-
-
-
-
-
-
-
-Personal
-
-Common
-
-
-Common
-
-Common
-Personal
-
-
-
-
-
-
-Common
-
-
-
-
-Common
-
-Common
-
-Common
-
-
-Personal
-
-
-
-Common
-Personal
-
-
-
-
-Personal
-
-
-Common
+Proper
+Proper
 Demonstrative
 
 
-Personal
-
-
-
-
-
-
-
-
-
-
-Common
-
-Common
-Proper
-
-Personal
-
-
-
-
-
-
-
-
-Demonstrative
-
-
-
 Common
 Personal
 
 
-Personal
-
-
-
 
 Common
 
 
-
-
-
-Common
 
 Proper
 
+
+
+Proper
+
+
+Common
+Relative
+
+Proper
+Proper
+
+
+Proper
+
+
 Personal
 
-
+Common
+Common
 
 
 Common
@@ -78118,7 +71494,66 @@ Relative
 
 
 
+
+
+
+
+
+
+
 Common
+
+
+Personal
+
+Personal
+Common
+
+Relative
+
+
+
+
+Common
+
+
+
+Proper
+Relative
+
+
+
+
+Common
+Demonstrative
+
+Common
+
+
+
+
+Common
+
+
+Personal
+
+
+
+
+
+Common
+
+Common
+
+
+
+
+Common
+Personal
+Relative
+
+
+
 Personal
 
 
@@ -78126,7 +71561,38 @@ Personal
 Personal
 
 
+
+
+Personal
+
+
 Common
+
+
+
+Demonstrative
+
+
+
+
+
+Common
+Common
+
+
+
+Demonstrative
+
+
+Common
+
+Common
+Common
+
+
+
+Common
+Personal
 
 
 
@@ -78134,72 +71600,42 @@ Common
 Personal
 
 
-Personal
-
-
-
 
 Proper
-
-
-
-
-
-Proper
-
-
-Proper
-
 
 Common
-
-
-Proper
-
-
-
-
-
-Proper
-
-
-Personal
-
-
-
-Proper
-
-
-
-Proper
-
+Demonstrative
 
 
 Common
 
 
 
+
+
+
+
 Common
 
 
-
-Common
 
 
 Common
 
 Relative
 
+
 Proper
+
 
 
 
 Common
 
+Common
 
 
-Proper
-
+Common
 
 
 
@@ -78209,85 +71645,10 @@ Common
 
 
 
-Personal
-
-
-Common
-
-Common
-
-
-
-Common
-
-
-
-Common
-
-
-Common
-
-
-Personal
-
-
-
-
-Common
-
-Demonstrative
-
-
-
-
-
-Personal
-
 Common
 
 
 Proper
-
-
-Proper
-
-
-
-Common
-
-Common
-
-
-Personal
-
-
-
-
-
-
-Proper
-
-
-
-
-Common
-Proper
-
-Common
-
-
-
-
-
-
-Personal
-
-Demonstrative
-
-Common
-
-Common
-
 
 
 Common
@@ -78296,57 +71657,204 @@ Common
 Indefinite
 
 
-Proper
-Common
-Common
-Proper
-
-
-
-Personal
-
-
-
-Common
-
-Proper
-
-Personal
-
-Common
-
-
-Common
 
 Demonstrative
+Relative
+
+Common
+
+
+
+
+
+Personal
+
+
+Personal
+
+
+Common
+Proper
+Proper
+
+
+
+Personal
+
+Common
+Indefinite
+
 
 
 Common
 
+
+Common
+
+
+
+
+Proper
+
+
+
+Common
+
+
+Common
+
+Common
+
+
+
+Proper
+
+Proper
+
+
+Personal
+
+
+Common
+
+
+
+
+Common
+Common
+
+
+
+Personal
+
+
+Proper
+
+Personal
+
+
+Personal
+
+
+Common
+Proper
+
+
+
+
+Common
+Common
+
+Common
+Indefinite
+
+Common
+
+
+Common
+
+
+
+Common
+
+
+
+Personal
+
+Relative
+
+
+
+
+
+
+
+Common
+
+
+Common
+
+
+Common
+
+
+
+
+Common
+
+
+
+Common
+
+Personal
+
+Proper
+
+
+
+
+
+
+Common
+
+
+
+
+
+
+
+
+Common
+Personal
+
+
+
+
+Common
 
 
 Common
 Relative
 
+Common
+
+Personal
+
+
+Demonstrative
+
+
+
+
+
+
+
+
+
 
 Common
-Demonstrative
+
+
+
+
+Common
+
+
+
+Common
+
+Relative
 
 
 
 Proper
 
-
+Personal
 
 
 
 Common
-Common
-
-
-
-Demonstrative
-
+Personal
 
 Personal
 
@@ -78354,24 +71862,6516 @@ Personal
 
 
 
+Personal
+
+
+
+Common
+Demonstrative
+
+
+
+
+Common
+
+Common
+
 
 Personal
 
+
+
+Common
+
+
+Common
+Personal
+
+
+
+
+
 Proper
 
 
+Proper
+
 
 Proper
+Relative
+
+Common
+
+Personal
+
+Relative
+
+Personal
+
+
+
+Common
+Personal
+
+
+
+
+Personal
+
+
+
+Common
+
+
+
+Personal
+
+
+
+Personal
+
+Common
+
+
+
+Common
+
+Common
+
+
+Proper
+
+
+Common
+Personal
+
+
+
+Common
+
+
+
+
+
+Common
+
+Personal
+
+Common
+
+
+Personal
+
+
+
+Common
+Proper
+Proper
+Personal
 Interrogative
 
 
 
 
+Common
+
+
+Demonstrative
+
+
+
+
+Common
+
+
+
+
+Common
+
+Common
+
+Common
+
+Common
+
+
+
+
+
+
+
+Common
+
+
+
+Common
+
+
+Proper
+
+Proper
+
+Proper
+
+
+
+Common
+
+
+
+
+
+
+Indefinite
+
+Personal
+Common
+Proper
+
+Proper
+Relative
+
+
+Proper
+
+
+
+
+Proper
+
+
+Common
+Proper
+
+
+Common
+Common
+
+Personal
+
+
+Common
+
+
+
+
+
+Common
+
+
+
+Common
+
+
+Common
+
+Common
+
+
+
+Proper
+
+Personal
+
+
+Proper
+
+Proper
+Relative
+
+
+
+
+Common
+
+
+Common
+
+
+
+
+
+Common
+
+Common
+
+
+Common
+
+
+Common
+
+
+
+Common
+
+
+Common
+
+
+Common
+
+
+Common
+
+
+
+Proper
+
+Proper
+
+
+
+
+Proper
+
+
+Personal
+
+Common
+
+
+
+
+Common
+
+
+Common
+
+
+
+
+
+Proper
+
+Common
+Proper
+
+Demonstrative
+
+
+Common
+
+
+Proper
+Common
+
+Proper
+
+
+
+
+Personal
+Common
+Proper
+
+
+
+Common
+Common
+
+
+
+
+
+
+Common
+Relative
+
+
+Proper
+
+
+Common
+
+
+Indefinite
+
+
+Personal
+
+Common
+
+
+
+
+
+Proper
+Common
+Relative
+
+
+
+
+
+
+
+Common
+Proper
+
+Proper
+
+Demonstrative
+
+
+Common
+
+Proper
+
+Common
+
+Common
+
+Indefinite
+
+
+
+Common
+
+
+Proper
+
+Common
+Proper
+Common
+
+
+
+
+
+
+
+
+
+
+Proper
+
+
+Common
+
+
+Relative
+
+
+
+
+Common
+
+
+Common
+Common
+
+Personal
+
+
+
+Common
+
+Personal
+
+Common
+
+
+
+Proper
+
+
+
+Common
+Common
+
+
+
+
+
+
+Common
+
+
+Common
+
+Personal
+
+
+
+
+Personal
+
+Proper
+
+Common
+Demonstrative
+
+
+Proper
+
+
+
+Common
+
+Common
+
+Common
+
+
+
+Common
+
+
+Common
+
+
+Common
+Common
+
+
+Common
+
+
+
+Common
+
+
+
+Common
+
+Proper
+
+Personal
+
+
+
+Common
+
+
+Personal
+
+Common
+
+
+Common
+
+
+
+Common
+
+Personal
+
+
+
+
+Common
+Personal
+
+
+
+
+
+Personal
+
+
+Common
+Personal
+
+
+Personal
+
+
+
+
+
+
+
+
+
+
+
+
+
+Common
+
+
+Common
+
+
+
+
+Common
+
+
+
+
+
+Common
+
+
+
+
+
+
+Common
+Relative
+
+
+Personal
+
+
+
+Common
+
+
+
+
+
+Common
+
+Personal
+
+
+Proper
+
+Personal
+
+
+
+
+
+
+
+
+Common
+
+Common
+Personal
+
+
+Personal
+
+Common
+Proper
+
+
+
+Common
+
+Common
+
+
+
+
+
+
+
+Common
+
+Proper
+
+Common
+Proper
+
+
+Proper
+
+
+
+
+
+
+
+
+Personal
+
+Common
+
+Common
+
+Common
+
+Common
+Proper
+
+
+
+Common
+
+Proper
+
+
+Common
+
+
+
+Common
+
+
+
+
+
+Proper
+
+
+Common
+
+
+
+Personal
+
+
+
+
+
+
+
+
+
+
+
+Common
+
+Personal
+
+
+Proper
+
+
+
+
+
+Personal
+
+
+
+
+Personal
+
+Common
+
+
+Personal
+
+
+Common
+Personal
+
+
+
+Common
+
+
+
+Proper
+
+
+Common
+Demonstrative
+
+
+
+
+
+Common
+
+
+Common
+
+Common
+
+
+
+
+Common
+Interrogative
+
+
+Proper
+
+Proper
+
+
+Personal
+
+
+
+
+
+Common
+
+
+
+
+
+
+Proper
+
+Proper
+
+
+
+
+Proper
+
+
+
+
+
+
+Personal
+
+
+Proper
+
+
+
+Common
+
+Common
+
+Common
+
+
+
+Personal
+
+Common
+
+
+
+
+
+Common
+
+Proper
+
+Common
+
+
+
+
+Common
+
+
+Personal
+
+
+Common
+
+Common
+Common
+
+
+Common
+
+
+
+Personal
+Common
+Common
+
+Relative
+
+
+
+Common
+
+Common
+
+
+
+
+
+
+Common
+
+Common
+
+
+
+Proper
+
+
+Proper
+
+
+Proper
+
+
+Common
+
+Proper
+
+
+Proper
+
+
+
+Proper
+
+
+
+Common
+Common
+
+Common
+
+
+Proper
+
+Proper
+
+
+Proper
+
+Proper
+
+Proper
+Proper
+
+Proper
+
+Common
+
+
+Proper
+
+
+Personal
+
+Common
+
+
+
+
+Common
+
+
+
+
+Personal
+
+Proper
+
+Proper
+
+
+Common
+Relative
+
+Personal
+
+
+
+
+
+
+
+Common
+Personal
+
+Personal
+
+
+
+
+
+
+Common
+
+
+Proper
+
+
+
+
+Proper
+
+
+
+Proper
+
+
+Common
+
+Common
+
+
+Common
+
+
+
+
+
+Proper
+Common
+
+
+
+
+Common
+
+Proper
+
+Common
+Indefinite
+Common
+Common
+
+Relative
+Common
+Proper
+Relative
+
+
+
+Common
+Proper
+Proper
+Common
+
+Demonstrative
+
+Proper
+
+Proper
+
+
+
+Common
+
+Common
+
+
+Personal
+Proper
+
+Common
+
+
+
+
+Common
+Personal
+
+
+
+Common
+
+
+Common
+Proper
+
+
+
+Proper
+
+Common
+
+
+
+Personal
+
+
+
+
+Common
+
+
+Common
+Common
+
+
+
+Common
+
+
+
+
+Common
+
+Common
+
+
+
+
+
+Common
+Common
+
+Personal
+
+
+
+
+
+
+Common
+
+Common
+
+
+
+
+Personal
+Common
+
+Common
+
+
+
+Common
+
+
+
+Common
+
+
+
+
+
+
+Common
+
+Common
+
+
+
+
+Proper
+
+
+Proper
+
+
+Proper
+
+Proper
+Proper
+
+
+
+Personal
+
+
+Proper
+Personal
+
+
+
+
+Proper
+
+
+Proper
+
+Proper
+
+
+
+
+Common
+
+Common
+
+Common
+
+
+
+
+Common
+
+Common
+
+
+Common
+
+
+Common
+
+Personal
+
+Common
+Common
+
+Indefinite
+
+
+Personal
+Common
+Common
+
+
+Common
+
+
+
+Proper
+
+
+
+Common
+
+Common
+Proper
+
+
+
+
+Common
+
+
+Common
+
+Common
+Demonstrative
+Proper
+
+
+Common
+Personal
+
+
+Common
+
+
+
+Common
+
+Common
+Proper
+
+
+Common
+
+
+Personal
+
+Personal
+
+
+
+Common
+
+Personal
+
+
+
+
+
+Common
+
+
+Common
+Proper
+
+
+Common
+Personal
+
+Common
+
+
+
+
+
+Demonstrative
+
+Common
+
+Proper
+Common
+
+
+Common
+
+
+Personal
+
+Common
+
+Proper
+Common
+Proper
+Common
+
+Common
+Proper
+Common
+
+
+
+Personal
+
+
+Proper
+Personal
+
+Common
+Relative
+
+
+
+
+Proper
+
+
+Proper
+Common
+
+
+Common
+Personal
+Relative
+
+
+
+Common
+Personal
+Demonstrative
+
+Common
+
+
+Common
+
+Common
+
+
+Proper
+Common
+Proper
+
+Proper
+
+Common
+
+Common
+Personal
+Common
+Common
+
+
+Common
+Proper
+
+
+
+Proper
+
+Common
+
+Interrogative
+Personal
+
+
+
+
+Personal
+
+
+
+
+Personal
+Relative
+
+
+
+
+Common
+
+Common
+
+Common
+Common
+Common
+Common
+Proper
+
+
+
+Personal
+
+
+Common
+Personal
+
+Common
+
+Common
+Demonstrative
+
+
+
+
+
+Proper
+
+
+Common
+Personal
+Demonstrative
+
+
+
+Common
+
+Common
+
+
+
+Common
+
+
+
+
+
+Common
+Common
+
+
+Proper
+
+Personal
+
+
+
+
+
+
+Personal
+
+
+
+
+Common
+
+
+Common
+
+
+Common
+
+Personal
+
+
+Relative
+
+
+Common
+
+
+
+Personal
+
+
+Proper
+
+Proper
+Relative
+
+
+Common
+Personal
+
+
+Common
+
+Personal
+Personal
+
+
+
+
+Common
+Common
+
+
+Demonstrative
+
+Common
+
+
+Common
+Personal
+
+Proper
+
+
+
+
+Common
+
+
+
+Common
+Personal
+
+Personal
+Personal
+
+
+Personal
+
+
+
+Personal
+
+
+
+
+
+
+Common
+
+
+
+
+Personal
+
+
+Proper
+
+
+
+
+
+
+
+
+
+
+
+Personal
+
+Common
+Proper
+
+
+
+Common
+
+
+
+Common
+Common
+
+
+
+
+
+Common
+Personal
+
+
+Common
+Relative
+
+
+Common
+
+
+
+Common
+
+
+
+Personal
+Common
+Common
+
+
+Demonstrative
+Personal
+Common
+Common
+
+
+
+
+Relative
+
+
+
+Common
+Proper
+
+
+Demonstrative
+
+
+
+
+
+
+
+
+
+
+
+
+Common
+
+
+Common
+
+
+
+
+
+Common
+
+Personal
+
+
+Common
+Personal
+Common
+Relative
+
+
+
+
+Indefinite
+
+Personal
+
+
+Personal
+
+
+
+
+Common
+
+Personal
+
+Common
+Demonstrative
+
+
+
+Common
+
+
+
+
+
+
+
+Common
+
+Proper
+
+
+Proper
+Relative
+
+Personal
+
+Personal
+
+
+Common
+
+Common
+
+
+
+Common
+
+
+
+Common
+
+
+
+Common
+
+Common
+
+
+
+
+
+Common
+
+Common
+
+
+
+
+Proper
+
+
+
+
+
+Proper
+
+
+Proper
+
+Personal
+
+
+
+
+
+Common
+
+Common
+
+
+Personal
+
+
+
+
+Personal
+
+
+Common
+
+
+
+
+Common
+
+
+
 Personal
 
 Common
 
 Personal
+
+Common
+Common
+
+
+Personal
+
+Common
+
+
+
+Common
+
+
+
+Common
+
+
+
+
+Common
+
+Common
+
+
+Relative
+
+
+
+Common
+
+
+
+
+Common
+
+Common
+
+
+
+Common
+
+
+
+
+
+
+Common
+
+
+
+
+
+
+Common
+
+
+Common
+
+
+Proper
+
+Proper
+
+
+Personal
+
+
+Common
+Personal
+
+
+
+
+Common
+
+Common
+
+Personal
+
+
+Proper
+
+
+Common
+
+Common
+
+Common
+
+
+
+
+Proper
+
+
+
+
+Personal
+
+
+Common
+
+
+
+
+
+
+
+
+
+
+Proper
+
+Common
+
+
+
+
+
+
+
+
+Common
+
+Common
+
+
+Common
+
+
+
+Common
+
+
+
+
+Common
+
+
+
+
+Common
+
+Common
+Personal
+
+Common
+
+Common
+
+
+
+Common
+Personal
+
+
+
+Common
+
+Common
+
+
+
+
+
+
+
+
+
+
+
+Common
+
+
+
+Common
+
+Common
+
+
+
+
+
+Common
+Personal
+
+
+
+Personal
+
+
+
+
+Common
+
+Proper
+Proper
+
+Proper
+
+
+
+
+
+
+
+Indefinite
+Common
+
+
+Proper
+
+Common
+
+
+
+Common
+Common
+Personal
+Relative
+
+
+Demonstrative
+
+
+Proper
+
+Relative
+
+Personal
+
+
+
+
+Common
+
+
+
+
+Common
+
+
+
+Common
+Personal
+
+
+
+
+
+
+
+Common
+
+Relative
+
+Proper
+
+
+Common
+Personal
+
+
+
+Common
+
+Common
+
+
+Personal
+
+
+
+Proper
+Proper
+
+
+Proper
+Proper
+
+Personal
+
+
+
+
+Common
+
+
+Common
+
+Proper
+
+
+
+
+Common
+Common
+
+Common
+
+
+Common
+
+
+
+Common
+
+
+
+
+
+Common
+Proper
+
+Proper
+
+
+Common
+Personal
+
+
+
+Common
+
+
+
+Common
+Interrogative
+Demonstrative
+
+
+Personal
+
+
+Personal
+Common
+
+Personal
+
+Demonstrative
+
+
+
+
+Common
+
+Relative
+
+
+Common
+
+
+Common
+
+
+Common
+
+
+
+
+Personal
+Relative
+
+
+
+Common
+
+
+
+Common
+
+
+Common
+Personal
+
+
+
+Personal
+
+
+
+Personal
+Common
+
+
+Common
+
+
+Common
+
+Common
+
+Common
+Personal
+
+Demonstrative
+
+
+
+
+Common
+
+
+
+Personal
+
+
+
+Proper
+
+Proper
+
+
+
+
+Common
+
+
+
+Proper
+
+
+
+Common
+
+Personal
+
+
+
+
+Common
+Personal
+
+
+
+
+Common
+
+
+
+
+
+
+Proper
+
+Proper
+
+
+
+Common
+Demonstrative
+
+
+
+
+
+
+Proper
+
+
+Proper
+
+
+Proper
+
+
+Common
+
+Common
+
+
+
+Common
+
+
+
+
+Common
+
+Personal
+
+
+
+Common
+
+Common
+
+
+Personal
+
+Common
+
+
+
+Common
+
+Personal
+
+Common
+
+Relative
+
+
+
+
+Proper
+
+
+
+Proper
+
+
+
+Proper
+
+Common
+
+
+Proper
+
+
+
+Proper
+
+
+
+
+Common
+
+Common
+
+
+Common
+Relative
+
+
+
+
+
+
+Common
+
+Relative
+
+
+Common
+
+Personal
+
+
+
+
+Common
+Common
+Common
+
+
+Common
+
+
+
+
+Common
+
+Indefinite
+
+
+
+Proper
+
+
+Common
+
+
+
+
+
+Common
+
+Proper
+
+
+
+
+
+Common
+
+Common
+
+
+
+Proper
+
+
+Proper
+
+Personal
+
+
+Proper
+
+Proper
+
+Indefinite
+
+
+Personal
+
+
+Common
+
+
+
+Proper
+
+
+Common
+Demonstrative
+
+
+
+
+
+
+Common
+
+
+
+Proper
+
+Proper
+
+
+Common
+
+Common
+
+
+Common
+
+
+
+Common
+
+
+
+Proper
+
+
+
+Common
+
+
+Common
+
+
+
+
+
+Relative
+
+Common
+
+
+Personal
+
+
+Indefinite
+
+
+
+Common
+
+Proper
+
+
+
+
+
+Personal
+
+
+
+
+Common
+Proper
+
+
+
+Common
+
+
+
+
+
+
+Common
+Demonstrative
+
+
+Common
+
+
+Proper
+
+
+Personal
+Common
+Common
+Personal
+
+
+
+Common
+
+
+Personal
+
+
+Common
+
+
+Common
+Personal
+
+
+Common
+
+Common
+
+Common
+
+
+
+
+Common
+Common
+
+Personal
+
+
+Common
+
+
+
+
+Personal
+
+
+
+
+Personal
+
+
+Personal
+
+Common
+
+
+Common
+Personal
+
+
+Interrogative
+
+
+Common
+
+Common
+
+
+Common
+
+Common
+Relative
+
+
+Common
+Personal
+
+Personal
+
+
+
+
+
+Common
+
+Common
+Proper
+
+
+
+Relative
+Common
+
+
+
+
+
+Common
+
+
+Proper
+
+Proper
+
+Relative
+
+
+Common
+Common
+
+Common
+
+
+Common
+
+Personal
+
+
+
+
+Personal
+
+Proper
+
+Common
+Common
+
+Personal
+Proper
+
+
+
+
+Common
+
+
+
+Common
+Common
+
+Common
+Personal
+
+Demonstrative
+
+
+Common
+
+Common
+
+
+
+Demonstrative
+
+
+
+
+Common
+Proper
+
+
+
+
+
+Personal
+
+
+
+Personal
+
+
+
+
+
+
+Common
+
+Common
+
+
+
+Common
+
+Relative
+
+
+Common
+Personal
+
+Personal
+
+Common
+
+Demonstrative
+
+
+Common
+
+Personal
+
+
+
+
+
+
+Common
+
+
+
+Common
+
+
+Personal
+
+
+
+Common
+
+Common
+
+
+Common
+
+
+
+
+Common
+Proper
+
+
+Common
+
+
+Common
+
+
+Personal
+
+
+
+Common
+
+
+Common
+
+
+
+
+Common
+
+
+
+
+
+
+Common
+
+Common
+
+Personal
+
+
+Proper
+
+
+Proper
+
+Proper
+Proper
+
+
+Proper
+
+Proper
+Common
+
+
+
+Common
+
+
+Common
+Personal
+
+Common
+
+
+
+Common
+
+
+
+Proper
+
+Proper
+
+Proper
+Common
+
+
+Common
+
+
+
+
+Indefinite
+
+Personal
+
+Personal
+Common
+
+
+Common
+Personal
+Relative
+
+
+
+Personal
+
+
+
+Common
+
+
+Personal
+
+
+
+Personal
+Proper
+
+Proper
+Common
+
+
+Common
+Personal
+
+
+Common
+
+Common
+Personal
+Proper
+Proper
+
+
+Proper
+
+Proper
+
+Personal
+
+Common
+
+
+
+
+
+
+Common
+
+
+
+Personal
+
+
+
+Personal
+Common
+
+Demonstrative
+
+
+
+
+
+Common
+
+
+
+Common
+
+Relative
+
+Personal
+
+
+
+
+
+
+
+
+
+Proper
+
+
+
+Common
+
+
+Common
+
+
+
+
+
+Common
+Proper
+
+
+Proper
+
+Personal
+Common
+
+
+Common
+
+
+
+Common
+
+
+
+
+Common
+
+
+Common
+
+
+Common
+
+
+
+Personal
+Proper
+
+
+Proper
+
+
+Proper
+
+
+
+
+
+
+
+
+Common
+
+Common
+
+
+Indefinite
+Common
+
+
+Proper
+Proper
+
+
+
+
+Common
+
+Common
+
+
+Relative
+
+
+Common
+
+Common
+
+
+Proper
+
+
+
+
+
+Proper
+
+
+Proper
+Proper
+
+
+
+
+
+Personal
+
+Proper
+
+
+
+Personal
+
+
+Common
+
+
+Demonstrative
+
+
+Common
+
+
+Personal
+
+Personal
+
+
+Proper
+
+
+Proper
+
+
+Proper
+Proper
+
+
+Proper
+
+
+
+Common
+
+Common
+
+
+Common
+
+
+
+Proper
+
+Proper
+
+
+Common
+
+
+
+
+Proper
+
+
+Proper
+
+
+Common
+Indefinite
+
+
+Common
+Proper
+Common
+Common
+
+
+Common
+
+Proper
+Relative
+
+
+
+
+Proper
+
+Proper
+Common
+Demonstrative
+
+
+Proper
+
+Personal
+
+
+
+
+Personal
+
+
+
+
+
+
+
+Common
+Demonstrative
+
+
+
+
+Proper
+
+Common
+Personal
+
+
+
+
+
+Common
+
+Personal
+
+
+Common
+
+
+
+
+Common
+
+
+
+
+Proper
+
+
+
+Common
+
+
+Common
+
+
+
+Common
+
+Common
+
+
+
+Proper
+
+
+Common
+
+
+
+
+Common
+
+
+Common
+
+
+Proper
+
+
+
+
+Proper
+
+
+
+Proper
+
+
+
+
+Personal
+
+Common
+Proper
+
+
+
+Proper
+
+
+Proper
+
+Common
+
+Common
+
+Proper
+
+Common
+Proper
+Indefinite
+
+
+
+
+Personal
+
+
+
+
+Proper
+
+Personal
+
+
+
+Common
+
+
+
+
+
+Proper
+
+
+
+Personal
+
+Common
+
+Personal
+
+
+
+Proper
+
+
+Proper
+
+
+
+
+
+Common
+
+
+Proper
+Relative
+
+
+
+Common
+Proper
+Common
+Common
+
+
+
+Demonstrative
+
+Common
+
+Common
+Indefinite
+
+
+Common
+
+Common
+
+
+
+Common
+
+Common
+
+
+Common
+
+
+
+
+
+
+Common
+
+Indefinite
+Common
+Common
+Proper
+Common
+Common
+Proper
+
+
+Common
+
+Relative
+
+Common
+
+
+Common
+
+
+
+
+Proper
+
+
+
+
+
+Common
+Personal
+
+
+
+
+Personal
+
+
+Common
+
+
+
+
+Common
+Personal
+
+
+
+Personal
+
+
+
+Personal
+
+
+Common
+Common
+Indefinite
+
+Common
+Common
+
+Personal
+Relative
+Common
+
+
+
+Common
+Personal
+
+Demonstrative
+
+
+Proper
+
+Personal
+
+
+Demonstrative
+
+Common
+Common
+
+Common
+
+
+
+Relative
+
+Personal
+Common
+Common
+Demonstrative
+
+
+
+
+Common
+
+
+Proper
+
+
+
+Common
+
+
+Personal
+
+Common
+Proper
+Proper
+
+
+Personal
+
+
+Personal
+
+Common
+
+
+
+Common
+Personal
+
+
+
+Common
+
+Common
+Personal
+
+
+Proper
+
+
+Proper
+
+
+
+Common
+
+
+Common
+
+
+Personal
+
+Common
+
+Demonstrative
+
+Common
+
+Personal
+
+Common
+
+
+
+
+Common
+Relative
+
+
+Personal
+
+
+
+
+
+
+
+
+Common
+
+Personal
+
+
+Common
+
+Personal
+
+Common
+
+
+
+
+
+Personal
+Common
+
+
+Common
+
+
+Common
+
+
+Personal
+Relative
+Common
+Demonstrative
+
+
+Personal
+
+
+
+Common
+
+
+Common
+
+Personal
+
+
+Common
+
+
+
+Common
+Proper
+
+Proper
+
+
+
+Common
+
+
+Personal
+
+Common
+
+
+Common
+
+
+
+
+
+Common
+
+Common
+
+
+
+
+Common
+
+
+
+
+Common
+
+
+
+
+
+Common
+
+
+
+
+Common
+
+Common
+
+
+Common
+
+Personal
+
+
+
+
+Common
+
+
+Proper
+
+Common
+
+
+
+Personal
+
+
+
+
+
+
+
+Common
+
+
+
+
+
+
+Proper
+
+Proper
+
+
+Personal
+
+
+Common
+Interrogative
+Personal
+
+
+
+
+
+
+
+
+
+
+Common
+Proper
+
+
+Personal
+
+
+Common
+Personal
+
+
+Personal
+
+Common
+
+Common
+
+
+
+
+
+Common
+Personal
+
+
+Personal
+
+Demonstrative
+
+Common
+
+Common
+
+
+
+Common
+
+
+Personal
+
+
+Personal
+
+
+
+
+Personal
+
+
+Common
+
+Common
+
+
+
+
+
+Common
+Common
+
+
+
+
+Common
+
+Common
+
+
+
+Common
+Demonstrative
+
+
+
+Common
+
+Common
+Demonstrative
+
+
+Proper
+
+
+
+Common
+
+
+
+
+
+
+
+Common
+
+
+Proper
+
+
+Personal
+
+Personal
+
+
+Common
+
+
+
+
+Common
+
+
+
+Personal
+
+
+
+
+
+Personal
+Personal
+
+
+
+
+Common
+
+Common
+
+Common
+Demonstrative
+
+
+
+
+
+
+
+
+
+Personal
+
+
+
+
+
+
+Common
+
+
+
+
+Common
+
+
+
+Proper
+
+
+
+
+Common
+
+
+
+
+
+Proper
+
+
+Proper
+
+
+Proper
+
+
+Common
+
+
+
+
+
+
+
+Proper
+
+
+Personal
+
+
+Common
+
+
+Personal
+
+
+Common
+
+
+
+
+
+Proper
+
+
+
+
+
+
+
+
+Demonstrative
+
+
+Proper
+
+Proper
+Relative
+Personal
+
+Personal
+
+Indefinite
+
+Personal
+
+
+
+
+Proper
+
+
+Proper
+
+
+
+Proper
+Common
+
+Common
+
+
+
+
+
+
+
+
+
+
+
+
+
+Common
+Indefinite
+
+
+
+
+
+Common
+
+
+
+Common
+Proper
+
+Personal
+
+
+
+Common
+
+
+
+Personal
+
+Proper
+
+Indefinite
+Common
+
+
+Common
+
+
+
+
+Common
+
+Demonstrative
+
+
+
+Relative
+
+Proper
+
+Demonstrative
+
+
+
+Common
+Proper
+
+Common
+
+
+
+Proper
+
+
+
+Common
+
+
+Common
+
+Demonstrative
+
+
+
+
+
+
+Proper
+
+
+
+
+Personal
+
+
+Common
+
+
+Common
+
+
+
+Proper
+
+
+Proper
+
+Proper
+Relative
+
+
+
+Common
+
+
+
+Demonstrative
+
+
+
+
+
+Proper
+Relative
+
+
+Common
+
+
+Common
+
+
+Common
+
+
+Common
+
+
+Demonstrative
+
+
+
+
+
+Personal
+
+
+
+Proper
+Common
+
+
+
+Common
+
+
+
+
+
+
+
+
+Proper
+
+
+
+
+
+Proper
+
+
+
+Proper
+
+Common
+
+Common
+
+
+
+
+
+
+Common
+
+
+
+
+Proper
+
+
+Common
+
+
+
+
+Common
+
+
+
+
+Proper
+
+
+Proper
+
+
+
+
+
+Proper
+
+
+Proper
+
+
+Common
+
+
+Proper
+
+
+Proper
+
+
+
+
+
+Personal
+
+
+
+
+Proper
+
+Personal
+
+Proper
+
+
+Common
+Personal
+
+Personal
+
+
+
+
+Common
+
+
+
+
+
+Common
+
+
+
+
+
+
+
+
+Common
+
+
+Common
+
+
+
+Indefinite
+
+
+
+Proper
+
+
+Common
+
+Personal
+
+Indefinite
+
+Interrogative
+
+
+
+
+Demonstrative
+
+
+
+
+Common
+
+Common
+
+
+
+Proper
+
+
+Common
+
+
+
+Personal
+
+
+
+Common
+
+
+
+
+Interrogative
+
+
+Demonstrative
+
+
+Personal
+
+Common
+
+
+Indefinite
+
+
+
+Common
+Personal
+
+
+
+Interrogative
+
+Demonstrative
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Indefinite
+
+
+Indefinite
+
+
+
+Proper
+
+
+
+
+Common
+
+Common
+
+
+
+
+
+Personal
+
+
+
+
+
+
+Common
+Personal
+
+
+Common
+
+Relative
+
+
+Common
+Relative
+
+
+
+Demonstrative
+Personal
+
+Personal
+
+Common
+
+
+
+Common
+
+
+
+
+Personal
+Demonstrative
+Common
+
+Common
+
+Common
+
+
+
+Common
+
+
+
+Common
+
+
+
+Indefinite
+Personal
+
+
+Common
+
+Common
+
+
+
+
+
+
+
+
+Common
+Common
+
+
+
+Common
+
+Common
+
+
+Common
+
+
+Common
+
+Common
+Personal
+
+
+Common
+
+
+
+
+Personal
+
+
+
+
+
+
+
+
+
+Personal
+
+
+Personal
+
+
+
+
+
+
+
+
+Indefinite
+
+
+Personal
+Common
+
+
+
+
+Common
+
+Common
+
+
+
+Common
+
+
+
+Common
+
+Common
+
+Common
+Common
+Common
+
+Common
+Common
+
+
+
+
+
+
+
+Common
+
+Common
+
+
+Common
+
+
+
+
+Common
+
+
+
+
+
+Common
+
+Relative
+
+
+
+Common
+
+Common
+
+Common
+Relative
+
+Common
+
+
+
+Personal
+
+
+
+
+Common
+
+
+
+
+
+
+
+
+Personal
+
+Demonstrative
+
+
+
+
+Proper
+
+
+
+Personal
+Indefinite
+
+Common
+
+Personal
+
+
+Relative
+
+Proper
+
+Proper
+
+Common
+Common
+Proper
+
+
+
+Personal
+
+Demonstrative
+
+
+
+Proper
+
+
+Proper
+
+
+Indefinite
+
+Common
+Proper
+
+
+Common
+
+
+
+
+Proper
+
+Proper
+Common
+Personal
+
+
+
+Proper
+
+
+
+
+
+
+Proper
+
+Personal
+
+
+
+
+
+
+
+Personal
+
+
+
+
+Common
+
+Common
+
+
+
+
+Common
+
+
+Common
+
+
+
+
+Proper
+
+
+
+
+
+Proper
+
+
+Proper
+
+
+Proper
+
+
+Common
+
+Proper
+
+
+
+
+
+Proper
+Proper
+
+
+Personal
+
+
+
+
+Common
+
+
+Personal
+
+Common
+Personal
+
+
+Common
+Personal
+
+Personal
+
+
+
+
+
+Common
+
+
+
+
+
+
+Common
+Indefinite
+Common
+Proper
+Proper
+
+
+Common
+Relative
+
+Common
+
+
+
+Common
+Proper
+
+
+Common
+
+
+Common
+
+
+
+Common
+Personal
+
+
+
+Proper
+
+
+
+
+
+
+
+Common
+
+Common
+
+Common
+
+Proper
+
+
+
+
+
+
+
+
+Personal
+
+
+Personal
+
+
+
+Personal
+
+
+Personal
+
+Common
+
+Personal
+
+
+
+Common
+Demonstrative
+
+
+Common
+
+Common
+
+
+
+Personal
+
+Common
+
+Common
+Proper
+
+Common
+
+
+Proper
+
+
+
+
+
+Proper
+
+
+Personal
+
+
+Common
+
+
+
+
+Common
+
+Demonstrative
+
+Common
+
+
+Common
+
+
+
+Proper
+
+
+Common
+
+
+Proper
+
+
+
+
+
+
+Common
+Indefinite
+
+Common
+
+
+
+
+Common
+
+
+Personal
+
+
+Common
+
+
+Common
+
+Common
+
+Common
+
+
+Personal
+
+Personal
+Common
+Personal
+Demonstrative
+
+
+
+
+
+Personal
+
+
+Common
+
+
+
+Proper
+
+Common
+
+
+
+Common
+
+
+Demonstrative
+
+Proper
+
+
+
+Proper
+
+
+Common
+
+
+Common
+
+
+
+
+Proper
+
+
+Personal
+Proper
+
+Proper
+
+
+Proper
+
+Common
+
+
+Common
+
+
+
+Proper
+
+
+
+Personal
+
+
+
+
+Common
+
+
+
+
+
+Personal
+
+
+Common
+
+
+
+
+
+
+
+
+
+
+Personal
+
+Common
+
+
+
+
+Proper
+
+
+
+Proper
+
+
+
+
+Common
+
+
+Proper
+
+
+Common
+Indefinite
+
+
+
+
+
+Common
+
+Proper
+
+
+
+Common
+
+
+Indefinite
+Proper
+Common
+Proper
+
+Common
+Common
+
+
+
+Proper
+
+
+
+
+Common
+Demonstrative
+
+
+
+Common
+
+Common
+
+
+
+Common
+
+
+
+
+
+
+
+Proper
+
+
+
+Common
+Proper
+Demonstrative
+
+
+
+
+
+Common
+
+
+Personal
+Proper
+
+Proper
+
+Personal
+
+
+Personal
+
+
+Common
+
+Common
+
+
+Personal
+
+
+
+Proper
+
+
+Common
+
+
+Common
+
+Personal
+Relative
+
+
+
+
+
+
+
+Common
+
+
+
+
+
+
+
+
+
+Common
+
+
+Proper
+Proper
+
+
+
+
+
+Proper
+
+
+Proper
+Proper
+
+
+
+Common
+
+
+Proper
+
+
+Indefinite
+Common
+
+
+
+Personal
+
+Common
+
+
+
+
+
+
+Personal
+
+
+
+Common
+
+
+
+
+
+
+Interrogative
+
+
+
+
+
+
+
+Proper
+Common
+
+
+Proper
+Proper
+
+Common
+Common
+
+Common
+
+
+
+
+
+Personal
+
+
+Demonstrative
+
+
+
+Proper
+
+
+
+
+
+Common
+
+Common
+Proper
+
+
+Personal
+
+Proper
+Common
+
+
+Common
+
+
+
+Personal
+
+
+Common
+
+
+
+
+
+
+Common
+
+
+
+
+
+
+Common
+
+
+Common
+
+
+
+
+
+
+Common
+
+Common
+
+
+Indefinite
+
+
+
+
+
+Common
+
+
+Common
+
+
+Personal
+
+
+Common
+
+Common
+
+
+
+Common
+Proper
+Demonstrative
+
+
+
+Common
+
+
+
+
+
+
+Proper
+
+
+Common
+
+Common
+
+
+
+Proper
+Common
+
+
+
+
+
+Common
+
+
+
+Common
+Proper
+
+
+
+
+
+
+
+
+Common
+Personal
+Common
+
+Common
+
+
+
+Personal
+
+Common
+
+
+Common
+
+
+
+
+
+Indefinite
+
+
+
+
+Common
+
+
+
+
+
+Common
+
+
+
+Common
+
+Common
+Proper
+
+
+Personal
+
+Proper
+Relative
+Proper
+
+
+
+Indefinite
+Proper
+
+Common
+
+Common
+Demonstrative
+
+
+
+
+Common
+
+
+
+Personal
+
+Proper
+
+
+
+Proper
+
+Personal
+
+Interrogative
+
+
+
+
+Common
+
+Personal
+
+Relative
+
+
+Common
+
+
+
+
+
+
+Personal
+
+
+
+
+
+
+
+Common
+Demonstrative
+Demonstrative
+
+
+
+
+
+
+
+Proper
+
+
+
+Proper
+
+
+Common
+
+
+Personal
+
+
+
+Common
+
+Common
+Proper
+
+
+
+
+
+
+
+
+
+Common
+Personal
+
+
+
+
+
+
+
+
+Common
+
+
+
+
+
+
+Common
+Personal
+
+
+Common
+Common
+
+
+
+Common
+
+Common
+
+Common
+
+
+
+
+
+
+Demonstrative
+
+
+Proper
+
+
+Common
+
+
+Proper
+
+Proper
+
+
+Proper
+
+
+
+
+
+Personal
+
+
+Personal
+
+Proper
+
+
+
+
+
+Proper
+
+
+
+Personal
+Proper
+
+Proper
+Personal
+
+Common
+
+
+Proper
+
+
+
+
+Common
+Demonstrative
+Common
+
+
+
+
+Common
+Proper
+
+Indefinite
+Common
+Common
+
+Common
+
+Proper
+
+
+Common
+
+
+Common
+Relative
+
+
+
+
+
+Demonstrative
+Common
+
+Common
+
+
+
+Demonstrative
+
+Common
+
+Common
+Personal
+
+
+
+
+
+
+
+
+Proper
+
+
+
+
+Proper
+
+Proper
+Demonstrative
+
+
+
+Common
+
+
+
+
+Common
+
+
+Common
+
+
+
+
+Demonstrative
+
+Personal
+
+Common
+
+Common
+
+
+
+
+
+
+Common
+Proper
+
+
+
+
+
+
+
+
+
+Common
+Personal
+Relative
+
+
+Proper
+
+
+Common
+
+
+
+
+
+
+Common
+
+
+
+
+Proper
+
+
+
+
+Common
+
+Common
+
+
+
+
+
+Common
+
+Proper
+
+Proper
+Proper
+Common
+Proper
+Proper
+
+
+
+
+
+Common
+
+
+Personal
+
+Common
+Indefinite
+
+
+
+Proper
+
+Personal
+
+
+
+Personal
+
+
+
+Personal
+
+
+Common
+
+
+
+
+Indefinite
+
+
+
+
+Common
+
+
+
+
+
+
+Interrogative
+
+
+
+
+
+Common
+
+Proper
+
+Personal
+
+
+
+
+Proper
+
+
+Common
+
+
+
+Common
+
+
+
+
+
+Common
+
+
+
+
+
+
+Common
+
+
+
+
+Proper
+
+
+
+
+Common
+
+Common
+
+Common
+
+Interrogative
+
+
+Common
+Relative
+
+
+
+
+Common
+Common
+
+
+
+Proper
+
+
+
+
+
+
+Demonstrative
+
+
+Personal
+
+
+
+
+
+
+
+
+
+Common
+Demonstrative
+
+
+
+
+
+Common
+Personal
+
+
+
+Proper
+
+
+
+Personal
+Common
+
+
+Indefinite
+Common
+
+
+
+Common
+
+
+Personal
+
+
+Indefinite
+
+
+
+
+
+Common
+
+
+
+
+
+Common
+
+
+
+
+
+
+
+Relative
+
+
+
+Common
+
+
+Common
+Demonstrative
+
+Demonstrative
+
+
+
+Common
+
+
+
+
+
+Common
+
+
+Proper
+
+Common
+
+
+
+
+
+
+Proper
+
+
+
+Common
+Demonstrative
+
+
+Personal
+Common
+
+
+
+
+Proper
+
+
+Common
+
+
+Common
+Personal
+
+
+
+
+
+
+
+Proper
+
+Common
+
+
+
+Proper
+
+
+Personal
+Proper
+Proper
+
+Proper
+
+Proper
+
+Proper
+
+Proper
+
+
+Proper
+Proper
+
+Proper
+
+Proper
+Demonstrative
+
+
+
+Personal
+
+Proper
+Personal
+
+
+
+
+Common
+
+
+
+Proper
+
+
+
+Personal
+
+
+Proper
+
+Common
+
+
+
+Common
+
+
+
+
+
+
+Common
+
+Personal
+
+Common
+
+Proper
+
+Personal
+
+
+
+
+
+
+
+Common
+
+Common
+
+
+Common
+
+
+
+Common
+
+
+
+
+
+Indefinite
+Common
+Common
+Proper
+
+
+Common
+
+Common
+
+
+
+Proper
+
+
+
+
+
+Common
+
+
+
+Common
+
+
+
+
+
+
+
+Proper
+
+Personal
+
+
+
+
+
+
+
+Common
+Personal
+
+Personal
+
+
+
+
+
+
+Common
+
+
+
+
+
+
+
+Common
+
+
+
+
+
+Common
+
+
+
+
+
+Personal
+
+
+
+
+Common
+
+
+
+Proper
+
+
+
+
+Proper
+
+
+
+
+
+Personal
+
+
+
+
+Personal
+
+
+Proper
+
+Personal
+
+
+Proper
+
+
+
+
+
+
+Proper
+
+
+
+
+
+Proper
+
+
+
+
+
+Proper
+
+
+
+Proper
+
+
+Proper
+
+
+
+Personal
+
+
+
+Proper
+
+
+
+
+
+Personal
+
+Common
+
+Common
+
+
+Proper
+
+
+
+Proper
+
+
+Proper
+
+
+
+
+Common
+
+
+
+
+Personal
+
+Personal
+Personal
+
+
+
+Common
+
+Relative
+
+
+
+Proper
+
+
+Personal
+
+
+Common
+
+
+
+Common
+
+
+Common
+
+Common
+
+Common
+
+
+Personal
+
+
+Common
+
+
+
+
+
+
+
+
+
+
+Personal
+
+
+Personal
+
+
+
+Common
+
+
+
+
+Proper
+
+
+Common
+Common
+
+Common
+
+
+Common
+Personal
+Proper
+
+
+
+
+Personal
+
+Common
+
+
+Proper
+
+
+Personal
+
+Personal
+
+
+
+
+
+Common
+
+
+
+Common
+
+Personal
+
+
+Common
+
+Common
+Personal
+
+
+
+Common
+
+
+Common
+
+Personal
+
+
+
+Common
+Personal
+
+
+Common
+Relative
+
+
+
+Common
+Proper
+
+
+Common
+
+Common
+
+Common
+
+
+
+Personal
+
+
+
+
+
+Common
+Personal
+Personal
+
+
+Relative
+
+
+
+Common
+
+
+Personal
+
+
+
+Common
+
+
+
+
+
+Common
+
+
+
+
+
+
+
+
+
+Common
+
+Common
+Personal
+
+Personal
+
+
+
+Common
+
+Relative
+Personal
+
+Common
+
+
+
+Common
+
+
+Common
+
+Common
+Relative
+
+
+
+Common
+
+
+Personal
+
+
+
+
+
+Common
+Personal
+Common
+
+
+Personal
+
+
+
+Common
+
+
+Personal
+Personal
+
+Common
+
+
+
+
+
+Common
+
+Personal
+
+
+
+
+Common
+Common
+
+Common
+
+
+
+Common
+
+
+
+
+
+
+
+Personal
+
+Common
+
+
+Common
+
+Common
+Personal
+
+
+
+
+
+
+Common
+
+
+
+
+Common
+
+Common
+
+Common
+
+
+Personal
+
+
+
+Common
+Personal
+
+
+
+
+Personal
+
+
+Common
+Demonstrative
+
+
+Personal
+
+
+
+
+
+
+
+
+
+
+Common
+
+Common
+Proper
+
+Personal
+
+
+
+
+
+
+
+
+Demonstrative
+
+
+
+Common
+Personal
+
+
+Personal
+
+
+
+Common
+
+
+
+
+
+
+Common
+
+Proper
+
+Personal
+
+
+
+
+Common
+Relative
+
+
+
+
+
+Common
+Personal
+
+
+
+Personal
+
+
+Common
+
+
+
+
+Personal
+
+
+Personal
+
+
+
+
+Proper
+
+
+
+
+
+Proper
+
+
+Proper
+
+
+Common
+
+
+Proper
+
+
+
+
+
+Proper
+
+
+Personal
+
+
+
+Proper
+
+
+
+Proper
+
+
+
+Common
+
+
+
+Common
+
+
+
+Common
+
+
+Common
+
+Relative
+
+Proper
+
+
+
+Common
+
+
+
+Proper
+
+
+
+
+Personal
+
+Common
+
+
+
+Personal
+
+
+Common
+
+Common
+
+
+
+Common
+
+
+
+Common
+
+
+Common
+
+
+Personal
+
+
+
+
+Common
+Demonstrative
+
+
+
+
+
+Personal
+
+
+Common
+
+
+Proper
+
+
+Proper
+
+
+
+Common
+
+Common
+
+
+Personal
+
+
+
+
+
+
+Proper
+
+
+
+
+Common
+Proper
+
+Common
+
+
+
+
+
+
+Personal
+Demonstrative
+
+
+Common
+
+Common
+
+
+
+Common
+
+
+Indefinite
+
+
+Proper
+Common
+Common
+Proper
+
+
+
+Personal
+
+
+
+Common
+
+Proper
+
+Personal
+
+Common
+
+
+Common
+
+Demonstrative
+
+
+Common
+
+
+
+Common
+Relative
+
+
+Common
+Demonstrative
+
+
+
+Proper
+
+
+
+
+
+Common
+Common
+
+
+
+Demonstrative
+
+Personal
+
+
+
+
+
+
+
+Personal
+
+Proper
+
+
+
+Proper
+Interrogative
+
+
+
+
+Personal
+
+Common
+Personal
+
 
 
 
@@ -78499,8 +78499,8 @@ Common
 
 Personal
 
-
 Common
+
 
 Proper
 
@@ -78513,6 +78513,883 @@ Common
 
 
 Personal
+
+Common
+
+
+Common
+
+Interrogative
+
+
+
+
+
+
+Demonstrative
+
+
+Relative
+Personal
+
+
+Personal
+Common
+
+Common
+
+
+Personal
+Demonstrative
+
+
+
+Personal
+
+
+
+Personal
+
+
+
+Common
+
+
+
+
+Relative
+
+
+Personal
+
+
+
+
+
+Personal
+
+
+Common
+
+
+
+
+Common
+Personal
+
+
+
+Personal
+
+
+
+
+Common
+
+
+
+Common
+
+
+Proper
+
+
+Common
+
+
+Common
+
+Personal
+
+
+
+
+
+
+
+Common
+
+Common
+
+Common
+
+Relative
+
+
+
+
+Personal
+
+Common
+
+
+
+
+
+Common
+
+
+
+
+Proper
+
+
+Personal
+
+
+
+
+
+
+Common
+
+
+
+Personal
+
+Common
+
+Common
+Proper
+
+Demonstrative
+
+
+Common
+
+
+
+Common
+
+
+Common
+
+
+Common
+Demonstrative
+
+
+
+
+
+
+Proper
+
+
+
+
+
+
+
+
+Common
+Demonstrative
+
+
+
+Proper
+
+
+
+
+Common
+
+Personal
+Relative
+
+
+
+
+
+
+
+Proper
+
+
+
+Common
+
+
+
+Common
+
+Common
+
+
+
+Proper
+
+Personal
+
+
+
+
+
+
+
+Common
+
+
+Personal
+
+
+Common
+
+Common
+
+Common
+
+
+
+Proper
+Relative
+
+
+Common
+
+Common
+
+
+Personal
+
+
+
+
+Common
+
+
+Common
+
+
+
+Proper
+
+
+
+Common
+
+Personal
+
+
+
+Common
+
+
+
+Interrogative
+
+
+Interrogative
+
+
+
+
+
+Indefinite
+
+
+
+Common
+
+
+
+Personal
+
+
+
+
+
+Common
+
+
+Personal
+
+
+Common
+
+
+
+
+
+Common
+
+
+Personal
+
+
+Common
+
+
+Common
+
+Common
+
+
+
+Common
+
+Common
+
+
+Personal
+
+
+
+
+
+Common
+
+Proper
+
+
+Common
+
+
+Personal
+
+Indefinite
+
+Personal
+
+
+
+
+
+
+
+Personal
+
+
+
+
+
+Demonstrative
+
+Common
+
+
+
+
+
+
+
+
+Common
+
+Common
+
+
+
+Proper
+Personal
+Common
+
+
+
+Proper
+
+Proper
+
+
+Common
+Common
+
+
+Personal
+
+Personal
+
+
+
+Common
+
+
+Personal
+
+Proper
+
+
+
+Common
+
+
+Common
+
+Common
+
+
+Common
+
+
+
+
+Common
+
+Common
+Common
+
+Common
+
+Personal
+
+
+Personal
+
+Common
+
+
+
+
+
+Common
+
+Personal
+
+
+Common
+
+
+Personal
+
+Common
+
+
+
+Proper
+
+Proper
+
+
+
+
+Common
+Demonstrative
+
+
+Common
+Proper
+
+
+Common
+
+
+Common
+Common
+
+
+Common
+
+
+Personal
+
+
+Relative
+Demonstrative
+
+Common
+
+
+Common
+
+
+
+
+Common
+Common
+
+
+Common
+
+
+
+Common
+
+Personal
+
+
+
+Common
+
+Relative
+
+Common
+
+
+
+Common
+
+Proper
+
+
+
+
+
+
+
+
+Proper
+
+
+
+
+Personal
+
+
+
+
+Proper
+
+Common
+
+
+
+Common
+
+Common
+
+
+Personal
+
+
+
+
+Common
+
+
+Common
+
+Personal
+Proper
+Proper
+Interrogative
+Personal
+
+Personal
+
+
+Interrogative
+
+Common
+
+
+
+Personal
+Personal
+
+Proper
+
+Proper
+Relative
+Personal
+
+
+
+
+Personal
+
+
+
+Common
+
+
+
+Common
+
+
+
+
+Personal
+
+
+Interrogative
+
+Common
+
+
+Common
+
+
+Personal
+
+
+
+Proper
+
+Personal
+
+
+
+Relative
+
+Personal
+
+
+
+
+
+
+
+Common
+
+Common
+Demonstrative
+
+
+
+
+Personal
+
+
+Proper
+Proper
+
+Indefinite
+Common
+
+
+
+Common
+
+
+
+
+
+
+
+
+Personal
+
+
+
+Personal
+Proper
+Common
+
+Personal
+Personal
+
+Common
+
+
+Personal
+
+
+
+
+Common
+
+Common
+Personal
+
+Personal
+
+
+Common
+Personal
+
+
+
+
+
+
+Common
+
+
+Common
+Personal
+
+
+Common
+Personal
+
+
+Common
+Relative
+
+
+
+
+
+Interrogative
+
+
+
+
+
+
+Common
+Personal
+
+
+Common
+Personal
+
+
+Personal
+
+
+Proper
+
+
+Personal
+
+
+
+
+Personal
+
+Common
+
+
+Personal
+
+Personal
+
+
+
+
+Common
+
+Proper
+
+
+
+Personal
+Common
+
+Personal
+Personal
+
+Common
+Personal
+
+
+Personal
+
+
+
+
+
+
+Common
+
+
+
+Personal
+
+
+
+
+Common
+Common
+
+Common
+Personal
+
+Personal
+
+
+
+
+
+
+
+Common
+
+
+Personal
+
+
+
+Personal
+
+
+Personal
+
+Common
+
+
+Personal
+
+
+Personal
+
+Demonstrative
+
+Common
+
+
+
+Common
+Personal
+
+
+
+
+Common
+
+Demonstrative
+
+
+
+Personal
+
+
+
+Personal
+
+
+
+Common
+
+Common
+
+
+
+Common
+
+
+Common
+
+Personal
+
+
+Common
+
+Common
+
+Personal
+
+
+
+Relative
+Common
+
+
+Personal
+
+
+
+Personal
+
+Common
+
+
+
+
+Common
+
+Proper
+
+Common
+
+
+
+
+Personal
+
+
+
 
 Common
 
@@ -78525,883 +79402,6 @@ Interrogative
 
 
 
-
-
-Demonstrative
-
-Relative
-Personal
-
-
-Personal
-Common
-
-Common
-
-
-Personal
-Demonstrative
-
-
-
-Personal
-
-
-
-Personal
-
-
-
-Common
-
-
-
-
-Relative
-
-
-Personal
-
-
-
-
-
-Personal
-
-
-Common
-
-
-
-
-Common
-Personal
-
-
-
-Personal
-
-
-
-
-Common
-
-
-
-Common
-
-
-Proper
-
-
-Common
-
-
-Common
-
-Personal
-
-
-
-
-
-
-
-Common
-
-Common
-
-Common
-
-Relative
-
-
-
-
-Personal
-
-Common
-
-
-
-
-
-Common
-
-
-
-
-Proper
-
-
-Personal
-
-
-
-
-
-
-Common
-
-
-
-Personal
-
-Common
-
-Common
-Proper
-
-Demonstrative
-
-
-Common
-
-
-
-Common
-
-
-Common
-
-
-Common
-Demonstrative
-
-
-
-
-
-
-Proper
-
-
-
-
-
-
-
-
-Common
-Demonstrative
-
-
-
-Proper
-
-
-
-
-Common
-
-Personal
-
-
-Relative
-
-
-
-
-
-Proper
-
-
-
-Common
-
-
-
-Common
-
-Common
-
-
-
-Proper
-
-Personal
-
-
-
-
-
-
-
-Common
-
-
-Personal
-
-
-Common
-
-Common
-
-Common
-
-
-Proper
-
-Relative
-
-
-Common
-
-Common
-
-
-Personal
-
-
-
-
-Common
-
-
-Common
-
-
-
-Proper
-
-
-
-Common
-
-Personal
-
-
-
-Common
-
-
-
-Interrogative
-
-
-Interrogative
-
-
-
-
-
-Indefinite
-
-
-
-Common
-
-
-
-Personal
-
-
-
-
-
-Common
-
-
-Personal
-
-
-Common
-
-
-
-
-
-Common
-
-
-Personal
-
-
-Common
-
-
-Common
-
-Common
-
-
-
-Common
-
-Common
-
-
-Personal
-
-
-
-
-
-Common
-
-Proper
-
-
-Common
-
-
-Personal
-
-Indefinite
-
-Personal
-
-
-
-
-
-
-
-Personal
-
-
-
-
-
-Demonstrative
-
-Common
-
-
-
-
-
-
-
-
-Common
-
-Common
-
-
-
-Proper
-
-Personal
-
-Common
-
-Proper
-
-Proper
-
-
-Common
-Common
-
-
-Personal
-
-Personal
-
-
-
-Common
-
-
-Personal
-
-Proper
-
-
-
-Common
-
-
-Common
-
-Common
-
-
-Common
-
-
-
-
-Common
-
-Common
-Common
-
-Common
-
-Personal
-
-
-Personal
-
-Common
-
-
-
-
-
-Common
-
-Personal
-
-
-Common
-
-
-Personal
-
-Common
-
-
-
-Proper
-
-Proper
-
-
-
-
-Common
-Demonstrative
-
-
-Common
-Proper
-
-
-Common
-
-
-Common
-
-Common
-
-Common
-
-
-Personal
-
-
-Relative
-Demonstrative
-
-Common
-
-
-Common
-
-
-
-
-Common
-
-Common
-
-Common
-
-
-
-Common
-
-Personal
-
-
-
-Common
-
-Relative
-
-Common
-
-
-
-Common
-
-Proper
-
-
-
-
-
-
-
-
-Proper
-
-
-
-
-Personal
-
-
-
-
-Proper
-
-Common
-
-
-
-Common
-
-Common
-
-
-Personal
-
-
-
-
-Common
-
-
-Common
-
-Personal
-Proper
-Proper
-Interrogative
-Personal
-
-
-Personal
-
-Interrogative
-
-Common
-
-
-
-Personal
-Personal
-
-Proper
-
-Proper
-Relative
-Personal
-
-
-
-
-
-Personal
-
-
-Common
-
-
-
-
-
-Common
-
-
-Personal
-
-
-Interrogative
-
-Common
-
-
-Common
-
-
-Personal
-
-
-
-Proper
-
-Personal
-
-
-
-Relative
-
-
-Personal
-
-
-
-
-
-
-Common
-
-Common
-Demonstrative
-
-
-
-
-Personal
-
-
-Proper
-
-Proper
-Indefinite
-Common
-
-
-
-Common
-
-
-
-
-
-
-
-
-Personal
-
-
-
-Personal
-Proper
-Common
-
-Personal
-Personal
-
-Common
-
-
-Personal
-
-
-
-
-Common
-
-Common
-Personal
-
-Personal
-
-
-Common
-Personal
-
-
-
-
-
-
-Common
-
-
-Common
-Personal
-
-
-Personal
-
-
-Common
-Common
-Relative
-
-
-
-
-
-Interrogative
-
-
-
-
-
-
-Common
-Personal
-
-
-Common
-Personal
-
-
-Personal
-
-
-Proper
-
-
-Personal
-
-
-
-
-Personal
-
-Common
-
-
-Personal
-
-Personal
-
-
-
-
-Common
-
-Proper
-
-
-
-Personal
-Common
-
-Personal
-Personal
-
-Common
-Personal
-
-
-Personal
-
-
-
-
-
-
-Common
-
-
-
-Personal
-
-
-
-
-Common
-Common
-
-Common
-Personal
-
-Personal
-
-
-
-
-
-
-
-Common
-
-
-Personal
-
-
-
-Personal
-
-
-Personal
-
-Common
-
-
-Personal
-
-
-Personal
-
-Demonstrative
-
-Common
-
-
-
-Common
-Personal
-
-
-
-
-Common
-
-Demonstrative
-
-
-
-Personal
-
-
-
-Personal
-
-
-
-Common
-
-Common
-
-
-
-Common
-
-
-Common
-
-Personal
-
-
-Common
-
-Common
-
-Personal
-
-
-
-Relative
-Common
-
-
-Personal
-
-
-
-Personal
-
-Common
-
-
-
-
-Common
-
-Proper
-
-Common
-
-
-
-
-
-Personal
-
-
-
-Common
-
-
-Common
-
-
-
-Interrogative
-
-
-
 Common
 Demonstrative
 
@@ -79436,7 +79436,6 @@ Demonstrative
 
 Proper
 
-
 Personal
 
 
@@ -79444,15 +79443,16 @@ Personal
 
 
 
-Personal
-
 
 Personal
 
+
+Personal
 
 
 
 Common
+
 
 
 
@@ -79496,8 +79496,8 @@ Proper
 Personal
 
 
-Proper
 
+Proper
 
 Common
 
@@ -79583,8 +79583,8 @@ Personal
 
 
 
-Proper
 
+Proper
 
 
 
@@ -79610,10 +79610,10 @@ Proper
 Common
 
 Common
-
 
 
 Demonstrative
+
 Personal
 
 
@@ -79626,18 +79626,18 @@ Proper
 
 
 Common
-
 Proper
 
 
 
-Common
 
 Common
 
 Common
 
+Common
 Proper
+
 
 
 
@@ -79672,11 +79672,11 @@ Personal
 Common
 
 
-Common
-
 
 Common
 
+
+Common
 
 
 
@@ -79716,8 +79716,8 @@ Personal
 
 Proper
 
-
 Personal
+
 
 
 Proper
@@ -79789,11 +79789,6 @@ Personal
 
 
 Personal
-
-Personal
-
-
-
 Personal
 
 
@@ -79802,12 +79797,17 @@ Personal
 Personal
 
 
+
+
+Personal
+
+
+
 Common
 
 Common
 Proper
 
-
 Common
 
 
@@ -79820,8 +79820,8 @@ Common
 Proper
 
 
-Proper
 
+Proper
 
 
 Common
@@ -79867,11 +79867,11 @@ Indefinite
 Personal
 
 
-Common
-
 
 Common
 Personal
+
+Common
 
 
 
@@ -79881,8 +79881,8 @@ Interrogative
 
 Relative
 
-Personal
 
+Personal
 
 
 
@@ -79907,8 +79907,8 @@ Indefinite
 
 
 Personal
-
 Personal
+
 
 
 Personal
@@ -79966,22 +79966,22 @@ Common
 Common
 
 
-Common
-
-
-Common
-
-
 
 
 Proper
 
+Common
+
+
+Common
+
+
 
 Common
 
 Common
-
 Common
+
 
 
 
@@ -80040,8 +80040,8 @@ Personal
 
 Common
 Personal
-
 Relative
+
 
 
 Common
@@ -80054,8 +80054,8 @@ Personal
 Common
 
 Common
-Common
 
+Common
 
 
 Personal
@@ -80137,8 +80137,8 @@ Common
 
 Proper
 
-
 Personal
+
 
 
 
@@ -80204,10 +80204,10 @@ Common
 
 
 
+Proper
+
 
 Common
-
-Proper
 
 
 
@@ -80239,8 +80239,8 @@ Common
 
 
 Common
-
 Common
+
 
 
 Proper
@@ -80316,6 +80316,10 @@ Relative
 
 
 Proper
+
+
+
+
 
 
 Personal
@@ -80324,12 +80328,8 @@ Indefinite
 
 
 Common
+
 Common
-
-
-
-
-
 
 
 
@@ -80375,8 +80375,8 @@ Common
 
 Common
 
-
 Common
+
 
 
 Common
@@ -80385,9 +80385,9 @@ Relative
 Personal
 Demonstrative
 
-
-
 Common
+
+
 
 
 
@@ -80409,8 +80409,8 @@ Common
 
 
 
-
 Common
+
 
 Common
 
@@ -80435,16 +80435,16 @@ Common
 
 
 Common
-
 Indefinite
+
 
 
 Proper
 
 Relative
 
-Personal
 
+Personal
 
 
 
@@ -80458,8 +80458,8 @@ Personal
 Demonstrative
 
 Interrogative
-Common
 
+Common
 
 Personal
 
@@ -80526,8 +80526,8 @@ Personal
 Common
 Indefinite
 
-Proper
 
+Proper
 
 Proper
 
@@ -80568,8 +80568,8 @@ Proper
 
 
 
-
 Common
+
 
 
 Personal
@@ -80590,29 +80590,29 @@ Personal
 
 
 Personal
+Common
+
+
+
+Common
+
+Proper
+Proper
+Proper
+
 
 Common
 
 
 
-Proper
-Common
-Proper
-Proper
-
-
-Common
-
-
-
 
 Proper
 
 
 Proper
 
-
 Proper
+
 
 
 Common
@@ -80666,8 +80666,8 @@ Proper
 Proper
 
 Proper
-
 Personal
+
 
 
 Common
@@ -80675,19 +80675,19 @@ Common
 
 
 
-
 Personal
 
 
 
-Personal
 
 Indefinite
 
 
 
-
 Common
+
+
+Personal
 
 
 
@@ -80750,8 +80750,8 @@ Proper
 Indefinite
 
 
-
 Proper
+
 
 
 
@@ -80777,11 +80777,11 @@ Personal
 Proper
 
 
+
 Common
 Proper
 
 
-
 Personal
 
 
@@ -80800,8 +80800,8 @@ Personal
 
 
 Common
-Indefinite
 
+Indefinite
 
 
 
@@ -80815,8 +80815,8 @@ Demonstrative
 
 Personal
 
-
 Personal
+
 Personal
 
 Proper
@@ -80834,10 +80834,10 @@ Proper
 
 Proper
 
-
 Common
+
+
 Indefinite
-
 Proper
 
 Common
@@ -80910,8 +80910,8 @@ Common
 
 
 Common
-
 Common
+
 Common
 
 
@@ -80938,15 +80938,15 @@ Relative
 
 
 Common
-
 
 Common
+
 Relative
 Personal
-
 
 
 Common
+
 Indefinite
 
 
@@ -80961,13 +80961,13 @@ Indefinite
 Proper
 
 Relative
-
 
 
 Proper
 
-Personal
+
 
+Personal
 
 
 Demonstrative
@@ -81002,10 +81002,10 @@ Relative
 Personal
 
 Proper
-
 Proper
 
 
+
 Proper
 
 
@@ -81083,18 +81083,18 @@ Proper
 
 
 Personal
-
 
 
 Personal
 
 
 
-Common
-Personal
 
+Personal
+Common
 
 Personal
+
 Demonstrative
 
 
@@ -81140,11 +81140,11 @@ Common
 
 Personal
 Common
-
 
 Proper
 
 
+
 Proper
 
 
@@ -81159,33 +81159,33 @@ Proper
 
 Common
 
-Common
-Proper
 
 
 Relative
 
 
 
+Common
+Proper
 
 Personal
 
 
 Personal
-
 
 
 
 
-Personal
 Common
 
+Personal
 
 
 
 
 Common
 
+
 Common
 
 
@@ -81238,16 +81238,15 @@ Common
 
 Common
 Personal
+Common
 
 
 
 Common
-Common
 
 
 
 Relative
-
 
 Common
 Personal
@@ -81259,6 +81258,7 @@ Common
 
 
 
+
 Relative
 Common
 
@@ -81275,12 +81275,11 @@ Personal
 Common
 
 
+Personal
 
 
-Personal
 
 Personal
-
 
 
 Common
@@ -81290,6 +81289,7 @@ Proper
 
 
 
+
 Relative
 
 
@@ -81355,6 +81355,7 @@ Common
 
 Common
 
+Common
 
 
 
@@ -81362,18 +81363,17 @@ Common
 
 Common
 
-Common
 Personal
+Common
 
 
 
 Personal
 
-Common
 
 
-Personal
 
+Personal
 
 
 Common
@@ -81394,10 +81394,10 @@ Personal
 Personal
 
 Common
-
 
 Personal
 
+
 Interrogative
 
 Common
@@ -81419,23 +81419,23 @@ Personal
 
 Common
 Personal
-
 
 Demonstrative
 
+
 Personal
 
 Personal
 Common
 
 Common
-
 Relative
 
-Personal
 
+Personal
 Relative
 
+
 Personal
 
 Personal
@@ -81491,13 +81491,13 @@ Proper
 
 
 Common
-
 
 
 
 Proper
 
 
+
 Proper
 
 
@@ -81522,7 +81522,6 @@ Common
 
 
 Demonstrative
-
 Personal
 
 
@@ -81531,11 +81530,12 @@ Personal
 
 
 
-
 Common
+
 
 
 
+
 Common
 
 
@@ -81553,12 +81553,12 @@ Demonstrative
 Relative
 
 
+Common
 
 
-Common
 
-Proper
 
+Proper
 
 
 
@@ -81567,18 +81567,18 @@ Proper
 
 
 Common
-
 
 Common
 
 
 
+
 Common
 
 
 Common
-
 Demonstrative
+
 Personal
 
 
@@ -81591,8 +81591,8 @@ Common
 Proper
 
 
-Common
 Personal
+Common
 
 Common
 
@@ -81601,9 +81601,9 @@ Common
 Proper
 
 
-Proper
 
 
+Proper
 
 Common
 
@@ -81625,7 +81625,6 @@ Relative
 
 Personal
 Demonstrative
-
 
 
 
@@ -81634,11 +81633,12 @@ Demonstrative
 
 
 Common
+
 Demonstrative
+
 Common
 Proper
 
-
 Common
 
 
@@ -81718,9 +81718,9 @@ Common
 
 Common
 Demonstrative
-
 Proper
 
+
 Proper
 
 
@@ -81781,8 +81781,8 @@ Proper
 Proper
 
 
-Proper
 
+Proper
 
 Proper
 
@@ -81820,10 +81820,10 @@ Common
 
 Proper
 
-Common
 
 
 Common
+Common
 
 
 
@@ -81866,12 +81866,12 @@ Indefinite
 
 Common
 Relative
+
 
 Common
 Proper
 
 
-
 Common
 
 
@@ -81950,6 +81950,7 @@ Common
 
 
 Proper
+
 Common
 
 Proper
@@ -81961,7 +81962,6 @@ Common
 Common
 
 
-
 Common
 
 
@@ -81994,13 +81994,13 @@ Common
 
 
 Common
-
 
 
-
 Common
+
 Indefinite
 
+
 Proper
 
 
@@ -82053,13 +82053,13 @@ Common
 
 
 Common
-
 Common
 
 
 
 
 
+
 Common
 
 
@@ -82078,9 +82078,9 @@ Proper
 Personal
 
 
-Common
 
 
+Common
 
 Personal
 
@@ -82101,9 +82101,9 @@ Common
 
 
 Personal
-
 
 Common
+
 Common
 
 
@@ -82160,11 +82160,11 @@ Relative
 Common
 
 Personal
-
 
-
 Common
+
 Indefinite
+
 Personal
 
 
@@ -82186,8 +82186,8 @@ Common
 Common
 
 Indefinite
-Common
 Personal
+Common
 
 
 
@@ -82285,8 +82285,8 @@ Proper
 Common
 
 
-Common
 
+Common
 
 
 
@@ -82297,11 +82297,11 @@ Common
 Personal
 
 Common
-
 Demonstrative
 
 
 
+
 Common
 
 
@@ -82364,22 +82364,22 @@ Common
 
 
 Common
-
 
 
-
 Common
+
 Indefinite
 
+
 Common
 
 Relative
 
 
-Common
 
 
 
+Common
 
 
 Common
@@ -82460,17 +82460,17 @@ Common
 
 
 Common
-
 
 
 
 
 Relative
 
-Common
 
+Common
 Relative
 
+
 Indefinite
 
 
@@ -82564,7 +82564,6 @@ Relative
 
 
 Common
-
 
 Common
 
@@ -82574,6 +82573,7 @@ Common
 
 
 
+
 Common
 
 
@@ -82644,17 +82644,16 @@ Common
 
 Relative
 
+Proper
 
 
 
-Proper
 
 
 Common
 Personal
 
 Personal
-
 Demonstrative
 
 
@@ -82663,6 +82662,7 @@ Demonstrative
 
 
 
+
 Common
 
 Common
@@ -82792,10 +82792,10 @@ Personal
 Personal
 
 
+Personal
 Personal
 Common
 Common
-Personal
 
 
 
@@ -82840,13 +82840,13 @@ Proper
 
 Common
 Personal
-Indefinite
 
-
+Indefinite
 
 
 Demonstrative
 
+
 Common
 
 Personal
@@ -82867,9 +82867,9 @@ Demonstrative
 
 
 Personal
-
 
 Personal
+
 Common
 
 Personal
@@ -83163,8 +83163,8 @@ Proper
 Common
 
 
-Personal
 Common
+Personal
 
 Common
 
@@ -83196,8 +83196,8 @@ Personal
 
 
 Common
-
 Common
+
 Personal
 
 
@@ -83243,17 +83243,17 @@ Personal
 
 Personal
 
-
 Indefinite
-Common
 
+Common
 Personal
 
 
 
-Personal
 
+Personal
 Demonstrative
+
 
 
 
@@ -83263,16 +83263,16 @@ Personal
 
 Personal
 Common
-
 Personal
+
 
 Personal
 
-Common
 
 
 Personal
 
+Common
 
 
 
@@ -83297,8 +83297,8 @@ Personal
 
 
 Common
-
 Proper
+
 
 
 
@@ -83323,8 +83323,8 @@ Proper
 
 
 Common
-
 Common
+
 Common
 
 
@@ -83337,8 +83337,8 @@ Common
 
 
 Proper
-
 Common
+
 Common
 
 Personal
@@ -83383,28 +83383,28 @@ Common
 
 Personal
 
-
 Common
+
 Personal
 
 
 
 
 Personal
-
-
 
-Personal
 Common
-
 Common
 
 Common
-Common
 
-Common
 
+
+
+
+Personal
+Common
 
+Common
 
 
 
@@ -83634,8 +83634,8 @@ Common
 
 
 
-
 Relative
+
 
 
 
@@ -83777,8 +83777,8 @@ Common
 
 
 Proper
-
 Common
+
 
 Common
 
@@ -83800,8 +83800,8 @@ Common
 
 
 Common
-
 Relative
+
 
 
 
@@ -83872,9 +83872,9 @@ Common
 
 
 
-Common
 
 
+Common
 
 
 Common
@@ -83916,8 +83916,8 @@ Common
 
 
 Personal
-
 Common
+
 
 Common
 
@@ -83985,9 +83985,9 @@ Personal
 Common
 
 
+Common
 
 
-Common
 
 
 Common
@@ -84074,8 +84074,8 @@ Common
 
 
 Common
-
 Interrogative
+
 
 
 
@@ -84099,8 +84099,8 @@ Common
 Common
 
 Common
-
 Interrogative
+
 
 
 Indefinite
@@ -84213,8 +84213,8 @@ Relative
 Common
 
 
-
 Interrogative
+
 
 
 
@@ -84360,8 +84360,8 @@ Common
 
 
 Common
-
 Common
+
 Common
 
 Common
@@ -84492,8 +84492,8 @@ Common
 
 
 Common
-
 Common
+
 
 
 
@@ -84503,9 +84503,9 @@ Common
 
 Common
 
+Interrogative
 
 
-Interrogative
 
 Proper
 
@@ -84525,8 +84525,8 @@ Common
 
 
 Common
-
 Interrogative
+
 
 Common
 
@@ -84587,13 +84587,13 @@ Common
 
 Relative
 
-Common
 
+Common
 
 Relative
 
-Common
 
+Common
 
 Common
 Relative
@@ -84603,8 +84603,8 @@ Relative
 Common
 Common
 
-
 Common
+
 Demonstrative
 
 
@@ -84627,8 +84627,8 @@ Common
 
 
 
-
 Common
+
 
 
 Common
@@ -84639,8 +84639,8 @@ Common
 
 Common
 
-
 Common
+
 Common
 Common
 
@@ -84691,21 +84691,21 @@ Personal
 Proper
 
 
-
-Common
 
 Common
 
 Common
-Common
-Personal
 
-
 Proper
+
 
+Common
+Personal
 
 Common
 Personal
+
+Common
 
 
 Common
@@ -84769,14 +84769,17 @@ Common
 
 Personal
 
-Relative
 
-Common
 
+Common
 
+Common
 
+Personal
 
+Relative
 
+Common
 
 
 
@@ -84786,11 +84789,8 @@ Common
 
 
 
-Common
 
-Common
 
-Personal
 Relative
 
 Common
@@ -84852,9 +84852,9 @@ Common
 
 
 
+Relative
 
 
-Relative
 
 
 
@@ -84885,12 +84885,12 @@ Relative
 
 
 
-
-
 Proper
 
 Common
 Personal
+
+
 Relative
 
 
@@ -85124,8 +85124,8 @@ Common
 
 
 Common
-
 Common
+
 
 
 
@@ -85296,8 +85296,8 @@ Common
 
 
 
-
 Common
+
 
 
 
@@ -85335,8 +85335,8 @@ Proper
 
 Common
 Personal
-
 Interrogative
+
 
 
 
@@ -85459,15 +85459,15 @@ Common
 Personal
 
 
-
 Relative
 
 
-Common
 
+Common
 
 
 Relative
+
 
 
 
@@ -85531,8 +85531,8 @@ Common
 Common
 
 Common
-
 Common
+
 Personal
 
 
@@ -85544,8 +85544,8 @@ Common
 
 
 Common
-
 Interrogative
+
 
 
 
@@ -85578,8 +85578,8 @@ Common
 Common
 
 Common
-
 Common
+
 
 Common
 
@@ -85642,14 +85642,14 @@ Common
 
 Common
 
-Common
 
+Common
 
 
 
 Common
-
 Interrogative
+
 Common
 
 
@@ -85703,8 +85703,8 @@ Proper
 Common
 Personal
 
-Common
 
+Common
 
 
 Common
@@ -85838,8 +85838,8 @@ Common
 
 Common
 Common
-
 Interrogative
+
 
 
 Common
@@ -85868,8 +85868,8 @@ Common
 
 
 
-
 Common
+
 
 
 Common
@@ -85886,8 +85886,8 @@ Common
 Common
 Common
 
-
 Personal
+
 
 
 Common
@@ -85899,8 +85899,8 @@ Common
 
 Common
 
-
 Personal
+
 
 
 
@@ -85977,21 +85977,21 @@ Common
 Common
 
 
-
 Personal
 
 
 
 
 
-Common
 
+Common
 Relative
 
 
 
 
 
+
 Relative
 
 Demonstrative
@@ -86068,8 +86068,8 @@ Demonstrative
 Relative
 
 
-Demonstrative
 Personal
+Demonstrative
 
 
 Personal
@@ -86085,9 +86085,9 @@ Common
 
 
 Common
-Personal
 
 
+Personal
 
 
 
@@ -86135,8 +86135,8 @@ Common
 Common
 Personal
 
-Common
 Personal
+Common
 Interrogative
 Personal
 
@@ -86155,12 +86155,12 @@ Proper
 
 Common
 Personal
-
 
 
 Personal
 Personal
 
+
 Common
 
 Common
@@ -86172,8 +86172,8 @@ Common
 Common
 
 
-Common
 
+Common
 
 
 Proper
@@ -86236,13 +86236,13 @@ Common
 
 
 Personal
-
 
 
 
 Common
 
 
+
 Common
 
 
@@ -86298,7 +86298,6 @@ Common
 Common
 
 Common
-
 
 
 
@@ -86306,6 +86305,7 @@ Personal
 
 
 
+
 Common
 
 
@@ -86369,13 +86369,13 @@ Proper
 
 Common
 Personal
-
 
 
 
 Personal
-Personal
 Common
+
+Personal
 
 
 Common
@@ -86402,17 +86402,17 @@ Common
 Common
 
 Common
-
 
 
 Relative
+
 Common
 Common
 
 Demonstrative
-Common
 Common
 
+Common
 
 
 
@@ -86447,8 +86447,8 @@ Common
 Common
 
 Common
-
 Common
+
 Common
 
 
@@ -86471,10 +86471,10 @@ Common
 
 
 
+Common
 
 
 Personal
-Common
 
 
 Common
@@ -86549,10 +86549,10 @@ Personal
 Personal
 
 Personal
-
 
 Common
 
+
 Common
 
 Common
@@ -86560,16 +86560,16 @@ Personal
 
 
 Common
-
 
 Common
 
 
 
-Common
 
+Common
 Relative
 
+
 Interrogative
 
 
@@ -86658,9 +86658,9 @@ Personal
 
 
 Common
-
 Relative
 
+
 Demonstrative
 
 
@@ -86668,18 +86668,18 @@ Demonstrative
 Relative
 
 Demonstrative
-
 
 
 Relative
 
-Demonstrative
 
+Demonstrative
 
 
 Interrogative
 
 
+
 Demonstrative
 
 
@@ -86689,10 +86689,10 @@ Personal
 Interrogative
 
 Personal
-
 Relative
 
 
+
 Common
 
 
@@ -86850,10 +86850,10 @@ Common
 Personal
 
 
-Personal
-Personal
 Common
 
+Personal
+Personal
 
 
 Proper
@@ -86907,13 +86907,13 @@ Common
 
 
 Common
-
 
 
 Relative
 
 
 
+
 Common
 
 Common
@@ -86957,9 +86957,9 @@ Common
 
 
 Common
-
 Common
 
+
 Common
 Demonstrative
 
@@ -86978,9 +86978,9 @@ Common
 
 
 Proper
-Common
 
 
+Common
 
 Proper
 
@@ -87026,16 +87026,15 @@ Proper
 
 
 Proper
-
 
 Interrogative
 
 
+
 Common
 
 
 Common
-
 
 
 
@@ -87061,6 +87060,7 @@ Relative
 
 
 
+
 Common
 
 
@@ -87094,7 +87094,6 @@ Common
 
 
 Relative
-
 
 
 Relative
@@ -87103,6 +87102,7 @@ Relative
 
 
 Personal
+
 Interrogative
 
 
@@ -87115,9 +87115,9 @@ Interrogative
 
 Common
 
+Personal
 Interrogative
 
-Personal
 
 
 
@@ -87130,35 +87130,35 @@ Common
 
 Interrogative
 Personal
-
 
 
 
 
 
 Common
-Common
 
 Common
 
+Common
 
 
-Common
 
 Common
 
 Relative
 
-Common
 
+Common
+Common
 Relative
 
+
 Common
 
 
 
-Common
 
+Common
 
 
 Common
@@ -87237,12 +87237,12 @@ Personal
 
 Common
 Common
-
 
 Proper
 
 
 
+
 Proper
 
 
@@ -87258,13 +87258,13 @@ Common
 Common
 
 Common
-
 
 Common
 
 
 
 
+
 Common
 
 
@@ -87280,7 +87280,6 @@ Proper
 
 Personal
 Common
-
 
 Proper
 
@@ -87293,6 +87292,7 @@ Proper
 Interrogative
 
 
+
 Common
 
 
@@ -87300,14 +87300,14 @@ Common
 Common
 
 Common
-
 Common
 
 
-Common
 
+Common
 Proper
 
+
 Common
 Common
 
@@ -87390,15 +87390,14 @@ Common
 Common
 
 Common
-
 
 
 Common
+
 Common
 Proper
 
 Common
-
 
 
 
@@ -87406,6 +87405,7 @@ Proper
 
 
 
+
 Common
 
 
@@ -87494,7 +87494,6 @@ Personal
 
 Common
 Personal
-
 
 
 
@@ -87502,11 +87501,12 @@ Personal
 Common
 
 
-Common
 
+Common
 Common
 
 
+
 Common
 
 
@@ -87538,12 +87538,12 @@ Common
 
 
 Personal
-
 
 
 Relative
 
 
+
 Common
 Common
 
@@ -87586,9 +87586,9 @@ Common
 
 
 Common
-
 Proper
 
+
 Common
 Interrogative
 
@@ -87649,13 +87649,13 @@ Common
 
 
 Personal
-
 Proper
 
 
 
 
 
+
 Personal
 
 
@@ -87785,8 +87785,8 @@ Common
 
 
 Common
-
 Interrogative
+
 Relative
 
 Proper
@@ -87892,16 +87892,16 @@ Interrogative
 
 
 Common
+Personal
 Personal
 
 
-Personal
 
 Common
 
+Relative
 
 
-Relative
 
 Personal
 Common
@@ -87957,9 +87957,9 @@ Common
 Indefinite
 
 Common
-
 
 Personal
+
 Common
 
 
@@ -88000,10 +88000,10 @@ Personal
 
 
 Common
-
 
 Personal
 
+
 Common
 
 
@@ -88070,9 +88070,9 @@ Personal
 
 
 
-Common
 Common
 
+Common
 
 
 Common
@@ -88090,11 +88090,11 @@ Common
 
 Common
 
-Common
 
 
 Personal
 
+Common
 
 Common
 Demonstrative
@@ -88226,9 +88226,9 @@ Personal
 
 Common
 Personal
-
 Interrogative
 
+
 Common
 Common
 
@@ -88262,14 +88262,14 @@ Common
 Common
 
 
-Common
 
+Personal
+Common
 
 
 Common
 
 Common
-Personal
 
 
 Common
@@ -88357,8 +88357,8 @@ Common
 
 
 
-Common
 
+Common
 
 
 
@@ -88376,7 +88376,6 @@ Common
 
 
 Common
-
 
 
 Common
@@ -88384,6 +88383,7 @@ Common
 
 Personal
 
+
 Common
 
 
@@ -88513,13 +88513,13 @@ Personal
 
 
 Common
-
 
 
 Personal
 
 
 
+
 Common
 
 Common
@@ -88543,9 +88543,9 @@ Personal
 
 
 Personal
-
 Demonstrative
 
+
 Common
 Common
 
@@ -88605,8 +88605,8 @@ Common
 
 Common
 
-Common
 
+Common
 
 
 Common
@@ -88627,8 +88627,8 @@ Common
 Common
 
 Personal
-
 Common
+
 Common
 
 Personal
@@ -88646,9 +88646,9 @@ Personal
 
 
 Common
-
 
 Common
+
 Common
 
 
@@ -88671,14 +88671,14 @@ Common
 
 
 Common
-
 
 Demonstrative
 
-Common
 
+Common
 
 Common
+
 Common
 
 
@@ -88754,20 +88754,20 @@ Personal
 Personal
 
 Common
-
 
 
 
 
 
 Common
-Common
 
 Common
 
+Common
 
 Demonstrative
 
+
 Common
 
 Common
@@ -88845,7 +88845,6 @@ Common
 
 Common
 Common
-
 Relative
 
 
@@ -88853,8 +88852,8 @@ Relative
 
 
 
-Common
 
+Common
 
 
 
@@ -88873,6 +88872,7 @@ Common
 
 
 Common
+
 Personal
 
 Personal
@@ -88896,17 +88896,17 @@ Common
 Common
 
 Personal
+Relative
 
 
-Relative
 
 Common
 
 Common
-
 Relative
 
 
+
 Common
 
 
@@ -88971,12 +88971,11 @@ Common
 
 
 Common
-
 
 
 Demonstrative
-Proper
 
+Proper
 
 
 
@@ -88987,6 +88986,7 @@ Proper
 
 
 Personal
+
 Interrogative
 
 
@@ -89040,13 +89040,13 @@ Personal
 
 
 Demonstrative
-
 
 
 
 
 
 Common
+
 Common
 
 Common
@@ -89131,7 +89131,6 @@ Common
 
 
 Common
-
 
 
 
@@ -89140,6 +89139,7 @@ Common
 
 
 
+
 Common
 
 
@@ -89256,12 +89256,12 @@ Personal
 
 
 Personal
-
 Relative
 
 
 
 
+
 Common
 
 
@@ -89326,9 +89326,9 @@ Common
 
 
 Proper
-Common
 Common
 
+Common
 
 Common
 Common
@@ -89363,8 +89363,8 @@ Personal
 
 
 
-Common
 
+Common
 
 
 Common
@@ -89373,8 +89373,8 @@ Personal
 
 
 
-Common
 
+Common
 
 Common
 
@@ -89425,12 +89425,12 @@ Common
 
 Common
 Common
+
 
 
 Common
 Personal
 
-
 Personal
 Personal
 
@@ -89504,11 +89504,11 @@ Proper
 
 
 Common
-
 
 
 
 Indefinite
+
 Relative
 
 
@@ -89590,12 +89590,12 @@ Common
 
 Common
 Demonstrative
-
 Common
 
 
 
 
+
 Personal
 
 
@@ -89667,11 +89667,11 @@ Common
 
 
 Personal
-
 Demonstrative
 
 
 
+
 Personal
 
 Common
@@ -89693,8 +89693,9 @@ Common
 Proper
 
 
-Common
 
+Personal
+Common
 
 
 Common
@@ -89707,7 +89708,6 @@ Proper
 Common
 
 Common
-Personal
 
 Personal
 
@@ -89782,19 +89782,19 @@ Common
 
 
 Personal
-
 
 Relative
+
 Personal
 
 Common
 
 
 Personal
-
 Common
 
 
+
 Personal
 Personal
 
@@ -89817,7 +89817,6 @@ Personal
 Common
 
 Relative
-
 
 Personal
 
@@ -89825,6 +89824,7 @@ Personal
 
 
 
+
 Common
 
 Common
@@ -89990,9 +89990,9 @@ Common
 
 Proper
 
-Common
 
 Personal
+Common
 
 
 
@@ -90039,7 +90039,6 @@ Common
 
 Personal
 Common
-
 
 
 
@@ -90048,6 +90047,7 @@ Personal
 
 
 
+
 Personal
 
 
@@ -90224,9 +90224,9 @@ Proper
 Common
 Personal
 
-Personal
 Personal
 Common
+Personal
 
 Common
 
@@ -90321,9 +90321,9 @@ Proper
 Common
 Personal
 
-Common
 
 Personal
+Common
 
 
 Common
@@ -90356,11 +90356,11 @@ Common
 
 Common
 
-Common
-Personal
 
 Personal
 
+Personal
+Common
 Personal
 
 
@@ -90376,19 +90376,19 @@ Demonstrative
 
 
 Personal
-
 
 Personal
 
-Proper
 
-Personal
 Proper
-
 Personal
+
 Proper
+Personal
 
+Proper
 Personal
+
 Proper
 
 
@@ -90435,6 +90435,7 @@ Common
 
 
 Indefinite
+
 
 
 
@@ -90446,7 +90447,6 @@ Proper
 
 
 
-
 Common
 Common
 
@@ -90456,15 +90456,15 @@ Common
 Common
 
 Proper
-
 
-
 Common
+
 
 
 Common
 
 
+
 Common
 
 
@@ -90539,25 +90539,25 @@ Common
 
 Proper
 Common
-
 
 Personal
 
-Proper
 
+Proper
 
 
-Common
 
 Common
 Common
 
+Common
 Personal
 
 
 
 
 
+
 Proper
 Proper
 Common
@@ -90583,11 +90583,11 @@ Common
 
 Common
 
-Common
 
 
 Common
 Personal
+Common
 
 
 
@@ -90634,10 +90634,10 @@ Common
 
 
 
+Common
 
 
 
-Common
 
 
 
@@ -90650,9 +90650,9 @@ Common
 
 
 Common
-
 
 Personal
+
 Personal
 
 
@@ -90660,12 +90660,12 @@ Proper
 Proper
 Relative
 
+Common
 Personal
 
 Common
 Common
 
-Common
 
 Common
 
@@ -90678,11 +90678,11 @@ Common
 
 Common
 
-Common
 Personal
 
 
 Personal
+Common
 
 
 
@@ -90755,16 +90755,16 @@ Common
 
 Common
 Common
-
 Common
 
 
 
 
 
-
 Common
+
 
+
 Common
 Demonstrative
 
@@ -90835,10 +90835,10 @@ Common
 
 
 Personal
-
 Personal
 
 
+
 Common
 
 
@@ -90853,10 +90853,10 @@ Common
 Common
 
 Common
-
 Interrogative
-Common
+
 
+Common
 
 
 Common
@@ -90882,9 +90882,9 @@ Common
 Common
 
 Common
+Personal
 
 
-Personal
 
 Common
 
@@ -90931,10 +90931,9 @@ Common
 Common
 
 Common
-
 Common
-Personal
 
+Personal
 
 
 
@@ -90956,18 +90955,19 @@ Personal
 
 Interrogative
 
+
 Common
 Common
 Relative
 
 Personal
-
 Personal
+
 Common
 Proper
 
-Common
 Personal
+Common
 
 
 
@@ -91011,7 +91011,6 @@ Common
 
 
 Common
-
 
 
 
@@ -91019,6 +91018,7 @@ Common
 Indefinite
 Personal
 
+
 Proper
 
 
@@ -91026,14 +91026,14 @@ Personal
 Proper
 
 Common
-
 
 Interrogative
 
-Proper
 
+Proper
 Interrogative
 
+
 Proper
 Common
 
@@ -91083,10 +91083,10 @@ Common
 
 
 
+Common
 Common
 
 
-Common
 
 Common
 Common
@@ -91114,10 +91114,10 @@ Common
 
 
 
+Common
 
 
 
-Common
 
 
 
@@ -91163,12 +91163,12 @@ Interrogative
 
 Common
 Personal
-
 
 
 Indefinite
 
 Common
+
 Relative
 
 Common
@@ -91177,7 +91177,6 @@ Common
 Indefinite
 
 Common
-
 
 
 Personal
@@ -91186,6 +91185,7 @@ Personal
 
 
 
+
 Common
 
 
@@ -91299,12 +91299,12 @@ Common
 
 
 
+Personal
 Personal
 
-Personal
 Proper
-
 Proper
+
 Common
 
 Personal
@@ -91326,7 +91326,6 @@ Common
 
 
 Indefinite
-
 
 Personal
 
@@ -91339,6 +91338,7 @@ Personal
 
 
 
+
 Common
 
 
@@ -91392,9 +91392,9 @@ Common
 
 
 Common
+Demonstrative
 
 Common
-Demonstrative
 
 
 Personal
@@ -91410,7 +91410,6 @@ Personal
 
 
 Relative
-
 
 
 
@@ -91423,11 +91422,12 @@ Relative
 
 
 Interrogative
+
 Personal
 
+Interrogative
 
 
-Interrogative
 Relative
 
 
@@ -91481,24 +91481,24 @@ Personal
 
 
 Proper
-
 Personal
 
 
+
 Proper
 Personal
-
 
 Personal
 
-Personal
 
+Personal
 
 Personal
 
 
 
 
+
 Common
 
 
@@ -91527,8 +91527,8 @@ Common
 
 Common
 
-Common
 
+Common
 
 
 
@@ -91649,8 +91649,8 @@ Personal
 
 
 Common
-
 Common
+
 Common
 
 
@@ -91666,8 +91666,8 @@ Relative
 
 Common
 
-Indefinite
 Common
+Indefinite
 
 Common
 
@@ -91688,12 +91688,12 @@ Personal
 
 Common
 Demonstrative
-
 
 Personal
 
 
 
+
 Common
 
 
@@ -91774,8 +91774,8 @@ Common
 
 Common
 Personal
-Proper
 
+Proper
 
 
 
@@ -91847,10 +91847,10 @@ Common
 
 
 Demonstrative
-
 
 
 Interrogative
+
 Personal
 
 
@@ -91913,7 +91913,6 @@ Common
 
 
 Common
-
 
 
 
@@ -91926,6 +91925,7 @@ Common
 
 
 
+
 Common
 Demonstrative
 
@@ -92158,9 +92158,9 @@ Common
 Common
 
 Common
-
 Relative
 
+
 Common
 
 
@@ -92298,10 +92298,10 @@ Proper
 
 Common
 Personal
-
 Demonstrative
 
 
+
 Common
 
 
@@ -92391,10 +92391,10 @@ Common
 
 Indefinite
 Common
-
 Common
 
 
+
 Demonstrative
 
 
@@ -92469,20 +92469,20 @@ Demonstrative
 Common
 
 Personal
-
-Common
 
 Common
 Interrogative
-
 
 
 Common
 
 
 Common
+
+
 Interrogative
 
+Common
 
 
 Common
@@ -92562,25 +92562,25 @@ Common
 Common
 
 Common
-
 
 
 
 
 
 Common
+
 Proper
 Common
 
 
 
-Common
 Common
 Common
 
 
 Relative
 
+Common
 
 Demonstrative
 
@@ -92592,7 +92592,6 @@ Common
 Common
 Common
 Common
-
 
 
 Common
@@ -92600,6 +92599,7 @@ Common
 
 
 
+
 Common
 
 
@@ -92640,23 +92640,23 @@ Common
 
 
 Common
-
 
 
 Common
 
+
 Common
 
 
 Demonstrative
-
 Personal
-Personal
 
+Personal
 
-Common
 Demonstrative
+
 
+Common
 
 Common
 
@@ -92765,10 +92765,10 @@ Common
 
 
 Common
-
 Demonstrative
 
 
+
 Personal
 Personal
 
@@ -92804,7 +92804,6 @@ Personal
 
 
 Relative
-
 
 
 
@@ -92814,18 +92813,19 @@ Relative
 
 
 
+
 Common
 Personal
 
 
 
 Common
-
 Common
 
 
 
 
+
 Common
 
 Demonstrative
@@ -92929,7 +92929,6 @@ Demonstrative
 
 
 Personal
-
 
 
 Common
@@ -92938,6 +92937,7 @@ Common
 
 
 
+
 Common
 
 Common
@@ -93000,9 +93000,9 @@ Personal
 
 
 Common
-
 Indefinite
 
+
 Common
 
 
@@ -93015,11 +93015,11 @@ Common
 
 Common
 Personal
-
 
 
 
 Common
+
 Personal
 
 
@@ -93074,9 +93074,9 @@ Personal
 
 
 
-Common
 
 
+Common
 
 Common
 
@@ -93258,7 +93258,6 @@ Common
 
 
 Personal
-
 
 
 
@@ -93267,6 +93266,7 @@ Personal
 
 
 
+
 Common
 
 
@@ -93349,12 +93349,12 @@ Common
 
 
 Common
-
 
 Personal
 
 
 
+
 Demonstrative
 
 
@@ -93383,8 +93383,8 @@ Personal
 
 Personal
 Common
-
 Common
+
 Personal
 
 
@@ -93405,12 +93405,12 @@ Common
 
 
 Common
-
 
 Interrogative
 
 Personal
 
+
 Common
 
 
@@ -93531,13 +93531,12 @@ Common
 
 
 
+Demonstrative
 
 
-Demonstrative
 
 
 Common
-
 
 Personal
 
@@ -93552,6 +93551,7 @@ Personal
 
 
 
+
 Common
 
 
@@ -93569,11 +93569,11 @@ Personal
 
 
 
-Common
 
 
 Personal
 
+Common
 
 
 Common
@@ -93614,19 +93614,19 @@ Common
 
 
 
-Common
 
+Common
 
 
 
 
 
 Common
-
 
 Common
 
 
+
 Proper
 
 
@@ -93637,13 +93637,13 @@ Personal
 
 
 Common
-
 
 
 
 
 
 Demonstrative
+
 Common
 Personal
 
@@ -93710,10 +93710,10 @@ Personal
 
 
 Common
-
 Demonstrative
 
 
+
 Demonstrative
 
 
@@ -93783,11 +93783,11 @@ Common
 
 Common
 Relative
-
 
 
 Common
 
+
 Common
 
 Proper
@@ -93831,12 +93831,12 @@ Common
 Common
 
 Common
-
 
 Interrogative
 
 
 
+
 Interrogative
 
 
@@ -93916,10 +93916,10 @@ Common
 
 
 Common
-
 
 Common
 
+
 Common
 
 
@@ -93928,9 +93928,9 @@ Personal
 
 Indefinite
 
+Personal
 
 
-Personal
 
 
 
@@ -93960,10 +93960,10 @@ Demonstrative
 
 
 
+Common
 Common
 
 
-Common
 
 
 Personal
@@ -94062,15 +94062,15 @@ Common
 Common
 
 Proper
-
 
 Common
-Common
 
 Common
 
+Common
 Common
 
+
 Proper
 
 Common
@@ -94123,9 +94123,9 @@ Common
 
 
 
+Common
 
 
-Common
 
 
 
@@ -94135,10 +94135,10 @@ Common
 
 Common
 Common
-
 
 
 Common
+
 Common
 Common
 
@@ -94227,16 +94227,16 @@ Personal
 
 Personal
 
+Common
 
 
-Common
 
 Common
 Personal
 
+Common
 
 
-Common
 
 Common
 Personal
@@ -94264,7 +94264,6 @@ Common
 Common
 
 Common
-
 Demonstrative
 
 
@@ -94283,6 +94282,7 @@ Demonstrative
 
 
 
+
 Personal
 
 Common
@@ -94326,7 +94326,6 @@ Common
 
 
 Common
-
 
 
 
@@ -94339,6 +94338,7 @@ Relative
 
 
 
+
 Common
 
 
@@ -94365,13 +94365,13 @@ Personal
 Personal
 
 Demonstrative
-
 
 
 Personal
 
 
 
+
 Common
 Relative
 
@@ -94394,9 +94394,9 @@ Common
 
 
 Demonstrative
-
 Personal
 
+
 Common
 
 
@@ -94453,12 +94453,12 @@ Common
 
 
 Relative
-
 
 
 Relative
 
 
+
 Common
 
 
@@ -94563,10 +94563,10 @@ Common
 
 
 
-Common
 
 
 
+Common
 
 
 Personal
@@ -94607,9 +94607,9 @@ Proper
 
 
 Common
-
 
 Common
+
 Common
 
 
@@ -94648,9 +94648,9 @@ Common
 
 
 
+Relative
 
 
-Relative
 
 
 Common
@@ -94731,8 +94731,8 @@ Common
 
 
 
-Common
 
+Common
 
 
 
@@ -94881,7 +94881,6 @@ Common
 Common
 Common
 Personal
-
 
 
 
@@ -94889,19 +94888,20 @@ Personal
 
 
 
-
 Common
 
 Common
+
 
 
 
+
 Relative
 
 
 
-Common
 
+Common
 Demonstrative
 Common
 
@@ -94962,20 +94962,20 @@ Common
 
 
 Common
-
 Personal
 
+
 Common
 Proper
 
 Common
 
 Common
-
 
 Relative
 
 
+
 Common
 
 
@@ -95007,10 +95007,10 @@ Common
 
 
 Common
-
 
 
 Common
+
 Common
 
 
@@ -95037,15 +95037,15 @@ Personal
 Common
 
 Common
-
 
-Common
 
 
+Common
 Common
 
 
 
+
 Common
 
 
@@ -95072,7 +95072,6 @@ Common
 Common
 
 Common
-
 
 Common
 
@@ -95085,6 +95084,7 @@ Common
 
 
 
+
 Personal
 
 
@@ -95092,7 +95092,6 @@ Personal
 
 Common
 Personal
-
 
 
 Common
@@ -95101,6 +95100,7 @@ Common
 
 
 
+
 Common
 
 
@@ -95156,13 +95156,13 @@ Common
 
 
 Common
-
 
 
 Common
 
 
 
+
 Common
 
 
@@ -95249,12 +95249,12 @@ Common
 
 
 Common
-
 
 
 
 Common
 
+
 Common
 
 
@@ -95304,8 +95304,8 @@ Common
 Common
 
 
-Common
 
+Common
 
 
 
@@ -95355,15 +95355,14 @@ Common
 
 
 
-Common
 
 Common
+Common
 
 Interrogative
 
 
 Common
-
 
 
 Personal
@@ -95372,6 +95371,7 @@ Personal
 Common
 
 
+
 Common
 
 
@@ -95380,12 +95380,12 @@ Common
 
 
 
-Common
 
+Common
 
+Demonstrative
 
 
-Demonstrative
 Common
 Common
 
@@ -95416,9 +95416,9 @@ Personal
 
 Personal
 
-Common
 Common
 
+Common
 
 
 Common
@@ -95446,13 +95446,13 @@ Personal
 
 Common
 Personal
-
 
 
 Interrogative
 
 
 
+
 Common
 
 
@@ -95490,9 +95490,9 @@ Interrogative
 
 
 
+Personal
 
 
-Personal
 
 
 
@@ -95645,10 +95645,10 @@ Common
 Common
 
 Personal
-
 
 Interrogative
 
+
 Common
 
 
@@ -95691,13 +95691,12 @@ Common
 
 
 Common
+Personal
 
 
-Personal
 
 
 Common
-
 Common
 
 
@@ -95728,6 +95727,7 @@ Common
 
 
 
+
 Common
 Common
 Common
@@ -95798,19 +95798,19 @@ Personal
 
 
 Indefinite
-
 
 Common
 
 
 
+
 Relative
 
 Personal
 
-Common
 Common
 
+Common
 
 
 Indefinite
@@ -95825,9 +95825,9 @@ Personal
 
 
 
-Common
 
 
+Common
 
 
 
@@ -95836,9 +95836,9 @@ Common
 Common
 
 
-Common
 
 Personal
+Common
 
 Common
 Relative
@@ -95912,7 +95912,6 @@ Common
 
 
 Relative
-
 
 
 
@@ -95922,25 +95921,26 @@ Indefinite
 
 
 
+
 Proper
 
 
 Common
-
 
 
 
 
-Personal
 
 
 Common
 
+Personal
 Personal
 
 
 
 
+
 Common
 Relative
 
@@ -95954,8 +95954,8 @@ Common
 Common
 
 Common
-
 Common
+
 Common
 
 Relative
@@ -95973,13 +95973,13 @@ Personal
 
 
 Personal
-
 
 
 
 Personal
 
 
+
 Common
 
 Common
@@ -96106,10 +96106,10 @@ Common
 
 
 
+Proper
 
 
 
-Proper
 Common
 
 
@@ -96190,8 +96190,8 @@ Personal
 
 
 
-Common
 
+Common
 
 
 
@@ -96260,7 +96260,6 @@ Interrogative
 Personal
 
 
-Common
 Common
 
 Common
@@ -96269,6 +96268,7 @@ Common
 
 
 Common
+Common
 Relative
 
 
@@ -96303,7 +96303,6 @@ Common
 Common
 
 Common
-
 
 
 
@@ -96311,6 +96310,7 @@ Common
 
 
 Common
+
 Common
 Indefinite
 
@@ -96321,17 +96321,17 @@ Personal
 
 
 Indefinite
-
 
 
 
 
 Interrogative
+
 Common
 
 
-Relative
 Personal
+Relative
 
 
 
@@ -96421,8 +96421,8 @@ Common
 
 Common
 Common
-
 Common
+
 Common
 
 
@@ -96529,11 +96529,11 @@ Common
 
 
 Common
-
 
 
 Demonstrative
 
+
 Common
 
 Common
@@ -96615,15 +96615,15 @@ Common
 
 Common
 
-Common
 Common
 
 Personal
-
 Common
+
 Common
 
 Personal
+Common
 
 Common
 
@@ -96641,9 +96641,9 @@ Common
 
 Common
 
-Common
 
 Common
+Common
 
 
 Personal
@@ -96706,9 +96706,9 @@ Personal
 Personal
 
 
+Relative
 Indefinite
 
-Relative
 
 
 
@@ -96716,7 +96716,6 @@ Relative
 
 
 Common
-
 
 
 
@@ -96724,6 +96723,7 @@ Common
 Relative
 
 
+
 Common
 Demonstrative
 
@@ -96749,7 +96749,6 @@ Personal
 Personal
 
 Proper
-
 
 Proper
 
@@ -96762,6 +96761,7 @@ Personal
 
 
 
+
 Personal
 Personal
 
@@ -96793,11 +96793,11 @@ Common
 Proper
 
 
+Common
 Common
 
 Personal
 
-Common
 
 
 
@@ -96821,9 +96821,9 @@ Common
 
 
 Personal
-
 
 Indefinite
+
 Personal
 
 
@@ -97031,8 +97031,8 @@ Proper
 
 
 Proper
-Personal
 Common
+Personal
 
 Common
 
@@ -97138,23 +97138,23 @@ Personal
 
 
 Personal
-
 
 
 
 Common
 
+
 Common
 
 
 
 Common
 
-Common
 
 
 Personal
 
+Common
 
 
 Common
@@ -97270,9 +97270,9 @@ Common
 Personal
 
 
-Personal
 
 
+Personal
 
 
 Relative
@@ -97340,12 +97340,12 @@ Personal
 
 
 Proper
-
 Demonstrative
 
 
 
 
+
 Common
 
 
@@ -97376,7 +97376,6 @@ Personal
 
 
 Personal
-
 
 
 
@@ -97385,6 +97384,7 @@ Personal
 
 
 Common
+
 Common
 Proper
 Proper
@@ -97409,9 +97409,9 @@ Proper
 
 
 Personal
-
 
 Relative
+
 Common
 Common
 
@@ -97456,8 +97456,8 @@ Common
 
 Common
 Personal
-
 Personal
+
 Common
 
 Common
@@ -97528,8 +97528,8 @@ Common
 
 
 Relative
-Personal
 
+Personal
 
 
 
@@ -97559,9 +97559,9 @@ Common
 
 
 
+Common
 
 
-Common
 Relative
 
 
@@ -97578,10 +97578,10 @@ Personal
 
 Common
 
-Personal
 
 
 
+Personal
 
 
 Demonstrative
@@ -97614,7 +97614,6 @@ Personal
 
 Personal
 Common
-
 
 Demonstrative
 
@@ -97622,15 +97621,16 @@ Demonstrative
 
 
 
+
 Common
 Personal
-
 
 
 
 
 
 Relative
+
 Indefinite
 
 Personal
@@ -97696,8 +97696,8 @@ Personal
 
 Proper
 
-Common
 
+Common
 Common
 
 
@@ -97731,15 +97731,15 @@ Common
 
 
 
-
 Relative
-Common
 
 Common
 
 Common
 
+Common
 Relative
+
 Common
 
 Common
@@ -97755,12 +97755,12 @@ Interrogative
 
 
 
-Common
 
-Common
 
 
+Common
 
+Common
 
 
 
@@ -97830,8 +97830,8 @@ Common
 Common
 Common
 
-
 Common
+
 Demonstrative
 
 
@@ -97894,9 +97894,9 @@ Common
 
 
 
+
 Common
 Proper
-
 
 
 Common
@@ -98049,8 +98049,8 @@ Common
 Common
 Common
 Common
-
 Personal
+
 
 
 Common
@@ -98160,8 +98160,8 @@ Personal
 Proper
 Proper
 Common
-
 Personal
+
 Common
 Personal
 
@@ -98401,10 +98401,10 @@ Common
 
 Common
 
-
 Common
 
 Common
+
 Common
 
 
@@ -98484,8 +98484,8 @@ Common
 
 Common
 
-
 Common
+
 
 
 
@@ -98521,10 +98521,10 @@ Personal
 
 
 
+
 Common
 
 Proper
-
 
 
 
@@ -98547,8 +98547,8 @@ Common
 Common
 Common
 
-
 Common
+
 
 
 
@@ -98565,9 +98565,9 @@ Personal
 Personal
 
 Common
-Common
 
 Personal
+Common
 
 Personal
 
@@ -98614,8 +98614,8 @@ Demonstrative
 
 
 
-
 Personal
+
 
 
 
@@ -98679,9 +98679,9 @@ Common
 Common
 
 
-
 Proper
 Common
+
 Personal
 
 
@@ -98698,8 +98698,8 @@ Common
 
 Common
 
-
 Proper
+
 
 
 
@@ -98762,10 +98762,10 @@ Common
 Common
 Common
 
-Common
 
 
 
+Common
 
 
 
@@ -98871,13 +98871,13 @@ Common
 
 
 
-Proper
 
 Common
 Personal
 
 
 Personal
+Proper
 
 Common
 Personal
@@ -98906,8 +98906,8 @@ Personal
 
 
 
-
 Interrogative
+
 Common
 Common
 
@@ -98918,8 +98918,8 @@ Common
 Common
 
 Common
-
 Interrogative
+
 Common
 Proper
 
@@ -98930,15 +98930,15 @@ Common
 
 
 
-
 Interrogative
+
 Common
 Common
 Common
 
 Common
-
 Personal
+
 Common
 Common
 
@@ -98970,11 +98970,11 @@ Personal
 
 
 
+Common
 
 
 
 
-Common
 Personal
 
 Personal
@@ -98994,12 +98994,12 @@ Common
 
 Common
 Common
-
+Demonstrative
 
 
-Demonstrative
 
 Common
+
 
 Personal
 
@@ -99084,11 +99084,11 @@ Common
 
 
 
-
-Common
 
 Personal
 
+Common
+
 
 Common
 Proper
@@ -99194,9 +99194,9 @@ Demonstrative
 
 Common
 
+Interrogative
 
 Personal
-Interrogative
 Common
 
 Common
@@ -99322,9 +99322,9 @@ Personal
 
 Personal
 
-Common
 
 Personal
+Common
 
 Common
 
@@ -99361,8 +99361,8 @@ Common
 Personal
 
 
-
 Common
+
 
 
 Common
@@ -99484,8 +99484,8 @@ Common
 
 Demonstrative
 
-
 Demonstrative
+
 Personal
 
 Relative
@@ -99579,8 +99579,8 @@ Common
 
 
 
-
 Common
+
 
 Common
 
@@ -99837,8 +99837,8 @@ Common
 
 
 Common
-
 Demonstrative
+
 
 
 
@@ -100015,8 +100015,8 @@ Common
 
 Personal
 Common
-
 Personal
+
 Personal
 Proper
 
@@ -100030,8 +100030,8 @@ Common
 Proper
 Relative
 
-
 Common
+
 
 
 Personal
@@ -100061,8 +100061,8 @@ Personal
 Common
 
 
-
 Common
+
 
 
 
@@ -100083,8 +100083,8 @@ Common
 
 Common
 Common
-
 Common
+
 
 
 Common
@@ -100172,9 +100172,9 @@ Personal
 Common
 
 
+Common
 
 
-Common
 
 
 
@@ -100228,8 +100228,8 @@ Personal
 Personal
 
 
-
 Personal
+
 
 
 
@@ -100278,8 +100278,8 @@ Proper
 
 
 Common
-
 Common
+
 
 
 
@@ -100383,14 +100383,14 @@ Proper
 
 
 
-
 Proper
-Relative
 
+Relative
 
 
 
 Common
+
 
 Relative
 
@@ -100508,8 +100508,8 @@ Personal
 
 Common
 
-
 Relative
+
 
 
 
@@ -100541,8 +100541,8 @@ Proper
 
 
 Common
-
 Personal
+
 
 Proper
 
@@ -100573,8 +100573,8 @@ Personal
 
 
 Indefinite
-
 Personal
+
 
 
 
@@ -100650,9 +100650,9 @@ Common
 Personal
 
 
+Relative
 
 
-Relative
 Indefinite
 
 
@@ -100793,8 +100793,8 @@ Proper
 
 
 
-Common
 
+Common
 
 
 
@@ -100842,18 +100842,18 @@ Common
 
 Proper
 
-
 Common
 
 
 
+Common
 
 
-Common
 
 
 
 Common
+
 
 
 Common
@@ -100893,8 +100893,8 @@ Common
 Relative
 
 
-
 Common
+
 
 
 Demonstrative
@@ -100916,8 +100916,8 @@ Common
 
 
 
-
 Common
+
 
 
 
@@ -101020,8 +101020,8 @@ Proper
 Personal
 Personal
 
-
 Personal
+
 
 
 Personal
@@ -101047,14 +101047,14 @@ Personal
 
 
 Common
-
 Common
 
-Common
 
 Common
 
+Common
 Interrogative
+
 
 Relative
 
@@ -101106,8 +101106,8 @@ Common
 Common
 
 Common
-
 Personal
+
 
 
 
@@ -101274,8 +101274,8 @@ Common
 
 
 
-
 Common
+
 
 
 Personal
@@ -101367,8 +101367,8 @@ Personal
 
 
 
-
 Personal
+
 
 
 
@@ -101388,14 +101388,14 @@ Common
 
 Personal
 
-
 Personal
-
 
 
 
 Demonstrative
 
+
+
 Personal
 Common
 
@@ -101422,8 +101422,8 @@ Common
 
 
 Common
-Common
 
+Common
 
 
 
@@ -101501,8 +101501,8 @@ Common
 Common
 
 Proper
-Personal
 Common
+Personal
 
 Common
 
@@ -101612,8 +101612,8 @@ Common
 
 
 
-
 Common
+
 
 
 Common
@@ -101625,15 +101625,15 @@ Common
 
 Common
 
-
 Proper
 Common
 
 
 
-Common
 
+
 Personal
+Common
 
 Common
 
@@ -101692,8 +101692,8 @@ Common
 Common
 Personal
 
-
 Common
+
 
 
 Personal
@@ -101778,8 +101778,8 @@ Proper
 Common
 
 Common
-
 Relative
+
 
 Personal
 
@@ -101929,13 +101929,13 @@ Indefinite
 Personal
 
 Common
-Common
 
 Common
-
+Common
 
 
 Personal
+
 
 
 
@@ -101984,18 +101984,18 @@ Proper
 Common
 
 
-Common
 
 Personal
 
 Proper
+Common
 
 Personal
 
 
 Common
-
 Personal
+
 
 
 Common
@@ -102086,8 +102086,8 @@ Personal
 
 
 
-
 Common
+
 
 Personal
 Common
@@ -102162,8 +102162,8 @@ Demonstrative
 Common
 Personal
 
-
 Personal
+
 
 Common
 Common
@@ -102182,15 +102182,15 @@ Personal
 
 Personal
 Proper
-
 Relative
 
 
 
-Common
 
+Common
 
 Common
+
 
 
 Common
@@ -102232,18 +102232,18 @@ Proper
 Proper
 
 
-
 Demonstrative
+
 
 
 
 Personal
 
 Common
-
-
 Common
+
 Common
+
 
 
 Common
@@ -102299,12 +102299,12 @@ Common
 Common
 Demonstrative
 Common
+
 Proper
 
 
 
 Common
-
 
 
 Common
@@ -102332,8 +102332,8 @@ Common
 
 
 Proper
-
 Relative
+
 
 Common
 Common
@@ -102445,10 +102445,10 @@ Common
 
 
 
+Proper
 
-Common
 
-Proper
+Common
 
 
 Common
@@ -102472,8 +102472,8 @@ Personal
 Relative
 
 Proper
-
 Demonstrative
+
 
 Common
 
@@ -102512,8 +102512,8 @@ Common
 
 
 Common
-
 Interrogative
+
 
 Common
 
@@ -102563,8 +102563,8 @@ Common
 
 
 
-
 Common
+
 
 
 Common
@@ -102599,8 +102599,8 @@ Common
 
 
 
-
 Common
+
 
 
 Common
@@ -102632,8 +102632,8 @@ Common
 
 Proper
 Proper
-
 Relative
+
 
 Proper
 
@@ -102693,8 +102693,8 @@ Common
 
 Common
 
-Common
 
+Common
 
 
 Common
@@ -102809,8 +102809,8 @@ Relative
 
 
 
-
 Common
+
 
 Common
 
@@ -102851,13 +102851,13 @@ Personal
 
 
 
-
 Common
 Personal
 
 
 Common
 Personal
+
 
 
 
@@ -102961,8 +102961,8 @@ Common
 
 Proper
 
-
 Common
+
 
 
 
@@ -102992,8 +102992,8 @@ Common
 Relative
 
 
-
 Demonstrative
+
 
 
 Common
@@ -103063,9 +103063,9 @@ Common
 
 
 Common
+Personal
 
 Common
-Personal
 
 Proper
 Common
@@ -103167,8 +103167,8 @@ Common
 
 Common
 
-
 Personal
+
 Common
 
 Common
@@ -103179,8 +103179,6 @@ Common
 
 Proper
 Proper
-
-Common
 
 Common
 Indefinite
@@ -103190,11 +103188,13 @@ Common
 
 Common
 
+Common
 
 
-Interrogative
 
+Interrogative
 Personal
+
 Common
 
 
@@ -103228,13 +103228,13 @@ Personal
 
 
 Common
-
 Relative
+
 
+Personal
 
 Common
 
-Personal
 Common
 
 
@@ -103253,8 +103253,8 @@ Common
 
 
 Personal
-
 Personal
+
 
 Common
 
@@ -103279,8 +103279,8 @@ Personal
 Common
 
 
-
 Common
+
 
 
 
@@ -103323,14 +103323,14 @@ Common
 
 
 Common
-
 Demonstrative
-Personal
 
+Personal
 
 
 
 Relative
+
 
 Demonstrative
 
@@ -103517,9 +103517,9 @@ Common
 Common
 
 
+Relative
 
 
-Relative
 
 Common
 Demonstrative
@@ -103555,8 +103555,8 @@ Common
 
 
 
-
 Common
+
 
 
 
@@ -103580,8 +103580,8 @@ Common
 Common
 
 Interrogative
-Common
 Personal
+Common
 
 
 
@@ -103620,8 +103620,8 @@ Personal
 
 Common
 
-
 Personal
+
 
 
 
@@ -103643,10 +103643,10 @@ Common
 Personal
 Common
 
-Indefinite
-
 
 Common
+Indefinite
+
 
 Common
 
@@ -103660,9 +103660,9 @@ Demonstrative
 
 Common
 
-Common
-
 Personal
+
+Common
 
 
 
@@ -103675,8 +103675,8 @@ Common
 Personal
 
 
-
 Personal
+
 
 Common
 
@@ -103717,8 +103717,8 @@ Proper
 
 Proper
 Proper
-Personal
 Common
+Personal
 
 Common
 
@@ -103881,10 +103881,10 @@ Personal
 
 
 
+Personal
 
 Common
 Common
-Personal
 Personal
 
 
@@ -104246,9 +104246,9 @@ Common
 
 Indefinite
 
+Personal
 
 
-Personal
 Common
 
 
@@ -104327,8 +104327,8 @@ Indefinite
 Common
 
 Proper
-
 Personal
+
 
 
 Common
@@ -104344,8 +104344,8 @@ Common
 
 Common
 
-Common
 
+Common
 
 
 Common
@@ -104550,8 +104550,8 @@ Proper
 
 Common
 Relative
-Common
 
+Common
 
 
 Common
@@ -104998,9 +104998,9 @@ Common
 Common
 
 
+Personal
 
 
-Personal
 Relative
 
 
@@ -105036,8 +105036,8 @@ Common
 Personal
 
 Common
-
 Demonstrative
+
 
 
 
@@ -105058,8 +105058,8 @@ Common
 Personal
 
 
-
 Common
+
 
 
 Common
@@ -105090,8 +105090,8 @@ Common
 
 
 Common
-
 Personal
+
 
 
 
@@ -105299,8 +105299,8 @@ Common
 
 Common
 Common
-
 Common
+
 
 Common
 
@@ -105325,8 +105325,8 @@ Relative
 
 
 Common
-
 Demonstrative
+
 
 
 
@@ -105355,8 +105355,8 @@ Personal
 
 Common
 
-
 Demonstrative
+
 
 
 Common
@@ -105606,8 +105606,8 @@ Common
 Personal
 Personal
 
-Common
 
+Common
 
 
 Common
@@ -105662,8 +105662,8 @@ Proper
 
 Common
 
-
 Common
+
 
 Common
 Personal
@@ -105694,8 +105694,8 @@ Common
 Demonstrative
 
 
-
 Personal
+
 
 
 Proper
@@ -105732,12 +105732,12 @@ Common
 Personal
 
 Common
-
 Demonstrative
 
 
 
 
+
 Common
 Personal
 
@@ -105887,6 +105887,7 @@ Personal
 
 
 Common
+
 
 
 
@@ -105895,7 +105896,6 @@ Personal
 
 Common
 
-
 Common
 
 Common
@@ -105976,7 +105976,6 @@ Relative
 
 
 Common
-
 
 
 
@@ -105989,6 +105988,7 @@ Common
 
 
 
+
 Common
 
 Common
@@ -106091,8 +106091,8 @@ Personal
 
 Common
 Personal
-
 Common
+
 Common
 
 Common
@@ -106138,8 +106138,8 @@ Proper
 Common
 
 Common
-Personal
 Common
+Personal
 
 Common
 
@@ -106237,9 +106237,9 @@ Personal
 Common
 
 Personal
-
 
 Common
+
 Personal
 
 Common
@@ -106292,13 +106292,13 @@ Proper
 
 Common
 
-Common
 Common
-
 Common
 
 
 Personal
+
+Common
 
 
 
@@ -106341,20 +106341,20 @@ Personal
 
 
 Common
-
 
 
 
 Indefinite
 
 
-Common
 
 Common
 
+Common
 Indefinite
 
 
+
 Common
 
 Proper
@@ -106385,11 +106385,11 @@ Common
 
 Common
 Personal
-
 Interrogative
 
 
 
+
 Common
 
 Common
@@ -106452,10 +106452,10 @@ Common
 
 
 Common
-
 Personal
 
 
+
 Proper
 
 
@@ -106582,8 +106582,8 @@ Relative
 Personal
 Common
 Common
-
 Personal
+
 Common
 
 Demonstrative
@@ -106606,11 +106606,11 @@ Personal
 
 
 Personal
-
 
 
 
 Common
+
 Relative
 
 
@@ -106620,9 +106620,9 @@ Personal
 
 
 Personal
-
 
 Indefinite
+
 Common
 
 Proper
@@ -106720,8 +106720,8 @@ Personal
 
 
 Common
-
 Common
+
 Common
 
 
@@ -106743,7 +106743,6 @@ Common
 
 Common
 Proper
-
 
 Common
 
@@ -106753,6 +106752,7 @@ Common
 
 
 
+
 Common
 
 
@@ -106791,13 +106791,13 @@ Common
 
 Personal
 Common
-
 
 Common
 
 
 
 
+
 Personal
 
 
@@ -106929,10 +106929,10 @@ Personal
 
 
 Common
+Demonstrative
 
 
 
-Demonstrative
 
 
 
@@ -106961,8 +106961,8 @@ Common
 
 Common
 Personal
-
 Personal
+
 Common
 
 Common
@@ -106993,12 +106993,12 @@ Common
 Common
 
 Personal
-
 
 Personal
 
 
 
+
 Personal
 
 
@@ -107050,11 +107050,11 @@ Common
 
 
 Personal
-Common
 Common
-Personal
 
 
+Common
+Personal
 
 
 Common
@@ -107062,7 +107062,6 @@ Common
 
 
 Personal
-
 Personal
 
 
@@ -107071,6 +107070,7 @@ Personal
 
 
 
+
 Common
 
 
@@ -107079,11 +107079,11 @@ Common
 
 
 Common
+Personal
 
 
 
 Common
-Personal
 
 Common
 Common
@@ -107249,10 +107249,10 @@ Relative
 Proper
 Proper
 Common
+Personal
 Personal
 
 
-Personal
 
 
 
@@ -107278,9 +107278,9 @@ Common
 
 Proper
 Proper
-
 Relative
 
+
 Demonstrative
 
 
@@ -107301,10 +107301,10 @@ Relative
 
 
 
-Common
 Common
 Personal
 
+Common
 
 
 
@@ -107348,22 +107348,22 @@ Common
 
 Common
 Personal
-
 
 
 
 
 Personal
 
+
 Common
 
 Common
 
 
 Relative
-
 
 Common
+
 Common
 Proper
 Proper
@@ -107499,9 +107499,9 @@ Personal
 
 Proper
 Proper
-Common
 
 
+Common
 Relative
 
 
@@ -107568,11 +107568,11 @@ Relative
 
 
 Common
-
 
 Personal
 
 
+
 Relative
 
 
@@ -107611,22 +107611,22 @@ Personal
 
 Common
 
-Proper
 
 
 Personal
+Proper
 
 
+Common
 
+Common
 
-Proper
 
-Common
 
-Common
+Proper
 
-Common
 Personal
+Common
 
 
 Common
@@ -107768,8 +107768,8 @@ Proper
 Common
 
 Proper
-Personal
 Common
+Personal
 
 Common
 
@@ -108051,22 +108051,22 @@ Common
 Relative
 
 Common
-
 
 
 
 
 
-Personal
 
 
 
+Personal
 
 
 
 Personal
 
 
+
 Common
 
 
@@ -108159,10 +108159,10 @@ Common
 
 Common
 Relative
-Common
 
 Personal
 Proper
+Common
 
 
 
@@ -108191,9 +108191,9 @@ Relative
 
 Common
 Relative
-Common
 
 Personal
+Common
 
 
 Common
@@ -108404,10 +108404,10 @@ Common
 
 
 Indefinite
+Personal
 
 
 
-Personal
 
 
 Common
@@ -108437,12 +108437,12 @@ Personal
 Common
 
 Common
-
 
 
 
 
 Personal
+
 Relative
 
 
@@ -108654,10 +108654,10 @@ Common
 Common
 Relative
 
+Common
 
 
 Common
-Common
 
 Common
 
@@ -108684,7 +108684,6 @@ Proper
 
 
 Proper
-
 
 
 
@@ -108697,6 +108696,7 @@ Common
 
 
 
+
 Common
 
 
@@ -108711,11 +108711,11 @@ Proper
 
 
 Common
-
 
 
 Proper
 
+
 Common
 Personal
 
@@ -108919,9 +108919,9 @@ Personal
 Common
 
 
+Relative
 Indefinite
 
-Relative
 
 
 Common
@@ -108963,13 +108963,13 @@ Common
 
 
 Common
-
 
 
 Demonstrative
 
 
 
+
 Common
 
 Common
@@ -109002,10 +109002,10 @@ Common
 
 
 Common
-
 Relative
 
 
+
 Common
 
 
@@ -109160,9 +109160,9 @@ Common
 Relative
 
 
-Personal
 Personal
 
+Personal
 
 
 
@@ -109287,13 +109287,13 @@ Common
 
 Proper
 Common
-
 
 
 
 
 Proper
 
+
 Personal
 
 
@@ -109338,8 +109338,8 @@ Common
 Common
 Proper
 Proper
-Personal
 Common
+Personal
 
 Common
 
@@ -109383,24 +109383,24 @@ Common
 
 Common
 Personal
-
 
 Common
-Personal
-Common
 
 
 
 Common
 
-
 Common
 Personal
 
 
+Common
 Personal
 
 
+
+Personal
+
 Common
 
 
@@ -109424,11 +109424,11 @@ Personal
 Personal
 
 Personal
-
 Common
 Personal
 
 
+
 Common
 
 
@@ -109454,11 +109454,11 @@ Proper
 
 
 Proper
-
 
 Personal
 
 
+
 Common
 
 Common
@@ -109488,9 +109488,9 @@ Common
 Personal
 
 Indefinite
-
 Personal
 
+
 Personal
 
 Interrogative
@@ -109509,7 +109509,6 @@ Common
 Common
 
 Common
-
 
 
 
@@ -109517,9 +109516,10 @@ Common
 
 
 Common
+Personal
+
 
 Common
-Personal
 Relative
 
 
@@ -109532,12 +109532,12 @@ Personal
 
 
 Common
-
 
 
-Common
 Personal
+
 
+Common
 
 Common
 Personal
@@ -109553,9 +109553,9 @@ Personal
 
 
 
-Proper
 
 
+Proper
 
 
 
@@ -109593,13 +109593,13 @@ Common
 
 
 Common
-
 
 
 
 
 Common
 
+
 Common
 
 
@@ -109674,8 +109674,8 @@ Common
 Personal
 
 
-Common
 
+Common
 
 Common
 Personal
@@ -109698,9 +109698,9 @@ Personal
 
 Common
 
-Common
 Common
 Personal
+Common
 
 
 Common
@@ -109725,11 +109725,11 @@ Common
 Common
 Personal
 
+Personal
 
 
 
 
-Personal
 
 
 
@@ -109780,9 +109780,9 @@ Relative
 Personal
 
 
+Personal
 
 Common
-Personal
 
 Common
 
@@ -109810,7 +109810,6 @@ Common
 
 
 Personal
-
 
 
 
@@ -109818,6 +109817,7 @@ Personal
 
 
 Common
+
 Proper
 
 
@@ -109855,9 +109855,9 @@ Personal
 Common
 
 Common
+Personal
 
 Common
-Personal
 
 
 Personal
@@ -109881,8 +109881,8 @@ Common
 
 
 Personal
-
 Personal
+
 Proper
 
 
@@ -109893,8 +109893,8 @@ Proper
 Personal
 
 Proper
-
 Interrogative
+
 Personal
 Common
 
@@ -109915,10 +109915,10 @@ Proper
 
 Personal
 Common
-
 Personal
 
 
+
 Common
 Personal
 
@@ -109950,9 +109950,9 @@ Proper
 
 
 
+Personal
 
 
-Personal
 
 
 Common
@@ -109964,11 +109964,11 @@ Personal
 
 Common
 Demonstrative
-
 Personal
 
 
 
+
 Demonstrative
 
 
@@ -110043,10 +110043,10 @@ Personal
 
 Personal
 Personal
-Common
 
 Demonstrative
 
+Common
 
 Personal
 
@@ -110068,11 +110068,11 @@ Personal
 
 
 Common
-
-
 Interrogative
+
 Common
 
+
 Common
 
 
@@ -110107,9 +110107,9 @@ Common
 
 Common
 Personal
-
 Personal
 
+
 Common
 
 Common
@@ -110125,9 +110125,9 @@ Common
 Personal
 
 Personal
-
 Personal
 
+
 Common
 
 
@@ -110172,12 +110172,12 @@ Proper
 
 Personal
 
-Common
 
+Common
 
+Personal
 
 
-Personal
 
 Common
 Proper
@@ -110210,9 +110210,9 @@ Personal
 
 Common
 Proper
-
 Demonstrative
 
+
 Common
 
 Common
@@ -110282,7 +110282,6 @@ Common
 
 
 Common
-
 
 
 
@@ -110290,6 +110289,7 @@ Common
 Common
 
 
+
 Common
 
 
@@ -110310,8 +110310,8 @@ Common
 
 
 Personal
-
 Personal
+
 Personal
 
 
@@ -110332,9 +110332,9 @@ Common
 
 Proper
 
-Common
 
 Personal
+Common
 
 
 
@@ -110363,11 +110363,11 @@ Personal
 Common
 
 
-Common
 
 
 Personal
 
+Common
 
 
 
@@ -110402,8 +110402,8 @@ Proper
 
 
 Personal
-
 Demonstrative
+
 Personal
 
 
@@ -110480,18 +110480,17 @@ Personal
 Common
 Demonstrative
 
-Common
 
 
 Common
 
 
 Common
+Common
 
 Common
 
 Personal
-
 
 Personal
 
@@ -110499,9 +110498,10 @@ Personal
 
 
 Common
-
 Common
+
 Common
+
 Common
 
 
@@ -110512,9 +110512,9 @@ Common
 Common
 
 
-Common
 Personal
 
+Common
 
 
 Common
@@ -110526,9 +110526,9 @@ Common
 
 
 
+Personal
 
 Common
-Personal
 
 
 
@@ -110537,16 +110537,16 @@ Common
 
 Common
 Personal
-
 
 Common
 
 
-Personal
 
+Personal
 Common
 Common
 
+
 Common
 Common
 
@@ -110574,9 +110574,9 @@ Common
 
 
 Common
-
 
 Personal
+
 Common
 
 
@@ -110632,9 +110632,9 @@ Personal
 
 
 
-Common
 
 Personal
+Common
 
 
 
@@ -110662,9 +110662,9 @@ Personal
 
 Personal
 
-Common
 
 Personal
+Common
 
 
 
@@ -110692,7 +110692,6 @@ Indefinite
 
 
 Personal
-
 
 
 
@@ -110704,6 +110703,7 @@ Personal
 
 
 Demonstrative
+
 Common
 Common
 
@@ -110727,11 +110727,11 @@ Common
 
 
 Common
-
 
 
 Personal
 
+
 Common
 
 Common
@@ -110812,8 +110812,8 @@ Personal
 Common
 Proper
 Proper
-Personal
 Common
+Personal
 
 Common
 
@@ -110823,7 +110823,6 @@ Common
 Common
 Proper
 Proper
-Common
 
 
 
@@ -110831,6 +110830,7 @@ Common
 
 
 Personal
+Common
 
 
 
@@ -110942,8 +110942,8 @@ Common
 Personal
 Proper
 Relative
-
 Common
+
 Common
 
 
@@ -110964,7 +110964,6 @@ Personal
 
 
 Personal
-
 
 
 
@@ -110972,16 +110971,17 @@ Personal
 
 
 
-Common
-Demonstrative
 
 
-
 Common
 Personal
 
 Personal
+
 
+Common
+Demonstrative
+
 Relative
 
 
@@ -111031,9 +111031,9 @@ Common
 Proper
 Proper
 
-Common
 
 Personal
+Common
 
 
 Common
@@ -111151,9 +111151,9 @@ Common
 
 Common
 
-Common
 
 
+Common
 
 
 
@@ -111186,8 +111186,8 @@ Common
 Personal
 Relative
 
-Common
 
+Common
 
 Common
 
@@ -111246,11 +111246,11 @@ Common
 
 
 Common
-
 Personal
 
 
 
+
 Common
 
 
@@ -111308,9 +111308,9 @@ Common
 
 Common
 Personal
-
 Personal
 
+
 Common
 Personal
 Proper
@@ -111345,10 +111345,10 @@ Common
 
 Common
 
-Common
 
 
 
+Common
 
 Personal
 
@@ -111422,9 +111422,9 @@ Common
 
 Proper
 
-Common
 
 Personal
+Common
 
 Common
 
@@ -111447,12 +111447,12 @@ Relative
 
 
 Personal
-
 Personal
 
 
 
 
+
 Personal
 
 
@@ -111541,9 +111541,9 @@ Common
 Personal
 Common
 
+Personal
 
 Common
-Personal
 
 
 
@@ -111574,9 +111574,9 @@ Personal
 
 
 Common
-
 Personal
 
+
 Common
 
 Common
@@ -111697,10 +111697,10 @@ Common
 Common
 
 Relative
-
 Indefinite
 
 
+
 Common
 
 
@@ -111727,7 +111727,6 @@ Personal
 
 
 Demonstrative
-
 
 
 Common
@@ -111742,6 +111741,7 @@ Common
 
 
 
+
 Common
 
 Common
@@ -111754,13 +111754,13 @@ Common
 
 
 Indefinite
-
 
 
 
 Common
 
 
+
 Common
 
 Common
@@ -111818,8 +111818,8 @@ Common
 Proper
 Proper
 
-Common
 
+Common
 
 
 Common
@@ -111879,13 +111879,13 @@ Common
 
 Common
 
-Common
-Proper
 Demonstrative
 
 Common
 
 Personal
+Common
+Proper
 
 
 
@@ -111905,10 +111905,10 @@ Common
 
 Common
 Relative
-
 Indefinite
 
 
+
 Common
 
 Relative
@@ -111965,12 +111965,12 @@ Common
 Personal
 Common
 Relative
-
 
 Common
 
 
 
+
 Common
 Common
 
@@ -112002,17 +112002,17 @@ Relative
 Personal
 Common
 
-Common
 Common
 Common
 
-Common
+
 
 Common
 Common
 
-
+Common
 
+Common
 
 
 
@@ -112050,12 +112050,12 @@ Common
 Common
 
 
-
 Relative
 
 Common
 
 Common
+
 Common
 
 Common
@@ -112067,9 +112067,9 @@ Common
 Common
 
 
+Common
 
 
-Common
 
 
 Common
@@ -112077,8 +112077,8 @@ Common
 
 
 Common
-
 Proper
+
 
 
 
@@ -112188,14 +112188,14 @@ Common
 
 
 
-
 Common
 
-Common
 
+Common
 
 
 Common
+
 
 
 
@@ -112214,7 +112214,6 @@ Common
 
 Common
 
-
 Demonstrative
 
 
@@ -112224,6 +112223,7 @@ Demonstrative
 
 
 Common
+
 
 
 
@@ -112236,9 +112236,9 @@ Common
 
 Common
 Common
+Common
 
 
-Common
 
 
 
@@ -112248,8 +112248,8 @@ Common
 
 
 Common
-
 Personal
+
 
 
 
@@ -112276,9 +112276,9 @@ Personal
 
 
 
-
 Common
 Common
+
 Relative
 
 Common
@@ -112424,8 +112424,8 @@ Common
 
 
 
-
 Common
+
 Common
 
 
@@ -112433,15 +112433,15 @@ Common
 
 
 
-Common
 
+Common
 
 
 Common
 
 
-
 Demonstrative
+
 
 
 
@@ -112457,8 +112457,8 @@ Common
 Common
 
 
-Demonstrative
 
+Demonstrative
 
 
 
@@ -112467,8 +112467,8 @@ Personal
 Common
 
 
-
 Common
+
 
 
 
@@ -112526,12 +112526,12 @@ Personal
 Common
 
 Personal
-
 Demonstrative
 
 
 
 Personal
+
 
 
 
@@ -112579,8 +112579,8 @@ Common
 
 
 
-
 Demonstrative
+
 
 
 
@@ -112846,8 +112846,8 @@ Common
 
 
 Common
-
 Indefinite
+
 
 
 
@@ -112949,8 +112949,8 @@ Common
 Common
 
 Common
-Common
 
+Common
 
 Common
 
@@ -113011,8 +113011,8 @@ Common
 Common
 
 Common
-
 Common
+
 
 
 
@@ -113020,8 +113020,8 @@ Common
 
 Common
 Relative
-
 Indefinite
+
 
 
 
@@ -113031,11 +113031,11 @@ Personal
 
 Common
 
+Personal
 
 
 Common
 Common
-Personal
 Demonstrative
 
 
@@ -113196,8 +113196,8 @@ Common
 
 Common
 Relative
-
 Indefinite
+
 
 
 Common
@@ -113270,8 +113270,8 @@ Common
 
 Common
 
-
 Common
+
 
 
 Personal
@@ -113435,8 +113435,8 @@ Personal
 Demonstrative
 
 Common
-
 Common
+
 
 Common
 Relative
@@ -113490,9 +113490,9 @@ Personal
 
 
 
-
 Common
 Personal
+
 
 
 
@@ -113523,9 +113523,9 @@ Proper
 
 Personal
 
+Personal
 
 Common
-Personal
 Personal
 
 
@@ -113583,8 +113583,8 @@ Indefinite
 
 
 
-
 Common
+
 
 
 Common
@@ -113637,8 +113637,8 @@ Demonstrative
 
 
 Personal
-
 Common
+
 
 
 Proper
@@ -113689,8 +113689,8 @@ Common
 
 
 
-
 Personal
+
 
 
 Common
@@ -113709,8 +113709,8 @@ Common
 
 
 
-Common
 
+Common
 
 
 Common
@@ -113781,12 +113781,12 @@ Common
 
 
 
-
 Relative
 
-Common
 
+Common
 Relative
+
 
 Common
 
@@ -113839,10 +113839,10 @@ Common
 
 
 Common
-
-
 Common
+
 Common
+
 
 
 
@@ -113881,8 +113881,8 @@ Personal
 
 Demonstrative
 Common
-
 Demonstrative
+
 
 
 
@@ -113929,8 +113929,8 @@ Personal
 Demonstrative
 
 
-
 Demonstrative
+
 
 
 
@@ -113954,9 +113954,9 @@ Common
 Common
 
 
-
 Relative
 Common
+
 Proper
 
 Proper
@@ -113993,8 +113993,8 @@ Personal
 
 Demonstrative
 
-
 Personal
+
 
 Personal
 
@@ -114057,8 +114057,8 @@ Common
 
 
 
-
 Personal
+
 
 
 Relative
@@ -114074,8 +114074,8 @@ Interrogative
 
 Common
 
-
 Common
+
 
 
 Personal
@@ -114157,8 +114157,8 @@ Common
 
 
 
-
 Common
+
 
 
 
@@ -114184,7 +114184,6 @@ Common
 
 Common
 
-
 Personal
 
 
@@ -114192,13 +114191,14 @@ Personal
 
 
 Common
+
 Common
 
 Common
 Personal
 
-
 Personal
+
 
 
 
@@ -114231,10 +114231,10 @@ Personal
 
 Common
 
+Demonstrative
 
 Common
 
-Demonstrative
 
 Common
 
@@ -114254,8 +114254,8 @@ Personal
 
 Personal
 
-
 Proper
+
 Personal
 
 
@@ -114288,8 +114288,8 @@ Personal
 
 
 Common
-
 Proper
+
 
 
 Proper
@@ -114313,8 +114313,8 @@ Proper
 
 Common
 
-
 Personal
+
 
 
 Personal
@@ -114410,8 +114410,8 @@ Proper
 
 
 Proper
-
 Proper
+
 
 
 Proper
@@ -114446,8 +114446,8 @@ Personal
 Proper
 Common
 Common
-
 Common
+
 Proper
 Proper
 
@@ -114534,8 +114534,8 @@ Indefinite
 
 Common
 Common
-
 Common
+
 
 
 
@@ -114549,9 +114549,9 @@ Common
 Common
 
 
+
 Common
 Common
-
 
 
 
@@ -114693,8 +114693,8 @@ Common
 Common
 
 
-
 Personal
+
 
 Relative
 
@@ -114775,8 +114775,8 @@ Common
 
 
 
-Personal
 
+Personal
 
 Common
 
@@ -114900,8 +114900,8 @@ Common
 
 
 
-Common
 
+Common
 
 
 Common
@@ -114934,10 +114934,10 @@ Common
 
 Common
 
+
 Common
 Personal
 Common
-
 
 
 Common
@@ -115034,17 +115034,17 @@ Common
 
 
 
-Demonstrative
 
+Demonstrative
 
 
 
 
 
 
+Proper
 
 Personal
-Proper
 
 Proper
 
@@ -115130,8 +115130,8 @@ Personal
 Common
 Personal
 Common
-Personal
 Common
+Personal
 
 Common
 
@@ -115189,12 +115189,12 @@ Common
 Personal
 
 Proper
-
 Common
 
 
-Common
 
+
+Common
 
 
 Common
@@ -115240,11 +115240,11 @@ Personal
 
 
 Common
+Relative
 
 
 
 Common
-Relative
 Proper
 
 
@@ -115257,18 +115257,18 @@ Personal
 
 Personal
 
+Relative
 
 Personal
-Relative
 Personal
 Demonstrative
 
 
 
 Common
+Relative
 Personal
 
-Relative
 
 Personal
 
@@ -115323,8 +115323,8 @@ Common
 
 
 Personal
-
 Interrogative
+
 
 Personal
 
@@ -115345,8 +115345,8 @@ Personal
 
 
 Indefinite
-Personal
 
+Personal
 
 
 Demonstrative
@@ -115441,11 +115441,11 @@ Personal
 
 
 
-
 Common
 
 
 Common
+
 
 Common
 
@@ -115504,16 +115504,16 @@ Demonstrative
 Common
 Relative
 
-Common
 
 Personal
-
 
+Common
 Interrogative
 
-Common
 
 Indefinite
+
+Common
 Common
 Personal
 
@@ -115575,9 +115575,9 @@ Common
 Common
 
 Common
+Personal
 
 Common
-Personal
 
 
 Common
@@ -115613,9 +115613,9 @@ Common
 
 Personal
 
-Common
 Personal
 
+Common
 Common
 
 Common
@@ -115630,7 +115630,6 @@ Personal
 Common
 Personal
 
-
 Personal
 
 
@@ -115638,6 +115637,7 @@ Personal
 
 
 Common
+
 
 
 Common
@@ -115647,8 +115647,8 @@ Personal
 Common
 
 
-
 Personal
+
 
 
 
@@ -115659,8 +115659,8 @@ Personal
 
 
 
-
 Interrogative
+
 
 Common
 
@@ -115723,8 +115723,8 @@ Common
 
 Personal
 
-
 Demonstrative
+
 Common
 Relative
 Common
@@ -115742,8 +115742,8 @@ Personal
 
 
 Common
-
 Common
+
 
 Common
 
@@ -115824,10 +115824,10 @@ Personal
 
 
 
-
 Indefinite
 
 Common
+
 
 Proper
 
@@ -115944,8 +115944,8 @@ Common
 
 Common
 
-Common
 
+Common
 Demonstrative
 
 
@@ -115961,8 +115961,8 @@ Common
 
 
 
-Common
 
+Common
 
 
 
@@ -115997,8 +115997,8 @@ Common
 
 Common
 
-
 Relative
+
 
 Personal
 
@@ -116036,8 +116036,8 @@ Common
 Personal
 
 
-Common
 Demonstrative
+Common
 
 Proper
 
@@ -116063,8 +116063,8 @@ Indefinite
 
 Common
 
-
 Proper
+
 
 
 
@@ -116077,8 +116077,8 @@ Common
 Common
 
 
-
 Proper
+
 
 Common
 
@@ -116156,8 +116156,8 @@ Demonstrative
 
 
 Common
-
 Personal
+
 
 
 
@@ -116244,7 +116244,6 @@ Personal
 
 
 Common
-
 Indefinite
 
 
@@ -116254,11 +116253,12 @@ Indefinite
 
 
 
-Proper
 
 Proper
 
+Proper
 Interrogative
+
 
 
 Common
@@ -116272,8 +116272,8 @@ Common
 
 
 
-
 Interrogative
+
 
 
 
@@ -116404,8 +116404,8 @@ Personal
 
 Common
 
-
 Indefinite
+
 Common
 
 
@@ -116436,10 +116436,10 @@ Proper
 
 
 
-Common
 
 
 Demonstrative
+Common
 
 
 Common
@@ -116479,17 +116479,17 @@ Common
 
 
 
+Indefinite
 Common
+
 
 Common
-Indefinite
 
 
 
 Common
 
 Common
-
 
 
 
@@ -116505,8 +116505,8 @@ Common
 Common
 
 Common
-
 Common
+
 
 Common
 
@@ -116552,8 +116552,8 @@ Common
 Common
 
 
-Common
 
+Common
 
 
 
@@ -116600,8 +116600,8 @@ Common
 Common
 
 
-
 Common
+
 
 Common
 
@@ -116690,8 +116690,8 @@ Common
 
 Common
 Personal
-
 Common
+
 
 Common
 
@@ -116763,8 +116763,8 @@ Common
 
 Common
 
-
 Common
+
 
 
 Personal
@@ -116779,8 +116779,8 @@ Common
 Common
 
 
-
 Common
+
 Common
 
 
@@ -116800,8 +116800,8 @@ Common
 
 
 
-Common
 
+Common
 
 
 
@@ -116830,8 +116830,8 @@ Common
 
 
 
-
 Common
+
 Common
 
 
@@ -116842,8 +116842,8 @@ Common
 Common
 Common
 Common
-
 Common
+
 Common
 Common
 
@@ -116870,16 +116870,16 @@ Common
 
 
 
-Common
 
+Common
 
 
 
 
 Common
 Common
-
 Common
+
 
 Common
 
@@ -116896,8 +116896,8 @@ Common
 Common
 
 
-
 Common
+
 
 
 
@@ -116937,8 +116937,8 @@ Common
 
 
 
-
 Personal
+
 
 
 
@@ -116977,8 +116977,8 @@ Personal
 Personal
 
 
-Common
 
+Common
 
 
 Common
@@ -116990,8 +116990,8 @@ Common
 
 
 
-
 Common
+
 
 
 Common
@@ -117031,15 +117031,15 @@ Personal
 
 
 Common
-
 Common
 
 
 
 
 
-Personal
 
+
+Personal
 Common
 Common
 
@@ -117051,6 +117051,8 @@ Relative
 
 
 
+Common
+
 
 Common
 
@@ -117060,8 +117062,6 @@ Common
 
 Common
 Personal
-
-Common
 
 Common
 
@@ -117085,8 +117085,8 @@ Common
 Common
 Relative
 
-
 Common
+
 
 Common
 
@@ -117102,10 +117102,10 @@ Common
 Common
 
 
-Proper
 
 Personal
 
+Proper
 
 
 Common
@@ -117115,8 +117115,8 @@ Common
 
 
 Common
-
 Demonstrative
+
 
 Proper
 Common
@@ -117188,9 +117188,9 @@ Relative
 
 Proper
 
-Common
 
 
+Common
 
 Common
 
@@ -117207,8 +117207,8 @@ Common
 
 
 
-
 Common
+
 
 Common
 Demonstrative
@@ -117292,8 +117292,8 @@ Common
 Common
 
 
-
 Common
+
 
 Personal
 
@@ -117325,8 +117325,8 @@ Common
 Common
 
 
-
 Relative
+
 
 Demonstrative
 Common
@@ -117371,9 +117371,9 @@ Common
 Relative
 
 
-
 Common
 Common
+
 
 
 
@@ -117392,12 +117392,12 @@ Common
 
 Common
 Proper
+Common
 
 
-Common
 
-Common
 
+Common
 
 
 Personal
@@ -117409,8 +117409,8 @@ Personal
 
 
 Common
-
 Common
+
 
 Common
 
@@ -117430,8 +117430,8 @@ Common
 
 Common
 
-
 Common
+
 
 
 
@@ -117504,11 +117504,11 @@ Common
 
 
 Personal
+Demonstrative
 
 Personal
 
 
-Demonstrative
 Common
 
 
@@ -117542,23 +117542,23 @@ Common
 
 
 Common
-
 Demonstrative
 
 
-Personal
 
+Personal
 
 
-Common
 Common
 
 Common
 
 Common
 
+Common
 
 Common
+
 
 Common
 
@@ -117570,13 +117570,13 @@ Common
 
 Common
 
-
 Common
 
 
 
 
 Demonstrative
+
 Common
 Relative
 
@@ -117589,9 +117589,9 @@ Common
 
 
 Common
-Common
 
 
+Common
 
 
 Common
@@ -117606,20 +117606,20 @@ Common
 
 
 Common
-
 
 
 
 Common
 
+
 Common
 
 
 
 
+Indefinite
 
 Demonstrative
-Indefinite
 Relative
 
 
@@ -117670,14 +117670,14 @@ Common
 
 
 
-Common
 
+Common
 Relative
 
 
-Common
 
 Common
+Common
 Relative
 
 
@@ -117693,8 +117693,8 @@ Demonstrative
 
 
 
-Common
 
+Common
 
 
 Personal
@@ -117856,9 +117856,9 @@ Common
 
 
 
+Common
 
 
-Common
 
 
 
@@ -117932,7 +117932,6 @@ Relative
 
 
 Common
-
 Demonstrative
 
 
@@ -117940,6 +117939,7 @@ Demonstrative
 
 
 
+
 Common
 
 
@@ -117998,9 +117998,9 @@ Common
 
 
 Relative
-
 Common
 
+
 Common
 
 
@@ -118024,9 +118024,9 @@ Common
 Common
 Common
 
+Proper
 
 
-Proper
 Common
 
 
@@ -118129,10 +118129,10 @@ Common
 Common
 Common
 
+Common
 
 
 
-Common
 
 
 Common
@@ -118140,7 +118140,6 @@ Common
 
 Common
 Common
-
 Common
 
 
@@ -118162,6 +118161,7 @@ Common
 
 
 
+
 Common
 
 
@@ -118191,9 +118191,9 @@ Common
 
 
 Common
-
 Personal
 
+
 Common
 
 
@@ -118212,13 +118212,13 @@ Relative
 Personal
 
 Common
-
 
 
 Common
 
 
 
+
 Common
 
 Common
@@ -118241,32 +118241,32 @@ Common
 
 
 Common
-
 Common
 
 
+
 Common
 
 
 
 Common
 Demonstrative
-
 
 Personal
 
 
-Common
+
 
+Common
 
 Demonstrative
 
 
-Proper
 
 
 
 
+Proper
 
 
 
@@ -118345,8 +118345,8 @@ Proper
 
 
 
-Common
 
+Common
 
 
 
@@ -118356,10 +118356,10 @@ Common
 Personal
 
 
+Common
 Common
 
 
-Common
 
 Common
 
@@ -118426,11 +118426,11 @@ Common
 Common
 
 Common
-
 
 
 Common
 
+
 Personal
 Common
 
@@ -118441,7 +118441,6 @@ Common
 
 
 
-Common
 
 
 Common
@@ -118452,6 +118451,7 @@ Personal
 
 
 
+Common
 
 Common
 Personal
@@ -118522,13 +118522,13 @@ Relative
 
 
 Common
-
 Demonstrative
 
-Common
+
 
 Common
 
+Common
 
 
 
@@ -118617,9 +118617,9 @@ Common
 
 Common
 
-Common
 
 Common
+Common
 
 
 Common
@@ -118698,11 +118698,11 @@ Personal
 
 Common
 Indefinite
-
 
 
 
 Demonstrative
+
 Relative
 
 
@@ -118736,8 +118736,8 @@ Common
 
 
 
-Indefinite
 
+Indefinite
 Common
 Proper
 
@@ -118751,22 +118751,22 @@ Common
 Interrogative
 
 
-Common
 
+Common
 
 
 Common
 
 Common
-
 
 
 
-
 Common
 
 Common
+
 
+
 Relative
 
 
@@ -118804,20 +118804,20 @@ Common
 Common
 
 Relative
-
 
 
 Common
-Common
 
+Common
 Demonstrative
 
 Common
 
-Common
 
+Common
 
 Demonstrative
+
 Common
 
 
@@ -118840,8 +118840,8 @@ Common
 
 
 Personal
-Common
 
+Common
 
 
 
@@ -118851,13 +118851,13 @@ Common
 Common
 Personal
 Relative
-
 
-Common
 
 Common
 Common
+
 
+Common
 
 
 Common
@@ -118895,10 +118895,10 @@ Common
 Personal
 
 Personal
-
 Personal
 
 
+
 Common
 
 Common
@@ -118914,7 +118914,6 @@ Common
 Common
 Common
 Common
-
 
 
 
@@ -118922,6 +118921,7 @@ Demonstrative
 
 
 
+
 Common
 
 
@@ -118938,9 +118938,9 @@ Common
 
 
 Common
-Proper
 
 Common
+Proper
 
 Proper
 
@@ -119008,8 +119008,8 @@ Personal
 Common
 
 Common
-Proper
 
+Proper
 
 
 
@@ -119030,21 +119030,21 @@ Common
 
 
 
-Common
 Common
 Common
 
 Common
+Common
 
 Proper
 
 
 
 Common
-
 Relative
 
 
+
 Common
 
 
@@ -119099,7 +119099,6 @@ Common
 
 Common
 Common
-
 
 
 
@@ -119114,6 +119113,7 @@ Common
 Demonstrative
 
 
+
 Common
 
 Common
@@ -119163,13 +119163,13 @@ Demonstrative
 
 
 Common
-
 
 
 
 
 Demonstrative
 
+
 Relative
 
 
@@ -119190,8 +119190,8 @@ Personal
 
 Common
 Common
-Personal
 
+Personal
 
 
 Personal
@@ -119405,22 +119405,22 @@ Common
 Common
 
 Interrogative
+
 
 
+Personal
 
 
 
 Common
-Personal
 
-
 Proper
 Proper
 Proper
 Proper
-
 Proper
 
+
 Proper
 
 
@@ -119496,12 +119496,13 @@ Common
 
 
 Common
+
 
 
+Relative
 
 
 
-Common
 
 Common
 
@@ -119511,10 +119512,9 @@ Common
 Common
 
 Common
-Relative
-
 
 
+Common
 
 Common
 
@@ -119543,18 +119543,18 @@ Personal
 
 
 Personal
-
 Demonstrative
 
+
 Personal
 Common
 Common
-
 Common
 
 
 
 
+
 Common
 
 Common
@@ -119589,7 +119589,6 @@ Common
 Common
 
 Common
-
 
 
 
@@ -119599,6 +119598,7 @@ Demonstrative
 
 
 
+
 Personal
 Common
 
@@ -119635,10 +119635,10 @@ Common
 
 
 Personal
-
 
 Relative
 
+
 Common
 
 
@@ -119656,8 +119656,8 @@ Personal
 
 
 Common
-
 Interrogative
+
 Common
 Relative
 
@@ -119738,12 +119738,12 @@ Common
 
 Common
 
-Common
 
 
 Personal
 
 
+Common
 
 
 
@@ -119768,10 +119768,10 @@ Personal
 
 
 
+Common
 
 
 
-Common
 
 
 Common
@@ -119827,9 +119827,9 @@ Personal
 
 
 Common
-
 
 Common
+
 Common
 
 
@@ -119910,9 +119910,9 @@ Common
 Common
 
 Common
-
 Common
 
+
 Common
 
 
@@ -119929,7 +119929,6 @@ Common
 
 
 Proper
-
 
 
 
@@ -119937,15 +119936,16 @@ Proper
 
 
 
-
 Demonstrative
 
 
 
 Common
+
 
 
 
+
 Personal
 
 
@@ -120019,12 +120019,12 @@ Common
 
 
 Common
-
 
 
 
 Demonstrative
 
+
 Indefinite
 
 Common
@@ -120049,10 +120049,10 @@ Common
 
 
 Common
-
 
 Common
 
+
 Common
 
 
@@ -120060,7 +120060,6 @@ Common
 
 
 Common
-
 
 
 
@@ -120068,6 +120067,7 @@ Personal
 
 
 
+
 Personal
 
 
@@ -120101,10 +120101,10 @@ Common
 Common
 Relative
 
-Common
 
 Common
 
+Common
 
 
 Common
@@ -120151,9 +120151,9 @@ Common
 
 Common
 
+Relative
 
 
-Relative
 Common
 
 Common
@@ -120204,7 +120204,6 @@ Personal
 
 
 Common
-
 
 
 
@@ -120213,10 +120212,11 @@ Common
 Personal
 
 
-
-
 Common
 Common
+
+
+
 Common
 Demonstrative
 
@@ -120231,10 +120231,10 @@ Personal
 Common
 
 Common
-
 
 
 Demonstrative
+
 Common
 
 
@@ -120243,13 +120243,13 @@ Common
 
 
 Personal
-
 
 
 Personal
 
 
 
+
 Common
 Personal
 
@@ -120301,13 +120301,13 @@ Common
 
 
 Common
+
 Common
 
 
-Common
 
 Common
-
+Common
 
 
 Common
@@ -120406,11 +120406,11 @@ Common
 
 Common
 
-Common
-Personal
 
 Common
 
+Common
+Personal
 
 Common
 
@@ -120448,12 +120448,12 @@ Common
 
 
 
+Common
 
 
 
 
 
-Common
 
 
 Personal
@@ -120664,8 +120664,8 @@ Common
 
 
 Common
-
 Common
+
 Common
 Common
 Common
@@ -120739,13 +120739,13 @@ Common
 
 
 Common
-
 
 
 
 Common
 Common
 
+
 Common
 Common
 Demonstrative
@@ -120770,9 +120770,9 @@ Common
 Personal
 Demonstrative
 
-Common
 
 Common
+Common
 
 
 
@@ -120781,7 +120781,6 @@ Common
 Common
 
 Common
-
 Demonstrative
 
 
@@ -120789,6 +120788,7 @@ Demonstrative
 
 
 
+
 Common
 Personal
 
@@ -120891,7 +120891,6 @@ Relative
 
 
 Personal
-
 Personal
 
 
@@ -120900,6 +120899,7 @@ Personal
 
 
 
+
 Personal
 
 Personal
@@ -120944,10 +120944,10 @@ Common
 Common
 
 Common
-
 Relative
 
 
+
 Common
 
 
@@ -120995,16 +120995,15 @@ Common
 
 Common
 
-Common
 Common
 Common
-Personal
 Interrogative
 
 Common
-
 Common
+Personal
 
+Common
 
 Indefinite
 
@@ -121014,6 +121013,7 @@ Common
 
 
 
+
 Common
 
 Personal
@@ -121030,8 +121030,8 @@ Common
 Common
 
 
-Personal
 Indefinite
+Personal
 
 Personal
 
@@ -121106,9 +121106,9 @@ Common
 
 
 
-Common
 
 
+Common
 
 
 
@@ -121213,12 +121213,12 @@ Common
 Common
 
 
-Common
-Personal
 
 
 Common
 
+Common
+Personal
 
 
 
@@ -121335,7 +121335,6 @@ Common
 
 
 Common
-
 Common
 
 
@@ -121347,6 +121346,7 @@ Common
 
 
 
+
 Common
 
 
@@ -121387,11 +121387,11 @@ Common
 
 Common
 
-Common
 Common
-Personal
 
 
+Common
+Personal
 Demonstrative
 
 
@@ -121408,10 +121408,10 @@ Common
 
 
 
-Common
-Personal
 
 
+Common
+Personal
 Common
 Common
 
@@ -121440,12 +121440,12 @@ Personal
 
 Common
 Common
-
 
 
 Common
 
 
+
 Common
 
 
@@ -121496,11 +121496,11 @@ Common
 Common
 
 Common
-
 
 
 
 Common
+
 Common
 
 Common
@@ -121573,9 +121573,9 @@ Common
 
 Common
 
+Relative
 
 
-Relative
 
 
 
@@ -121603,8 +121603,8 @@ Relative
 Personal
 
 
-Common
 
+Common
 
 
 
@@ -121694,13 +121694,13 @@ Common
 Common
 
 Common
-
 
 
 
 
 
 Personal
+
 Interrogative
 
 
@@ -121736,9 +121736,9 @@ Interrogative
 
 Common
 Personal
+Common
 
 
-Common
 
 
 
@@ -121878,8 +121878,8 @@ Common
 
 Personal
 
-Common
 
+Common
 
 
 Common
@@ -121915,9 +121915,9 @@ Common
 
 Common
 
-Common
 
 
+Common
 
 Personal
 
@@ -121958,6 +121958,7 @@ Proper
 
 Common
 Common
+
 
 
 
@@ -121967,14 +121968,13 @@ Common
 
 
 
+
 Common
 Personal
-
 
 
 
 
-
 Common
 
 
@@ -122062,9 +122062,9 @@ Common
 
 
 Proper
-
 Common
 
+
 Personal
 
 Common
@@ -122158,9 +122158,9 @@ Common
 Proper
 Proper
 Common
+Personal
 
 Common
-Personal
 
 
 
@@ -122234,7 +122234,6 @@ Personal
 Common
 
 Common
-
 
 
 
@@ -122242,6 +122241,7 @@ Common
 
 
 
+
 Common
 
 Common
@@ -122252,7 +122252,6 @@ Common
 Proper
 Proper
 Relative
-
 
 
 
@@ -122263,6 +122262,7 @@ Relative
 
 
 
+
 Common
 
 
@@ -122315,9 +122315,9 @@ Relative
 
 
 Personal
-
 Personal
 
+
 Personal
 Relative
 
@@ -122335,12 +122335,12 @@ Common
 Common
 
 Relative
-
 
 Common
 
 
 
+
 Common
 
 Common
@@ -122493,9 +122493,9 @@ Common
 
 
 
-Common
 Common
 
+Common
 
 
 
@@ -122525,10 +122525,10 @@ Common
 
 
 Common
-
 Demonstrative
 
 
+
 Common
 
 
@@ -122568,17 +122568,17 @@ Common
 
 
 Common
-
 
 Relative
-Common
 
+Common
 
 
 Common
 
 
 
+
 Common
 
 
@@ -122621,10 +122621,10 @@ Personal
 
 
 
+Personal
 
 
 Common
-Personal
 
 
 
@@ -122652,10 +122652,10 @@ Common
 
 
 Relative
-
 
 
 Personal
+
 Common
 
 
@@ -122665,12 +122665,12 @@ Common
 Common
 
 Common
-
 
 
 Common
 
 
+
 Common
 Personal
 
@@ -122754,8 +122754,8 @@ Personal
 
 Common
 Common
-
 Common
+
 Common
 
 
@@ -122771,7 +122771,6 @@ Common
 
 Common
 Common
-
 
 
 
@@ -122779,6 +122778,7 @@ Common
 
 Common
 
+
 Common
 
 Common
@@ -122805,7 +122805,6 @@ Common
 Common
 
 Common
-
 
 
 
@@ -122817,6 +122816,7 @@ Common
 
 
 Demonstrative
+
 Common
 
 
@@ -122825,10 +122825,10 @@ Common
 
 Indefinite
 Common
-
 
 
 Interrogative
+
 Common
 
 
@@ -122845,12 +122845,12 @@ Demonstrative
 Common
 
 Common
-
 
 Demonstrative
 
 
 
+
 Proper
 
 
@@ -122887,10 +122887,10 @@ Relative
 
 
 Relative
-Personal
 
 Common
 Personal
+Personal
 
 
 
@@ -122926,8 +122926,8 @@ Common
 
 Common
 Personal
-Common
 
+Common
 
 
 
@@ -123014,8 +123014,8 @@ Common
 Personal
 
 Relative
-Common
 
+Common
 
 
 
@@ -123118,8 +123118,8 @@ Personal
 
 Common
 Personal
-
 Common
+
 Common
 
 
@@ -123145,13 +123145,13 @@ Common
 
 Common
 Personal
-
 
 
 
 
 Common
 
+
 Proper
 
 
@@ -123228,13 +123228,13 @@ Common
 Common
 
 Relative
-
 
 
 
-
 Common
 Common
+
+
 
 Indefinite
 Adverbial
@@ -123294,9 +123294,9 @@ Common
 Common
 
 Common
-
 Proper
 
+
 Common
 
 Personal
@@ -123308,9 +123308,7 @@ Common
 
 
 Common
-Common
 
-Common
 Common
 
 
@@ -123318,6 +123316,8 @@ Common
 Common
 Common
 
+Common
+Common
 
 
 
@@ -123360,7 +123360,6 @@ Common
 Relative
 
 Common
-
 
 
 
@@ -123370,6 +123369,7 @@ Common
 
 
 Demonstrative
+
 
 
 
@@ -123642,8 +123642,8 @@ Common
 
 Common
 
-
 Common
+
 
 Common
 
@@ -123761,9 +123761,9 @@ Common
 
 
 
-Personal
 
 Proper
+Personal
 
 
 Common
@@ -123814,8 +123814,8 @@ Common
 Proper
 Proper
 
-Personal
 
+Personal
 
 Common
 
@@ -123828,9 +123828,9 @@ Common
 Proper
 Proper
 Common
+Personal
 
 Common
-Personal
 
 
 Common
@@ -123842,13 +123842,13 @@ Proper
 Common
 Personal
 
+
+
 Personal
 
 
 Common
 Personal
-
-
 
 
 Common
@@ -123871,76 +123871,76 @@ Relative
 
 
 
+Personal
+Common
+
+
+
+Demonstrative
+
+
+Common
+Common
+
+
+
+
+Common
+
+Common
+Common
+
+
+Demonstrative
+
+Common
+
+
+
+
+
 Common
 Personal
 
+Common
 
 
+
+Common
+
+Common
+
+
+
+Common
+
+Common
+
+
+
+Common
+
+Common
+
+
+
+Common
+
+Common
+
+
+
+Common
+
+Common
+
+
+
+Common
+
+Common
 Demonstrative
 
-Common
-
-Common
-
-
-
-
-Common
-
-Common
-Common
-
-
-
-Demonstrative
-Common
-
-
-
-
-
-Common
-Personal
-
-Common
-
-
-
-Common
-
-Common
-
-
-
-Common
-
-Common
-
-
-
-Common
-
-Common
-
-
-
-Common
-
-Common
-
-
-
-Common
-
-Common
-
-
-
-Common
-
-Common
-
-Demonstrative
 Personal
 
 
@@ -123958,16 +123958,16 @@ Personal
 Proper
 Proper
 Common
-
 Relative
 
 
+
 Demonstrative
 
 
 
-
 Common
+
 
 Common
 
@@ -123975,8 +123975,8 @@ Common
 Personal
 Common
 
-Common
 
+Common
 
 
 Personal
@@ -123985,8 +123985,8 @@ Common
 
 Common
 
-
 Demonstrative
+
 
 
 
@@ -124088,8 +124088,8 @@ Common
 
 Common
 
-
 Common
+
 
 Demonstrative
 Common
@@ -124102,9 +124102,9 @@ Common
 
 Common
 Common
-Demonstrative
 
 Personal
+Demonstrative
 
 
 
@@ -124143,9 +124143,9 @@ Common
 
 
 Common
-
-
 Relative
+
+
 
 
 Common
@@ -124305,8 +124305,8 @@ Proper
 Common
 Common
 
-
 Common
+
 
 Common
 
@@ -124368,8 +124368,8 @@ Personal
 Common
 
 Common
-
 Demonstrative
+
 
 
 Common
@@ -124408,8 +124408,8 @@ Common
 Personal
 
 Personal
-
 Common
+
 
 
 
@@ -124439,11 +124439,11 @@ Relative
 Common
 Common
 
-
 Common
 
-Common
 
+
+Common
 Common
 
 
@@ -124490,12 +124490,12 @@ Common
 Personal
 
 Personal
-
 Common
 
-Common
 
+Common
 Relative
+
 Indefinite
 
 Demonstrative
@@ -124515,28 +124515,15 @@ Common
 Common
 Proper
 Proper
-
 Demonstrative
 
 
 
 
-Personal
-
-
-
-
-
-
-
 
 Personal
 
 
-
-Common
-
-Common
 
 
 
@@ -124545,6 +124532,19 @@ Common
 
 Personal
 
+
+
+Common
+
+Common
+
+
+
+
+
+
+Personal
+
 Common
 
 Personal
@@ -124564,72 +124564,72 @@ Common
 
 Common
 Common
-
-
 Demonstrative
 
+
+
+Personal
+
+Common
+
+Relative
+
+Personal
+
+Common
+
+
+Common
+
+
+
+Common
+
+
+
+Common
+
+
+
+Common
+Personal
+Common
+
+Common
+
+Common
+Demonstrative
+
+
+
+
+
+
+
+Common
+
+Common
+Common
+
+
+
 Common
 Personal
 
+
+
+
+
+
+Common
+
+Common
+Personal
 
 Relative
 
 
 Common
-Personal
-
-
-Common
-
-
-
-
-
-
-Common
-Common
-
-
-
-Common
-Personal
-Common
-
-Common
-
-Common
-Demonstrative
-
-
-
-
-
-
-
-Common
-
-Common
-Common
-
-
-
-Common
-Personal
-
-
-
-
-
-
-Common
-
-Common
-Personal
-
-
-Relative
-
-Common
 
 
 
@@ -124690,11 +124690,11 @@ Common
 Common
 
 
-
 Demonstrative
 
 
 Personal
+
 
 
 Common
@@ -124743,8 +124743,8 @@ Relative
 Common
 
 
-
 Common
+
 
 
 
@@ -124755,9 +124755,1175 @@ Common
 Personal
 Common
 
+Demonstrative
+
+
+
+Interrogative
+
+
+Personal
+
+
+Common
+
+Common
+
+
+
+
+Common
+
+
+Common
+Common
+
+Relative
+Common
+
+
+
+Common
+
+
+
+
+Common
+
+Common
+
+
+
+Common
+Personal
+
+
+Relative
+Common
+
+
 
 Demonstrative
 
+
+
+
+
+Personal
+
+
+Common
+
+
+
+Common
+Personal
+Common
+Common
+
+
+
+
+
+Personal
+Common
+Proper
+
+
+
+Personal
+Common
+
+Personal
+
+
+
+
+Common
+
+
+Personal
+
+Demonstrative
+
+Relative
+
+
+Indefinite
+Relative
+
+
+
+
+
+
+
+
+
+Common
+
+
+
+Personal
+Common
+Personal
+
+
+
+
+
+
+
+
+
+Common
+
+
+
+
+Common
+
+
+
+Common
+
+Common
+
+Common
+Personal
+
+Common
+Proper
+Proper
+Personal
+
+Common
+
+
+
+
+Common
+Common
+Relative
+
+
+Common
+Relative
+
+Relative
+
+
+Common
+Personal
+Relative
+
+
+
+Common
+Personal
+
+
+
+Common
+
+Common
+
+
+Common
+
+
+
+
+
+
+
+Personal
+
+Common
+
+
+Relative
+
+
+
+Common
+
+
+Personal
+Relative
+
+
+
+
+
+Personal
+
+
+Personal
+Common
+
+
+Personal
+
+
+Common
+
+
+
+
+
+Common
+
+
+
+Common
+Personal
+Proper
+Proper
+
+Demonstrative
+
+Personal
+
+
+Common
+Personal
+
+
+
+
+Demonstrative
+
+Common
+Relative
+
+
+Personal
+
+
+Personal
+
+
+Common
+Common
+
+
+Common
+
+Personal
+
+
+
+
+
+
+Common
+
+
+Personal
+
+
+
+Common
+
+
+
+
+
+
+Common
+
+
+
+
+Common
+
+
+Personal
+
+
+
+Common
+Common
+
+
+Personal
+
+
+Common
+Proper
+
+Common
+Personal
+
+Personal
+
+
+Common
+
+
+
+Common
+
+
+Personal
+
+
+
+Common
+
+
+
+Personal
+
+
+
+Common
+Personal
+
+
+
+
+
+
+Personal
+
+Common
+
+
+Personal
+
+
+Common
+
+
+
+
+
+Common
+
+Personal
+
+
+Common
+Personal
+
+
+
+Personal
+Common
+Personal
+Demonstrative
+
+Personal
+
+
+
+
+
+Indefinite
+
+Common
+
+
+
+Common
+Proper
+Proper
+
+
+Personal
+Common
+
+
+
+Common
+Personal
+
+
+
+
+
+
+
+
+
+
+
+Common
+
+
+Demonstrative
+
+
+
+Personal
+
+
+Common
+Personal
+
+
+
+
+
+Personal
+
+
+Common
+Personal
+
+
+Common
+
+
+
+Demonstrative
+
+Common
+
+
+Relative
+
+
+
+Personal
+
+Common
+
+
+Demonstrative
+
+Common
+
+Common
+
+
+Demonstrative
+
+
+
+Personal
+
+
+
+
+Personal
+
+
+
+Demonstrative
+
+
+Personal
+
+
+
+
+Common
+
+
+Personal
+
+Common
+
+Relative
+
+
+Common
+
+Common
+
+
+
+
+Common
+Relative
+
+
+Common
+
+
+Personal
+Relative
+
+
+
+Personal
+
+
+Personal
+
+
+Common
+
+
+
+Common
+
+
+
+
+
+
+
+
+Common
+
+
+
+Common
+Personal
+
+
+
+Common
+
+
+
+
+
+
+Common
+Personal
+
+
+Common
+
+
+Common
+
+Personal
+
+
+
+
+
+
+Common
+Personal
+
+
+Common
+
+
+
+
+Common
+
+
+
+
+
+
+
+
+Common
+
+
+Common
+Personal
+
+Personal
+Common
+
+
+Personal
+
+Common
+
+
+Common
+Personal
+
+Personal
+Common
+
+
+
+
+Common
+
+Personal
+Common
+
+
+
+
+
+Personal
+Common
+
+
+
+Common
+
+Personal
+Common
+
+
+
+
+Common
+
+Personal
+Common
+
+
+
+
+
+Common
+
+Common
+
+Personal
+
+
+
+
+
+
+
+
+Common
+
+
+
+
+Common
+
+Indefinite
+
+
+Common
+
+
+
+Common
+
+Common
+
+Personal
+
+
+
+
+
+Common
+
+Common
+
+Common
+
+
+Common
+
+Common
+
+
+Common
+
+Common
+
+
+
+
+Common
+
+
+
+Common
+
+
+
+Common
+
+
+
+Common
+Personal
+
+
+
+
+Common
+
+Common
+
+
+
+Common
+Common
+
+Common
+
+
+
+
+
+Common
+
+
+
+Common
+
+
+
+
+
+
+Common
+
+
+Personal
+
+
+
+
+
+Personal
+
+
+
+Personal
+
+
+
+
+Personal
+
+
+
+
+
+
+
+
+Personal
+
+Personal
+Common
+
+
+
+
+
+
+
+
+
+Personal
+
+
+
+
+Common
+
+
+
+Personal
+
+
+
+Common
+
+
+Common
+
+
+Interrogative
+
+
+Common
+
+
+
+
+
+Proper
+
+
+
+Proper
+Demonstrative
+
+
+Common
+
+
+
+Common
+
+
+Common
+
+
+
+
+Common
+
+
+Common
+
+
+
+
+Common
+
+
+Common
+
+Personal
+Relative
+
+
+Common
+
+Personal
+
+
+
+Personal
+
+Relative
+
+Common
+
+
+Personal
+
+
+Common
+
+
+
+Common
+
+
+Demonstrative
+
+
+Common
+Relative
+Personal
+
+Personal
+
+Common
+
+
+Demonstrative
+
+Personal
+
+
+
+Personal
+
+Personal
+
+Common
+Relative
+
+
+Personal
+
+
+Personal
+
+
+Common
+
+
+Indefinite
+
+Personal
+
+
+
+Personal
+Common
+
+Personal
+
+
+
+
+
+
+
+
+Common
+
+
+
+Personal
+
+
+Personal
+
+
+Common
+
+
+Personal
+
+
+
+
+Common
+
+
+
+
+Personal
+
+
+Common
+Personal
+
+
+
+
+
+
+
+
+
+
+
+
+Common
+
+Personal
+
+
+Interrogative
+Common
+
+Personal
+
+Common
+
+Common
+Common
+
+
+
+
+Demonstrative
+
+Common
+
+
+Personal
+
+
+
+Personal
+
+
+Common
+Common
+
+
+
+
+Interrogative
+
+
+
+
+
+
+Personal
+
+
+
+Personal
+
+
+
+
+
+
+
+Common
+Demonstrative
+
+Personal
+
+Personal
+
+Demonstrative
+
+
+
+
+
+
+Common
+
+
+Common
+
+
+
+Common
+
+
+Common
+
+
+
+Demonstrative
+
+
+
+Common
+
+
+Common
+
+Personal
+
+
+
+
+
+Personal
+
+
+
+
+
+
+
+
+Personal
+
+
+Personal
+Common
+
+
+Personal
+
+
+
+Common
+
+
+
+Demonstrative
+
+
+
+
+
+Common
+
+
+
+
+
+
+Common
+
+
+
+
+Demonstrative
+
+
+Common
+
+Common
+
+
+
+Common
+
+
+
+
+
+
+
+Common
+Common
+
+
+
+Common
+Personal
+
+Personal
+
+
+
+
+
+
+
+
+Common
+
+
+Demonstrative
+
+
+
+Common
+
+Common
+
+
+Common
+
+
+
+
+
+
+Common
+
+
+
+
+Common
+
+
+
+
+
+Common
+Personal
+
+Demonstrative
+
+
+Common
+Relative
+
+
+Common
+
+
+Personal
+
+
+Proper
+
+
+
+
+
+
+
+Common
+Personal
 
 
 Interrogative
@@ -124766,156 +125932,9 @@ Personal
 
 
 Common
-
-Common
-
-
-
-
-Common
-
-
-Common
-Common
-
-Relative
-Common
-
-
-
-Common
-
-
-
-
-Common
-
-Common
-
-
-
-Common
 Personal
 
 
-Relative
-Common
-
-
-
-Demonstrative
-
-
-
-
-
-Personal
-
-
-Common
-
-
-
-Common
-Personal
-Common
-Common
-
-
-
-
-
-Personal
-Common
-Proper
-
-
-
-Personal
-Common
-
-Personal
-
-
-
-
-Common
-
-
-Personal
-
-Demonstrative
-
-Relative
-
-
-Indefinite
-Relative
-
-
-
-
-
-
-
-
-
-Common
-
-
-
-Personal
-Common
-
-
-Personal
-
-
-
-
-
-
-
-Common
-
-
-
-
-Common
-
-
-
-Common
-
-Common
-
-Common
-Personal
-
-Common
-Proper
-Proper
-Personal
-
-Common
-
-
-
-
-Common
-Common
-Relative
-
-
-Common
-Relative
-
-Relative
-
-
-Common
-Personal
-Relative
 
 
 
@@ -124926,157 +125945,8 @@ Personal
 
 Common
 
-Common
-
-
-Common
-
-
-
-
-
-
 
 Personal
-
-Common
-
-
-Relative
-
-
-
-Common
-
-
-Personal
-Relative
-
-
-
-
-
-Personal
-
-
-Personal
-Common
-
-
-Personal
-
-
-
-Common
-
-
-
-
-Common
-
-
-
-Common
-Personal
-Proper
-Proper
-
-Demonstrative
-
-Personal
-
-
-Common
-Personal
-
-
-
-
-Demonstrative
-
-Common
-Relative
-
-
-Personal
-
-
-Personal
-
-
-Common
-Common
-
-
-
-Personal
-
-
-Common
-
-
-
-
-Common
-
-
-Personal
-
-
-
-Common
-
-
-
-
-
-
-Common
-
-
-
-
-Common
-
-
-Personal
-
-
-
-Common
-Common
-
-
-Personal
-
-
-Common
-Proper
-
-Common
-Personal
-
-Personal
-
-
-Common
-
-
-
-Common
-
-
-Personal
-
-
-
-Common
-
-
-
-Personal
-
-
 
 Common
 Personal
@@ -125085,66 +125955,28 @@ Personal
 
 
 
-
-Personal
-
 Common
-
-
-Personal
 
 
 Common
 
 
 
-
-
 Common
 
-Personal
 
-
-Common
-Personal
-
-
-
-Personal
-Common
-Personal
-Demonstrative
-
-Personal
-
-
-
-
-
-Indefinite
 
 
 
 
 Common
-Common
-Proper
-Proper
 
-
-Personal
-Common
 
 
 
 Common
 Personal
-
-
-
-
-
-
+Common
 
 
 
@@ -125153,59 +125985,7 @@ Personal
 Common
 
 
-Demonstrative
-
-
-
-Personal
-
-
 Common
-Personal
-
-
-
-
-
-Personal
-
-
-Common
-Personal
-
-
-Common
-
-
-
-Demonstrative
-
-Common
-
-
-
-
-Relative
-
-Personal
-
-Common
-
-
-Demonstrative
-
-Common
-
-Common
-
-
-Demonstrative
-
-
-
-Personal
-
-
 
 
 Personal
@@ -125214,59 +125994,30 @@ Personal
 Demonstrative
 
 
+Common
 
-Personal
-
-
-
+Demonstrative
 
 Personal
 
 Common
+Personal
 
+
+Personal
+
+
+
+Common
 
 Common
 
 Relative
 
 
-Common
-
-Common
-
-
 
 
 Common
-Relative
-
-
-Common
-
-
-Personal
-Relative
-
-
-
-Personal
-
-
-Personal
-
-
-Common
-
-
-
-Common
-
-
-
-
-
-
-
 
 Common
 
@@ -125274,12 +126025,7 @@ Common
 
 Common
 Personal
-
-
-
 Common
-
-
 
 
 
@@ -125287,243 +126033,16 @@ Common
 Common
 Personal
 
-
-Common
-
-
-Common
-
-Personal
-
-
-
-
-
-
-Common
 Personal
 
 
 Common
 
-
-
-
-Common
-
-
-
-
-
-
-
-
-Common
-
-
-Common
-Personal
-Common
-
-Personal
-
-
-Personal
-
-Common
-
-
-Common
-Personal
-Common
-
-Personal
-
-
-
-
-Common
-Common
-
-Personal
-
-
-
-
-Common
-
-Personal
-
-
-
-Common
-Common
-
-Personal
-
-
-
-
-Common
-Common
-
-Personal
-
-
-
-
-
-Common
-
-Common
-
-Personal
-
-
-
-
-
-
-
-
-Common
-
-
-
-
-Common
-
-Indefinite
-
-
-Common
-
-
-
-Common
-
-Common
-
-Personal
-
-
-
-
-
-
-Common
-
-Common
-
-Common
-
-
-Common
-
-Common
-
-
-Common
-
-Common
-
-
-
-Common
-
-
-
-Common
-
-
-
-
-Common
-
-
-Common
-Personal
-
-
-
-
-Common
-
-Common
-
-
-
-Common
-Common
-
-Common
-
-
-
-
-
-Common
-
-
-
-Common
-
-
-
-
-
-
 Common
 
 
 Personal
-
-
-
-
-
-Personal
-
-
-
-Personal
-
-
-
-
-Personal
-
-
-
-
-
-
-
-
-Personal
-
-Personal
 Common
-
-
-
-
-
-
-
-
-Personal
-
-
-
-
-
-Common
-
-
-
-Personal
-
 
 
 Common
@@ -125532,574 +126051,55 @@ Common
 Common
 
 
-Interrogative
-
+Common
 
 Common
 
-
-
-
-
-Proper
-
-
-
-Proper
 Demonstrative
 
 
-Common
-
-
-
-Common
 
 
 Common
 
 
-
-
-Common
-
-
-Common
-
-
-
-
-Common
-
-
-Common
 
 Personal
-Relative
 
 
 Common
-
 Personal
 
 
 
 Personal
+
+Common
+
+
+
+
+Common
+
+Common
+Personal
+
+
+
+
+
+
+Common
+
+
+Common
+
+
+
+Common
 
 Relative
 
-Common
-
-
-Personal
-
-
-Common
-
-
-
-Common
-
-
-Demonstrative
-
-
-Common
-Relative
-Personal
-
-Personal
-
-Common
-
-
-Demonstrative
-
-Personal
-
-
-
-Personal
-
-Personal
-
-Common
-Relative
-
-
-Personal
-
-
-Personal
-
-
-Common
-
-
-Indefinite
-
-Personal
-
-
-
-Personal
-Common
-
-Personal
-
-
-
-
-
-
-
-
-Common
-
-
-
-Personal
-
-
-Personal
-
-Common
-
-
-
-Personal
-
-
-
-
-Common
-
-
-
-
-Personal
-
-
-Common
-Personal
-
-
-
-
-
-
-
-
-
-
-
-
-Common
-
-Personal
-
-
-Interrogative
-Common
-
-Personal
-
-Common
-
-Common
-Common
-
-
-
-
-Demonstrative
-
-Common
-
-
-Personal
-
-
-
-Personal
-
-
-Common
-Common
-
-
-
-
-Interrogative
-
-
-
-
-
-
-Personal
-
-
-
-Personal
-
-
-
-
-
-
-
-Common
-Demonstrative
-
-Personal
-
-Personal
-
-Demonstrative
-
-
-
-
-
-
-Common
-
-
-Common
-
-
-
-Common
-
-
-Common
-
-
-
-Demonstrative
-
-
-
-Common
-
-
-Common
-
-Personal
-
-
-
-
-
-Personal
-
-
-
-
-
-
-
-
-Personal
-
-
-Personal
-Common
-
-
-Personal
-
-
-
-Common
-
-
-
-Demonstrative
-
-
-
-
-
-Common
-
-
-
-
-
-
-Common
-
-
-
-
-Demonstrative
-
-
-Common
-
-Common
-
-
-
-Common
-
-
-
-
-
-
-
-Common
-Common
-
-
-
-Common
-Personal
-
-Personal
-
-
-
-
-
-
-
-
-Common
-
-
-Demonstrative
-
-
-
-Common
-
-Common
-
-
-Common
-
-
-
-
-
-
-Common
-
-
-
-
-Common
-
-
-
-
-
-Common
-Personal
-
-Demonstrative
-
-
-Common
-Relative
-
-
-Common
-
-
-Personal
-
-
-Proper
-
-
-
-
-
-
-
-Common
-Personal
-
-
-Interrogative
-
-Personal
-
-
-Common
-Personal
-
-
-
-
-
-Common
-Personal
-
-Common
-
-
-
-
-Personal
-
-Common
-Personal
-
-
-
-
-
-Common
-
-
-Common
-
-
-
-Common
-
-
-
-
-
-
-Common
-
-
-
-
-Common
-Personal
-Common
-
-
-
-
-
-Common
-
-
-Common
-
-
-Personal
-
-
-Demonstrative
-
-
-Common
-
-Demonstrative
-
-Personal
-
-Common
-Personal
-
-
-Personal
-
-
-
-Common
-
-Common
-
-
-
-Relative
-
-
-Common
-
-Common
-
-
-
-Common
-Personal
-Common
-
-
-
-
-Common
-Personal
-
-Personal
-
-
-Common
-
-Common
-
-
-Personal
-Common
-
-
-Common
-
-
-Common
-
-
-Common
-
-Common
-
-Demonstrative
-
-
-
-
-Common
-
-
-
-Personal
-
-
-Common
-Personal
-
-
-
-Personal
-
-Common
-
-
-
-
-Common
-
-Common
-Personal
-
-
-
-
-
-
-Common
-
-
-Common
-
-
-
-Common
-
-
-Relative
 
 
 
@@ -126235,12 +126235,12 @@ Relative
 Common
 
 
-Common
 Personal
 
 
 Common
 
+Common
 
 
 Personal
@@ -126417,8 +126417,8 @@ Personal
 Common
 Personal
 
-Personal
 
+Personal
 
 
 Demonstrative
@@ -126452,8 +126452,8 @@ Common
 Common
 
 Common
-
 Relative
+
 
 
 Proper
@@ -126589,14 +126589,14 @@ Personal
 Relative
 
 
-
-
 Common
 Relative
 
 
 
 
+
+
 Demonstrative
 
 Common
@@ -126654,8 +126654,8 @@ Common
 Common
 Personal
 
-
 Demonstrative
+
 
 
 Common
@@ -126871,18 +126871,18 @@ Personal
 
 
 
+Common
+
+
+
+
+
 
 Common
 
 Common
 
 Common
-
-
-
-Common
-
-
 
 Demonstrative
 
@@ -126908,8 +126908,8 @@ Personal
 
 
 Personal
-
 Relative
+
 
 
 
@@ -126934,8 +126934,8 @@ Common
 
 
 
-Common
 Personal
+Common
 
 
 
@@ -127049,10 +127049,10 @@ Common
 Common
 Personal
 Relative
+Personal
 
 
 Common
-Personal
 
 
 Personal
@@ -127117,15 +127117,15 @@ Common
 
 Common
 
-Common
 
 
 Personal
-
-Personal
+Common
 
 
 Common
+
+Personal
 
 
 Relative
@@ -127162,9 +127162,9 @@ Personal
 
 
 
+
+
 Common
-
-
 
 
 
@@ -127324,10 +127324,10 @@ Personal
 Common
 
 
-Common
 Demonstrative
 
 
+Common
 
 
 
@@ -127336,12 +127336,12 @@ Common
 
 
 Common
-
 
 
 
 
 Relative
+
 
 
 
@@ -127373,8 +127373,8 @@ Common
 
 
 
-
 Personal
+
 
 
 
@@ -127459,8 +127459,8 @@ Personal
 
 Common
 
-
 Personal
+
 
 
 
@@ -127508,8 +127508,8 @@ Proper
 Proper
 Proper
 Common
-
 Common
+
 Proper
 
 
@@ -127521,8 +127521,8 @@ Proper
 Proper
 
 
+Common
 Personal
-Common
 
 Common
 
@@ -127583,11 +127583,11 @@ Proper
 
 
 
-
-
-
-
 Personal
+
+
+
+
 
 Common
 Common
@@ -127601,8 +127601,8 @@ Proper
 
 
 
-
 Common
+
 
 
 
@@ -127653,7 +127653,6 @@ Common
 
 Demonstrative
 
-
 Common
 
 
@@ -127663,6 +127662,11 @@ Common
 Common
 
 
+
+
+Proper
+
+Common
 
 
 
@@ -127674,21 +127678,16 @@ Proper
 Common
 
 
-Proper
-
 Common
 
 Common
-Common
-
 
 
 
 Personal
 Common
-
-
 Demonstrative
+
 Relative
 
 
@@ -127699,473 +127698,15 @@ Relative
 
 
 
-Common
-
-
-Demonstrative
-
-
-Personal
-
 
 Common
-
-Proper
-
-
-
-Common
-
-Proper
-Common
-
-
-
-Common
-
-Proper
-
-Demonstrative
-
-
-
-
-Common
-Personal
-Common
-
-
-Personal
-
-Common
-
-
-Common
-
-Common
-
-
-
-
-
-Common
-
-Common
-
-
-Personal
-Common
-Common
-
-Relative
-
-Common
-
-Common
-
-Common
-
-
 
 
 Demonstrative
 
 
-Proper
-Proper
-
-
-
-Common
-
-
-Common
 Personal
 
-Common
-
-
-
-
-
-
-
-
-
-
-Common
-Common
-Personal
-Relative
-
-
-
-
-
-
-Relative
-
-
-Personal
-
-
-Demonstrative
-
-Common
-
-
-
-Common
-Personal
-
-
-
-Common
-Personal
-
-
-
-Common
-Common
-
-
-
-Personal
-
-
-Common
-
-
-
-
-Common
-
-Common
-Personal
-Proper
-Proper
-
-
-Personal
-
-
-
-Common
-
-Common
-
-
-
-Personal
-Common
-
-Common
-Demonstrative
-
-
-
-
-Common
-
-
-
-
-Personal
-
-Personal
-
-
-Personal
-Common
-
-Common
-
-
-Personal
-
-Common
-Common
-
-
-
-Common
-
-Common
-Personal
-Proper
-Proper
-
-Common
-
-
-
-Relative
-
-
-
-
-Common
-
-
-Relative
-
-
-Common
-
-
-
-
-
-Common
-
-Common
-
-
-
-
-Personal
-
-
-
-
-
-Common
-Personal
-
-
-Common
-
-Common
-Common
-Personal
-
-Proper
-Proper
-
-Common
-Personal
-Common
-Common
-Common
-
-Common
-
-
-
-Common
-
-
-
-
-
-
-Common
-
-Common
-Proper
-Proper
-Relative
-
-Personal
-
-Common
-
-
-Common
-Personal
-Relative
-
-
-Common
-
-
-
-
-
-
-Common
-Personal
-
-Common
-Personal
-Proper
-Relative
-
-
-Common
-
-Common
-
-
-Common
-Proper
-Proper
-Relative
-
-
-
-
-
-
-
-
-Common
-
-Common
-
-
-
-
-Personal
-
-
-
-Common
-
-Proper
-
-
-Common
-
-
-
-Proper
-Common
-
-Common
-Personal
-
-
-
-
-
-
-
-
-
-
-
-
-
-Common
-Relative
-
-
-Common
-Personal
-
-
-Proper
-Proper
-
-Common
-
-
-
-
-
-
-
-
-Common
-
-Common
-
-Common
-
-
-Personal
-
-
-Personal
-
-
-Common
-Personal
-
-
-Common
-Personal
-
-
-Personal
-Common
-Common
-
-Common
-
-Common
-Personal
-Personal
-
-Common
-
-
-Common
-
-
-Common
-
-Common
-
-
-
-
-
-Common
-
-
-Personal
-
-Common
-
-Relative
-Personal
-
-
-
-
-Personal
-
-
-Common
-
-Common
-
-
-Personal
-
-
-Proper
-
-
-Proper
-
-Common
-
-Common
-
-
-
-
-
-
-
-
-
-Common
-Personal
-Proper
-
-Common
-Personal
-
-Common
-
-
-Common
-
-Common
 
 Common
 
@@ -128175,369 +127716,14 @@ Proper
 
 Common
 
-
 Proper
-
-
 Common
-
-Common
-
-
-Common
-Proper
-
-
-Common
-
-
-
-Common
-
-
-
-Personal
-Common
-
-
-Common
-
-Relative
-
-
-
-Common
-
 
 
 
 Common
 
 Proper
-
-
-Common
-
-
-Proper
-
-
-Proper
-
-
-Proper
-
-
-Proper
-
-
-Proper
-
-
-
-
-Common
-Relative
-
-
-Personal
-
-
-
-
-Common
-
-
-
-
-
-Common
-
-Common
-Common
-
-
-
-
-
-
-Common
-Common
-
-
-
-Common
-Personal
-
-
-Common
-
-
-Common
-
-
-Common
-
-
-Common
-Personal
-
-Common
-Common
-
-
-Common
-Personal
-
-Common
-
-
-Common
-
-
-
-Common
-Personal
-
-Common
-Common
-
-
-
-
-
-
-Common
-Personal
-Common
-
-
-
-
-Common
-Personal
-Common
-
-
-
-
-
-Common
-Personal
-
-
-Common
-
-
-
-Common
-Personal
-
-
-
-Personal
-
-
-
-Common
-Personal
-
-
-
-
-
-
-Personal
-
-Personal
-
-
-
-Personal
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Common
-
-Common
-
-
-
-Common
-
-Common
-
-
-Common
-
-
-Relative
-
-
-Relative
-
-
-Relative
-
-
-
-Demonstrative
-
-Common
-
-
-Common
-Relative
-
-
-
-
-Personal
-
-
-
-Common
-
-
-
-
-Common
-Common
-
-
-Common
-
-
-
-Common
-
-
-
-Common
-
-
-Common
-
-
-Proper
-Common
-
-Demonstrative
-
-
-
-
-
-Common
-
-
-
-Personal
-
-
-
-
-
-
-Common
-
-
-
-
-Common
-Personal
-
-
-Common
-
-
-Common
-Personal
-
-
-
-
-
-
-
-
-
-
-Personal
-Common
-
-
-
-
-
-Personal
-
-
-Common
-
-
-
-
-
-Common
-Personal
-
-
-
-
-
-
-Personal
-
-
-Common
-Personal
-
-
-
-
-
-
-
-
-
-
-
-
-Common
-
-
-
-
-
-Personal
-
-
-
-Common
-Personal
-
-
-Common
-Personal
-
-
-
 
 Demonstrative
 
@@ -128545,21 +127731,288 @@ Demonstrative
 
 
 Common
+Personal
+Common
+
+
+Personal
+
+Common
+
+
+Common
+
+Common
+
+
+
+
+
+Common
+
+Common
+
+
+Personal
+Common
+Common
+
+Relative
+
+Common
+
+Common
+
+Common
+
+
+
+
+Demonstrative
+
 
 Proper
+Proper
+
+
+
+Common
+
+
+Common
+Personal
+
+Common
+
+
+
+
+
+
+
+
+
+
+Common
+Common
+Personal
 Relative
+
+
+
+
+
+
+Relative
+
+
+Personal
+
+
+Demonstrative
+
+Common
+
+
+
+Common
+Personal
+
+
+
+Common
+Personal
+
+
+
+Common
+Common
+
+Personal
+
+
+
+
+Common
+
+
+
+
+Common
+
+Common
+Personal
+Proper
+Proper
+
+
 Personal
 
 
 
 Common
 
-Interrogative
+Common
+
+
+Personal
+Common
+
+
+Common
+Demonstrative
+
+
+
+
+Common
+
+
+Personal
+
+
+
+Personal
+
+
+Personal
+Common
+
+Common
+
+
+Personal
+
+Common
+Common
+
+
+
+Common
+
+Common
+Personal
+Proper
+Proper
+
+Common
+
+
+Relative
+
+
+
+
+
+Common
+
+Relative
+
+
+
+Common
+
+
+
+
+
+Common
+
+Common
+
+
+
+
+Personal
+
+
+
+
+
+Common
+Personal
+
+
+Common
+
+Common
+Common
+Personal
+
+Proper
+Proper
+
+Common
+Personal
+Common
+Common
+Common
+
+Common
+
+
+
+Common
+
+
+
+
+
+
+Common
+
+Common
+Proper
+Proper
+Relative
+
+Personal
 
 Common
 
 
 Common
+Personal
+Relative
+
+
+
+Common
+
+
+
+
+
+Common
+Personal
+
+Common
+Personal
+Proper
+Relative
+
+
+Common
+
+Common
+
+
+Common
+Proper
+Proper
+Relative
+
+
+
+
+
+
+
+
+Common
+
+Common
+
 
 
 
@@ -128569,12 +128022,411 @@ Personal
 
 Common
 
+Proper
+
+
 Common
+
+
+
+Proper
+Common
+Personal
+
+Common
+
+
+
+
+
+
+
+
+
+
+
+
+
+Common
+Relative
+
+
+Common
+Personal
+
+
+Proper
+Proper
+
+Common
+
+
+
+
+
+
+
+
+Common
+
+Common
+
+Common
+
+
+Personal
+
+
+Personal
+
+
+Common
+Personal
+
+
+Common
+Personal
+
+
+Personal
+Common
+Common
+
+Common
+
+Common
+Personal
+Personal
+
+Common
+
+
+Common
+
+
+Common
+
+Common
+
+
+
+
+
+Common
+
+
+Personal
+
+Common
+
+Relative
+Personal
+
+
+
+
+Personal
+
+
+Common
+
+Common
+
+
+Personal
+
+
+Proper
+
+
+Proper
+
+Common
+
+Common
+
+
+
+
+
+
+
+
+
+Common
+Personal
+Proper
+
+Common
+Personal
+
+Common
+
+
+Common
+
+Common
+
+Common
+
+Proper
+
+
+
+Common
+
+
+Proper
+
+
+Common
+
+Common
+
+
+Common
+Proper
+
+
+Common
+
+
+
+Common
+
+
+
+Personal
+Common
+
+
+Common
+
 Relative
 
 
 
 Common
+
+
+
+
+Common
+
+Proper
+
+
+Common
+
+
+Proper
+
+
+Proper
+
+
+Proper
+
+
+Proper
+
+
+Proper
+
+
+
+
+Common
+Relative
+
+
+Personal
+
+
+
+
+Common
+
+
+
+
+
+Common
+
+Common
+Common
+
+
+
+
+
+
+Common
+Common
+
+
+
+Common
+Personal
+
+
+Common
+
+
+Common
+
+
+Common
+
+
+Common
+Personal
+
+Common
+Common
+
+
+Common
+Personal
+
+Common
+
+
+Common
+
+
+
+Common
+Personal
+
+Common
+Common
+
+
+
+
+
+
+Common
+Personal
+Common
+
+
+
+
+Common
+Personal
+Common
+
+
+
+
+
+Common
+Personal
+
+
+Common
+
+
+
+Common
+Personal
+
+
+
+Personal
+
+
+
+Common
+Personal
+
+
+
+
+
+
+Personal
+
+Personal
+
+
+
+Personal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Common
+
+Common
+
+
+
+Common
+
+Common
+
+
+Common
+
+
+Relative
+
+
+Relative
+
+
+Relative
+
+
+
+Demonstrative
+
+Common
+
+
+Common
+Relative
+
+
+
+
+Personal
+
+
+
+Common
+
+
+
+
+Common
+Common
+
+
+Common
+
+
+
+Common
+
+
 
 Common
 
@@ -128591,27 +128443,7 @@ Demonstrative
 
 
 
-
-Relative
-
-
-
-
-
-Personal
-
 Common
-
-
-Common
-
-
-
-
-
-Common
-
-
 
 
 
@@ -128620,12 +128452,24 @@ Personal
 
 
 
+
+
 Common
 
-Proper
 
 
-Relative
+
+Common
+Personal
+
+
+Common
+
+
+Common
+Personal
+
+
 
 
 
@@ -128635,34 +128479,14 @@ Relative
 
 
 Personal
-
 Common
 
 
 
-
-Common
-Common
-
-
-
-
-Common
 
 
 Personal
 
-Common
-
-Common
-
-
-Common
-
-Interrogative
-
-Common
-
 
 Common
 
@@ -128670,6 +128494,29 @@ Common
 
 
 
+Common
+Personal
+
+
+
+
+
+
+Personal
+
+
+Common
+Personal
+
+
+
+
+
+
+
+
+
+
 
 
 Common
@@ -128677,11 +128524,20 @@ Common
 
 
 
-Common
+
+Personal
 
 
-Proper
+
 Common
+Personal
+
+
+Common
+Personal
+
+
+
 
 Demonstrative
 
@@ -128690,101 +128546,10 @@ Demonstrative
 
 Common
 
-
-
-
-
-
-
-
-
-Common
-
-Proper
-
-
-
-Common
-Personal
-
-
-
-
-Common
-Personal
-
-
-
-Common
-Proper
-
-Common
-Personal
-
-
-Personal
-Relative
-
-
-Personal
-
-
-Proper
-
-
-
-
-Personal
-
-
-
-
-
-
-Common
 Proper
 Relative
-
-
-Proper
-
-Common
-
-
-Common
-Proper
-
-
-
-
-
-
-
 Personal
 
-
-Common
-
-Proper
-
-
-
-
-
-
-
-Personal
-
-
-
-
-Personal
-
-
-Common
-
-Common
-Personal
 
 
 Common
@@ -128800,28 +128565,18 @@ Common
 
 Personal
 
-Common
-
-
-
-
-Personal
-Common
-
-
 
 
 Common
 
 Common
-
 Relative
 
 
 
+Common
 
-
-
+Common
 
 
 Common
@@ -128833,170 +128588,43 @@ Common
 Demonstrative
 
 
-Common
 
-Common
 
 
 
-Common
-Personal
-
-Common
-Common
-
-
-Common
-Personal
-
-Common
-
-Personal
-
-Common
-
-
-Common
-
-
-Common
-
-
-Common
-
-
-Common
-Personal
-
-
-Common
-Personal
-
-
-
-
-
-
-
-
-Personal
-
-
-
-Common
-Proper
-
-
-Personal
-Common
-
-
-
-
-
-
-Common
-
-
-
-
-
-
-Personal
-Common
-
-
-
-
-
-
-
-
-Common
-Personal
-
-
-Personal
-
-Common
-
-
-
-
-Personal
-
-Common
-
-
-
-
-
-
-Common
-Personal
-
-
-Common
-Personal
-
-
-Common
-
-
-
-
-Common
-
-Personal
-
-
-
-Common
-
-Common
-
-
-Personal
-
-
-
-Common
-Personal
-
-
-Personal
-
-
-
-
-Proper
-Relative
-
-
-
-Common
-Demonstrative
 Relative
 
 
 
 
+
+Personal
+
+Common
+
+
+Common
+
+
+
+
+
+Common
+
+
+
+
+
+Personal
+
+
+
+
+Common
 
 Proper
 
 
-
-
-
-Personal
-
-Common
-
-Relative
-
-
-
-
 Relative
 
 
@@ -129006,42 +128634,27 @@ Relative
 
 
 
-Common
-
-Common
-Personal
-
-Personal
-Common
-
-
-Common
-
-
 Personal
 
 Common
 
 
 
+
+Common
 Common
 
 
 
 
-Personal
-
-
-
 Common
-Personal
 
 
 Personal
 
 Common
 
-
+Common
 
 
 Common
@@ -129054,6 +128667,16 @@ Common
 Common
 
 
+
+
+
+
+
+Common
+
+
+
+
 Common
 
 
@@ -129065,55 +128688,53 @@ Demonstrative
 
 
 
-
-Common
-
 Common
 
 
 
+
+
+
+
+
+
 Common
 
+Proper
+
+
+
+Common
 Personal
 
+
+
+
 Common
+Personal
+
+
 
 Common
+Proper
+
+Common
+Personal
 
 
-
-
-
-
-
-
-
-
-
-
+Personal
 Relative
 
 
+Personal
+
+
+Proper
+
 
 
 
 Personal
-Common
-
-
-
-Common
-Personal
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -129121,66 +128742,46 @@ Personal
 
 
 Common
+Proper
+Relative
 
 
+Proper
 
-
-Interrogative
 Common
+
+
+Common
+Proper
+
+
+
+
+
 
 
 Personal
-
 
 
 Common
 
 Proper
-Relative
 
 
 
-Common
+
+
+
+
 Personal
 
 
 
-Personal
 
-
-
-
-
-
-
-
-
-
-Common
-
-
-
-
-
-
-Common
 Personal
 
 
 Common
-
-Common
-
-
-
-Common
-Personal
-
-
-Common
-Personal
-
-
 
 Common
 Personal
@@ -129196,6 +128797,33 @@ Common
 Common
 
 
+
+Personal
+
+Common
+
+
+
+
+Personal
+Common
+
+
+
+
+Common
+Common
+
+
+Relative
+
+
+
+
+
+
+
+
 Common
 
 
@@ -129205,9 +128833,53 @@ Common
 Demonstrative
 
 
+Common
+
+Common
 
 
 
+Common
+Personal
+
+Common
+Common
+
+
+Common
+Personal
+
+Common
+
+Personal
+
+Common
+
+
+Common
+
+
+Common
+
+
+Common
+
+
+Common
+Personal
+
+
+Common
+Personal
+
+
+
+
+
+
+
+
+Personal
 
 
 
@@ -129215,11 +128887,38 @@ Common
 Proper
 
 
+Personal
+Common
 
 
 
 
 
+
+Common
+
+
+
+
+
+
+Personal
+Common
+
+
+
+
+
+
+
+
+Common
+Personal
+
+
+Personal
+
+Common
 
 
 
@@ -129230,91 +128929,70 @@ Common
 
 
 
+
+
+
+Common
 Personal
+
+
+Common
+Personal
+
+
+Common
+
+
+
+
+Common
+
+Personal
+
+
+
+Common
+
+Common
+
+
+Personal
+
+
+
+Common
+Personal
+Personal
+
+
+
+
+
+
+Proper
+Relative
+
+
+
+Common
+Demonstrative
+Relative
+
+
+
+
+
+Proper
+
+
+
+
+
+Personal
+
 Common
 
 Relative
-Personal
-
-
-
-
-
-Common
-
-
-
-Personal
-
-Common
-
-
-
-
-Common
-Personal
-
-
-
-
-Common
-
-Proper
-
-
-Personal
-
-
-
-
-
-
-
-
-
-Personal
-
-
-
-
-
-
-Common
-Personal
-
-
-
-Personal
-
-Personal
-
-
-
-Common
-
-Common
-Personal
-Personal
-Personal
-
-
-
-Common
-
-Common
-
-
-
-
-
-Common
-
-
-
-
-
-
-Common
 
 
 
@@ -129324,13 +129002,8 @@ Relative
 
 
 
-Common
-Personal
 
 
-
-Personal
-Common
 
 
 Common
@@ -129338,44 +129011,35 @@ Common
 Common
 Personal
 
+Personal
+Common
 
 
-
-
-
-
+Common
 
 
 Personal
 
 Common
 
+
+
 Common
+
+
+
+
 Personal
 
-
-Common
-
-Common
-
-Common
-Personal
-
-
-Proper
-
-
-
-
-Common
 
 
 Common
 Personal
 
 
-Common
 Personal
+
+Common
 
 
 
@@ -129401,15 +129065,12 @@ Demonstrative
 
 
 
-Common
-
-
-
-
 
 Common
 
 Common
+
+
 
 Common
 
@@ -129417,71 +129078,6 @@ Personal
 
 Common
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Personal
-
-
-
-Common
-Personal
-
-
-
-
-
-
-
-
-
-Common
-
-
-
-
-
-Personal
-
-
-
-
-
-
-
-
-
-
-
-
-Personal
-
-
-Personal
-Common
-
-
-Common
-
-
-
 Common
 
 
@@ -129490,21 +129086,425 @@ Common
 
 
 
-Common
-
-Common
-Personal
-
-Common
 
 
-Common
-Personal
 
 
-Personal
 
 Relative
+
+
+
+
+
+Personal
+Common
+
+
+
+Common
+Personal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Common
+
+
+
+
+Interrogative
+Common
+
+
+Personal
+
+
+
+Common
+
+Proper
+Relative
+
+
+
+Common
+Personal
+
+
+
+Personal
+
+
+
+
+
+
+
+
+
+
+Common
+
+
+
+
+
+
+Common
+Personal
+
+
+Common
+
+Common
+
+
+
+Common
+Personal
+
+
+Common
+Personal
+
+
+
+Common
+Personal
+
+
+Common
+
+Interrogative
+
+Common
+
+
+Common
+
+
+Common
+
+
+Proper
+Common
+
+Demonstrative
+
+
+
+
+
+
+
+
+Common
+Proper
+
+
+
+
+
+
+
+
+
+
+
+Personal
+
+Common
+
+
+
+Personal
+Common
+
+Relative
+
+
+
+Personal
+
+
+
+Common
+
+
+Personal
+
+Common
+
+
+
+
+Common
+Personal
+
+
+
+
+Common
+
+Proper
+
+
+Personal
+
+
+
+
+
+
+
+
+
+Personal
+
+
+
+
+
+
+Common
+Personal
+
+
+
+Personal
+
+Personal
+
+
+
+Common
+
+Common
+Personal
+Personal
+Personal
+
+
+
+Common
+
+Common
+
+
+
+
+
+Common
+
+
+
+
+
+
+Common
+
+
+
+Relative
+
+
+
+
+
+Common
+Personal
+
+
+
+Personal
+Common
+
+
+Common
+
+Common
+Personal
+
+
+
+
+
+
+
+
+
+Personal
+
+Common
+
+Common
+Personal
+
+
+Common
+
+Common
+
+Common
+Personal
+
+
+Proper
+
+
+
+
+Common
+
+
+Common
+Personal
+
+
+Common
+Personal
+
+
+
+
+Common
+
+Interrogative
+
+Common
+
+
+Common
+
+
+Common
+
+
+Proper
+Common
+
+Demonstrative
+
+
+
+
+Common
+
+
+
+
+
+Common
+
+Common
+
+Common
+
+Personal
+
+Common
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personal
+
+
+
+Common
+Personal
+
+
+
+
+
+
+
+
+
+Common
+
+
+
+
+
+Personal
+
+
+
+
+
+
+
+
+
+
+
+
+Personal
+
+
+Personal
+Common
+
+
+Common
+
+
+
+Common
+
+
+
+
+
+
+
+Common
+
+Common
+Personal
+
+Common
+
+
+Common
+Personal
+
+
+Personal
+Relative
+
 
 
 
@@ -129606,8 +129606,8 @@ Personal
 Relative
 
 
-Demonstrative
 
+Demonstrative
 
 
 
@@ -129839,13 +129839,13 @@ Personal
 Common
 
 
+
+
 Common
 
 
 Common
 Personal
-
-
 
 
 Common
@@ -130439,9 +130439,9 @@ Common
 
 
 
+
+
 Common
-
-
 
 
 
@@ -130677,8 +130677,8 @@ Common
 
 Common
 Relative
-Personal
 
+Personal
 
 
 Common
@@ -130793,8 +130793,8 @@ Demonstrative
 Common
 
 Relative
-Personal
 
+Personal
 
 
 
@@ -131717,65 +131717,6 @@ Common
 
 
 
-
-Common
-
-
-
-Common
-Demonstrative
-
-
-Common
-
-
-Common
-
-
-Common
-
-
-
-
-Common
-Personal
-
-
-Common
-
-Common
-
-
-
-Common
-Personal
-
-
-
-Common
-Personal
-
-
-Common
-Personal
-
-Common
-
-Common
-
-
-Personal
-
-
-
-
-
-Common
-Relative
-
-
-
-
 Common
 Demonstrative
 
@@ -131784,6 +131725,65 @@ Demonstrative
 
 Common
 
+
+Common
+
+
+Common
+
+
+Common
+
+
+
+
+Common
+Personal
+
+
+Common
+
+Common
+
+
+Common
+Personal
+
+
+
+
+Common
+Personal
+
+
+Common
+Personal
+
+Common
+
+Common
+
+
+Personal
+
+
+
+
+
+Common
+Relative
+
+
+
+
+Common
+Demonstrative
+
+
+
+
+Common
+
 Common
 Personal
 
@@ -131943,12 +131943,12 @@ Relative
 
 
 
-Common
-
-
 
 Common
 
+
+
+Common
 
 
 Common
@@ -132211,8 +132211,8 @@ Common
 
 
 Indefinite
-
 Personal
+
 
 Common
 
@@ -132337,10 +132337,10 @@ Common
 
 
 
-
-
 Common
 Personal
+
+
 
 
 Common
@@ -132374,9 +132374,9 @@ Common
 
 
 
-
-
 Common
+
+
 Common
 Common
 
@@ -132788,19 +132788,19 @@ Personal
 Common
 
 
-
 Common
-
-
-Common
-Personal
-
 
 
 
 Common
 Personal
 
+
+
+
+Common
+
+Personal
 
 
 
@@ -133247,9 +133247,9 @@ Personal
 
 
 Common
-
-
 Relative
+
+
 
 Common
 Personal
@@ -133352,8 +133352,8 @@ Common
 
 
 
-
 Common
+
 
 
 Common
@@ -133418,8 +133418,8 @@ Common
 
 
 
-
 Relative
+
 
 
 
@@ -133498,8 +133498,8 @@ Common
 Common
 
 Common
-
 Common
+
 Common
 
 
@@ -133609,8 +133609,8 @@ Relative
 Common
 
 
-
 Common
+
 
 Demonstrative
 
@@ -133823,8 +133823,8 @@ Common
 Personal
 
 
-
 Common
+
 
 
 
@@ -133969,11 +133969,11 @@ Common
 Common
 
 
-Common
-
 
 Common
 
+
+Common
 
 
 Common
@@ -134352,8 +134352,8 @@ Common
 
 
 
-Common
 
+Common
 
 
 
@@ -134832,20 +134832,7 @@ Common
 
 Common
 
-
-
 Common
-Personal
-Common
-
-
-Common
-
-
-
-
-Common
-Personal
 
 
 
@@ -134853,6 +134840,19 @@ Common
 Personal
 
 Common
+
+
+
+
+Common
+Personal
+
+
+
+Common
+Personal
+Common
+
 Common
 Proper
 
@@ -134946,9 +134946,9 @@ Common
 Common
 Relative
 
+
+
 Common
-
-
 
 
 Common
@@ -135034,8 +135034,8 @@ Common
 Relative
 
 
-
 Common
+
 Relative
 Common
 
@@ -135074,9 +135074,9 @@ Common
 
 Personal
 
+Common
+Common
 
-Common
-Common
 
 Common
 Common
@@ -135100,10 +135100,10 @@ Relative
 
 Common
 
-
 Common
 
 Common
+
 
 Common
 
@@ -135123,8 +135123,8 @@ Demonstrative
 Common
 
 
-Personal
 
+Personal
 
 
 
@@ -135273,16 +135273,10 @@ Common
 Common
 
 
+
 Common
 Personal
 
-
-Personal
-
-
-
-
-Common
 Personal
 
 
@@ -135290,6 +135284,12 @@ Personal
 
 Common
 Personal
+
+
+
+Common
+Personal
+
 
 
 
@@ -135335,11 +135335,11 @@ Personal
 
 
 Demonstrative
-Common
-
-Common
 
 Personal
+Common
+
+Common
 
 
 
@@ -135447,11 +135447,11 @@ Common
 Personal
 
 
-
-
-
 Common
 Personal
+
+
+
 Common
 Common
 
@@ -135793,9 +135793,9 @@ Common
 
 
 Personal
+Common
+Common
 
-Common
-Common
 
 
 
@@ -136019,9 +136019,9 @@ Personal
 Personal
 
 
-
 Common
 Personal
+
 
 
 Common
@@ -136616,8 +136616,8 @@ Common
 
 
 Personal
-
 Relative
+
 
 Common
 
@@ -136715,10 +136715,10 @@ Common
 
 
 
-Common
 
 Common
 
+Common
 
 
 Indefinite
@@ -136760,11 +136760,11 @@ Common
 
 
 
-
 Common
 
 
 Proper
+
 
 
 
@@ -137025,8 +137025,8 @@ Common
 Common
 
 
-
 Common
+
 Relative
 
 
@@ -137240,9 +137240,6 @@ Common
 Common
 
 Common
-
-
-Common
 Common
 Personal
 
@@ -137259,6 +137256,9 @@ Common
 Common
 
 
+Common
+
+
 Personal
 
 
@@ -137300,8 +137300,8 @@ Personal
 
 
 Common
-
 Common
+
 
 
 
@@ -137484,8 +137484,8 @@ Personal
 Relative
 
 
-Common
 
+Common
 
 
 
@@ -137528,9 +137528,9 @@ Demonstrative
 Personal
 
 
-
 Common
 Personal
+
 
 
 Common
@@ -137561,7 +137561,6 @@ Common
 Common
 Demonstrative
 
-
 Common
 
 
@@ -137577,23 +137576,16 @@ Common
 
 
 
-Common
-
-
-
-
-
-
-
-
-
-
-
 
 Common
-Personal
 
-Personal
+
+
+
+
+
+
+
 
 
 
@@ -137601,6 +137593,14 @@ Personal
 Common
 Personal
 
+Personal
+
+
+
+
+Common
+
+Personal
 Personal
 
 Proper

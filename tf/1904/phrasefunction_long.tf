@@ -12,117 +12,91 @@
 @description=Phrase function (long description)
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-04-05T09:35:42Z
+@dateWritten=2023-04-05T10:04:09Z
 
 154191	Predicate function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Object function
@@ -131,47 +105,36 @@ Adverbial function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Object function
@@ -179,7 +142,6 @@ Adverbial function
 Verbal function
 Subject function
 Verbal Copula function
-Predicate function
 Predicate function
 Subject function
 Predicate function
@@ -189,7 +151,6 @@ Predicate function
 Predicate function
 Subject function
 Predicate function
-Predicate function
 Subject function
 Predicate function
 Verbal Copula function
@@ -203,7 +164,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Predicate function
 Verbal Copula function
@@ -228,24 +188,23 @@ Adverbial function
 Verbal function
 Object function
 Second Object function
-Adverbial function
 Subject function
 Adverbial function
 Verbal function
 Predicate function
 Verbal Copula function
-Adverbial function
+Predicate function
 Verbal function
+Adverbial function
 Object function
 Adverbial function
 Verbal function
 Object function
 Second Object function
-Adverbial function
 Subject function
+Adverbial function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -268,8 +227,8 @@ Subject function
 Verbal Copula function
 Predicate function
 Subject function
-Subject function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Verbal function
@@ -287,7 +246,6 @@ Object function
 Verbal function
 Object function
 Second Object function
-Second Object function
 Subject function
 Verbal function
 Adverbial function
@@ -302,13 +260,12 @@ Verbal Copula function
 Subject function
 Verbal function
 Subject function
-Adverbial function
 Verbal function
+Adverbial function
 Object function
 Adverbial function
 Verbal function
 Object function
-Object function
 Verbal function
 Subject function
 Verbal function
@@ -321,20 +278,18 @@ Object function
 Verbal function
 Adverbial function
 Subject function
-Verbal function
 Verbal function
 Subject function
 Verbal function
 Indirect Object function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Subject function
+Subject function
 Adverbial function
 Predicate function
 Verbal Copula function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -363,7 +318,6 @@ Indirect Object function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Object function
@@ -380,7 +334,6 @@ Adverbial function
 Predicate function
 Verbal Copula function
 Subject function
-Subject function
 Verbal function
 Object function
 Verbal function
@@ -407,7 +360,6 @@ Verbal function
 Adverbial function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -426,15 +378,14 @@ Verbal function
 Adverbial function
 Verbal function
 Indirect Object function
-Adverbial function
 Verbal function
+Adverbial function
 Subject function
 Verbal function
 Object function
 Adverbial function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Object function
@@ -474,6 +425,7 @@ Subject function
 Verbal function
 Adverbial function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Subject function
@@ -497,15 +449,14 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
+Adverbial function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -530,7 +481,6 @@ Adverbial function
 Subject function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Adverbial function
 Verbal function
 Subject function
@@ -538,7 +488,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Subject function
 Subject function
 Verbal Copula function
@@ -553,7 +502,6 @@ Verbal function
 Object function
 Second Object function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -562,7 +510,9 @@ Adverbial function
 Object function
 Adverbial function
 Subject function
+Subject function
 Verbal Copula function
+Subject function
 Predicate function
 Adverbial function
 Verbal function
@@ -572,7 +522,6 @@ Subject function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Verbal function
 Object function
@@ -587,7 +536,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Object function
 Adverbial function
@@ -603,7 +551,6 @@ Subject function
 Adverbial function
 Verbal function
 Object function
-Indirect Object function
 Indirect Object function
 Adverbial function
 Subject function
@@ -616,7 +563,6 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Object function
 Verbal function
@@ -644,9 +590,9 @@ Object function
 Object function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Object function
+Object function
 Verbal function
 Adverbial function
 Adverbial function
@@ -655,7 +601,6 @@ Subject function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Object function
@@ -668,7 +613,6 @@ Verbal function
 Adverbial function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -676,7 +620,6 @@ Verbal function
 Indirect Object function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Verbal Copula function
 Adverbial function
@@ -685,7 +628,6 @@ Object function
 Adverbial function
 Verbal function
 Object function
-Object function
 Verbal function
 Subject function
 Adverbial function
@@ -723,13 +665,13 @@ Verbal function
 Subject function
 Verbal function
 Indirect Object function
+Predicate function
 Verbal Copula function
 Predicate function
 Verbal function
 Subject function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Subject function
 Verbal function
 Adverbial function
@@ -751,6 +693,7 @@ Adverbial function
 Adverbial function
 Verbal function
 Indirect Object function
+Predicate function
 Verbal Copula function
 Predicate function
 Verbal function
@@ -789,6 +732,7 @@ Verbal function
 Indirect Object function
 Object function
 Indirect Object function
+Object function
 Verbal function
 Verbal function
 Verbal function
@@ -814,7 +758,6 @@ Subject function
 Verbal function
 Verbal function
 Object function
-Object function
 Verbal function
 Adverbial function
 Subject function
@@ -839,6 +782,7 @@ Verbal function
 Adverbial function
 Object function
 Verbal function
+Object function
 Adverbial function
 Verbal function
 Adverbial function
@@ -851,9 +795,8 @@ Subject function
 Verbal function
 Object function
 Verbal function
-Object function
 Verbal function
-Subject function
+Object function
 Subject function
 Verbal function
 Adverbial function
@@ -877,7 +820,6 @@ Adverbial function
 Verbal function
 Object function
 Second Object function
-Second Object function
 Subject function
 Adverbial function
 Verbal function
@@ -894,7 +836,6 @@ Adverbial function
 Verbal function
 Object function
 Verbal function
-Object function
 Object function
 Subject function
 Adverbial function
@@ -935,7 +876,6 @@ Object function
 Verbal function
 Object function
 Subject function
-Subject function
 Verbal function
 Object function
 Verbal function
@@ -1076,7 +1016,6 @@ Adverbial function
 Adverbial function
 Subject function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Object function
@@ -1093,7 +1032,6 @@ Verbal function
 Subject function
 Predicate function
 Verbal Copula function
-Adverbial function
 Adverbial function
 Verbal function
 Indirect Object function
@@ -1110,11 +1048,11 @@ Indirect Object function
 Adverbial function
 Verbal function
 Subject function
+Subject function
 Verbal function
 Predicate function
 Verbal Copula function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Indirect Object function
@@ -1124,6 +1062,7 @@ Object function
 Predicate function
 Verbal Copula function
 Adverbial function
+Subject function
 Subject function
 Verbal function
 Indirect Object function
@@ -1132,6 +1071,7 @@ Predicate function
 Verbal Copula function
 Adverbial function
 Subject function
+Subject function
 Verbal function
 Subject function
 Predicate function
@@ -1183,7 +1123,6 @@ Object function
 Verbal function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -1239,7 +1178,6 @@ Object function
 Verbal function
 Indirect Object function
 Object function
-Object function
 Subject function
 Verbal function
 Indirect Object function
@@ -1258,12 +1196,10 @@ Verbal function
 Verbal function
 Indirect Object function
 Adverbial function
-Verbal function
 Verbal function
 Verbal function
 Indirect Object function
 Object function
-Object function
 Subject function
 Verbal function
 Indirect Object function
@@ -1271,14 +1207,17 @@ Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
+Predicate function
 Verbal Copula function
 Predicate function
 Adverbial function
 Adverbial function
+Predicate function
 Verbal Copula function
 Predicate function
 Adverbial function
 Adverbial function
+Predicate function
 Verbal Copula function
 Predicate function
 Adverbial function
@@ -1287,8 +1226,8 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Verbal function
 Second Object function
+Verbal function
 Second Object function
 Verbal Copula function
 Subject function
@@ -1304,7 +1243,6 @@ Object function
 Adverbial function
 Object function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Indirect Object function
@@ -1349,7 +1287,6 @@ Verbal function
 Object function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Indirect Object function
@@ -1387,7 +1324,6 @@ Verbal function
 Verbal function
 Subject function
 Object function
-Verbal function
 Verbal function
 Verbal Copula function
 Subject function
@@ -1395,7 +1331,6 @@ Predicate function
 Subject function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Verbal function
 Object function
 Adverbial function
@@ -1424,7 +1359,6 @@ Adverbial function
 Verbal function
 Indirect Object function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -1459,7 +1393,6 @@ Verbal function
 Indirect Object function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Verbal function
@@ -1472,7 +1405,6 @@ Subject function
 Verbal function
 Adverbial function
 Verbal function
-Indirect Object function
 Indirect Object function
 Verbal function
 Adverbial function
@@ -1481,7 +1413,6 @@ Subject function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -1493,7 +1424,6 @@ Adverbial function
 Subject function
 Verbal function
 Object function
-Object function
 Adverbial function
 Verbal function
 Subject function
@@ -1551,7 +1481,6 @@ Verbal function
 Verbal function
 Indirect Object function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -1672,7 +1601,6 @@ Subject function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Adverbial function
@@ -1705,7 +1633,6 @@ Verbal function
 Adverbial function
 Object function
 Object function
-Object function
 Adverbial function
 Verbal function
 Object function
@@ -1715,7 +1642,6 @@ Object function
 Verbal function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Object function
 Subject function
@@ -1723,7 +1649,6 @@ Verbal function
 Subject function
 Verbal function
 Object function
-Object function
 Verbal function
 Adverbial function
 Object function
@@ -1731,12 +1656,11 @@ Object function
 Subject function
 Verbal function
 Indirect Object function
-Indirect Object function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
+Subject function
 Verbal function
 Object function
 Predicate function
@@ -1751,7 +1675,6 @@ Verbal function
 Verbal function
 Adverbial function
 Verbal function
-Indirect Object function
 Indirect Object function
 Adverbial function
 Verbal function
@@ -1804,7 +1727,7 @@ Verbal function
 Verbal function
 Verbal function
 Indirect Object function
-Indirect Object function
+Subject function
 Subject function
 Verbal function
 Subject function
@@ -1812,6 +1735,7 @@ Verbal function
 Indirect Object function
 Verbal function
 Verbal function
+Subject function
 Verbal Copula function
 Predicate function
 Subject function
@@ -1904,7 +1828,6 @@ Adverbial function
 Subject function
 Object function
 Verbal function
-Verbal function
 Subject function
 Object function
 Verbal function
@@ -1964,7 +1887,6 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -1990,7 +1912,6 @@ Object function
 Object function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
 Adverbial function
 Subject function
@@ -2036,7 +1957,6 @@ Object function
 Verbal function
 Adverbial function
 Subject function
-Subject function
 Verbal function
 Subject function
 Adverbial function
@@ -2081,7 +2001,6 @@ Verbal function
 Object function
 Verbal function
 Subject function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -2104,7 +2023,6 @@ Indirect Object function
 Subject function
 Verbal function
 Object function
-Object function
 Verbal function
 Subject function
 Verbal function
@@ -2120,6 +2038,7 @@ Adverbial function
 Verbal function
 Subject function
 Subject function
+Predicate function
 Verbal Copula function
 Predicate function
 Verbal function
@@ -2180,8 +2099,8 @@ Verbal function
 Subject function
 Adverbial function
 Adverbial function
-Subject function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Subject function
@@ -2194,7 +2113,6 @@ Subject function
 Verbal function
 Verbal function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -2220,7 +2138,6 @@ Object function
 Verbal function
 Verbal function
 Subject function
-Verbal function
 Object function
 Adverbial function
 Verbal function
@@ -2240,15 +2157,14 @@ Subject function
 Object function
 Verbal function
 Subject function
-Object function
 Object function
 Subject function
+Subject function
 Adverbial function
 Verbal function
 Adverbial function
 Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Indirect Object function
@@ -2258,7 +2174,6 @@ Adverbial function
 Verbal function
 Object function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -2339,13 +2254,11 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Object function
 Verbal Copula function
 Predicate function
 Adverbial function
 Subject function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Object function
@@ -2359,7 +2272,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Indirect Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -2370,7 +2282,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Verbal function
@@ -2404,7 +2315,6 @@ Adverbial function
 Verbal function
 Verbal function
 Subject function
-Verbal function
 Object function
 Verbal function
 Indirect Object function
@@ -2421,14 +2331,12 @@ Subject function
 Verbal function
 Verbal function
 Subject function
-Verbal function
 Object function
 Verbal function
 Adverbial function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Subject function
 Verbal Copula function
 Predicate function
@@ -2454,7 +2362,6 @@ Verbal function
 Adverbial function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -2466,8 +2373,8 @@ Object function
 Indirect Object function
 Indirect Object function
 Verbal function
-Adverbial function
 Subject function
+Adverbial function
 Verbal function
 Object function
 Verbal function
@@ -2506,6 +2413,7 @@ Object function
 Verbal function
 Subject function
 Verbal function
+Object function
 Subject function
 Adverbial function
 Verbal function
@@ -2528,6 +2436,7 @@ Verbal function
 Adverbial function
 Subject function
 Verbal function
+Subject function
 Adverbial function
 Subject function
 Adverbial function
@@ -2541,7 +2450,6 @@ Verbal function
 Adverbial function
 Predicate function
 Verbal Copula function
-Subject function
 Subject function
 Verbal function
 Subject function
@@ -2551,7 +2459,6 @@ Subject function
 Subject function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Object function
@@ -2617,7 +2524,6 @@ Adverbial function
 Verbal function
 Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
@@ -2633,8 +2539,8 @@ Verbal function
 Subject function
 Adverbial function
 Adverbial function
-Subject function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Subject function
@@ -2669,7 +2575,6 @@ Adverbial function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -2702,13 +2607,11 @@ Indirect Object function
 Subject function
 Verbal function
 Subject function
-Verbal function
 Verbal function
 Subject function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Verbal function
@@ -2725,7 +2628,6 @@ Subject function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -2743,7 +2645,6 @@ Object function
 Adverbial function
 Verbal function
 Object function
-Object function
 Verbal function
 Object function
 Verbal function
@@ -2758,9 +2659,10 @@ Adverbial function
 Verbal function
 Indirect Object function
 Subject function
-Predicate function
+Subject function
 Predicate function
 Subject function
+Subject function
 Predicate function
 Verbal function
 Object function
@@ -2778,7 +2680,6 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal Copula function
@@ -2808,7 +2709,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -2889,7 +2789,6 @@ Predicate function
 Subject function
 Predicate function
 Subject function
-Subject function
 Verbal function
 Adverbial function
 Verbal function
@@ -2922,7 +2821,6 @@ Verbal function
 Subject function
 Predicate function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -2976,7 +2874,6 @@ Second Object function
 Verbal function
 Adverbial function
 Object function
-Object function
 Adverbial function
 Verbal function
 Object function
@@ -3005,9 +2902,10 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
+Object function
 Adverbial function
-Verbal function
 Object function
+Adverbial function
 Verbal function
 Adverbial function
 Object function
@@ -3023,11 +2921,9 @@ Verbal function
 Subject function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -3053,7 +2949,6 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
-Object function
 Object function
 Verbal function
 Object function
@@ -3148,7 +3043,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Adverbial function
@@ -3191,7 +3085,6 @@ Subject function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Subject function
@@ -3199,16 +3092,15 @@ Verbal function
 Indirect Object function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Adverbial function
+Verbal function
 Object function
 Adverbial function
 Verbal function
 Verbal function
 Object function
 Verbal function
-Verbal function
 Object function
 Adverbial function
 Verbal function
@@ -3249,7 +3141,6 @@ Subject function
 Subject function
 Predicate function
 Adverbial function
-Verbal Copula function
 Verbal Copula function
 Adverbial function
 Subject function
@@ -3258,7 +3149,6 @@ Verbal function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Adverbial function
 Verbal function
@@ -3271,7 +3161,6 @@ Subject function
 Verbal function
 Object function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Object function
@@ -3335,11 +3224,12 @@ Indirect Object function
 Adverbial function
 Predicate function
 Verbal Copula function
-Adverbial function
 Adverbial function
 Adverbial function
 Adverbial function
 Subject function
+Subject function
+Subject function
 Adverbial function
 Verbal function
 Adverbial function
@@ -3349,7 +3239,6 @@ Verbal function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
@@ -3398,10 +3287,11 @@ Verbal function
 Adverbial function
 Subject function
 Indirect Object function
-Verbal function
+Subject function
 Verbal function
 Subject function
 Verbal function
+Verbal function
 Adverbial function
 Verbal function
 Verbal function
@@ -3414,6 +3304,7 @@ Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
+Predicate function
 Verbal Copula function
 Predicate function
 Adverbial function
@@ -3435,7 +3326,6 @@ Verbal function
 Verbal function
 Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Indirect Object function
@@ -3443,10 +3333,8 @@ Verbal function
 Subject function
 Verbal function
 Object function
-Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -3463,10 +3351,10 @@ Adverbial function
 Object function
 Verbal function
 Object function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
+Verbal function
 Adverbial function
 Adverbial function
 Adverbial function
@@ -3479,7 +3367,6 @@ Adverbial function
 Object function
 Verbal function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Verbal function
 Indirect Object function
@@ -3495,11 +3382,10 @@ Verbal function
 Subject function
 Adverbial function
 Object function
-Object function
 Adverbial function
 Verbal function
-Object function
 Object function
+Predicate function
 Verbal Copula function
 Predicate function
 Subject function
@@ -3523,7 +3409,6 @@ Adverbial function
 Verbal function
 Verbal function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -3544,7 +3429,6 @@ Verbal function
 Object function
 Predicate function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Subject function
@@ -3564,14 +3448,12 @@ Verbal function
 Verbal function
 Adverbial function
 Subject function
-Subject function
 Verbal function
 Subject function
 Object function
 Verbal function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -3645,7 +3527,6 @@ Verbal function
 Subject function
 Verbal Copula function
 Predicate function
-Predicate function
 Subject function
 Verbal function
 Subject function
@@ -3653,7 +3534,6 @@ Adverbial function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Verbal function
 Object function
 Verbal function
@@ -3688,6 +3568,8 @@ Adverbial function
 Subject function
 Predicate function
 Verbal Copula function
+Predicate function
+Predicate function
 Adverbial function
 Subject function
 Verbal function
@@ -3729,7 +3611,7 @@ Indirect Object function
 Subject function
 Verbal function
 Indirect Object function
-Indirect Object function
+Subject function
 Subject function
 Adverbial function
 Verbal function
@@ -3769,7 +3651,6 @@ Object function
 Verbal function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Adverbial function
 Subject function
 Verbal function
@@ -3782,7 +3663,6 @@ Subject function
 Adverbial function
 Verbal function
 Object function
-Object function
 Verbal function
 Indirect Object function
 Object function
@@ -3805,7 +3685,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -3910,7 +3789,6 @@ Adverbial function
 Verbal function
 Indirect Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Indirect Object function
@@ -3936,8 +3814,8 @@ Subject function
 Predicate function
 Verbal Copula function
 Adverbial function
-Subject function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Adverbial function
@@ -3965,7 +3843,6 @@ Verbal function
 Adverbial function
 Verbal function
 Subject function
-Subject function
 Verbal function
 Adverbial function
 Adverbial function
@@ -3973,7 +3850,6 @@ Verbal function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Adverbial function
@@ -3984,7 +3860,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -3992,7 +3867,6 @@ Adverbial function
 Verbal function
 Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
@@ -4001,12 +3875,10 @@ Verbal function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Object function
@@ -4025,17 +3897,14 @@ Indirect Object function
 Adverbial function
 Verbal function
 Indirect Object function
-Indirect Object function
 Subject function
 Verbal function
 Indirect Object function
 Verbal function
-Object function
 Object function
 Indirect Object function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Verbal function
@@ -4090,8 +3959,8 @@ Verbal function
 Verbal function
 Verbal function
 Verbal function
-Object function
 Object function
+Subject function
 Predicate function
 Subject function
 Verbal function
@@ -4113,7 +3982,6 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Object function
@@ -4151,7 +4019,6 @@ Verbal function
 Object function
 Adverbial function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Verbal function
 Subject function
@@ -4182,18 +4049,19 @@ Object function
 Verbal function
 Predicate function
 Verbal function
-Predicate function
 Subject function
+Predicate function
 Verbal function
 Predicate function
 Verbal function
 Subject function
-Object function
 Predicate function
-Subject function
 Object function
+Subject function
 Predicate function
+Object function
 Subject function
+Predicate function
 Object function
 Object function
 Verbal function
@@ -4220,7 +4088,6 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
-Subject function
 Subject function
 Verbal function
 Subject function
@@ -4233,20 +4100,17 @@ Adverbial function
 Adverbial function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Indirect Object function
 Subject function
 Object function
-Verbal function
 Verbal function
 Subject function
 Indirect Object function
 Verbal function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Adverbial function
@@ -4348,7 +4212,6 @@ Subject function
 Verbal function
 Indirect Object function
 Object function
-Object function
 Subject function
 Verbal function
 Subject function
@@ -4364,9 +4227,9 @@ Verbal Copula function
 Predicate function
 Subject function
 Verbal Copula function
-Predicate function
 Predicate function
 Subject function
+Subject function
 Verbal function
 Object function
 Verbal Copula function
@@ -4374,7 +4237,7 @@ Predicate function
 Subject function
 Predicate function
 Verbal Copula function
-Verbal Copula function
+Subject function
 Subject function
 Predicate function
 Verbal Copula function
@@ -4405,7 +4268,7 @@ Subject function
 Adverbial function
 Subject function
 Verbal function
-Adverbial function
+Subject function
 Adverbial function
 Subject function
 Verbal function
@@ -4459,6 +4322,7 @@ Adverbial function
 Verbal function
 Object function
 Adverbial function
+Object function
 Adverbial function
 Object function
 Adverbial function
@@ -4482,7 +4346,6 @@ Verbal function
 Object function
 Verbal function
 Indirect Object function
-Indirect Object function
 Subject function
 Verbal function
 Indirect Object function
@@ -4530,7 +4393,6 @@ Predicate function
 Predicate function
 Subject function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Adverbial function
 Indirect Object function
@@ -4538,7 +4400,6 @@ Subject function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Indirect Object function
@@ -4569,7 +4430,6 @@ Adverbial function
 Adverbial function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -4595,6 +4455,7 @@ Object function
 Adverbial function
 Object function
 Verbal function
+Subject function
 Verbal function
 Subject function
 Verbal function
@@ -4609,13 +4470,12 @@ Indirect Object function
 Verbal function
 Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Indirect Object function
+Verbal function
 Adverbial function
 Object function
 Object function
@@ -4646,7 +4506,6 @@ Object function
 Object function
 Verbal function
 Indirect Object function
-Indirect Object function
 Verbal function
 Subject function
 Verbal function
@@ -4663,7 +4522,6 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -4678,7 +4536,6 @@ Subject function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Object function
 Adverbial function
 Verbal function
@@ -4686,7 +4543,6 @@ Adverbial function
 Verbal function
 Indirect Object function
 Object function
-Object function
 Subject function
 Verbal function
 Indirect Object function
@@ -4695,7 +4551,6 @@ Object function
 Verbal function
 Indirect Object function
 Subject function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -4705,7 +4560,6 @@ Verbal function
 Adverbial function
 Adverbial function
 Object function
-Object function
 Subject function
 Verbal function
 Indirect Object function
@@ -4724,9 +4578,9 @@ Verbal function
 Verbal function
 Verbal function
 Indirect Object function
-Object function
 Object function
 Subject function
+Subject function
 Indirect Object function
 Indirect Object function
 Verbal function
@@ -4736,7 +4590,6 @@ Verbal function
 Verbal function
 Object function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -4761,29 +4614,24 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Predicate function
 Verbal Copula function
 Adverbial function
-Adverbial function
 Subject function
 Adverbial function
 Verbal function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal Copula function
 Predicate function
 Subject function
-Subject function
 Adverbial function
 Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Subject function
@@ -4794,7 +4642,6 @@ Predicate function
 Verbal Copula function
 Verbal Copula function
 Adverbial function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -4816,7 +4663,6 @@ Verbal function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Verbal function
@@ -4826,7 +4672,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Object function
 Verbal function
@@ -4834,7 +4679,6 @@ Verbal function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Adverbial function
 Subject function
@@ -4890,12 +4734,10 @@ Adverbial function
 Subject function
 Verbal function
 Object function
-Object function
 Adverbial function
 Verbal function
 Object function
 Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -4905,7 +4747,6 @@ Subject function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Object function
@@ -4921,8 +4762,8 @@ Subject function
 Verbal function
 Indirect Object function
 Predicate function
-Subject function
 Object function
+Subject function
 Adverbial function
 Verbal function
 Adverbial function
@@ -4941,6 +4782,7 @@ Subject function
 Adverbial function
 Object function
 Verbal function
+Subject function
 Adverbial function
 Subject function
 Adverbial function
@@ -4978,7 +4820,6 @@ Verbal function
 Subject function
 Verbal function
 Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -4990,6 +4831,7 @@ Subject function
 Verbal function
 Verbal function
 Object function
+Predicate function
 Verbal Copula function
 Predicate function
 Subject function
@@ -5005,7 +4847,6 @@ Indirect Object function
 Verbal function
 Indirect Object function
 Object function
-Object function
 Subject function
 Verbal function
 Adverbial function
@@ -5019,7 +4860,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -5028,7 +4868,6 @@ Verbal function
 Subject function
 Verbal function
 Object function
-Object function
 Adverbial function
 Verbal function
 Subject function
@@ -5065,7 +4904,6 @@ Adverbial function
 Subject function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Adverbial function
 Verbal function
@@ -5080,7 +4918,6 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -5089,14 +4926,12 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Object function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -5108,10 +4943,10 @@ Object function
 Subject function
 Verbal function
 Indirect Object function
-Indirect Object function
 Subject function
 Verbal function
 Verbal function
+Subject function
 Subject function
 Verbal function
 Adverbial function
@@ -5172,7 +5007,6 @@ Object function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Object function
@@ -5210,7 +5044,6 @@ Indirect Object function
 Subject function
 Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Object function
@@ -5224,9 +5057,9 @@ Verbal function
 Object function
 Verbal function
 Verbal function
-Indirect Object function
 Indirect Object function
 Subject function
+Subject function
 Indirect Object function
 Indirect Object function
 Verbal function
@@ -5237,6 +5070,7 @@ Object function
 Verbal function
 Object function
 Verbal function
+Object function
 Subject function
 Verbal function
 Verbal Copula function
@@ -5257,7 +5091,6 @@ Verbal function
 Subject function
 Object function
 Verbal function
-Indirect Object function
 Indirect Object function
 Subject function
 Verbal function
@@ -5265,17 +5098,14 @@ Indirect Object function
 Subject function
 Verbal function
 Predicate function
-Predicate function
 Verbal function
 Subject function
 Adverbial function
 Predicate function
-Predicate function
 Verbal function
-Subject function
+Verbal function
 Subject function
 Object function
-Verbal function
 Verbal function
 Object function
 Adverbial function
@@ -5296,18 +5126,15 @@ Object function
 Verbal function
 Verbal function
 Subject function
-Verbal function
 Adverbial function
 Verbal function
 Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
 Indirect Object function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Adverbial function
@@ -5343,34 +5170,31 @@ Verbal function
 Adverbial function
 Verbal function
 Indirect Object function
-Indirect Object function
 Verbal function
 Adverbial function
 Adverbial function
 Verbal function
 Verbal function
-Adverbial function
 Adverbial function
 Adverbial function
 Adverbial function
-Subject function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Object function
 Verbal function
-Subject function
 Predicate function
+Verbal function
+Subject function
 Verbal Copula function
 Subject function
 Subject function
 Verbal function
 Subject function
-Object function
 Object function
 Subject function
 Object function
-Object function
 Subject function
 Object function
 Verbal function
@@ -5378,6 +5202,7 @@ Indirect Object function
 Subject function
 Predicate function
 Subject function
+Verbal function
 Verbal Copula function
 Verbal function
 Subject function
@@ -5419,14 +5244,13 @@ Indirect Object function
 Object function
 Object function
 Subject function
-Object function
 Verbal function
 Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
-Subject function
 Object function
+Subject function
 Verbal function
 Adverbial function
 Verbal function
@@ -5478,6 +5302,8 @@ Adverbial function
 Adverbial function
 Predicate function
 Verbal Copula function
+Predicate function
+Predicate function
 Verbal function
 Object function
 Object function
@@ -5496,7 +5322,6 @@ Object function
 Object function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Object function
@@ -5504,6 +5329,7 @@ Verbal function
 Verbal function
 Object function
 Subject function
+Subject function
 Verbal function
 Object function
 Adverbial function
@@ -5513,16 +5339,15 @@ Object function
 Verbal function
 Subject function
 Object function
-Verbal function
 Verbal function
 Object function
+Object function
 Verbal function
 Verbal function
 Object function
 Verbal function
 Subject function
 Second Object function
-Second Object function
 Verbal function
 Subject function
 Verbal function
@@ -5562,9 +5387,9 @@ Adverbial function
 Adverbial function
 Verbal function
 Subject function
-Adverbial function
 Adverbial function
 Subject function
+Subject function
 Verbal Copula function
 Predicate function
 Adverbial function
@@ -5573,7 +5398,6 @@ Verbal function
 Indirect Object function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -5655,10 +5479,8 @@ Adverbial function
 Subject function
 Verbal function
 Adverbial function
-Verbal function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -5745,15 +5567,14 @@ Verbal function
 Subject function
 Adverbial function
 Adverbial function
-Subject function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Adverbial function
 Subject function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -5774,7 +5595,6 @@ Verbal function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Adverbial function
@@ -5793,7 +5613,6 @@ Adverbial function
 Verbal function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Adverbial function
@@ -5822,7 +5641,6 @@ Subject function
 Adverbial function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -5857,8 +5675,8 @@ Verbal function
 Subject function
 Adverbial function
 Verbal function
-Adverbial function
 Subject function
+Adverbial function
 Predicate function
 Verbal Copula function
 Adverbial function
@@ -5878,7 +5696,6 @@ Verbal Copula function
 Predicate function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -6029,33 +5846,35 @@ Predicate function
 Predicate function
 Verbal function
 Indirect Object function
-Subject function
 Object function
+Subject function
 Verbal function
 Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
-Subject function
 Object function
+Subject function
 Verbal function
 Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
-Adverbial function
 Verbal function
 Indirect Object function
 Subject function
 Verbal function
+Subject function
 Adverbial function
 Object function
+Adverbial function
 Verbal function
 Verbal function
 Adverbial function
 Adverbial function
 Verbal function
 Subject function
+Verbal function
 Adverbial function
 Adverbial function
 Verbal Copula function
@@ -6088,12 +5907,11 @@ Subject function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Verbal function
-Indirect Object function
 Subject function
+Indirect Object function
 Subject function
 Adverbial function
 Verbal function
@@ -6116,7 +5934,6 @@ Adverbial function
 Object function
 Verbal function
 Indirect Object function
-Indirect Object function
 Verbal function
 Subject function
 Verbal function
@@ -6124,7 +5941,6 @@ Object function
 Object function
 Object function
 Verbal function
-Indirect Object function
 Indirect Object function
 Verbal function
 Subject function
@@ -6150,7 +5966,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Indirect Object function
-Indirect Object function
 Subject function
 Adverbial function
 Verbal function
@@ -6163,7 +5978,6 @@ Object function
 Verbal function
 Verbal function
 Subject function
-Verbal function
 Object function
 Verbal function
 Adverbial function
@@ -6241,7 +6055,6 @@ Adverbial function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Verbal function
@@ -6264,7 +6077,6 @@ Subject function
 Predicate function
 Predicate function
 Verbal Copula function
-Predicate function
 Predicate function
 Predicate function
 Object function
@@ -6289,8 +6101,8 @@ Indirect Object function
 Verbal function
 Object function
 Adverbial function
-Verbal function
 Adverbial function
+Verbal function
 Adverbial function
 Verbal function
 Indirect Object function
@@ -6309,7 +6121,6 @@ Predicate function
 Verbal Copula function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -6349,7 +6160,6 @@ Verbal function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Object function
@@ -6359,6 +6169,7 @@ Subject function
 Verbal function
 Adverbial function
 Predicate function
+Predicate function
 Verbal Copula function
 Subject function
 Subject function
@@ -6376,7 +6187,6 @@ Verbal function
 Object function
 Verbal function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -6396,7 +6206,6 @@ Object function
 Verbal function
 Indirect Object function
 Object function
-Object function
 Subject function
 Verbal function
 Object function
@@ -6439,13 +6248,11 @@ Adverbial function
 Adverbial function
 Verbal function
 Object function
-Object function
-Subject function
 Verbal function
+Subject function
 Object function
 Verbal function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -6466,14 +6273,13 @@ Adverbial function
 Verbal function
 Subject function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Subject function
+Adverbial function
 Verbal function
 Verbal function
 Subject function
@@ -6483,7 +6289,7 @@ Adverbial function
 Subject function
 Predicate function
 Verbal Copula function
-Verbal Copula function
+Adverbial function
 Adverbial function
 Subject function
 Predicate function
@@ -6501,7 +6307,6 @@ Object function
 Subject function
 Verbal Copula function
 Predicate function
-Predicate function
 Subject function
 Verbal function
 Indirect Object function
@@ -6528,9 +6333,9 @@ Object function
 Verbal function
 Object function
 Verbal function
-Verbal function
 Subject function
 Verbal Copula function
+Subject function
 Predicate function
 Subject function
 Predicate function
@@ -6544,7 +6349,6 @@ Adverbial function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -6563,15 +6367,13 @@ Verbal function
 Subject function
 Adverbial function
 Adverbial function
-Object function
 Subject function
+Object function
 Verbal Copula function
 Predicate function
 Verbal function
 Indirect Object function
-Indirect Object function
 Subject function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -6598,7 +6400,6 @@ Indirect Object function
 Verbal function
 Subject function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Subject function
@@ -6608,7 +6409,6 @@ Object function
 Verbal function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -6623,7 +6423,6 @@ Object function
 Verbal function
 Object function
 Subject function
-Subject function
 Verbal function
 Adverbial function
 Verbal function
@@ -6633,10 +6432,10 @@ Verbal function
 Adverbial function
 Second Object function
 Object function
+Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -6672,9 +6471,8 @@ Subject function
 Predicate function
 Subject function
 Predicate function
-Predicate function
-Subject function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Object function
@@ -6716,7 +6514,6 @@ Adverbial function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Indirect Object function
@@ -6730,7 +6527,6 @@ Subject function
 Adverbial function
 Subject function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Verbal function
@@ -6740,15 +6536,15 @@ Object function
 Verbal function
 Verbal function
 Object function
-Verbal function
 Subject function
 Verbal function
+Verbal function
 Indirect Object function
 Verbal function
 Verbal function
 Indirect Object function
 Object function
-Verbal function
+Object function
 Verbal function
 Subject function
 Verbal function
@@ -6765,7 +6561,6 @@ Adverbial function
 Verbal function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -6822,9 +6617,9 @@ Adverbial function
 Subject function
 Verbal function
 Verbal function
-Object function
 Adverbial function
-Adverbial function
+Verbal function
+Object function
 Adverbial function
 Subject function
 Verbal function
@@ -6833,8 +6628,9 @@ Verbal function
 Subject function
 Adverbial function
 Verbal function
-Object function
 Adverbial function
+Verbal function
+Object function
 Adverbial function
 Adverbial function
 Verbal function
@@ -6850,7 +6646,6 @@ Indirect Object function
 Indirect Object function
 Verbal function
 Subject function
-Subject function
 Verbal function
 Subject function
 Verbal function
@@ -6893,7 +6688,6 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -6909,9 +6703,8 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
-Subject function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Adverbial function
@@ -6926,19 +6719,16 @@ Adverbial function
 Object function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Object function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -6976,6 +6766,7 @@ Verbal function
 Object function
 Verbal function
 Adverbial function
+Object function
 Verbal function
 Object function
 Verbal function
@@ -6986,7 +6777,6 @@ Indirect Object function
 Verbal function
 Subject function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Subject function
 Object function
@@ -7000,9 +6790,8 @@ Adverbial function
 Adverbial function
 Verbal function
 Object function
-Object function
-Subject function
 Verbal function
+Subject function
 Object function
 Verbal function
 Object function
@@ -7019,7 +6808,6 @@ Indirect Object function
 Verbal function
 Object function
 Subject function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -7070,7 +6858,6 @@ Verbal function
 Adverbial function
 Verbal function
 Subject function
-Subject function
 Verbal function
 Subject function
 Verbal function
@@ -7111,7 +6898,6 @@ Adverbial function
 Subject function
 Indirect Object function
 Verbal function
-Object function
 Object function
 Verbal function
 Subject function
@@ -7121,7 +6907,6 @@ Verbal function
 Object function
 Subject function
 Second Object function
-Second Object function
 Object function
 Verbal function
 Indirect Object function
@@ -7134,7 +6919,6 @@ Verbal function
 Subject function
 Predicate function
 Verbal Copula function
-Predicate function
 Predicate function
 Predicate function
 Subject function
@@ -7154,7 +6938,6 @@ Verbal function
 Predicate function
 Verbal function
 Object function
-Adverbial function
 Subject function
 Adverbial function
 Verbal function
@@ -7174,7 +6957,6 @@ Verbal function
 Indirect Object function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Subject function
 Adverbial function
@@ -7189,7 +6971,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Subject function
@@ -7199,7 +6980,6 @@ Verbal function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -7220,7 +7000,6 @@ Indirect Object function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Adverbial function
@@ -7228,6 +7007,7 @@ Adverbial function
 Adverbial function
 Verbal function
 Object function
+Subject function
 Subject function
 Verbal function
 Object function
@@ -7273,12 +7053,9 @@ Object function
 Verbal function
 Subject function
 Object function
-Object function
-Verbal function
 Verbal function
 Object function
 Verbal function
-Verbal function
 Object function
 Verbal function
 Adverbial function
@@ -7293,7 +7070,6 @@ Verbal function
 Adverbial function
 Object function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -7371,8 +7147,8 @@ Verbal function
 Verbal function
 Object function
 Object function
-Subject function
 Verbal function
+Subject function
 Object function
 Verbal function
 Adverbial function
@@ -7422,19 +7198,15 @@ Subject function
 Predicate function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
-Verbal function
 Verbal function
 Subject function
 Adverbial function
-Adverbial function
 Subject function
 Adverbial function
 Subject function
 Verbal function
 Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -7449,8 +7221,8 @@ Adverbial function
 Verbal function
 Indirect Object function
 Subject function
+Subject function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Subject function
 Verbal function
@@ -7464,8 +7236,8 @@ Object function
 Verbal function
 Adverbial function
 Adverbial function
-Subject function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Object function
@@ -7491,7 +7263,6 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Adverbial function
@@ -7505,12 +7276,10 @@ Object function
 Adverbial function
 Predicate function
 Verbal Copula function
-Subject function
 Subject function
 Predicate function
 Verbal Copula function
 Subject function
-Subject function
 Predicate function
 Subject function
 Adverbial function
@@ -7543,6 +7312,7 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
+Adverbial function
 Indirect Object function
 Subject function
 Adverbial function
@@ -7551,9 +7321,8 @@ Verbal function
 Object function
 Indirect Object function
 Adverbial function
-Adverbial function
-Subject function
 Verbal function
+Subject function
 Object function
 Verbal function
 Adverbial function
@@ -7562,7 +7331,6 @@ Verbal function
 Verbal function
 Verbal function
 Indirect Object function
-Object function
 Object function
 Subject function
 Verbal function
@@ -7617,7 +7385,6 @@ Adverbial function
 Verbal function
 Object function
 Indirect Object function
-Indirect Object function
 Verbal Copula function
 Predicate function
 Subject function
@@ -7633,14 +7400,13 @@ Adverbial function
 Subject function
 Adverbial function
 Verbal function
-Subject function
 Subject function
 Adverbial function
 Predicate function
 Verbal Copula function
+Predicate function
 Subject function
 Verbal function
-Object function
 Object function
 Verbal function
 Subject function
@@ -7652,12 +7418,10 @@ Verbal function
 Object function
 Adverbial function
 Object function
-Object function
 Adverbial function
 Verbal function
 Verbal function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Adverbial function
 Verbal function
@@ -7677,7 +7441,6 @@ Verbal function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Adverbial function
@@ -7710,7 +7473,6 @@ Object function
 Adverbial function
 Subject function
 Verbal function
-Subject function
 Subject function
 Verbal function
 Subject function
@@ -7771,20 +7533,18 @@ Verbal function
 Adverbial function
 Verbal function
 Subject function
-Subject function
 Object function
 Verbal function
 Indirect Object function
-Verbal function
 Verbal function
 Adverbial function
+Adverbial function
 Verbal function
 Adverbial function
 Verbal function
 Verbal function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Adverbial function
@@ -7799,18 +7559,15 @@ Verbal function
 Object function
 Verbal function
 Object function
-Object function
 Verbal function
 Object function
 Verbal Copula function
 Adverbial function
-Predicate function
 Predicate function
 Subject function
 Adverbial function
 Verbal Copula function
 Predicate function
-Predicate function
 Verbal Copula function
 Subject function
 Subject function
@@ -7821,6 +7578,7 @@ Verbal Copula function
 Second Object function
 Adverbial function
 Verbal function
+Second Object function
 Adverbial function
 Predicate function
 Verbal Copula function
@@ -7832,10 +7590,8 @@ Predicate function
 Subject function
 Verbal Copula function
 Predicate function
-Predicate function
 Subject function
 Verbal Copula function
-Predicate function
 Predicate function
 Subject function
 Verbal function
@@ -7846,7 +7602,6 @@ Subject function
 Verbal function
 Object function
 Verbal function
-Verbal function
 Subject function
 Indirect Object function
 Indirect Object function
@@ -7859,7 +7614,6 @@ Adverbial function
 Verbal function
 Verbal function
 Subject function
-Verbal function
 Verbal function
 Subject function
 Indirect Object function
@@ -7885,9 +7639,9 @@ Adverbial function
 Predicate function
 Verbal Copula function
 Subject function
+Subject function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Verbal function
 Subject function
@@ -7904,9 +7658,9 @@ Adverbial function
 Predicate function
 Verbal Copula function
 Subject function
+Subject function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Verbal function
 Subject function
@@ -7915,7 +7669,6 @@ Subject function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Adverbial function
@@ -7943,9 +7696,7 @@ Verbal function
 Object function
 Object function
 Verbal function
-Object function
 Object function
-Verbal function
 Object function
 Verbal function
 Object function
@@ -7963,7 +7714,6 @@ Indirect Object function
 Indirect Object function
 Indirect Object function
 Verbal function
-Object function
 Object function
 Adverbial function
 Verbal function
@@ -7982,7 +7732,6 @@ Indirect Object function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Subject function
 Adverbial function
 Verbal Copula function
@@ -7992,13 +7741,13 @@ Verbal function
 Object function
 Adverbial function
 Subject function
-Predicate function
 Adverbial function
+Predicate function
 Verbal Copula function
 Adverbial function
-Predicate function
 Predicate function
 Adverbial function
+Predicate function
 Verbal Copula function
 Predicate function
 Adverbial function
@@ -8013,7 +7762,6 @@ Object function
 Object function
 Verbal function
 Verbal Copula function
-Predicate function
 Predicate function
 Adverbial function
 Verbal Copula function
@@ -8022,6 +7770,7 @@ Adverbial function
 Adverbial function
 Verbal function
 Indirect Object function
+Predicate function
 Verbal Copula function
 Predicate function
 Verbal function
@@ -8035,8 +7784,8 @@ Object function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Adverbial function
+Verbal function
 Subject function
 Verbal function
 Adverbial function
@@ -8084,7 +7833,6 @@ Adverbial function
 Verbal function
 Verbal function
 Indirect Object function
-Subject function
 Subject function
 Verbal function
 Indirect Object function
@@ -8097,8 +7845,8 @@ Subject function
 Verbal function
 Adverbial function
 Adverbial function
-Subject function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Verbal function
@@ -8107,7 +7855,6 @@ Subject function
 Verbal function
 Indirect Object function
 Object function
-Object function
 Subject function
 Verbal function
 Indirect Object function
@@ -8118,6 +7865,8 @@ Verbal function
 Indirect Object function
 Adverbial function
 Verbal function
+Adverbial function
+Subject function
 Adverbial function
 Subject function
 Adverbial function
@@ -8145,7 +7894,6 @@ Indirect Object function
 Verbal function
 Subject function
 Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -8166,7 +7914,6 @@ Verbal function
 Adverbial function
 Verbal function
 Subject function
-Subject function
 Verbal function
 Subject function
 Adverbial function
@@ -8239,7 +7986,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Indirect Object function
@@ -8248,7 +7994,6 @@ Verbal function
 Indirect Object function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -8267,7 +8012,6 @@ Verbal function
 Verbal function
 Adverbial function
 Verbal function
-Subject function
 Subject function
 Adverbial function
 Verbal function
@@ -8275,7 +8019,6 @@ Subject function
 Adverbial function
 Verbal function
 Subject function
-Subject function
 Adverbial function
 Subject function
 Indirect Object function
@@ -8321,7 +8064,6 @@ Verbal Copula function
 Subject function
 Adverbial function
 Verbal function
-Subject function
 Subject function
 Adverbial function
 Subject function
@@ -8389,10 +8131,8 @@ Subject function
 Verbal function
 Subject function
 Verbal function
-Verbal function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Adverbial function
 Subject function
@@ -8409,6 +8149,7 @@ Predicate function
 Verbal Copula function
 Subject function
 Subject function
+Verbal function
 Adverbial function
 Verbal function
 Verbal function
@@ -8447,7 +8188,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Subject function
-Verbal function
 Verbal function
 Object function
 Verbal function
@@ -8457,7 +8197,6 @@ Adverbial function
 Subject function
 Verbal function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Subject function
@@ -8470,7 +8209,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Subject function
-Verbal function
 Verbal function
 Predicate function
 Verbal Copula function
@@ -8485,9 +8223,10 @@ Object function
 Adverbial function
 Predicate function
 Subject function
-Adverbial function
 Verbal function
 Subject function
+Verbal function
+Adverbial function
 Verbal function
 Verbal function
 Indirect Object function
@@ -8504,9 +8243,9 @@ Verbal function
 Subject function
 Subject function
 Verbal function
-Object function
 Object function
 Verbal function
+Verbal function
 Adverbial function
 Verbal function
 Verbal function
@@ -8532,14 +8271,12 @@ Subject function
 Verbal function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal Copula function
 Predicate function
 Subject function
 Predicate function
-Predicate function
 Subject function
 Verbal function
 Object function
@@ -8550,14 +8287,12 @@ Object function
 Subject function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
 Verbal function
 Subject function
 Verbal function
-Verbal function
 Adverbial function
 Subject function
 Verbal function
@@ -8568,7 +8303,6 @@ Adverbial function
 Verbal function
 Subject function
 Verbal function
-Object function
 Object function
 Subject function
 Indirect Object function
@@ -8590,7 +8324,6 @@ Verbal function
 Adverbial function
 Verbal function
 Indirect Object function
-Indirect Object function
 Verbal function
 Subject function
 Verbal function
@@ -8601,7 +8334,6 @@ Verbal function
 Adverbial function
 Adverbial function
 Verbal function
-Subject function
 Subject function
 Adverbial function
 Verbal function
@@ -8610,16 +8342,15 @@ Verbal function
 Adverbial function
 Verbal function
 Indirect Object function
-Indirect Object function
 Subject function
 Verbal function
 Verbal function
 Indirect Object function
 Adverbial function
 Verbal function
-Object function
 Object function
 Verbal function
+Verbal function
 Adverbial function
 Verbal function
 Object function
@@ -8635,11 +8366,9 @@ Object function
 Object function
 Indirect Object function
 Verbal function
-Object function
 Object function
 Indirect Object function
 Object function
-Object function
 Indirect Object function
 Object function
 Indirect Object function
@@ -8658,7 +8387,6 @@ Adverbial function
 Subject function
 Object function
 Verbal function
-Object function
 Object function
 Subject function
 Object function
@@ -8666,7 +8394,6 @@ Verbal function
 Object function
 Verbal function
 Object function
-Object function
 Adverbial function
 Verbal function
 Subject function
@@ -8718,7 +8445,6 @@ Predicate function
 Adverbial function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -8726,6 +8452,7 @@ Object function
 Verbal function
 Verbal function
 Object function
+Predicate function
 Verbal Copula function
 Predicate function
 Verbal function
@@ -8739,7 +8466,6 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
-Object function
 Object function
 Verbal function
 Subject function
@@ -8754,7 +8480,6 @@ Verbal function
 Adverbial function
 Verbal function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Object function
@@ -8764,7 +8489,6 @@ Verbal function
 Subject function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -8815,9 +8539,10 @@ Adverbial function
 Adverbial function
 Verbal function
 Object function
-Adverbial function
+Object function
 Adverbial function
 Object function
+Object function
 Adverbial function
 Adverbial function
 Verbal function
@@ -8829,8 +8554,8 @@ Verbal function
 Object function
 Verbal function
 Indirect Object function
-Adverbial function
 Object function
+Adverbial function
 Verbal function
 Verbal function
 Indirect Object function
@@ -8859,7 +8584,6 @@ Subject function
 Verbal function
 Adverbial function
 Adverbial function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
@@ -8869,8 +8593,8 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Subject function
+Verbal function
 Predicate function
 Adverbial function
 Verbal function
@@ -8879,7 +8603,6 @@ Predicate function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Subject function
 Verbal function
 Predicate function
@@ -8904,7 +8627,8 @@ Indirect Object function
 Verbal function
 Adverbial function
 Verbal function
-Indirect Object function
+Adverbial function
+Verbal function
 Indirect Object function
 Verbal function
 Adverbial function
@@ -8935,7 +8659,6 @@ Subject function
 Verbal function
 Adverbial function
 Adverbial function
-Verbal function
 Subject function
 Verbal function
 Predicate function
@@ -8959,9 +8682,9 @@ Indirect Object function
 Verbal function
 Verbal function
 Subject function
-Adverbial function
 Adverbial function
 Subject function
+Subject function
 Adverbial function
 Adverbial function
 Verbal function
@@ -8996,7 +8719,6 @@ Adverbial function
 Adverbial function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal Copula function
@@ -9015,14 +8737,12 @@ Subject function
 Verbal function
 Predicate function
 Subject function
-Subject function
 Verbal function
 Subject function
 Verbal function
 Adverbial function
 Object function
 Verbal function
-Indirect Object function
 Indirect Object function
 Verbal function
 Subject function
@@ -9032,19 +8752,17 @@ Adverbial function
 Object function
 Verbal function
 Indirect Object function
-Indirect Object function
+Object function
 Object function
 Verbal function
 Adverbial function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
 Object function
 Adverbial function
 Verbal function
 Subject function
-Verbal function
 Object function
 Adverbial function
 Verbal function
@@ -9064,20 +8782,20 @@ Verbal function
 Subject function
 Adverbial function
 Adverbial function
+Verbal function
 Subject function
 Subject function
 Verbal Copula function
 Predicate function
-Verbal function
 Adverbial function
 Verbal function
 Object function
+Verbal function
 Indirect Object function
 Verbal function
 Subject function
 Indirect Object function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -9089,7 +8807,6 @@ Verbal function
 Object function
 Object function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Subject function
@@ -9099,7 +8816,6 @@ Adverbial function
 Verbal function
 Indirect Object function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -9124,7 +8840,6 @@ Subject function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Adverbial function
@@ -9143,7 +8858,6 @@ Verbal function
 Indirect Object function
 Subject function
 Subject function
-Verbal Copula function
 Verbal Copula function
 Verbal Copula function
 Subject function
@@ -9155,11 +8869,9 @@ Adverbial function
 Subject function
 Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Indirect Object function
@@ -9172,7 +8884,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Subject function
-Subject function
 Verbal function
 Subject function
 Verbal function
@@ -9188,6 +8899,7 @@ Verbal function
 Verbal function
 Subject function
 Verbal function
+Subject function
 Object function
 Adverbial function
 Verbal function
@@ -9207,12 +8919,10 @@ Verbal function
 Adverbial function
 Subject function
 Adverbial function
-Subject function
 Verbal Copula function
 Predicate function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Indirect Object function
@@ -9232,16 +8942,17 @@ Subject function
 Verbal function
 Adverbial function
 Verbal function
+Verbal function
 Object function
 Object function
 Verbal function
 Subject function
+Adverbial function
 Adverbial function
 Verbal function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Verbal function
@@ -9346,7 +9057,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Subject function
-Predicate function
 Predicate function
 Subject function
 Predicate function
@@ -9369,8 +9079,8 @@ Verbal function
 Subject function
 Verbal function
 Verbal function
-Verbal function
 Subject function
+Verbal function
 Verbal function
 Object function
 Adverbial function
@@ -9413,8 +9123,8 @@ Verbal function
 Indirect Object function
 Object function
 Verbal function
-Predicate function
 Object function
+Predicate function
 Verbal function
 Subject function
 Verbal Copula function
@@ -9429,7 +9139,6 @@ Verbal function
 Verbal function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Indirect Object function
@@ -9460,6 +9169,7 @@ Subject function
 Verbal function
 Object function
 Adverbial function
+Subject function
 Subject function
 Verbal function
 Object function
@@ -9474,7 +9184,6 @@ Verbal function
 Indirect Object function
 Adverbial function
 Object function
-Object function
 Adverbial function
 Verbal function
 Subject function
@@ -9494,9 +9203,9 @@ Verbal function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
+Subject function
 Verbal function
 Verbal function
 Subject function
@@ -9504,7 +9213,6 @@ Adverbial function
 Subject function
 Verbal function
 Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -9514,7 +9222,6 @@ Adverbial function
 Adverbial function
 Subject function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Object function
@@ -9525,7 +9232,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -9538,6 +9244,7 @@ Adverbial function
 Verbal function
 Subject function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Subject function
@@ -9556,7 +9263,6 @@ Verbal function
 Object function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -9593,6 +9299,8 @@ Verbal function
 Object function
 Verbal function
 Adverbial function
+Object function
+Verbal function
 Object function
 Verbal function
 Adverbial function
@@ -9601,7 +9309,6 @@ Object function
 Subject function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Predicate function
@@ -9611,7 +9318,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -9622,7 +9328,6 @@ Verbal Copula function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Adverbial function
@@ -9632,7 +9337,6 @@ Subject function
 Verbal function
 Subject function
 Verbal Copula function
-Predicate function
 Predicate function
 Subject function
 Verbal function
@@ -9659,7 +9363,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Object function
-Object function
 Adverbial function
 Verbal function
 Subject function
@@ -9668,9 +9371,9 @@ Indirect Object function
 Adverbial function
 Subject function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Subject function
+Subject function
 Second Object function
 Object function
 Verbal function
@@ -9700,7 +9403,6 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -9716,10 +9418,10 @@ Verbal function
 Verbal function
 Indirect Object function
 Adverbial function
+Verbal function
 Subject function
 Verbal function
 Object function
-Verbal function
 Adverbial function
 Verbal function
 Verbal function
@@ -9727,7 +9429,6 @@ Object function
 Indirect Object function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Predicate function
@@ -9737,7 +9438,6 @@ Verbal function
 Verbal function
 Object function
 Adverbial function
-Verbal function
 Verbal function
 Verbal function
 Verbal function
@@ -9752,7 +9452,6 @@ Adverbial function
 Adverbial function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Object function
 Verbal function
 Adverbial function
@@ -9794,7 +9493,6 @@ Subject function
 Verbal function
 Subject function
 Verbal Copula function
-Predicate function
 Predicate function
 Subject function
 Verbal function
@@ -9829,6 +9527,7 @@ Adverbial function
 Verbal function
 Subject function
 Verbal function
+Object function
 Indirect Object function
 Object function
 Verbal function
@@ -9836,26 +9535,22 @@ Verbal function
 Adverbial function
 Object function
 Verbal Copula function
-Predicate function
 Predicate function
 Verbal function
 Subject function
 Verbal function
 Indirect Object function
 Subject function
-Verbal function
 Object function
 Verbal function
 Indirect Object function
 Object function
 Verbal Copula function
-Predicate function
 Predicate function
 Verbal function
 Adverbial function
 Verbal function
 Object function
-Object function
 Verbal function
 Subject function
 Adverbial function
@@ -9866,8 +9561,8 @@ Verbal function
 Predicate function
 Adverbial function
 Object function
-Verbal function
 Adverbial function
+Verbal function
 Adverbial function
 Subject function
 Verbal function
@@ -9881,11 +9576,11 @@ Verbal function
 Subject function
 Verbal function
 Indirect Object function
+Object function
 Verbal function
 Object function
 Verbal function
 Indirect Object function
-Indirect Object function
 Subject function
 Verbal function
 Object function
@@ -9899,19 +9594,17 @@ Verbal Copula function
 Predicate function
 Verbal function
 Subject function
-Verbal function
 Verbal function
 Subject function
 Verbal function
 Object function
-Verbal function
+Object function
 Verbal function
 Subject function
 Adverbial function
 Verbal function
 Verbal function
 Subject function
-Verbal function
 Adverbial function
 Object function
 Verbal function
@@ -10006,6 +9699,7 @@ Predicate function
 Subject function
 Verbal Copula function
 Predicate function
+Verbal Copula function
 Verbal function
 Indirect Object function
 Verbal function
@@ -10040,7 +9734,6 @@ Subject function
 Adverbial function
 Subject function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Object function
@@ -10056,6 +9749,7 @@ Verbal function
 Verbal function
 Object function
 Adverbial function
+Predicate function
 Verbal Copula function
 Predicate function
 Adverbial function
@@ -10069,7 +9763,6 @@ Verbal function
 Object function
 Verbal function
 Object function
-Verbal function
 Adverbial function
 Verbal function
 Predicate function
@@ -10087,13 +9780,13 @@ Object function
 Verbal function
 Predicate function
 Verbal Copula function
+Predicate function
 Adverbial function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
 Object function
-Object function
 Adverbial function
 Subject function
 Verbal function
@@ -10110,7 +9803,6 @@ Verbal Copula function
 Predicate function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Subject function
 Adverbial function
@@ -10120,18 +9812,16 @@ Verbal function
 Subject function
 Subject function
 Adverbial function
-Subject function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Object function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal function
 Indirect Object function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -10139,7 +9829,6 @@ Verbal function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Adverbial function
 Verbal function
@@ -10169,7 +9858,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Indirect Object function
 Indirect Object function
 Subject function
 Adverbial function
@@ -10184,7 +9872,6 @@ Adverbial function
 Predicate function
 Verbal Copula function
 Subject function
-Subject function
 Verbal Copula function
 Predicate function
 Subject function
@@ -10279,7 +9966,6 @@ Indirect Object function
 Subject function
 Verbal function
 Object function
-Verbal function
 Verbal function
 Verbal function
 Subject function
@@ -10307,7 +9993,6 @@ Verbal function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal Copula function
 Subject function
 Predicate function
@@ -10320,7 +10005,6 @@ Verbal function
 Subject function
 Verbal function
 Verbal Copula function
-Predicate function
 Predicate function
 Verbal function
 Subject function
@@ -10365,7 +10049,6 @@ Subject function
 Verbal function
 Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Object function
@@ -10396,6 +10079,7 @@ Verbal function
 Verbal function
 Adverbial function
 Object function
+Adverbial function
 Verbal function
 Object function
 Verbal function
@@ -10417,7 +10101,6 @@ Verbal function
 Object function
 Second Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Object function
@@ -10425,7 +10108,6 @@ Verbal function
 Verbal function
 Verbal function
 Subject function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -10438,7 +10120,6 @@ Subject function
 Verbal function
 Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Verbal function
@@ -10447,7 +10128,6 @@ Verbal function
 Indirect Object function
 Verbal function
 Indirect Object function
-Subject function
 Subject function
 Verbal function
 Object function
@@ -10522,7 +10202,6 @@ Subject function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Object function
@@ -10646,6 +10325,7 @@ Adverbial function
 Verbal function
 Verbal function
 Adverbial function
+Verbal function
 Verbal function
 Object function
 Object function
@@ -10677,9 +10357,9 @@ Verbal function
 Verbal function
 Adverbial function
 Adverbial function
-Subject function
 Verbal function
 Object function
+Subject function
 Adverbial function
 Verbal function
 Adverbial function
@@ -10708,7 +10388,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Verbal function
@@ -10726,7 +10405,6 @@ Object function
 Subject function
 Subject function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -10741,6 +10419,7 @@ Verbal function
 Object function
 Verbal function
 Subject function
+Verbal function
 Adverbial function
 Adverbial function
 Verbal function
@@ -10840,7 +10519,6 @@ Adverbial function
 Object function
 Verbal function
 Subject function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -10896,12 +10574,10 @@ Subject function
 Verbal function
 Verbal function
 Subject function
-Verbal function
 Object function
 Verbal function
 Indirect Object function
 Verbal function
-Subject function
 Subject function
 Verbal Copula function
 Subject function
@@ -10922,8 +10598,8 @@ Adverbial function
 Subject function
 Subject function
 Adverbial function
-Subject function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Adverbial function
@@ -11005,7 +10681,6 @@ Adverbial function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal Copula function
 Predicate function
 Verbal function
@@ -11028,6 +10703,7 @@ Object function
 Verbal function
 Subject function
 Verbal function
+Object function
 Subject function
 Adverbial function
 Verbal function
@@ -11038,12 +10714,13 @@ Verbal function
 Subject function
 Verbal function
 Verbal function
+Verbal function
 Indirect Object function
 Adverbial function
 Subject function
-Verbal function
 Verbal function
 Subject function
+Subject function
 Adverbial function
 Verbal function
 Verbal function
@@ -11077,6 +10754,8 @@ Verbal function
 Adverbial function
 Adverbial function
 Verbal function
+Subject function
+Adverbial function
 Subject function
 Adverbial function
 Adverbial function
@@ -11139,7 +10818,6 @@ Adverbial function
 Object function
 Verbal function
 Object function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -11159,6 +10837,7 @@ Verbal function
 Adverbial function
 Subject function
 Adverbial function
+Predicate function
 Verbal Copula function
 Subject function
 Predicate function
@@ -11182,6 +10861,8 @@ Object function
 Object function
 Verbal function
 Indirect Object function
+Object function
+Verbal function
 Object function
 Verbal function
 Adverbial function
@@ -11197,7 +10878,6 @@ Verbal function
 Object function
 Verbal function
 Subject function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -11403,11 +11083,12 @@ Object function
 Verbal function
 Verbal function
 Indirect Object function
+Subject function
 Verbal function
 Indirect Object function
-Subject function
 Subject function
 Object function
+Subject function
 Verbal function
 Subject function
 Verbal function
@@ -11456,7 +11137,6 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
-Predicate function
 Predicate function
 Subject function
 Verbal function
@@ -11566,9 +11246,11 @@ Second Object function
 Second Object function
 Verbal function
 Indirect Object function
+Subject function
 Verbal function
 Subject function
 Adverbial function
+Adverbial function
 Subject function
 Verbal function
 Verbal function
@@ -11596,7 +11278,6 @@ Verbal function
 Subject function
 Verbal function
 Object function
-Verbal function
 Verbal function
 Predicate function
 Verbal Copula function
@@ -11614,12 +11295,12 @@ Object function
 Verbal function
 Adverbial function
 Adverbial function
+Predicate function
 Verbal Copula function
 Adverbial function
 Subject function
 Adverbial function
 Verbal function
-Predicate function
 Subject function
 Adverbial function
 Verbal function
@@ -11657,11 +11338,12 @@ Object function
 Object function
 Predicate function
 Verbal Copula function
+Verbal Copula function
+Predicate function
 Verbal Copula function
 Subject function
 Adverbial function
 Verbal function
-Predicate function
 Subject function
 Verbal function
 Object function
@@ -11680,7 +11362,6 @@ Verbal function
 Adverbial function
 Adverbial function
 Adverbial function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -11710,7 +11391,6 @@ Indirect Object function
 Indirect Object function
 Verbal function
 Indirect Object function
-Indirect Object function
 Subject function
 Verbal function
 Verbal function
@@ -11769,6 +11449,7 @@ Object function
 Object function
 Adverbial function
 Object function
+Adverbial function
 Verbal function
 Predicate function
 Subject function
@@ -11791,8 +11472,9 @@ Object function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Subject function
+Verbal function
+Verbal function
 Adverbial function
 Verbal function
 Indirect Object function
@@ -11801,7 +11483,6 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
-Indirect Object function
 Indirect Object function
 Adverbial function
 Indirect Object function
@@ -11945,7 +11626,6 @@ Adverbial function
 Object function
 Verbal function
 Verbal function
-Verbal function
 Indirect Object function
 Verbal function
 Adverbial function
@@ -11969,7 +11649,6 @@ Adverbial function
 Adverbial function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal Copula function
 Adverbial function
@@ -12012,16 +11691,15 @@ Verbal function
 Verbal function
 Adverbial function
 Adverbial function
-Verbal function
-Subject function
 Verbal function
 Subject function
 Verbal function
-Object function
-Verbal function
 Adverbial function
 Verbal function
+Subject function
 Verbal function
+Object function
+Object function
 Verbal function
 Verbal function
 Indirect Object function
@@ -12168,6 +11846,7 @@ Verbal function
 Adverbial function
 Verbal function
 Subject function
+Object function
 Verbal function
 Object function
 Object function
@@ -12186,7 +11865,6 @@ Verbal function
 Verbal function
 Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Verbal function
@@ -12198,7 +11876,6 @@ Verbal function
 Adverbial function
 Verbal function
 Indirect Object function
-Object function
 Object function
 Subject function
 Verbal function
@@ -12223,7 +11900,6 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Subject function
@@ -12260,7 +11936,6 @@ Adverbial function
 Verbal function
 Verbal function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -12418,6 +12093,7 @@ Verbal function
 Adverbial function
 Adverbial function
 Subject function
+Subject function
 Adverbial function
 Verbal function
 Object function
@@ -12440,7 +12116,6 @@ Adverbial function
 Object function
 Verbal function
 Verbal function
-Subject function
 Subject function
 Predicate function
 Verbal Copula function
@@ -12455,14 +12130,12 @@ Adverbial function
 Verbal function
 Subject function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Predicate function
 Verbal Copula function
 Subject function
 Verbal function
-Predicate function
 Predicate function
 Predicate function
 Verbal function
@@ -12473,7 +12146,6 @@ Subject function
 Verbal function
 Subject function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Object function
@@ -12489,7 +12161,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -12532,14 +12203,12 @@ Verbal function
 Verbal function
 Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Indirect Object function
 Verbal function
 Object function
 Second Object function
-Object function
 Verbal function
 Verbal function
 Verbal function
@@ -12555,7 +12224,6 @@ Verbal function
 Indirect Object function
 Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Object function
@@ -12580,8 +12248,8 @@ Object function
 Object function
 Adverbial function
 Verbal function
-Object function
 Subject function
+Object function
 Verbal function
 Object function
 Object function
@@ -12626,7 +12294,6 @@ Verbal function
 Subject function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal Copula function
 Subject function
@@ -12691,7 +12358,6 @@ Verbal function
 Indirect Object function
 Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Indirect Object function
@@ -12706,13 +12372,14 @@ Object function
 Object function
 Verbal function
 Indirect Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
 Indirect Object function
 Object function
 Verbal function
+Object function
+Verbal function
 Verbal function
 Object function
 Object function
@@ -12788,8 +12455,8 @@ Subject function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Verbal Copula function
+Adverbial function
 Subject function
 Predicate function
 Adverbial function
@@ -12800,7 +12467,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Subject function
@@ -12812,7 +12478,6 @@ Verbal Copula function
 Verbal function
 Subject function
 Object function
-Verbal function
 Verbal function
 Verbal function
 Subject function
@@ -12840,6 +12505,7 @@ Adverbial function
 Verbal function
 Subject function
 Verbal function
+Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -12922,7 +12588,6 @@ Adverbial function
 Adverbial function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -12937,12 +12602,11 @@ Subject function
 Adverbial function
 Object function
 Verbal function
-Verbal function
+Subject function
 Subject function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Object function
 Verbal function
@@ -12960,7 +12624,6 @@ Verbal function
 Object function
 Object function
 Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -12971,7 +12634,6 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Verbal function
@@ -12981,8 +12643,8 @@ Predicate function
 Subject function
 Verbal Copula function
 Predicate function
-Subject function
 Object function
+Subject function
 Adverbial function
 Verbal function
 Adverbial function
@@ -13053,7 +12715,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Verbal function
-Object function
 Object function
 Verbal function
 Adverbial function
@@ -13061,7 +12722,6 @@ Verbal function
 Subject function
 Verbal function
 Object function
-Object function
 Adverbial function
 Subject function
 Verbal function
@@ -13081,7 +12741,6 @@ Subject function
 Adverbial function
 Verbal function
 Verbal function
-Object function
 Object function
 Adverbial function
 Verbal function
@@ -13096,9 +12755,11 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
+Subject function
 Adverbial function
 Subject function
 Verbal function
+Subject function
 Object function
 Verbal function
 Adverbial function
@@ -13127,7 +12788,6 @@ Object function
 Subject function
 Indirect Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Verbal function
@@ -13218,7 +12878,6 @@ Adverbial function
 Object function
 Verbal function
 Adverbial function
-Verbal function
 Subject function
 Verbal function
 Object function
@@ -13258,9 +12917,9 @@ Verbal function
 Indirect Object function
 Subject function
 Adverbial function
+Object function
 Verbal function
 Subject function
-Object function
 Adverbial function
 Verbal function
 Adverbial function
@@ -13268,6 +12927,7 @@ Adverbial function
 Verbal function
 Object function
 Verbal function
+Object function
 Subject function
 Verbal function
 Object function
@@ -13297,7 +12957,6 @@ Verbal function
 Verbal function
 Verbal function
 Verbal function
-Object function
 Object function
 Verbal Copula function
 Predicate function
@@ -13438,7 +13097,6 @@ Object function
 Object function
 Subject function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Object function
@@ -13466,9 +13124,10 @@ Verbal function
 Indirect Object function
 Predicate function
 Subject function
-Verbal Copula function
 Verbal function
 Subject function
+Verbal Copula function
+Subject function
 Verbal function
 Indirect Object function
 Verbal function
@@ -13477,7 +13136,6 @@ Object function
 Adverbial function
 Subject function
 Object function
-Adverbial function
 Subject function
 Adverbial function
 Predicate function
@@ -13488,6 +13146,7 @@ Object function
 Subject function
 Predicate function
 Subject function
+Verbal function
 Verbal Copula function
 Verbal function
 Subject function
@@ -13522,10 +13181,8 @@ Object function
 Verbal function
 Verbal function
 Subject function
-Verbal function
 Object function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -13558,7 +13215,6 @@ Object function
 Object function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Object function
@@ -13570,7 +13226,6 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
-Object function
 Object function
 Adverbial function
 Verbal function
@@ -13584,7 +13239,6 @@ Object function
 Verbal function
 Subject function
 Second Object function
-Second Object function
 Subject function
 Verbal function
 Object function
@@ -13603,6 +13257,7 @@ Indirect Object function
 Verbal function
 Subject function
 Adverbial function
+Subject function
 Verbal function
 Subject function
 Adverbial function
@@ -13661,7 +13316,6 @@ Indirect Object function
 Object function
 Indirect Object function
 Object function
-Object function
 Adverbial function
 Verbal function
 Object function
@@ -13720,11 +13374,9 @@ Adverbial function
 Verbal function
 Subject function
 Adverbial function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Indirect Object function
@@ -13799,7 +13451,6 @@ Object function
 Verbal function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -13836,7 +13487,6 @@ Verbal function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Adverbial function
@@ -13851,7 +13501,6 @@ Verbal function
 Verbal function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -13866,9 +13515,8 @@ Verbal function
 Subject function
 Verbal function
 Object function
-Object function
-Subject function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Subject function
@@ -13894,7 +13542,6 @@ Adverbial function
 Subject function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -13943,7 +13590,6 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Object function
@@ -13959,7 +13605,6 @@ Verbal Copula function
 Verbal function
 Object function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -14024,7 +13669,6 @@ Object function
 Adverbial function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Adverbial function
@@ -14046,7 +13690,6 @@ Adverbial function
 Verbal Copula function
 Predicate function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Subject function
 Verbal function
@@ -14114,8 +13757,8 @@ Object function
 Verbal function
 Object function
 Predicate function
-Verbal Copula function
 Subject function
+Verbal Copula function
 Adverbial function
 Verbal function
 Adverbial function
@@ -14131,7 +13774,6 @@ Adverbial function
 Subject function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Adverbial function
 Verbal function
@@ -14171,7 +13813,6 @@ Adverbial function
 Object function
 Verbal function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -14187,14 +13828,12 @@ Object function
 Verbal function
 Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Indirect Object function
 Adverbial function
 Verbal function
 Indirect Object function
-Object function
 Object function
 Adverbial function
 Second Object function
@@ -14211,7 +13850,6 @@ Predicate function
 Verbal Copula function
 Predicate function
 Predicate function
-Predicate function
 Object function
 Subject function
 Verbal function
@@ -14248,7 +13886,6 @@ Object function
 Verbal function
 Subject function
 Verbal function
-Object function
 Object function
 Verbal function
 Subject function
@@ -14263,6 +13900,7 @@ Adverbial function
 Verbal function
 Object function
 Predicate function
+Predicate function
 Verbal Copula function
 Subject function
 Subject function
@@ -14286,8 +13924,8 @@ Adverbial function
 Verbal function
 Subject function
 Adverbial function
-Subject function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Object function
@@ -14296,7 +13934,6 @@ Object function
 Object function
 Verbal function
 Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -14323,13 +13960,11 @@ Adverbial function
 Verbal function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Indirect Object function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -14352,7 +13987,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Adverbial function
@@ -14370,12 +14004,10 @@ Subject function
 Object function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Adverbial function
 Verbal function
@@ -14391,7 +14023,6 @@ Adverbial function
 Verbal function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Adverbial function
@@ -14412,7 +14043,6 @@ Predicate function
 Adverbial function
 Verbal function
 Subject function
-Verbal function
 Indirect Object function
 Verbal function
 Subject function
@@ -14433,6 +14063,7 @@ Adverbial function
 Adverbial function
 Adverbial function
 Verbal function
+Object function
 Adverbial function
 Object function
 Adverbial function
@@ -14440,12 +14071,11 @@ Adverbial function
 Adverbial function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal Copula function
-Predicate function
 Subject function
 Predicate function
+Subject function
 Predicate function
 Verbal Copula function
 Predicate function
@@ -14456,7 +14086,6 @@ Verbal function
 Object function
 Subject function
 Subject function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -14504,21 +14133,19 @@ Indirect Object function
 Adverbial function
 Verbal function
 Adverbial function
-Object function
 Second Object function
+Object function
 Verbal function
 Object function
 Verbal function
 Indirect Object function
-Indirect Object function
 Subject function
 Verbal function
 Indirect Object function
-Verbal function
 Object function
+Verbal function
 Subject function
 Verbal function
-Indirect Object function
 Indirect Object function
 Subject function
 Verbal function
@@ -14531,7 +14158,6 @@ Subject function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Indirect Object function
@@ -14546,13 +14172,11 @@ Verbal function
 Object function
 Adverbial function
 Subject function
-Verbal function
 Verbal function
 Subject function
 Verbal function
 Indirect Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Indirect Object function
@@ -14610,6 +14234,7 @@ Verbal Copula function
 Predicate function
 Verbal Copula function
 Predicate function
+Subject function
 Subject function
 Adverbial function
 Verbal function
@@ -14663,7 +14288,6 @@ Verbal function
 Verbal function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Object function
@@ -14676,7 +14300,6 @@ Subject function
 Verbal function
 Object function
 Indirect Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -14713,9 +14336,11 @@ Verbal function
 Adverbial function
 Verbal function
 Subject function
+Verbal function
 Adverbial function
 Subject function
 Adverbial function
+Subject function
 Verbal function
 Object function
 Verbal function
@@ -14752,7 +14377,6 @@ Indirect Object function
 Object function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Indirect Object function
@@ -14775,7 +14399,6 @@ Adverbial function
 Subject function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Object function
@@ -14798,12 +14421,12 @@ Predicate function
 Predicate function
 Verbal function
 Adverbial function
+Verbal function
+Object function
 Predicate function
 Adverbial function
 Verbal Copula function
 Subject function
-Verbal function
-Object function
 Verbal function
 Adverbial function
 Adverbial function
@@ -14812,8 +14435,8 @@ Subject function
 Adverbial function
 Verbal function
 Verbal function
-Adverbial function
 Subject function
+Adverbial function
 Verbal function
 Object function
 Verbal function
@@ -14828,6 +14451,7 @@ Verbal function
 Adverbial function
 Object function
 Subject function
+Subject function
 Adverbial function
 Verbal Copula function
 Predicate function
@@ -14872,7 +14496,6 @@ Verbal function
 Subject function
 Predicate function
 Verbal Copula function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -14886,10 +14509,9 @@ Verbal function
 Adverbial function
 Object function
 Verbal function
-Verbal function
-Object function
 Object function
 Subject function
+Subject function
 Verbal function
 Adverbial function
 Adverbial function
@@ -14979,7 +14601,6 @@ Indirect Object function
 Verbal function
 Object function
 Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -15018,12 +14639,12 @@ Verbal function
 Predicate function
 Verbal function
 Object function
-Adverbial function
 Subject function
+Adverbial function
 Verbal function
 Object function
-Second Object function
 Adverbial function
+Second Object function
 Predicate function
 Verbal Copula function
 Verbal Copula function
@@ -15092,6 +14713,7 @@ Verbal function
 Object function
 Verbal function
 Adverbial function
+Object function
 Verbal function
 Object function
 Verbal function
@@ -15100,7 +14722,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Adverbial function
@@ -15188,7 +14809,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Object function
@@ -15200,7 +14820,6 @@ Verbal function
 Verbal function
 Indirect Object function
 Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -15212,7 +14831,6 @@ Subject function
 Verbal function
 Indirect Object function
 Predicate function
-Predicate function
 Subject function
 Verbal function
 Indirect Object function
@@ -15226,6 +14844,7 @@ Verbal function
 Adverbial function
 Adverbial function
 Verbal function
+Subject function
 Adverbial function
 Subject function
 Verbal function
@@ -15289,6 +14908,8 @@ Adverbial function
 Verbal function
 Predicate function
 Verbal Copula function
+Predicate function
+Subject function
 Subject function
 Verbal function
 Object function
@@ -15312,7 +14933,6 @@ Verbal function
 Verbal function
 Verbal Copula function
 Predicate function
-Predicate function
 Adverbial function
 Verbal function
 Adverbial function
@@ -15438,6 +15058,8 @@ Second Object function
 Adverbial function
 Predicate function
 Verbal Copula function
+Predicate function
+Predicate function
 Subject function
 Verbal function
 Object function
@@ -15486,6 +15108,7 @@ Verbal function
 Indirect Object function
 Subject function
 Object function
+Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -15495,10 +15118,8 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Adverbial function
-Verbal function
 Object function
 Verbal function
 Object function
@@ -15519,6 +15140,7 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
+Subject function
 Adverbial function
 Subject function
 Adverbial function
@@ -15541,6 +15163,7 @@ Subject function
 Verbal function
 Subject function
 Verbal function
+Subject function
 Subject function
 Verbal function
 Indirect Object function
@@ -15567,7 +15190,6 @@ Verbal function
 Verbal function
 Adverbial function
 Subject function
-Subject function
 Verbal function
 Subject function
 Adverbial function
@@ -15579,7 +15201,6 @@ Adverbial function
 Verbal function
 Subject function
 Predicate function
-Subject function
 Subject function
 Verbal function
 Subject function
@@ -15595,7 +15216,7 @@ Adverbial function
 Adverbial function
 Verbal function
 Subject function
-Verbal function
+Subject function
 Verbal function
 Object function
 Verbal function
@@ -15660,14 +15281,12 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Object function
 Subject function
 Indirect Object function
 Adverbial function
 Verbal function
 Indirect Object function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -15693,7 +15312,6 @@ Adverbial function
 Verbal function
 Subject function
 Object function
-Object function
 Adverbial function
 Verbal function
 Subject function
@@ -15737,6 +15355,8 @@ Object function
 Subject function
 Verbal function
 Adverbial function
+Verbal function
+Verbal function
 Subject function
 Verbal function
 Verbal function
@@ -15784,12 +15404,10 @@ Adverbial function
 Subject function
 Verbal function
 Subject function
-Verbal function
 Verbal function
 Subject function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
 Subject function
 Verbal function
@@ -15830,7 +15448,6 @@ Verbal function
 Adverbial function
 Verbal function
 Subject function
-Verbal function
 Verbal function
 Object function
 Indirect Object function
@@ -15838,7 +15455,6 @@ Verbal function
 Indirect Object function
 Verbal function
 Verbal function
-Verbal function
 Verbal Copula function
 Subject function
 Predicate function
@@ -15868,8 +15484,8 @@ Object function
 Verbal function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
+Verbal function
 Subject function
 Verbal function
 Adverbial function
@@ -15883,7 +15499,6 @@ Object function
 Verbal function
 Indirect Object function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -15904,7 +15519,6 @@ Verbal function
 Indirect Object function
 Adverbial function
 Verbal function
-Verbal function
 Object function
 Adverbial function
 Verbal function
@@ -15932,7 +15546,6 @@ Verbal function
 Adverbial function
 Object function
 Verbal function
-Indirect Object function
 Indirect Object function
 Subject function
 Verbal function
@@ -15953,7 +15566,6 @@ Verbal function
 Verbal function
 Indirect Object function
 Subject function
-Verbal function
 Adverbial function
 Verbal function
 Verbal function
@@ -16011,12 +15623,14 @@ Subject function
 Verbal function
 Adverbial function
 Adverbial function
+Verbal function
 Subject function
 Verbal function
 Subject function
 Verbal function
 Verbal function
 Indirect Object function
+Subject function
 Verbal function
 Object function
 Subject function
@@ -16037,6 +15651,7 @@ Predicate function
 Verbal function
 Adverbial function
 Adverbial function
+Subject function
 Subject function
 Verbal function
 Verbal function
@@ -16110,7 +15725,6 @@ Verbal function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Indirect Object function
@@ -16131,7 +15745,6 @@ Subject function
 Verbal function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Subject function
 Adverbial function
@@ -16143,7 +15756,6 @@ Adverbial function
 Adverbial function
 Object function
 Verbal function
-Verbal function
 Adverbial function
 Subject function
 Verbal function
@@ -16218,7 +15830,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Subject function
-Predicate function
 Predicate function
 Subject function
 Predicate function
@@ -16233,8 +15844,9 @@ Verbal function
 Subject function
 Verbal function
 Verbal function
-Verbal function
 Subject function
+Verbal function
+Verbal function
 Adverbial function
 Verbal function
 Object function
@@ -16265,7 +15877,6 @@ Subject function
 Subject function
 Adverbial function
 Subject function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -16273,8 +15884,8 @@ Verbal function
 Object function
 Indirect Object function
 Verbal function
-Subject function
 Object function
+Subject function
 Verbal function
 Predicate function
 Verbal Copula function
@@ -16297,7 +15908,6 @@ Object function
 Indirect Object function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Object function
@@ -16360,7 +15970,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -16404,8 +16013,8 @@ Verbal Copula function
 Subject function
 Subject function
 Verbal function
-Adverbial function
 Subject function
+Adverbial function
 Verbal function
 Object function
 Verbal function
@@ -16416,7 +16025,6 @@ Object function
 Subject function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
@@ -16430,7 +16038,6 @@ Verbal function
 Indirect Object function
 Subject function
 Verbal Copula function
-Predicate function
 Predicate function
 Subject function
 Verbal function
@@ -16441,9 +16048,9 @@ Verbal function
 Subject function
 Adverbial function
 Verbal function
+Adverbial function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -16453,10 +16060,11 @@ Adverbial function
 Object function
 Verbal function
 Object function
+Verbal function
+Object function
 Subject function
 Indirect Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Subject function
@@ -16496,6 +16104,7 @@ Verbal function
 Subject function
 Predicate function
 Verbal Copula function
+Predicate function
 Subject function
 Verbal function
 Adverbial function
@@ -16519,7 +16128,6 @@ Object function
 Subject function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Subject function
 Adverbial function
 Verbal function
@@ -16532,7 +16140,7 @@ Adverbial function
 Predicate function
 Verbal Copula function
 Predicate function
-Verbal Copula function
+Predicate function
 Verbal Copula function
 Subject function
 Verbal function
@@ -16562,9 +16170,9 @@ Object function
 Verbal function
 Verbal function
 Adverbial function
-Subject function
 Object function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Object function
@@ -16576,7 +16184,6 @@ Verbal function
 Object function
 Subject function
 Verbal Copula function
-Predicate function
 Predicate function
 Subject function
 Verbal function
@@ -16588,7 +16195,6 @@ Verbal function
 Object function
 Subject function
 Second Object function
-Second Object function
 Subject function
 Adverbial function
 Verbal function
@@ -16600,7 +16206,6 @@ Object function
 Verbal function
 Second Object function
 Object function
-Verbal function
 Verbal function
 Subject function
 Adverbial function
@@ -16609,7 +16214,6 @@ Verbal function
 Adverbial function
 Verbal function
 Subject function
-Subject function
 Adverbial function
 Verbal function
 Indirect Object function
@@ -16620,6 +16224,7 @@ Subject function
 Verbal Copula function
 Predicate function
 Adverbial function
+Verbal function
 Subject function
 Adverbial function
 Object function
@@ -16630,13 +16235,11 @@ Verbal function
 Object function
 Verbal function
 Indirect Object function
-Indirect Object function
 Subject function
 Verbal function
 Indirect Object function
 Verbal function
 Indirect Object function
-Object function
 Object function
 Verbal function
 Adverbial function
@@ -16650,7 +16253,6 @@ Adverbial function
 Object function
 Verbal function
 Indirect Object function
-Indirect Object function
 Subject function
 Adverbial function
 Verbal function
@@ -16659,23 +16261,20 @@ Object function
 Verbal function
 Object function
 Verbal function
-Second Object function
 Second Object function
 Subject function
 Adverbial function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Indirect Object function
-Verbal function
 Object function
+Verbal function
 Object function
 Subject function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -16689,7 +16288,6 @@ Verbal function
 Object function
 Verbal function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Object function
@@ -16748,7 +16346,6 @@ Object function
 Object function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Subject function
 Verbal Copula function
@@ -16772,15 +16369,15 @@ Adverbial function
 Subject function
 Object function
 Verbal function
-Verbal function
 Verbal Copula function
 Predicate function
 Verbal function
 Object function
 Object function
 Verbal function
-Subject function
 Subject function
+Verbal function
+Verbal function
 Adverbial function
 Verbal function
 Object function
@@ -16814,7 +16411,6 @@ Verbal function
 Object function
 Verbal function
 Object function
-Verbal function
 Adverbial function
 Verbal function
 Subject function
@@ -16853,7 +16449,6 @@ Object function
 Verbal function
 Verbal function
 Subject function
-Verbal function
 Adverbial function
 Verbal function
 Object function
@@ -16868,7 +16463,6 @@ Verbal function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Object function
@@ -16876,11 +16470,9 @@ Verbal function
 Verbal function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
-Subject function
 Verbal function
-Adverbial function
+Subject function
 Verbal function
 Adverbial function
 Verbal function
@@ -16888,7 +16480,6 @@ Verbal function
 Adverbial function
 Subject function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Verbal function
 Subject function
@@ -16927,7 +16518,6 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Adverbial function
@@ -16959,7 +16549,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -17002,11 +16591,12 @@ Verbal function
 Object function
 Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Indirect Object function
 Adverbial function
+Verbal function
+Object function
 Verbal function
 Object function
 Verbal function
@@ -17030,7 +16620,6 @@ Verbal function
 Indirect Object function
 Indirect Object function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Object function
@@ -17062,7 +16651,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
 Subject function
 Verbal function
@@ -17074,7 +16662,6 @@ Verbal function
 Indirect Object function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -17100,18 +16687,19 @@ Subject function
 Verbal function
 Subject function
 Verbal function
-Verbal function
 Subject function
-Verbal function
 Verbal function
 Subject function
 Object function
+Verbal function
+Subject function
 Verbal function
 Adverbial function
 Object function
 Verbal function
 Adverbial function
 Verbal function
+Adverbial function
 Object function
 Verbal function
 Object function
@@ -17123,9 +16711,9 @@ Adverbial function
 Object function
 Verbal function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Subject function
+Subject function
 Adverbial function
 Verbal function
 Indirect Object function
@@ -17133,7 +16721,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Adverbial function
@@ -17148,7 +16735,6 @@ Object function
 Verbal function
 Indirect Object function
 Adverbial function
-Verbal function
 Verbal function
 Adverbial function
 Subject function
@@ -17197,7 +16783,6 @@ Predicate function
 Predicate function
 Subject function
 Predicate function
-Predicate function
 Verbal Copula function
 Predicate function
 Subject function
@@ -17216,6 +16801,7 @@ Predicate function
 Subject function
 Verbal function
 Adverbial function
+Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -17229,7 +16815,8 @@ Adverbial function
 Adverbial function
 Subject function
 Verbal function
-Adverbial function
+Subject function
+Verbal function
 Adverbial function
 Verbal function
 Indirect Object function
@@ -17243,7 +16830,6 @@ Verbal function
 Verbal function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -17264,11 +16850,11 @@ Verbal function
 Object function
 Second Object function
 Verbal Copula function
+Subject function
 Predicate function
 Subject function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Verbal Copula function
 Predicate function
@@ -17302,7 +16888,6 @@ Subject function
 Adverbial function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal Copula function
 Predicate function
@@ -17343,6 +16928,7 @@ Adverbial function
 Adverbial function
 Verbal function
 Subject function
+Verbal function
 Object function
 Object function
 Verbal function
@@ -17350,7 +16936,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Subject function
-Subject function
 Verbal function
 Adverbial function
 Verbal function
@@ -17410,7 +16995,6 @@ Adverbial function
 Verbal function
 Verbal function
 Subject function
-Predicate function
 Predicate function
 Subject function
 Adverbial function
@@ -17454,7 +17038,6 @@ Adverbial function
 Predicate function
 Verbal Copula function
 Subject function
-Subject function
 Verbal function
 Subject function
 Adverbial function
@@ -17496,7 +17079,6 @@ Predicate function
 Adverbial function
 Verbal function
 Adverbial function
-Subject function
 Subject function
 Verbal function
 Subject function
@@ -17508,8 +17090,8 @@ Adverbial function
 Verbal function
 Adverbial function
 Subject function
-Subject function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Adverbial function
@@ -17546,7 +17128,6 @@ Subject function
 Verbal function
 Subject function
 Adverbial function
-Adverbial function
 Verbal function
 Verbal function
 Subject function
@@ -17577,7 +17158,6 @@ Verbal function
 Subject function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -17616,18 +17196,16 @@ Verbal function
 Object function
 Verbal function
 Object function
-Indirect Object function
-Adverbial function
-Adverbial function
+Object function
 Verbal function
 Adverbial function
+Indirect Object function
 Adverbial function
 Verbal function
 Subject function
 Adverbial function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Indirect Object function
 Verbal function
@@ -17668,17 +17246,18 @@ Predicate function
 Predicate function
 Verbal function
 Adverbial function
+Subject function
 Verbal Copula function
 Predicate function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Indirect Object function
 Object function
-Verbal function
 Predicate function
+Object function
+Verbal function
 Verbal Copula function
 Subject function
 Subject function
@@ -17690,7 +17269,6 @@ Verbal Copula function
 Subject function
 Subject function
 Verbal function
-Subject function
 Subject function
 Verbal function
 Subject function
@@ -17701,6 +17279,7 @@ Verbal function
 Object function
 Object function
 Verbal function
+Adverbial function
 Subject function
 Adverbial function
 Verbal function
@@ -17715,12 +17294,12 @@ Subject function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Predicate function
+Adverbial function
 Subject function
-Verbal Copula function
 Verbal Copula function
 Subject function
+Subject function
 Verbal Copula function
 Predicate function
 Predicate function
@@ -17759,14 +17338,11 @@ Adverbial function
 Adverbial function
 Verbal function
 Indirect Object function
-Adverbial function
-Verbal function
 Adverbial function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
-Adverbial function
+Subject function
 Subject function
 Predicate function
 Verbal Copula function
@@ -17793,7 +17369,6 @@ Adverbial function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Verbal function
@@ -17801,7 +17376,6 @@ Adverbial function
 Adverbial function
 Verbal Copula function
 Predicate function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -17822,7 +17396,6 @@ Subject function
 Verbal function
 Subject function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Adverbial function
@@ -17838,7 +17411,6 @@ Adverbial function
 Verbal function
 Indirect Object function
 Verbal Copula function
-Predicate function
 Predicate function
 Verbal function
 Adverbial function
@@ -17965,6 +17537,7 @@ Adverbial function
 Verbal function
 Adverbial function
 Subject function
+Object function
 Verbal function
 Object function
 Verbal function
@@ -18037,9 +17610,11 @@ Object function
 Object function
 Subject function
 Verbal Copula function
+Subject function
 Predicate function
 Verbal function
 Indirect Object function
+Verbal function
 Adverbial function
 Verbal function
 Object function
@@ -18067,6 +17642,7 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
+Object function
 Object function
 Adverbial function
 Verbal function
@@ -18079,6 +17655,7 @@ Object function
 Object function
 Verbal function
 Subject function
+Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -18093,6 +17670,7 @@ Subject function
 Verbal function
 Adverbial function
 Verbal function
+Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -18133,7 +17711,6 @@ Verbal function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Verbal function
@@ -18164,7 +17741,6 @@ Adverbial function
 Adverbial function
 Adverbial function
 Verbal function
-Subject function
 Subject function
 Verbal function
 Subject function
@@ -18225,9 +17801,9 @@ Object function
 Adverbial function
 Verbal function
 Predicate function
+Verbal function
 Verbal Copula function
 Subject function
-Verbal function
 Subject function
 Adverbial function
 Verbal function
@@ -18259,6 +17835,7 @@ Adverbial function
 Verbal function
 Adverbial function
 Subject function
+Subject function
 Adverbial function
 Subject function
 Verbal function
@@ -18298,20 +17875,19 @@ Subject function
 Adverbial function
 Verbal function
 Subject function
-Object function
 Object function
 Verbal function
 Indirect Object function
 Verbal function
-Adverbial function
 Indirect Object function
+Verbal function
+Adverbial function
 Subject function
 Verbal function
 Indirect Object function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Object function
@@ -18329,7 +17905,6 @@ Adverbial function
 Verbal function
 Object function
 Indirect Object function
-Indirect Object function
 Adverbial function
 Subject function
 Adverbial function
@@ -18345,8 +17920,8 @@ Verbal function
 Object function
 Subject function
 Verbal function
-Adverbial function
 Object function
+Adverbial function
 Verbal function
 Verbal function
 Indirect Object function
@@ -18369,7 +17944,6 @@ Verbal function
 Verbal function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -18395,7 +17969,6 @@ Verbal function
 Verbal function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Verbal function
@@ -18407,7 +17980,6 @@ Verbal Copula function
 Predicate function
 Verbal function
 Indirect Object function
-Subject function
 Subject function
 Adverbial function
 Verbal function
@@ -18431,11 +18003,11 @@ Adverbial function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
+Object function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
+Object function
 Object function
 Verbal function
 Object function
@@ -18444,13 +18016,13 @@ Verbal function
 Adverbial function
 Object function
 Verbal function
+Object function
 Subject function
 Verbal function
 Object function
 Adverbial function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -18475,12 +18047,13 @@ Verbal function
 Verbal function
 Subject function
 Verbal function
-Adverbial function
-Adverbial function
+Subject function
 Verbal function
+Adverbial function
 Verbal Copula function
 Predicate function
-Predicate function
+Adverbial function
+Verbal function
 Predicate function
 Predicate function
 Subject function
@@ -18503,6 +18076,7 @@ Verbal function
 Verbal function
 Indirect Object function
 Subject function
+Predicate function
 Verbal Copula function
 Predicate function
 Verbal function
@@ -18534,8 +18108,8 @@ Object function
 Object function
 Indirect Object function
 Verbal function
-Indirect Object function
 Object function
+Indirect Object function
 Verbal function
 Object function
 Subject function
@@ -18561,6 +18135,7 @@ Adverbial function
 Adverbial function
 Verbal function
 Indirect Object function
+Predicate function
 Verbal Copula function
 Predicate function
 Verbal function
@@ -18656,7 +18231,6 @@ Indirect Object function
 Verbal function
 Subject function
 Verbal function
-Object function
 Object function
 Verbal function
 Adverbial function
@@ -18677,6 +18251,7 @@ Adverbial function
 Verbal function
 Predicate function
 Verbal Copula function
+Predicate function
 Subject function
 Subject function
 Verbal function
@@ -18686,13 +18261,11 @@ Indirect Object function
 Object function
 Verbal function
 Object function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Verbal function
 Indirect Object function
@@ -18732,6 +18305,7 @@ Adverbial function
 Subject function
 Subject function
 Verbal function
+Subject function
 Adverbial function
 Subject function
 Verbal function
@@ -18746,6 +18320,7 @@ Object function
 Adverbial function
 Subject function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Object function
@@ -18793,9 +18368,9 @@ Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
-Subject function
 Verbal function
 Object function
+Subject function
 Adverbial function
 Verbal function
 Adverbial function
@@ -18818,13 +18393,11 @@ Adverbial function
 Verbal function
 Verbal function
 Subject function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Adverbial function
@@ -18842,7 +18415,6 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
-Object function
 Object function
 Verbal function
 Subject function
@@ -18856,7 +18428,6 @@ Indirect Object function
 Object function
 Verbal function
 Object function
-Object function
 Verbal function
 Subject function
 Adverbial function
@@ -18877,7 +18448,6 @@ Verbal function
 Verbal function
 Predicate function
 Subject function
-Verbal Copula function
 Verbal Copula function
 Verbal function
 Subject function
@@ -18895,20 +18465,19 @@ Object function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Adverbial function
 Indirect Object function
 Verbal function
 Subject function
-Object function
 Verbal function
+Object function
+Object function
 Adverbial function
 Verbal function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Subject function
@@ -18929,7 +18498,6 @@ Adverbial function
 Subject function
 Adverbial function
 Verbal function
-Object function
 Object function
 Verbal function
 Adverbial function
@@ -18964,6 +18532,7 @@ Verbal function
 Object function
 Verbal function
 Adverbial function
+Adverbial function
 Verbal function
 Object function
 Object function
@@ -18983,7 +18552,6 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
-Subject function
 Subject function
 Verbal function
 Subject function
@@ -18995,13 +18563,11 @@ Adverbial function
 Predicate function
 Verbal Copula function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Object function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Adverbial function
 Object function
@@ -19071,7 +18637,6 @@ Adverbial function
 Verbal function
 Subject function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Subject function
@@ -19147,9 +18712,9 @@ Verbal function
 Object function
 Verbal function
 Adverbial function
-Subject function
 Subject function
 Verbal function
+Subject function
 Object function
 Verbal function
 Adverbial function
@@ -19236,6 +18801,7 @@ Verbal function
 Subject function
 Verbal function
 Adverbial function
+Verbal function
 Verbal function
 Subject function
 Adverbial function
@@ -19250,12 +18816,12 @@ Object function
 Verbal function
 Subject function
 Verbal function
+Object function
 Subject function
 Adverbial function
 Verbal function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -19270,7 +18836,6 @@ Subject function
 Subject function
 Subject function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
@@ -19289,7 +18854,6 @@ Adverbial function
 Subject function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Object function
@@ -19332,7 +18896,6 @@ Verbal function
 Subject function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Verbal function
 Adverbial function
 Verbal function
@@ -19341,10 +18904,10 @@ Adverbial function
 Adverbial function
 Verbal function
 Subject function
+Verbal function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Adverbial function
@@ -19359,6 +18922,7 @@ Adverbial function
 Verbal function
 Subject function
 Adverbial function
+Object function
 Verbal function
 Object function
 Verbal function
@@ -19376,7 +18940,6 @@ Verbal function
 Verbal function
 Indirect Object function
 Object function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -19384,10 +18947,10 @@ Subject function
 Subject function
 Verbal function
 Indirect Object function
+Predicate function
 Verbal Copula function
 Predicate function
 Subject function
-Subject function
 Verbal function
 Adverbial function
 Verbal function
@@ -19408,12 +18971,10 @@ Adverbial function
 Verbal function
 Verbal function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
 Object function
-Object function
 Verbal function
 Indirect Object function
 Second Object function
@@ -19442,7 +19003,6 @@ Object function
 Verbal function
 Indirect Object function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -19458,7 +19018,6 @@ Adverbial function
 Object function
 Verbal function
 Indirect Object function
-Indirect Object function
 Verbal function
 Adverbial function
 Verbal function
@@ -19565,7 +19124,6 @@ Object function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Predicate function
@@ -19602,6 +19160,7 @@ Verbal function
 Indirect Object function
 Subject function
 Subject function
+Indirect Object function
 Verbal function
 Indirect Object function
 Verbal function
@@ -19656,14 +19215,14 @@ Verbal function
 Object function
 Subject function
 Predicate function
-Verbal Copula function
+Subject function
 Verbal Copula function
+Subject function
 Subject function
 Object function
 Verbal function
 Object function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Object function
@@ -19671,6 +19230,7 @@ Verbal function
 Object function
 Subject function
 Predicate function
+Subject function
 Verbal Copula function
 Subject function
 Object function
@@ -19681,6 +19241,7 @@ Adverbial function
 Verbal function
 Subject function
 Predicate function
+Subject function
 Verbal Copula function
 Subject function
 Indirect Object function
@@ -19730,7 +19291,6 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
-Indirect Object function
 Indirect Object function
 Verbal function
 Object function
@@ -19751,7 +19311,6 @@ Verbal function
 Subject function
 Verbal Copula function
 Predicate function
-Predicate function
 Adverbial function
 Verbal function
 Object function
@@ -19778,17 +19337,16 @@ Adverbial function
 Adverbial function
 Verbal function
 Object function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
 Subject function
+Verbal function
 Object function
 Object function
 Adverbial function
 Subject function
 Verbal function
-Object function
 Object function
 Subject function
 Adverbial function
@@ -19810,8 +19368,8 @@ Adverbial function
 Verbal function
 Object function
 Adverbial function
+Adverbial function
 Verbal function
-Subject function
 Subject function
 Adverbial function
 Object function
@@ -19885,14 +19443,12 @@ Object function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Adverbial function
 Verbal function
 Subject function
 Verbal Copula function
 Adverbial function
-Predicate function
 Predicate function
 Verbal function
 Adverbial function
@@ -19904,7 +19460,6 @@ Object function
 Adverbial function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Adverbial function
@@ -19918,14 +19473,13 @@ Verbal Copula function
 Indirect Object function
 Verbal function
 Object function
-Adverbial function
 Verbal function
+Adverbial function
 Object function
 Adverbial function
 Object function
 Subject function
 Verbal function
-Indirect Object function
 Indirect Object function
 Subject function
 Verbal function
@@ -19944,8 +19498,8 @@ Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal Copula function
 Predicate function
+Verbal Copula function
 Adverbial function
 Verbal function
 Adverbial function
@@ -19958,8 +19512,8 @@ Adverbial function
 Verbal function
 Subject function
 Subject function
-Verbal Copula function
 Predicate function
+Verbal Copula function
 Adverbial function
 Verbal function
 Verbal function
@@ -20040,7 +19594,6 @@ Adverbial function
 Verbal function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Verbal function
@@ -20054,7 +19607,6 @@ Verbal function
 Verbal function
 Verbal function
 Object function
-Indirect Object function
 Indirect Object function
 Verbal function
 Subject function
@@ -20075,6 +19627,8 @@ Object function
 Verbal function
 Subject function
 Adverbial function
+Subject function
+Adverbial function
 Adverbial function
 Verbal function
 Indirect Object function
@@ -20142,21 +19696,19 @@ Subject function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Verbal function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Adverbial function
+Verbal function
 Object function
 Adverbial function
 Verbal function
 Verbal function
 Object function
-Verbal function
 Verbal function
 Object function
 Adverbial function
@@ -20170,7 +19722,6 @@ Verbal Copula function
 Verbal Copula function
 Object function
 Verbal function
-Verbal function
 Object function
 Object function
 Verbal function
@@ -20198,6 +19749,8 @@ Predicate function
 Adverbial function
 Verbal Copula function
 Verbal Copula function
+Subject function
+Verbal function
 Subject function
 Verbal function
 Object function
@@ -20254,11 +19807,11 @@ Predicate function
 Predicate function
 Verbal function
 Subject function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
 Object function
+Subject function
 Verbal function
 Adverbial function
 Verbal function
@@ -20279,7 +19832,6 @@ Object function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -20292,7 +19844,6 @@ Verbal function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Verbal function
@@ -20300,12 +19851,12 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Subject function
+Adverbial function
 Verbal Copula function
 Predicate function
-Adverbial function
 Verbal function
+Adverbial function
 Predicate function
 Subject function
 Verbal function
@@ -20321,7 +19872,6 @@ Adverbial function
 Verbal function
 Indirect Object function
 Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -20332,7 +19882,7 @@ Predicate function
 Subject function
 Verbal function
 Object function
-Object function
+Subject function
 Subject function
 Object function
 Adverbial function
@@ -20341,7 +19891,7 @@ Subject function
 Verbal function
 Indirect Object function
 Verbal function
-Verbal function
+Subject function
 Subject function
 Adverbial function
 Verbal function
@@ -20352,7 +19902,6 @@ Verbal function
 Indirect Object function
 Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Indirect Object function
@@ -20437,6 +19986,7 @@ Adverbial function
 Verbal function
 Object function
 Object function
+Subject function
 Predicate function
 Subject function
 Verbal function
@@ -20454,7 +20004,6 @@ Object function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Subject function
@@ -20516,6 +20065,7 @@ Verbal function
 Object function
 Subject function
 Predicate function
+Subject function
 Verbal Copula function
 Subject function
 Subject function
@@ -20523,7 +20073,7 @@ Verbal function
 Indirect Object function
 Verbal function
 Object function
-Object function
+Indirect Object function
 Indirect Object function
 Adverbial function
 Adverbial function
@@ -20533,13 +20083,11 @@ Verbal function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Verbal Copula function
 Predicate function
 Subject function
 Subject function
 Verbal Copula function
-Predicate function
 Predicate function
 Subject function
 Verbal Copula function
@@ -20554,7 +20102,6 @@ Adverbial function
 Adverbial function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Adverbial function
 Verbal function
@@ -20593,7 +20140,6 @@ Object function
 Verbal function
 Predicate function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Object function
@@ -20609,7 +20155,6 @@ Verbal function
 Subject function
 Verbal function
 Object function
-Object function
 Predicate function
 Verbal Copula function
 Subject function
@@ -20637,7 +20182,6 @@ Verbal function
 Subject function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -20647,7 +20191,6 @@ Adverbial function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Verbal function
 Indirect Object function
 Subject function
@@ -20655,7 +20198,6 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
@@ -20690,29 +20232,28 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Object function
 Verbal function
 Verbal function
 Verbal function
-Subject function
 Subject function
 Verbal function
 Indirect Object function
 Predicate function
 Subject function
-Subject function
 Verbal function
 Verbal function
 Adverbial function
 Predicate function
+Adverbial function
 Subject function
 Verbal Copula function
 Adverbial function
 Indirect Object function
 Verbal function
+Indirect Object function
 Adverbial function
 Verbal function
 Object function
@@ -20721,10 +20262,9 @@ Verbal function
 Adverbial function
 Subject function
 Verbal Copula function
-Predicate function
 Predicate function
-Object function
 Verbal function
+Object function
 Adverbial function
 Verbal function
 Subject function
@@ -20738,7 +20278,6 @@ Object function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Object function
 Verbal function
@@ -20768,7 +20307,6 @@ Verbal function
 Verbal function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Object function
@@ -20777,7 +20315,6 @@ Predicate function
 Adverbial function
 Subject function
 Verbal Copula function
-Verbal Copula function
 Subject function
 Verbal function
 Predicate function
@@ -20792,7 +20329,6 @@ Adverbial function
 Verbal function
 Indirect Object function
 Adverbial function
-Verbal function
 Verbal function
 Verbal Copula function
 Predicate function
@@ -20806,9 +20342,8 @@ Indirect Object function
 Adverbial function
 Verbal function
 Indirect Object function
-Indirect Object function
-Subject function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Adverbial function
@@ -20823,7 +20358,6 @@ Verbal function
 Object function
 Verbal function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Object function
@@ -20887,13 +20421,13 @@ Object function
 Verbal function
 Indirect Object function
 Subject function
-Subject function
 Adverbial function
 Verbal function
 Subject function
 Verbal function
 Object function
 Subject function
+Verbal function
 Subject function
 Verbal function
 Object function
@@ -20918,7 +20452,7 @@ Subject function
 Verbal Copula function
 Predicate function
 Subject function
-Verbal function
+Subject function
 Verbal function
 Adverbial function
 Verbal function
@@ -20950,7 +20484,6 @@ Predicate function
 Subject function
 Verbal function
 Object function
-Object function
 Verbal function
 Subject function
 Verbal function
@@ -20958,20 +20491,17 @@ Subject function
 Subject function
 Verbal function
 Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
 Object function
 Subject function
-Subject function
 Verbal function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
-Subject function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Verbal function
@@ -20985,7 +20515,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Indirect Object function
@@ -21005,7 +20534,6 @@ Verbal function
 Subject function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -21023,11 +20551,10 @@ Subject function
 Adverbial function
 Adverbial function
 Object function
-Object function
+Verbal function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Adverbial function
@@ -21038,7 +20565,6 @@ Verbal function
 Object function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -21090,6 +20616,7 @@ Adverbial function
 Verbal function
 Verbal function
 Adverbial function
+Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -21105,13 +20632,11 @@ Adverbial function
 Object function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Object function
@@ -21157,7 +20682,6 @@ Object function
 Verbal function
 Adverbial function
 Verbal Copula function
-Predicate function
 Predicate function
 Subject function
 Verbal function
@@ -21170,6 +20694,7 @@ Adverbial function
 Adverbial function
 Object function
 Verbal function
+Object function
 Verbal function
 Subject function
 Verbal function
@@ -21187,7 +20712,6 @@ Object function
 Object function
 Adverbial function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Verbal function
 Adverbial function
@@ -21208,10 +20732,10 @@ Subject function
 Verbal function
 Adverbial function
 Object function
-Object function
 Verbal Copula function
 Predicate function
 Subject function
+Predicate function
 Verbal function
 Adverbial function
 Verbal function
@@ -21222,7 +20746,6 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Object function
 Verbal function
 Object function
 Verbal function
@@ -21250,6 +20773,7 @@ Verbal function
 Adverbial function
 Verbal function
 Subject function
+Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -21259,17 +20783,14 @@ Verbal function
 Object function
 Verbal function
 Predicate function
-Subject function
-Verbal Copula function
 Subject function
 Verbal function
+Verbal Copula function
 Subject function
 Verbal function
-Object function
 Object function
 Subject function
 Object function
-Object function
 Subject function
 Subject function
 Verbal function
@@ -21278,11 +20799,10 @@ Indirect Object function
 Subject function
 Predicate function
 Subject function
-Verbal Copula function
 Verbal function
+Verbal Copula function
 Subject function
 Verbal function
-Predicate function
 Predicate function
 Subject function
 Verbal function
@@ -21319,7 +20839,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Object function
@@ -21339,9 +20858,7 @@ Subject function
 Verbal function
 Object function
 Adverbial function
-Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Object function
@@ -21350,7 +20867,6 @@ Subject function
 Verbal function
 Verbal function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Indirect Object function
@@ -21366,7 +20882,6 @@ Object function
 Subject function
 Verbal function
 Object function
-Object function
 Verbal function
 Adverbial function
 Adverbial function
@@ -21398,7 +20913,6 @@ Object function
 Object function
 Verbal function
 Adverbial function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
@@ -21434,7 +20948,6 @@ Adverbial function
 Verbal function
 Object function
 Verbal function
-Verbal function
 Object function
 Subject function
 Verbal function
@@ -21527,7 +21040,6 @@ Verbal function
 Object function
 Verbal function
 Adverbial function
-Object function
 Object function
 Adverbial function
 Verbal function
@@ -21544,10 +21056,8 @@ Object function
 Verbal function
 Object function
 Indirect Object function
-Indirect Object function
 Verbal function
 Subject function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -21560,8 +21070,8 @@ Subject function
 Adverbial function
 Object function
 Subject function
+Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -21576,13 +21086,14 @@ Object function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Verbal function
+Subject function
 Adverbial function
 Subject function
 Verbal Copula function
 Predicate function
 Subject function
+Subject function
 Verbal function
 Object function
 Verbal function
@@ -21611,7 +21122,6 @@ Adverbial function
 Verbal Copula function
 Subject function
 Verbal Copula function
-Predicate function
 Predicate function
 Verbal function
 Subject function
@@ -21628,7 +21138,6 @@ Object function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Subject function
@@ -21640,7 +21149,6 @@ Verbal Copula function
 Predicate function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Verbal function
 Adverbial function
 Verbal function
@@ -21667,7 +21175,6 @@ Object function
 Object function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -21679,7 +21186,6 @@ Adverbial function
 Object function
 Verbal function
 Object function
-Object function
 Verbal function
 Object function
 Object function
@@ -21702,9 +21208,9 @@ Subject function
 Object function
 Verbal function
 Subject function
-Object function
 Object function
 Subject function
+Subject function
 Adverbial function
 Verbal function
 Adverbial function
@@ -21713,7 +21219,6 @@ Verbal function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -21721,18 +21226,15 @@ Indirect Object function
 Adverbial function
 Verbal function
 Object function
-Object function
 Verbal function
 Indirect Object function
 Verbal function
 Subject function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
 Object function
-Object function
 Verbal function
 Subject function
 Verbal function
@@ -21742,7 +21244,6 @@ Adverbial function
 Verbal function
 Indirect Object function
 Verbal function
-Object function
 Object function
 Verbal function
 Adverbial function
@@ -21769,9 +21270,10 @@ Verbal function
 Verbal function
 Adverbial function
 Subject function
-Predicate function
+Subject function
 Predicate function
 Subject function
+Subject function
 Predicate function
 Verbal function
 Object function
@@ -21790,11 +21292,11 @@ Object function
 Adverbial function
 Object function
 Adverbial function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
 Adverbial function
+Adverbial function
 Verbal function
 Subject function
 Indirect Object function
@@ -21807,7 +21309,6 @@ Adverbial function
 Subject function
 Adverbial function
 Adverbial function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -21837,7 +21338,7 @@ Indirect Object function
 Verbal function
 Adverbial function
 Subject function
-Subject function
+Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -21884,8 +21385,9 @@ Verbal Copula function
 Adverbial function
 Adverbial function
 Adverbial function
-Adverbial function
+Subject function
 Subject function
+Subject function
 Adverbial function
 Verbal function
 Adverbial function
@@ -21904,7 +21406,6 @@ Object function
 Verbal function
 Object function
 Verbal function
-Object function
 Object function
 Verbal function
 Subject function
@@ -21915,7 +21416,6 @@ Subject function
 Verbal function
 Indirect Object function
 Adverbial function
-Adverbial function
 Verbal function
 Indirect Object function
 Verbal function
@@ -21941,7 +21441,6 @@ Adverbial function
 Verbal function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Verbal function
 Subject function
@@ -21989,17 +21488,17 @@ Object function
 Adverbial function
 Subject function
 Indirect Object function
-Verbal function
+Subject function
 Verbal function
 Subject function
 Verbal function
+Verbal function
 Adverbial function
 Verbal function
 Predicate function
 Subject function
 Verbal function
 Object function
-Verbal function
 Verbal function
 Verbal function
 Indirect Object function
@@ -22026,14 +21525,12 @@ Object function
 Verbal function
 Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
 Subject function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -22042,13 +21539,11 @@ Adverbial function
 Adverbial function
 Object function
 Object function
-Object function
 Verbal function
 Indirect Object function
 Adverbial function
 Verbal function
 Object function
-Verbal function
 Verbal function
 Verbal function
 Subject function
@@ -22076,7 +21571,6 @@ Adverbial function
 Object function
 Verbal function
 Object function
-Object function
 Adverbial function
 Subject function
 Verbal function
@@ -22084,7 +21578,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Object function
-Verbal function
 Verbal function
 Adverbial function
 Subject function
@@ -22092,7 +21585,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
@@ -22101,7 +21593,6 @@ Verbal function
 Verbal function
 Object function
 Verbal function
-Object function
 Object function
 Verbal function
 Object function
@@ -22128,13 +21619,13 @@ Verbal function
 Subject function
 Verbal function
 Indirect Object function
+Subject function
+Predicate function
 Verbal function
 Adverbial function
-Subject function
 Verbal Copula function
 Predicate function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -22142,7 +21633,6 @@ Subject function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Verbal function
 Indirect Object function
 Subject function
@@ -22172,7 +21662,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -22184,7 +21673,6 @@ Adverbial function
 Subject function
 Verbal function
 Verbal function
-Verbal function
 Indirect Object function
 Object function
 Verbal function
@@ -22192,7 +21680,6 @@ Verbal function
 Indirect Object function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -22210,6 +21697,8 @@ Adverbial function
 Verbal function
 Subject function
 Adverbial function
+Verbal function
+Verbal function
 Verbal function
 Verbal function
 Subject function
@@ -22221,7 +21710,6 @@ Verbal function
 Subject function
 Verbal function
 Object function
-Object function
 Verbal function
 Indirect Object function
 Verbal function
@@ -22236,9 +21724,9 @@ Indirect Object function
 Adverbial function
 Verbal function
 Indirect Object function
-Object function
 Object function
 Subject function
+Subject function
 Verbal function
 Indirect Object function
 Verbal function
@@ -22297,9 +21785,9 @@ Indirect Object function
 Verbal function
 Adverbial function
 Verbal Copula function
-Predicate function
 Predicate function
 Adverbial function
+Adverbial function
 Verbal function
 Indirect Object function
 Object function
@@ -22317,6 +21805,7 @@ Verbal function
 Verbal function
 Verbal function
 Indirect Object function
+Subject function
 Subject function
 Verbal function
 Verbal function
@@ -22325,7 +21814,6 @@ Verbal function
 Verbal function
 Indirect Object function
 Verbal function
-Verbal function
 Object function
 Verbal function
 Subject function
@@ -22379,7 +21867,6 @@ Subject function
 Verbal function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -22484,13 +21971,13 @@ Verbal Copula function
 Subject function
 Predicate function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal function
 Subject function
 Object function
 Verbal function
+Subject function
 Object function
 Subject function
 Verbal function
@@ -22502,7 +21989,6 @@ Object function
 Subject function
 Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Predicate function
@@ -22510,7 +21996,6 @@ Subject function
 Verbal function
 Object function
 Subject function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -22586,7 +22071,6 @@ Predicate function
 Verbal Copula function
 Subject function
 Predicate function
-Predicate function
 Verbal function
 Subject function
 Predicate function
@@ -22602,7 +22086,6 @@ Predicate function
 Subject function
 Adverbial function
 Verbal function
-Object function
 Object function
 Adverbial function
 Verbal function
@@ -22611,12 +22094,10 @@ Subject function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -22624,7 +22105,7 @@ Adverbial function
 Subject function
 Object function
 Verbal function
-Verbal function
+Subject function
 Subject function
 Verbal function
 Object function
@@ -22653,7 +22134,6 @@ Object function
 Object function
 Verbal function
 Adverbial function
-Verbal function
 Object function
 Verbal function
 Object function
@@ -22681,7 +22161,6 @@ Indirect Object function
 Object function
 Verbal function
 Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -22701,7 +22180,7 @@ Indirect Object function
 Indirect Object function
 Verbal function
 Object function
-Object function
+Subject function
 Subject function
 Verbal function
 Object function
@@ -22714,7 +22193,6 @@ Adverbial function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Adverbial function
@@ -22777,11 +22255,10 @@ Adverbial function
 Subject function
 Verbal Copula function
 Predicate function
-Adverbial function
 Adverbial function
 Predicate function
-Verbal Copula function
 Verbal function
+Verbal Copula function
 Subject function
 Adverbial function
 Verbal function
@@ -22801,7 +22278,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Indirect Object function
 Adverbial function
@@ -22894,7 +22370,6 @@ Verbal function
 Indirect Object function
 Verbal function
 Adverbial function
-Object function
 Object function
 Subject function
 Verbal function
@@ -22903,7 +22378,6 @@ Subject function
 Object function
 Verbal function
 Second Object function
-Second Object function
 Verbal function
 Adverbial function
 Verbal function
@@ -22917,13 +22391,15 @@ Subject function
 Verbal Copula function
 Predicate function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Object function
 Adverbial function
+Verbal function
+Subject function
 Verbal function
 Subject function
+Subject function
 Verbal function
 Adverbial function
 Verbal function
@@ -22986,7 +22462,6 @@ Verbal function
 Verbal function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Subject function
 Predicate function
@@ -23010,7 +22485,6 @@ Adverbial function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Adverbial function
@@ -23138,7 +22612,6 @@ Verbal function
 Adverbial function
 Predicate function
 Verbal Copula function
-Subject function
 Subject function
 Object function
 Verbal function
@@ -23147,7 +22620,6 @@ Subject function
 Adverbial function
 Subject function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Subject function
@@ -23181,11 +22653,10 @@ Object function
 Predicate function
 Subject function
 Subject function
-Verbal function
-Adverbial function
 Verbal function
 Subject function
 Verbal function
+Adverbial function
 Adverbial function
 Verbal function
 Indirect Object function
@@ -23218,7 +22689,6 @@ Object function
 Object function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Object function
@@ -23231,8 +22701,8 @@ Adverbial function
 Subject function
 Adverbial function
 Verbal function
-Subject function
 Verbal function
+Subject function
 Object function
 Verbal function
 Adverbial function
@@ -23250,7 +22720,6 @@ Object function
 Second Object function
 Verbal function
 Object function
-Verbal function
 Object function
 Verbal function
 Adverbial function
@@ -23259,27 +22728,26 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Object function
 Verbal function
 Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Verbal function
 Object function
 Verbal function
 Adverbial function
+Adverbial function
 Verbal function
 Indirect Object function
-Adverbial function
-Adverbial function
-Object function
+Indirect Object function
 Object function
 Verbal function
 Adverbial function
+Subject function
+Verbal function
 Subject function
 Adverbial function
 Subject function
@@ -23296,7 +22764,6 @@ Adverbial function
 Subject function
 Adverbial function
 Subject function
-Adverbial function
 Adverbial function
 Verbal function
 Indirect Object function
@@ -23321,11 +22788,10 @@ Verbal function
 Verbal function
 Object function
 Verbal function
-Verbal function
+Object function
 Object function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Object function
@@ -23435,7 +22901,6 @@ Verbal function
 Object function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -23456,13 +22921,13 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Object function
 Verbal function
 Adverbial function
 Adverbial function
 Verbal function
 Object function
 Verbal function
+Object function
 Adverbial function
 Adverbial function
 Verbal Copula function
@@ -23470,7 +22935,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Object function
 Subject function
@@ -23487,7 +22951,6 @@ Adverbial function
 Verbal function
 Verbal function
 Verbal function
-Object function
 Object function
 Verbal function
 Subject function
@@ -23504,11 +22967,9 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Indirect Object function
 Subject function
-Verbal function
 Verbal function
 Subject function
 Adverbial function
@@ -23516,18 +22977,18 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Predicate function
 Verbal Copula function
 Object function
 Verbal function
 Subject function
-Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
 Verbal function
+Adverbial function
+Adverbial function
 Object function
 Verbal function
 Subject function
@@ -23541,7 +23002,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Predicate function
@@ -23591,7 +23051,6 @@ Verbal function
 Adverbial function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -23600,16 +23059,15 @@ Indirect Object function
 Predicate function
 Subject function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
+Subject function
 Verbal function
 Indirect Object function
-Subject function
 Verbal function
 Adverbial function
 Verbal function
@@ -23659,8 +23117,8 @@ Subject function
 Verbal function
 Subject function
 Adverbial function
-Object function
 Subject function
+Object function
 Verbal function
 Adverbial function
 Adverbial function
@@ -23734,7 +23192,6 @@ Adverbial function
 Verbal function
 Verbal function
 Indirect Object function
-Subject function
 Subject function
 Verbal function
 Indirect Object function
@@ -23762,6 +23219,7 @@ Object function
 Verbal function
 Subject function
 Verbal Copula function
+Subject function
 Predicate function
 Predicate function
 Verbal function
@@ -23771,7 +23229,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -23792,7 +23249,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -23887,8 +23343,8 @@ Verbal function
 Indirect Object function
 Verbal function
 Indirect Object function
-Adverbial function
 Adverbial function
+Verbal function
 Subject function
 Verbal function
 Object function
@@ -23898,7 +23354,6 @@ Predicate function
 Subject function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -23944,6 +23399,8 @@ Subject function
 Verbal function
 Object function
 Verbal function
+Object function
+Object function
 Verbal function
 Object function
 Verbal function
@@ -24000,7 +23457,6 @@ Indirect Object function
 Subject function
 Verbal function
 Object function
-Object function
 Verbal function
 Adverbial function
 Subject function
@@ -24028,7 +23484,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Verbal Copula function
-Predicate function
 Predicate function
 Subject function
 Verbal function
@@ -24082,7 +23537,6 @@ Verbal Copula function
 Object function
 Verbal function
 Object function
-Object function
 Adverbial function
 Subject function
 Adverbial function
@@ -24110,6 +23564,7 @@ Object function
 Verbal function
 Verbal function
 Adverbial function
+Verbal function
 Subject function
 Verbal function
 Object function
@@ -24124,7 +23579,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Object function
@@ -24175,8 +23629,12 @@ Subject function
 Adverbial function
 Object function
 Verbal function
+Object function
 Object function
+Object function
 Verbal function
+Object function
+Object function
 Verbal function
 Object function
 Object function
@@ -24214,7 +23672,6 @@ Verbal function
 Indirect Object function
 Object function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -24233,7 +23690,6 @@ Verbal function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Object function
@@ -24260,14 +23716,12 @@ Subject function
 Subject function
 Subject function
 Verbal function
-Indirect Object function
 Indirect Object function
 Adverbial function
 Verbal function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Adverbial function
 Verbal function
@@ -24299,7 +23753,6 @@ Verbal function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Verbal function
 Subject function
@@ -24311,7 +23764,6 @@ Verbal Copula function
 Predicate function
 Verbal Copula function
 Predicate function
-Predicate function
 Verbal function
 Subject function
 Adverbial function
@@ -24335,7 +23787,6 @@ Verbal function
 Subject function
 Predicate function
 Verbal Copula function
-Verbal function
 Verbal function
 Verbal function
 Verbal function
@@ -24351,8 +23802,8 @@ Object function
 Verbal function
 Object function
 Verbal function
-Object function
 Predicate function
+Object function
 Verbal Copula function
 Subject function
 Subject function
@@ -24374,7 +23825,6 @@ Verbal function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Indirect Object function
@@ -24398,7 +23848,6 @@ Adverbial function
 Verbal function
 Verbal function
 Indirect Object function
-Object function
 Object function
 Subject function
 Verbal function
@@ -24485,10 +23934,8 @@ Indirect Object function
 Object function
 Verbal function
 Indirect Object function
-Indirect Object function
 Subject function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -24505,7 +23952,6 @@ Verbal function
 Subject function
 Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Object function
@@ -24581,7 +24027,6 @@ Adverbial function
 Verbal function
 Object function
 Verbal function
-Object function
 Object function
 Verbal function
 Object function
@@ -24600,7 +24045,7 @@ Predicate function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
+Subject function
 Subject function
 Verbal function
 Object function
@@ -24615,7 +24060,6 @@ Verbal function
 Subject function
 Adverbial function
 Verbal function
-Verbal function
 Predicate function
 Verbal Copula function
 Subject function
@@ -24633,7 +24077,6 @@ Verbal function
 Subject function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal Copula function
@@ -24643,7 +24086,6 @@ Verbal function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Adverbial function
 Predicate function
@@ -24657,7 +24099,6 @@ Verbal function
 Adverbial function
 Subject function
 Verbal function
-Object function
 Object function
 Verbal function
 Subject function
@@ -24692,7 +24133,6 @@ Object function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Verbal function
@@ -24718,11 +24158,11 @@ Adverbial function
 Verbal function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Verbal function
 Object function
 Object function
+Object function
 Verbal function
 Object function
 Adverbial function
@@ -24734,7 +24174,6 @@ Indirect Object function
 Adverbial function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -24742,7 +24181,6 @@ Verbal function
 Object function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Verbal function
@@ -24767,7 +24205,6 @@ Predicate function
 Verbal Copula function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Adverbial function
@@ -24809,11 +24246,9 @@ Indirect Object function
 Verbal function
 Indirect Object function
 Object function
-Object function
 Verbal function
 Subject function
 Verbal function
-Object function
 Object function
 Verbal function
 Indirect Object function
@@ -24822,9 +24257,7 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Object function
 Subject function
-Verbal function
 Object function
 Verbal function
 Object function
@@ -24907,7 +24340,6 @@ Adverbial function
 Verbal function
 Subject function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
@@ -24923,14 +24355,13 @@ Verbal function
 Object function
 Subject function
 Verbal Copula function
-Predicate function
 Predicate function
 Verbal function
 Subject function
 Verbal function
 Subject function
 Verbal function
-Verbal function
+Subject function
 Subject function
 Predicate function
 Adverbial function
@@ -24946,7 +24377,6 @@ Verbal function
 Subject function
 Verbal function
 Object function
-Object function
 Verbal function
 Adverbial function
 Verbal function
@@ -24965,7 +24395,6 @@ Adverbial function
 Verbal function
 Subject function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Verbal function
 Adverbial function
@@ -24996,7 +24425,6 @@ Subject function
 Adverbial function
 Adverbial function
 Verbal function
-Adverbial function
 Subject function
 Object function
 Verbal function
@@ -25021,7 +24449,6 @@ Adverbial function
 Verbal function
 Subject function
 Verbal function
-Object function
 Object function
 Predicate function
 Verbal Copula function
@@ -25084,16 +24511,17 @@ Verbal function
 Subject function
 Verbal function
 Subject function
+Verbal function
 Adverbial function
 Subject function
 Verbal function
+Subject function
 Subject function
 Verbal function
 Verbal function
 Indirect Object function
 Adverbial function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Indirect Object function
@@ -25122,7 +24550,6 @@ Verbal function
 Adverbial function
 Object function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal Copula function
@@ -25136,16 +24563,15 @@ Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Object function
 Adverbial function
 Verbal function
 Object function
-Verbal function
 Verbal function
 Adverbial function
+Adverbial function
 Verbal function
 Indirect Object function
 Object function
@@ -25155,7 +24581,6 @@ Object function
 Object function
 Adverbial function
 Verbal function
-Object function
 Object function
 Verbal function
 Subject function
@@ -25183,7 +24608,6 @@ Verbal function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -25212,16 +24636,17 @@ Adverbial function
 Verbal Copula function
 Predicate function
 Subject function
+Predicate function
 Predicate function
 Predicate function
 Predicate function
+Subject function
 Predicate function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
 Object function
-Verbal function
 Verbal function
 Subject function
 Adverbial function
@@ -25249,7 +24674,6 @@ Subject function
 Verbal function
 Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Object function
@@ -25261,7 +24685,6 @@ Object function
 Verbal function
 Subject function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -25272,6 +24695,7 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
+Predicate function
 Adverbial function
 Predicate function
 Verbal Copula function
@@ -25291,6 +24715,7 @@ Adverbial function
 Verbal function
 Subject function
 Object function
+Subject function
 Verbal function
 Adverbial function
 Object function
@@ -25320,12 +24745,10 @@ Adverbial function
 Verbal function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -25346,17 +24769,14 @@ Adverbial function
 Adverbial function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Object function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Verbal Copula function
 Predicate function
 Adverbial function
-Adverbial function
 Verbal function
 Object function
 Subject function
@@ -25379,7 +24799,6 @@ Verbal function
 Subject function
 Verbal function
 Subject function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -25387,7 +24806,6 @@ Subject function
 Predicate function
 Adverbial function
 Verbal Copula function
-Verbal Copula function
 Verbal function
 Subject function
 Verbal function
@@ -25395,7 +24813,6 @@ Subject function
 Verbal function
 Object function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -25417,7 +24834,6 @@ Subject function
 Adverbial function
 Verbal function
 Object function
-Object function
 Verbal function
 Object function
 Verbal function
@@ -25468,7 +24884,6 @@ Subject function
 Verbal function
 Predicate function
 Verbal Copula function
-Subject function
 Subject function
 Verbal function
 Indirect Object function
@@ -25488,13 +24903,11 @@ Adverbial function
 Verbal function
 Verbal function
 Object function
-Object function
 Verbal function
 Subject function
 Verbal function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -25502,7 +24915,6 @@ Verbal function
 Object function
 Indirect Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Verbal function
@@ -25575,7 +24987,9 @@ Subject function
 Verbal function
 Adverbial function
 Verbal function
+Adverbial function
 Adverbial function
+Verbal function
 Subject function
 Verbal function
 Verbal function
@@ -25594,6 +25008,7 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
+Verbal function
 Verbal function
 Indirect Object function
 Verbal function
@@ -25602,7 +25017,6 @@ Adverbial function
 Object function
 Verbal function
 Object function
-Object function
 Verbal function
 Adverbial function
 Subject function
@@ -25625,6 +25039,7 @@ Object function
 Verbal function
 Object function
 Adverbial function
+Predicate function
 Verbal Copula function
 Predicate function
 Subject function
@@ -25654,7 +25069,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Object function
@@ -25690,6 +25104,9 @@ Verbal function
 Subject function
 Verbal function
 Subject function
+Object function
+Verbal function
+Object function
 Object function
 Verbal function
 Indirect Object function
@@ -25707,16 +25124,17 @@ Adverbial function
 Verbal function
 Subject function
 Verbal function
-Adverbial function
 Subject function
+Adverbial function
 Verbal function
 Object function
-Object function
 Verbal function
 Indirect Object function
 Subject function
 Predicate function
 Verbal Copula function
+Predicate function
+Predicate function
 Subject function
 Verbal function
 Adverbial function
@@ -25726,6 +25144,7 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
+Adverbial function
 Object function
 Adverbial function
 Predicate function
@@ -25747,8 +25166,8 @@ Object function
 Object function
 Verbal function
 Subject function
-Verbal Copula function
 Predicate function
+Verbal Copula function
 Verbal function
 Object function
 Adverbial function
@@ -25763,7 +25182,6 @@ Adverbial function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Adverbial function
@@ -25785,9 +25203,9 @@ Object function
 Verbal function
 Indirect Object function
 Indirect Object function
-Verbal function
 Verbal function
 Adverbial function
+Adverbial function
 Verbal function
 Subject function
 Object function
@@ -25824,9 +25242,11 @@ Adverbial function
 Adverbial function
 Verbal function
 Subject function
+Verbal function
 Adverbial function
 Subject function
 Adverbial function
+Subject function
 Verbal function
 Adverbial function
 Verbal function
@@ -25847,7 +25267,6 @@ Verbal function
 Subject function
 Verbal function
 Verbal function
-Indirect Object function
 Indirect Object function
 Verbal function
 Subject function
@@ -25857,7 +25276,6 @@ Subject function
 Adverbial function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Subject function
@@ -25871,14 +25289,12 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
-Object function
 Object function
 Verbal function
 Subject function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Adverbial function
@@ -25893,8 +25309,8 @@ Adverbial function
 Verbal function
 Subject function
 Verbal function
-Adverbial function
 Subject function
+Adverbial function
 Predicate function
 Subject function
 Adverbial function
@@ -25966,8 +25382,8 @@ Adverbial function
 Verbal Copula function
 Subject function
 Predicate function
-Adverbial function
 Subject function
+Adverbial function
 Object function
 Verbal function
 Second Object function
@@ -25984,6 +25400,7 @@ Adverbial function
 Verbal function
 Object function
 Verbal function
+Subject function
 Subject function
 Verbal function
 Object function
@@ -26012,7 +25429,6 @@ Subject function
 Verbal function
 Indirect Object function
 Object function
-Object function
 Verbal function
 Adverbial function
 Verbal function
@@ -26025,7 +25441,6 @@ Indirect Object function
 Subject function
 Predicate function
 Verbal Copula function
-Predicate function
 Predicate function
 Subject function
 Verbal function
@@ -26044,6 +25459,7 @@ Predicate function
 Subject function
 Verbal function
 Object function
+Verbal function
 Adverbial function
 Verbal function
 Subject function
@@ -26096,6 +25512,7 @@ Second Object function
 Verbal function
 Object function
 Verbal function
+Object function
 Subject function
 Object function
 Verbal function
@@ -26136,7 +25553,6 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
-Verbal function
 Object function
 Verbal function
 Indirect Object function
@@ -26147,12 +25563,10 @@ Object function
 Object function
 Verbal function
 Object function
-Indirect Object function
 Indirect Object function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Object function
@@ -26223,7 +25637,6 @@ Subject function
 Indirect Object function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Object function
@@ -26234,10 +25647,8 @@ Indirect Object function
 Object function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -26286,7 +25697,6 @@ Adverbial function
 Verbal function
 Object function
 Indirect Object function
-Indirect Object function
 Subject function
 Verbal function
 Subject function
@@ -26296,7 +25706,6 @@ Verbal function
 Adverbial function
 Subject function
 Verbal function
-Object function
 Object function
 Adverbial function
 Subject function
@@ -26307,12 +25716,13 @@ Verbal function
 Adverbial function
 Subject function
 Verbal function
-Verbal function
 Subject function
 Adverbial function
 Predicate function
 Verbal Copula function
+Predicate function
 Subject function
+Subject function
 Verbal function
 Object function
 Second Object function
@@ -26320,7 +25730,6 @@ Second Object function
 Verbal function
 Indirect Object function
 Subject function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -26332,7 +25741,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Predicate function
 Verbal Copula function
 Verbal Copula function
@@ -26362,20 +25770,17 @@ Verbal function
 Subject function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
 Object function
 Second Object function
-Second Object function
 Verbal function
 Adverbial function
 Verbal function
 Subject function
 Verbal Copula function
 Predicate function
-Predicate function
 Subject function
 Verbal function
 Adverbial function
@@ -26386,7 +25791,6 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Second Object function
 Second Object function
 Subject function
 Object function
@@ -26396,7 +25800,6 @@ Verbal function
 Adverbial function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Verbal function
 Subject function
 Verbal function
@@ -26415,14 +25818,12 @@ Object function
 Verbal function
 Subject function
 Verbal function
-Object function
 Object function
 Verbal function
 Object function
 Verbal function
 Adverbial function
 Object function
-Object function
 Verbal function
 Subject function
 Verbal function
@@ -26441,7 +25842,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Adverbial function
@@ -26461,6 +25861,7 @@ Verbal function
 Subject function
 Adverbial function
 Verbal function
+Subject function
 Adverbial function
 Subject function
 Adverbial function
@@ -26468,9 +25869,9 @@ Verbal function
 Verbal function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Predicate function
+Adverbial function
 Subject function
 Verbal Copula function
 Adverbial function
@@ -26479,7 +25880,6 @@ Subject function
 Adverbial function
 Verbal function
 Subject function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -26520,7 +25920,6 @@ Subject function
 Verbal function
 Subject function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -26531,7 +25930,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -26547,7 +25945,6 @@ Verbal function
 Subject function
 Verbal function
 Object function
-Object function
 Verbal function
 Adverbial function
 Adverbial function
@@ -26628,6 +26025,7 @@ Subject function
 Adverbial function
 Verbal function
 Adverbial function
+Subject function
 Subject function
 Verbal function
 Verbal function
@@ -26636,7 +26034,6 @@ Verbal function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Verbal function
@@ -26679,7 +26076,6 @@ Subject function
 Subject function
 Verbal function
 Subject function
-Verbal function
 Verbal function
 Subject function
 Adverbial function
@@ -26699,7 +26095,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -26710,6 +26105,7 @@ Verbal function
 Object function
 Verbal function
 Adverbial function
+Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -26724,7 +26120,6 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Object function
 Verbal function
 Subject function
 Verbal Copula function
@@ -26737,7 +26132,6 @@ Adverbial function
 Verbal function
 Object function
 Verbal function
-Object function
 Object function
 Verbal function
 Subject function
@@ -26769,7 +26163,6 @@ Verbal function
 Object function
 Adverbial function
 Indirect Object function
-Indirect Object function
 Verbal function
 Subject function
 Adverbial function
@@ -26781,14 +26174,11 @@ Verbal function
 Indirect Object function
 Object function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
 Indirect Object function
-Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -26884,6 +26274,7 @@ Object function
 Adverbial function
 Verbal function
 Verbal function
+Subject function
 Predicate function
 Subject function
 Adverbial function
@@ -26895,6 +26286,8 @@ Verbal function
 Object function
 Adverbial function
 Predicate function
+Adverbial function
+Subject function
 Adverbial function
 Subject function
 Adverbial function
@@ -26910,17 +26303,18 @@ Verbal function
 Adverbial function
 Object function
 Predicate function
+Object function
 Verbal Copula function
 Adverbial function
 Subject function
 Object function
 Verbal function
 Verbal function
+Subject function
 Adverbial function
 Subject function
 Verbal function
 Verbal Copula function
-Predicate function
 Predicate function
 Subject function
 Verbal function
@@ -26934,7 +26328,6 @@ Verbal function
 Object function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Subject function
 Adverbial function
 Predicate function
@@ -26946,7 +26339,6 @@ Predicate function
 Subject function
 Verbal function
 Predicate function
-Verbal function
 Verbal function
 Subject function
 Predicate function
@@ -26957,12 +26349,10 @@ Verbal function
 Verbal function
 Subject function
 Verbal function
-Verbal function
 Subject function
 Adverbial function
 Verbal Copula function
 Predicate function
-Verbal function
 Verbal function
 Subject function
 Verbal Copula function
@@ -26985,6 +26375,8 @@ Verbal function
 Adverbial function
 Object function
 Verbal function
+Object function
+Object function
 Verbal function
 Subject function
 Verbal function
@@ -27002,7 +26394,6 @@ Subject function
 Adverbial function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Indirect Object function
@@ -27010,7 +26401,6 @@ Adverbial function
 Predicate function
 Verbal Copula function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -27022,6 +26412,7 @@ Adverbial function
 Subject function
 Adverbial function
 Object function
+Verbal function
 Adverbial function
 Verbal function
 Verbal function
@@ -27031,12 +26422,10 @@ Object function
 Adverbial function
 Adverbial function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Indirect Object function
 Adverbial function
@@ -27052,28 +26441,23 @@ Adverbial function
 Verbal function
 Object function
 Verbal function
-Object function
 Object function
 Verbal function
 Indirect Object function
-Verbal function
 Subject function
 Verbal function
+Adverbial function
 Subject function
 Adverbial function
 Verbal function
-Adverbial function
-Adverbial function
 Subject function
 Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Verbal function
 Subject function
 Adverbial function
-Predicate function
 Predicate function
 Subject function
 Verbal function
@@ -27086,7 +26470,6 @@ Adverbial function
 Verbal function
 Object function
 Subject function
-Subject function
 Verbal function
 Adverbial function
 Verbal function
@@ -27161,7 +26544,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -27171,7 +26553,6 @@ Object function
 Verbal function
 Verbal function
 Subject function
-Verbal function
 Object function
 Verbal function
 Verbal function
@@ -27182,7 +26563,6 @@ Verbal function
 Subject function
 Object function
 Verbal function
-Object function
 Object function
 Verbal function
 Subject function
@@ -27192,7 +26572,6 @@ Verbal function
 Object function
 Verbal function
 Object function
-Object function
 Verbal function
 Subject function
 Adverbial function
@@ -27211,7 +26590,6 @@ Object function
 Adverbial function
 Subject function
 Verbal Copula function
-Predicate function
 Predicate function
 Verbal function
 Object function
@@ -27221,15 +26599,12 @@ Adverbial function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Object function
 Adverbial function
 Verbal function
 Subject function
-Adverbial function
 Adverbial function
-Subject function
 Verbal function
 Subject function
 Verbal function
@@ -27239,7 +26614,6 @@ Object function
 Verbal function
 Subject function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Subject function
 Verbal function
@@ -27256,7 +26630,6 @@ Verbal function
 Subject function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Subject function
 Verbal function
 Adverbial function
@@ -27269,10 +26642,10 @@ Adverbial function
 Subject function
 Predicate function
 Verbal Copula function
+Predicate function
 Adverbial function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Verbal function
 Subject function
 Adverbial function
@@ -27344,7 +26717,6 @@ Subject function
 Verbal Copula function
 Predicate function
 Verbal function
-Indirect Object function
 Indirect Object function
 Verbal function
 Indirect Object function
@@ -27355,32 +26727,27 @@ Verbal function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Subject function
-Adverbial function
+Verbal function
 Adverbial function
 Verbal function
-Subject function
 Subject function
 Verbal Copula function
 Predicate function
-Predicate function
 Subject function
 Adverbial function
 Verbal function
 Subject function
 Verbal function
 Subject function
-Verbal Copula function
 Verbal Copula function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Adverbial function
@@ -27389,7 +26756,6 @@ Verbal function
 Subject function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Verbal function
 Object function
@@ -27406,14 +26772,12 @@ Verbal function
 Subject function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Subject function
 Verbal function
 Object function
 Verbal function
 Subject function
 Verbal Copula function
-Predicate function
 Predicate function
 Subject function
 Verbal function
@@ -27421,13 +26785,11 @@ Indirect Object function
 Verbal function
 Subject function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -27439,7 +26801,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Subject function
@@ -27456,7 +26817,6 @@ Adverbial function
 Verbal Copula function
 Subject function
 Predicate function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -27473,6 +26833,7 @@ Adverbial function
 Adverbial function
 Verbal function
 Subject function
+Verbal function
 Adverbial function
 Verbal function
 Verbal function
@@ -27481,24 +26842,21 @@ Adverbial function
 Subject function
 Object function
 Verbal function
-Indirect Object function
 Indirect Object function
 Verbal function
 Subject function
 Adverbial function
 Verbal function
 Object function
-Object function
-Subject function
 Verbal function
 Object function
+Subject function
 Adverbial function
 Verbal function
 Verbal function
 Object function
 Verbal function
 Object function
-Indirect Object function
 Indirect Object function
 Verbal Copula function
 Predicate function
@@ -27508,7 +26866,6 @@ Verbal Copula function
 Predicate function
 Verbal Copula function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Object function
@@ -27548,11 +26905,13 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Adverbial function
 Verbal function
+Adverbial function
 Indirect Object function
 Object function
 Subject function
+Verbal function
+Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -27562,16 +26921,15 @@ Subject function
 Verbal function
 Object function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Adverbial function
 Verbal function
 Adverbial function
+Object function
 Object function
 Verbal function
 Subject function
@@ -27581,7 +26939,6 @@ Adverbial function
 Verbal function
 Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
@@ -27600,9 +26957,9 @@ Adverbial function
 Verbal function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Object function
+Object function
 Verbal function
 Adverbial function
 Adverbial function
@@ -27616,14 +26973,12 @@ Verbal function
 Indirect Object function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Object function
 Subject function
 Verbal function
 Object function
-Object function
 Verbal function
 Adverbial function
 Subject function
@@ -27676,7 +27031,6 @@ Object function
 Object function
 Adverbial function
 Object function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -27705,7 +27059,6 @@ Adverbial function
 Subject function
 Verbal Copula function
 Predicate function
-Predicate function
 Verbal function
 Object function
 Subject function
@@ -27720,7 +27073,6 @@ Subject function
 Verbal Copula function
 Predicate function
 Verbal function
-Object function
 Object function
 Verbal Copula function
 Subject function
@@ -27736,7 +27088,6 @@ Verbal Copula function
 Predicate function
 Verbal function
 Object function
-Object function
 Verbal function
 Subject function
 Verbal function
@@ -27751,9 +27102,9 @@ Predicate function
 Verbal Copula function
 Verbal Copula function
 Subject function
-Adverbial function
 Adverbial function
 Object function
+Object function
 Verbal function
 Subject function
 Object function
@@ -27779,7 +27130,6 @@ Subject function
 Verbal function
 Adverbial function
 Subject function
-Verbal function
 Verbal function
 Verbal function
 Subject function
@@ -27796,7 +27146,6 @@ Object function
 Verbal function
 Verbal function
 Subject function
-Verbal function
 Object function
 Verbal function
 Object function
@@ -27808,8 +27157,8 @@ Verbal Copula function
 Verbal Copula function
 Subject function
 Verbal function
-Adverbial function
 Subject function
+Adverbial function
 Verbal function
 Object function
 Verbal function
@@ -27817,6 +27166,7 @@ Verbal function
 Object function
 Verbal function
 Verbal function
+Subject function
 Adverbial function
 Subject function
 Verbal function
@@ -27854,8 +27204,12 @@ Adverbial function
 Verbal function
 Subject function
 Adverbial function
+Verbal function
+Verbal function
 Predicate function
 Verbal Copula function
+Predicate function
+Predicate function
 Subject function
 Verbal function
 Verbal function
@@ -27867,24 +27221,23 @@ Verbal function
 Object function
 Verbal function
 Subject function
-Subject function
+Verbal function
 Verbal function
 Object function
 Object function
 Adverbial function
+Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
 Verbal function
 Object function
 Verbal function
-Object function
 Object function
 Verbal function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -27923,10 +27276,9 @@ Indirect Object function
 Adverbial function
 Verbal Copula function
 Predicate function
-Verbal function
-Adverbial function
 Verbal function
 Subject function
+Adverbial function
 Verbal function
 Adverbial function
 Subject function
@@ -27942,7 +27294,6 @@ Adverbial function
 Verbal function
 Object function
 Indirect Object function
-Indirect Object function
 Verbal Copula function
 Predicate function
 Verbal function
@@ -27954,7 +27305,6 @@ Adverbial function
 Subject function
 Subject function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -27994,10 +27344,10 @@ Subject function
 Verbal function
 Adverbial function
 Subject function
+Subject function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Verbal function
 Adverbial function
@@ -28009,7 +27359,6 @@ Adverbial function
 Verbal function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Adverbial function
@@ -28028,7 +27377,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Indirect Object function
-Object function
 Object function
 Subject function
 Verbal function
@@ -28038,8 +27386,8 @@ Subject function
 Verbal Copula function
 Predicate function
 Adverbial function
-Object function
 Adverbial function
+Object function
 Verbal function
 Object function
 Subject function
@@ -28047,7 +27395,6 @@ Adverbial function
 Object function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Subject function
@@ -28084,7 +27431,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Subject function
-Verbal function
 Verbal function
 Object function
 Adverbial function
@@ -28097,7 +27443,6 @@ Verbal function
 Adverbial function
 Verbal function
 Subject function
-Verbal function
 Object function
 Verbal function
 Subject function
@@ -28148,6 +27493,8 @@ Verbal function
 Indirect Object function
 Subject function
 Verbal function
+Subject function
+Subject function
 Verbal function
 Object function
 Subject function
@@ -28188,7 +27535,6 @@ Subject function
 Verbal function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Object function
 Subject function
@@ -28200,7 +27546,6 @@ Verbal function
 Indirect Object function
 Subject function
 Indirect Object function
-Indirect Object function
 Verbal function
 Adverbial function
 Predicate function
@@ -28247,7 +27592,6 @@ Verbal function
 Indirect Object function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -28304,7 +27648,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Object function
-Object function
 Verbal function
 Object function
 Adverbial function
@@ -28332,6 +27675,7 @@ Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
+Verbal function
 Object function
 Predicate function
 Verbal Copula function
@@ -28395,6 +27739,7 @@ Predicate function
 Predicate function
 Verbal function
 Adverbial function
+Verbal function
 Subject function
 Subject function
 Verbal function
@@ -28418,12 +27763,12 @@ Verbal function
 Subject function
 Object function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
 Object function
 Verbal function
+Indirect Object function
 Object function
 Predicate function
 Verbal Copula function
@@ -28520,7 +27865,6 @@ Verbal Copula function
 Subject function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Indirect Object function
@@ -28588,6 +27932,7 @@ Adverbial function
 Adverbial function
 Verbal function
 Subject function
+Verbal function
 Adverbial function
 Verbal function
 Subject function
@@ -28676,10 +28021,9 @@ Verbal function
 Subject function
 Verbal function
 Verbal function
-Object function
 Object function
-Subject function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Subject function
@@ -28687,7 +28031,6 @@ Verbal function
 Indirect Object function
 Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Indirect Object function
@@ -28758,7 +28101,6 @@ Verbal function
 Indirect Object function
 Subject function
 Verbal function
-Object function
 Object function
 Verbal Copula function
 Subject function
@@ -28782,9 +28124,9 @@ Verbal function
 Indirect Object function
 Subject function
 Predicate function
-Verbal Copula function
 Verbal function
 Subject function
+Verbal Copula function
 Verbal function
 Indirect Object function
 Subject function
@@ -28819,6 +28161,7 @@ Subject function
 Verbal function
 Verbal Copula function
 Predicate function
+Verbal function
 Subject function
 Verbal function
 Indirect Object function
@@ -28829,6 +28172,7 @@ Predicate function
 Subject function
 Predicate function
 Verbal Copula function
+Predicate function
 Verbal function
 Subject function
 Verbal function
@@ -28891,6 +28235,7 @@ Verbal function
 Adverbial function
 Subject function
 Verbal function
+Verbal function
 Adverbial function
 Verbal function
 Indirect Object function
@@ -28908,7 +28253,6 @@ Indirect Object function
 Verbal function
 Adverbial function
 Verbal function
-Indirect Object function
 Indirect Object function
 Subject function
 Verbal function
@@ -28923,7 +28267,8 @@ Adverbial function
 Verbal function
 Predicate function
 Verbal Copula function
-Verbal Copula function
+Subject function
+Subject function
 Verbal function
 Subject function
 Verbal function
@@ -28946,6 +28291,7 @@ Object function
 Adverbial function
 Object function
 Verbal function
+Object function
 Subject function
 Adverbial function
 Verbal function
@@ -28990,6 +28336,7 @@ Object function
 Object function
 Verbal function
 Object function
+Object function
 Verbal function
 Verbal function
 Indirect Object function
@@ -29006,7 +28353,6 @@ Subject function
 Verbal function
 Subject function
 Verbal function
-Object function
 Object function
 Verbal function
 Subject function
@@ -29028,7 +28374,6 @@ Object function
 Adverbial function
 Verbal function
 Object function
-Object function
 Verbal function
 Subject function
 Adverbial function
@@ -29038,7 +28383,6 @@ Subject function
 Subject function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -29086,9 +28430,7 @@ Verbal function
 Subject function
 Verbal Copula function
 Predicate function
-Predicate function
 Verbal function
-Subject function
 Subject function
 Predicate function
 Subject function
@@ -29105,6 +28447,8 @@ Adverbial function
 Subject function
 Verbal function
 Object function
+Verbal function
+Object function
 Subject function
 Verbal function
 Verbal function
@@ -29253,7 +28597,6 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Object function
 Adverbial function
 Verbal function
 Subject function
@@ -29291,7 +28634,6 @@ Verbal function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Predicate function
 Verbal Copula function
@@ -29306,6 +28648,7 @@ Adverbial function
 Object function
 Object function
 Verbal Copula function
+Subject function
 Predicate function
 Subject function
 Subject function
@@ -29338,6 +28681,7 @@ Adverbial function
 Verbal function
 Verbal function
 Subject function
+Verbal function
 Adverbial function
 Adverbial function
 Subject function
@@ -29351,7 +28695,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Subject function
-Subject function
 Verbal function
 Subject function
 Adverbial function
@@ -29408,11 +28751,9 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Subject function
@@ -29447,7 +28788,6 @@ Object function
 Verbal function
 Subject function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Object function
 Verbal function
@@ -29455,6 +28795,7 @@ Subject function
 Object function
 Verbal function
 Adverbial function
+Adverbial function
 Verbal function
 Object function
 Subject function
@@ -29495,13 +28836,11 @@ Subject function
 Verbal function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal Copula function
@@ -29531,7 +28870,6 @@ Indirect Object function
 Subject function
 Verbal function
 Indirect Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -29546,10 +28884,11 @@ Adverbial function
 Subject function
 Predicate function
 Verbal Copula function
+Adverbial function
+Verbal function
 Adverbial function
 Predicate function
 Verbal Copula function
-Verbal function
 Adverbial function
 Verbal function
 Subject function
@@ -29568,7 +28907,6 @@ Verbal function
 Indirect Object function
 Verbal function
 Indirect Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -29614,6 +28952,7 @@ Adverbial function
 Verbal function
 Adverbial function
 Subject function
+Subject function
 Verbal function
 Adverbial function
 Object function
@@ -29665,11 +29004,12 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
+Object function
 Object function
 Verbal function
 Verbal function
-Object function
 Adverbial function
+Object function
 Verbal function
 Adverbial function
 Verbal Copula function
@@ -29728,7 +29068,6 @@ Subject function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Subject function
 Object function
 Verbal function
@@ -29743,25 +29082,26 @@ Adverbial function
 Verbal function
 Verbal function
 Indirect Object function
+Subject function
+Verbal function
 Subject function
 Verbal function
 Subject function
 Verbal Copula function
 Predicate function
-Verbal function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Indirect Object function
 Object function
 Verbal function
 Indirect Object function
+Subject function
+Verbal Copula function
 Subject function
 Verbal function
 Indirect Object function
-Verbal Copula function
-Verbal Copula function
+Indirect Object function
 Adverbial function
 Verbal function
 Subject function
@@ -29776,7 +29116,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Object function
 Subject function
@@ -29805,7 +29144,6 @@ Object function
 Subject function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -29863,12 +29201,11 @@ Verbal function
 Object function
 Adverbial function
 Adverbial function
-Adverbial function
-Verbal function
 Subject function
 Verbal function
-Subject function
+Adverbial function
 Verbal function
+Subject function
 Verbal function
 Adverbial function
 Subject function
@@ -29894,12 +29231,13 @@ Verbal function
 Verbal function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Adverbial function
 Subject function
 Verbal function
 Adverbial function
+Subject function
+Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -29920,7 +29258,7 @@ Adverbial function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
+Indirect Object function
 Indirect Object function
 Verbal function
 Adverbial function
@@ -29933,10 +29271,8 @@ Subject function
 Verbal Copula function
 Adverbial function
 Predicate function
-Predicate function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -29951,13 +29287,13 @@ Adverbial function
 Verbal function
 Object function
 Subject function
+Object function
 Verbal function
 Object function
 Verbal function
 Adverbial function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -29984,6 +29320,7 @@ Verbal function
 Object function
 Verbal function
 Verbal function
+Verbal function
 Subject function
 Adverbial function
 Adverbial function
@@ -30011,7 +29348,6 @@ Verbal function
 Indirect Object function
 Subject function
 Subject function
-Verbal function
 Verbal function
 Adverbial function
 Subject function
@@ -30034,7 +29370,6 @@ Adverbial function
 Verbal function
 Object function
 Subject function
-Subject function
 Verbal function
 Subject function
 Adverbial function
@@ -30043,8 +29378,8 @@ Indirect Object function
 Subject function
 Verbal function
 Verbal function
-Subject function
 Subject function
+Object function
 Adverbial function
 Object function
 Verbal function
@@ -30057,7 +29392,6 @@ Subject function
 Subject function
 Verbal function
 Subject function
-Adverbial function
 Adverbial function
 Verbal Copula function
 Predicate function
@@ -30078,13 +29412,13 @@ Subject function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Adverbial function
 Verbal function
 Adverbial function
 Verbal function
 Object function
+Subject function
 Subject function
 Verbal function
 Adverbial function
@@ -30094,7 +29428,6 @@ Subject function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal Copula function
 Subject function
 Predicate function
@@ -30103,6 +29436,7 @@ Verbal function
 Adverbial function
 Subject function
 Verbal function
+Subject function
 Verbal function
 Adverbial function
 Verbal function
@@ -30126,7 +29460,6 @@ Subject function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Subject function
@@ -30146,12 +29479,10 @@ Subject function
 Subject function
 Verbal function
 Object function
-Verbal function
 Verbal function
 Verbal Copula function
 Predicate function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Indirect Object function
@@ -30163,7 +29494,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -30186,13 +29516,13 @@ Indirect Object function
 Verbal function
 Subject function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
 Predicate function
 Verbal Copula function
+Subject function
 Subject function
 Verbal function
 Subject function
@@ -30214,6 +29544,7 @@ Verbal function
 Adverbial function
 Subject function
 Adverbial function
+Subject function
 Verbal function
 Verbal function
 Subject function
@@ -30233,7 +29564,6 @@ Object function
 Object function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -30246,8 +29576,9 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Verbal function
 Subject function
+Verbal function
+Verbal function
 Adverbial function
 Verbal function
 Object function
@@ -30258,7 +29589,6 @@ Object function
 Second Object function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -30274,8 +29604,8 @@ Adverbial function
 Object function
 Object function
 Adverbial function
-Verbal function
 Object function
+Verbal function
 Subject function
 Verbal function
 Object function
@@ -30285,9 +29615,9 @@ Object function
 Subject function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
+Object function
 Object function
 Verbal function
 Indirect Object function
@@ -30298,6 +29628,8 @@ Verbal function
 Object function
 Verbal function
 Indirect Object function
+Object function
+Object function
 Subject function
 Verbal function
 Verbal function
@@ -30460,15 +29792,14 @@ Predicate function
 Verbal function
 Predicate function
 Verbal function
-Verbal function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
 Object function
 Subject function
+Subject function
 Object function
 Verbal function
 Indirect Object function
@@ -30496,9 +29827,9 @@ Verbal function
 Object function
 Verbal function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
-Subject function
 Adverbial function
 Verbal function
 Verbal function
@@ -30573,11 +29904,11 @@ Subject function
 Verbal function
 Verbal function
 Verbal function
-Object function
 Object function
 Verbal function
 Object function
 Adverbial function
+Adverbial function
 Subject function
 Verbal function
 Verbal function
@@ -30590,7 +29921,6 @@ Verbal function
 Adverbial function
 Verbal function
 Subject function
-Adverbial function
 Adverbial function
 Verbal function
 Object function
@@ -30608,14 +29938,13 @@ Subject function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal Copula function
 Predicate function
-Subject function
 Subject function
 Subject function
 Verbal function
 Object function
+Subject function
 Adverbial function
 Verbal function
 Adverbial function
@@ -30627,7 +29956,6 @@ Adverbial function
 Verbal function
 Object function
 Verbal function
-Subject function
 Subject function
 Object function
 Verbal function
@@ -30665,16 +29993,13 @@ Subject function
 Verbal function
 Subject function
 Verbal function
-Verbal function
 Verbal Copula function
 Subject function
-Predicate function
 Predicate function
 Verbal function
 Subject function
 Adverbial function
 Predicate function
-Predicate function
 Verbal function
 Object function
 Subject function
@@ -30704,7 +30029,6 @@ Adverbial function
 Subject function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -30718,7 +30042,7 @@ Adverbial function
 Predicate function
 Verbal function
 Adverbial function
-Adverbial function
+Subject function
 Verbal function
 Adverbial function
 Verbal function
@@ -30764,7 +30088,6 @@ Adverbial function
 Verbal function
 Verbal function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Indirect Object function
@@ -30802,7 +30125,6 @@ Adverbial function
 Subject function
 Verbal function
 Subject function
-Verbal function
 Adverbial function
 Verbal function
 Object function
@@ -30858,7 +30180,9 @@ Verbal function
 Object function
 Subject function
 Verbal function
-Adverbial function
+Subject function
+Verbal function
+Adverbial function
 Object function
 Verbal function
 Verbal function
@@ -30875,13 +30199,14 @@ Verbal function
 Adverbial function
 Object function
 Verbal function
-Subject function
 Subject function
 Verbal function
 Indirect Object function
 Object function
 Verbal function
 Subject function
+Object function
+Object function
 Verbal function
 Verbal function
 Object function
@@ -30921,7 +30246,6 @@ Predicate function
 Object function
 Verbal function
 Indirect Object function
-Indirect Object function
 Verbal function
 Adverbial function
 Adverbial function
@@ -30970,7 +30294,6 @@ Verbal function
 Object function
 Object function
 Verbal function
-Object function
 Object function
 Predicate function
 Verbal Copula function
@@ -30988,7 +30311,6 @@ Adverbial function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Predicate function
 Verbal Copula function
 Subject function
@@ -31005,7 +30327,6 @@ Object function
 Verbal function
 Object function
 Subject function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -31114,7 +30435,6 @@ Verbal function
 Predicate function
 Verbal Copula function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Subject function
@@ -31151,14 +30471,16 @@ Object function
 Subject function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Subject function
 Predicate function
 Verbal Copula function
+Predicate function
+Predicate function
 Subject function
 Predicate function
 Verbal Copula function
+Predicate function
 Subject function
 Verbal function
 Object function
@@ -31201,10 +30523,11 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
+Subject function
+Verbal function
 Predicate function
 Verbal Copula function
 Subject function
@@ -31213,7 +30536,6 @@ Object function
 Verbal function
 Verbal function
 Subject function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -31251,7 +30573,6 @@ Verbal Copula function
 Verbal function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Verbal function
 Adverbial function
@@ -31311,7 +30632,6 @@ Verbal function
 Subject function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Verbal function
 Object function
 Subject function
@@ -31322,7 +30642,6 @@ Predicate function
 Adverbial function
 Verbal function
 Subject function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -31330,12 +30649,11 @@ Verbal function
 Verbal function
 Verbal function
 Object function
-Verbal function
 Subject function
+Verbal function
 Verbal Copula function
 Predicate function
 Subject function
-Subject function
 Verbal function
 Adverbial function
 Subject function
@@ -31361,20 +30679,18 @@ Object function
 Verbal function
 Verbal function
 Object function
-Indirect Object function
 Indirect Object function
 Adverbial function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Indirect Object function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
+Subject function
 Adverbial function
 Verbal Copula function
 Predicate function
@@ -31382,7 +30698,6 @@ Adverbial function
 Verbal function
 Subject function
 Verbal function
-Object function
 Object function
 Object function
 Verbal function
@@ -31404,7 +30719,6 @@ Adverbial function
 Subject function
 Adverbial function
 Verbal function
-Verbal function
 Object function
 Verbal function
 Indirect Object function
@@ -31417,7 +30731,6 @@ Adverbial function
 Adverbial function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -31435,13 +30748,11 @@ Subject function
 Verbal function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Subject function
 Verbal function
 Adverbial function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Adverbial function
@@ -31588,7 +30899,6 @@ Subject function
 Verbal function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Verbal function
 Adverbial function
 Verbal function
@@ -31631,7 +30941,6 @@ Object function
 Object function
 Adverbial function
 Verbal function
-Subject function
 Subject function
 Adverbial function
 Subject function
@@ -31657,7 +30966,6 @@ Subject function
 Object function
 Verbal function
 Object function
-Object function
 Verbal function
 Subject function
 Adverbial function
@@ -31674,22 +30982,20 @@ Verbal function
 Verbal function
 Predicate function
 Verbal Copula function
-Subject function
-Verbal function
 Subject function
 Adverbial function
+Verbal function
 Verbal function
 Subject function
 Adverbial function
-Verbal function
 Subject function
+Verbal function
 Verbal function
 Subject function
 Adverbial function
 Verbal function
 Object function
 Object function
-Verbal function
 Adverbial function
 Verbal function
 Object function
@@ -31707,8 +31013,6 @@ Verbal function
 Subject function
 Predicate function
 Verbal Copula function
-Subject function
-Verbal function
 Subject function
 Adverbial function
 Verbal function
@@ -31730,8 +31034,9 @@ Adverbial function
 Verbal function
 Subject function
 Subject function
-Verbal function
 Adverbial function
+Verbal function
+Subject function
 Verbal function
 Object function
 Verbal function
@@ -31741,13 +31046,11 @@ Verbal function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Subject function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -31780,6 +31083,8 @@ Subject function
 Subject function
 Verbal function
 Adverbial function
+Subject function
+Verbal function
 Subject function
 Verbal function
 Object function
@@ -31788,7 +31093,6 @@ Subject function
 Verbal function
 Adverbial function
 Object function
-Object function
 Verbal function
 Subject function
 Adverbial function
@@ -31804,8 +31108,10 @@ Subject function
 Adverbial function
 Verbal function
 Adverbial function
+Subject function
 Subject function
 Subject function
+Verbal function
 Subject function
 Verbal function
 Indirect Object function
@@ -31824,10 +31130,12 @@ Object function
 Predicate function
 Verbal Copula function
 Verbal function
+Subject function
 Adverbial function
 Subject function
 Verbal function
 Adverbial function
+Predicate function
 Verbal Copula function
 Predicate function
 Subject function
@@ -31851,7 +31159,6 @@ Adverbial function
 Verbal function
 Verbal function
 Subject function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -31866,7 +31173,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Object function
-Object function
 Verbal function
 Subject function
 Adverbial function
@@ -31883,7 +31189,6 @@ Indirect Object function
 Subject function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Adverbial function
 Subject function
@@ -31894,13 +31199,11 @@ Verbal function
 Subject function
 Object function
 Verbal function
-Verbal function
 Object function
 Verbal function
 Object function
 Object function
 Verbal function
-Object function
 Object function
 Subject function
 Adverbial function
@@ -31921,7 +31224,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Adverbial function
@@ -31939,7 +31241,6 @@ Adverbial function
 Verbal function
 Verbal function
 Subject function
-Verbal function
 Adverbial function
 Object function
 Verbal function
@@ -31953,10 +31254,8 @@ Subject function
 Subject function
 Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
-Subject function
 Subject function
 Subject function
 Verbal function
@@ -31985,7 +31284,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Object function
-Object function
 Verbal function
 Indirect Object function
 Subject function
@@ -32024,7 +31322,6 @@ Verbal function
 Subject function
 Adverbial function
 Verbal function
-Object function
 Object function
 Adverbial function
 Verbal function
@@ -32040,7 +31337,6 @@ Verbal Copula function
 Subject function
 Verbal function
 Object function
-Object function
 Adverbial function
 Verbal function
 Subject function
@@ -32057,7 +31353,6 @@ Adverbial function
 Subject function
 Verbal function
 Object function
-Subject function
 Subject function
 Verbal function
 Indirect Object function
@@ -32071,7 +31366,6 @@ Verbal function
 Object function
 Object function
 Verbal function
-Verbal function
 Object function
 Verbal function
 Object function
@@ -32085,7 +31379,6 @@ Object function
 Object function
 Adverbial function
 Verbal function
-Subject function
 Subject function
 Verbal function
 Adverbial function
@@ -32103,6 +31396,7 @@ Verbal function
 Subject function
 Adverbial function
 Verbal function
+Verbal function
 Subject function
 Verbal function
 Object function
@@ -32113,6 +31407,7 @@ Subject function
 Verbal function
 Subject function
 Adverbial function
+Verbal function
 Verbal function
 Indirect Object function
 Subject function
@@ -32128,7 +31423,6 @@ Subject function
 Adverbial function
 Verbal Copula function
 Predicate function
-Predicate function
 Verbal function
 Indirect Object function
 Verbal function
@@ -32138,7 +31432,6 @@ Verbal function
 Subject function
 Verbal Copula function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Indirect Object function
@@ -32148,13 +31441,14 @@ Verbal Copula function
 Verbal function
 Indirect Object function
 Subject function
-Predicate function
+Adverbial function
 Object function
+Predicate function
 Adverbial function
 Verbal function
 Indirect Object function
-Verbal function
 Object function
+Verbal function
 Adverbial function
 Verbal function
 Subject function
@@ -32162,8 +31456,8 @@ Verbal function
 Object function
 Predicate function
 Verbal Copula function
-Object function
 Subject function
+Object function
 Verbal function
 Adverbial function
 Object function
@@ -32212,7 +31506,6 @@ Subject function
 Verbal function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -32253,8 +31546,8 @@ Indirect Object function
 Subject function
 Verbal function
 Object function
-Verbal Copula function
 Predicate function
+Verbal Copula function
 Predicate function
 Subject function
 Adverbial function
@@ -32304,6 +31597,8 @@ Verbal Copula function
 Object function
 Verbal function
 Adverbial function
+Verbal function
+Object function
 Verbal function
 Object function
 Subject function
@@ -32327,12 +31622,13 @@ Adverbial function
 Verbal function
 Object function
 Verbal function
+Object function
+Verbal function
 Indirect Object function
 Subject function
 Subject function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Verbal function
 Object function
 Subject function
@@ -32357,7 +31653,6 @@ Subject function
 Predicate function
 Verbal Copula function
 Object function
-Verbal function
 Verbal function
 Subject function
 Predicate function
@@ -32434,7 +31729,6 @@ Object function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Adverbial function
 Verbal function
@@ -32507,7 +31801,6 @@ Verbal Copula function
 Verbal Copula function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -32579,7 +31872,6 @@ Subject function
 Verbal function
 Subject function
 Adverbial function
-Verbal function
 Subject function
 Verbal function
 Object function
@@ -32593,6 +31885,7 @@ Verbal function
 Verbal function
 Predicate function
 Verbal Copula function
+Predicate function
 Verbal Copula function
 Predicate function
 Object function
@@ -32617,7 +31910,6 @@ Verbal function
 Verbal function
 Verbal function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Object function
@@ -32646,7 +31938,6 @@ Verbal Copula function
 Subject function
 Verbal function
 Subject function
-Verbal Copula function
 Verbal Copula function
 Verbal function
 Indirect Object function
@@ -32666,7 +31957,6 @@ Indirect Object function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Verbal function
@@ -32679,8 +31969,8 @@ Adverbial function
 Verbal function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
+Object function
 Verbal Copula function
 Predicate function
 Adverbial function
@@ -32689,7 +31979,6 @@ Verbal function
 Subject function
 Adverbial function
 Verbal function
-Object function
 Object function
 Adverbial function
 Verbal function
@@ -32697,7 +31986,6 @@ Object function
 Subject function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Indirect Object function
@@ -32712,6 +32000,7 @@ Verbal function
 Subject function
 Adverbial function
 Verbal Copula function
+Subject function
 Predicate function
 Subject function
 Subject function
@@ -32729,7 +32018,6 @@ Verbal function
 Subject function
 Verbal Copula function
 Predicate function
-Predicate function
 Verbal function
 Indirect Object function
 Adverbial function
@@ -32739,13 +32027,11 @@ Verbal function
 Adverbial function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Adverbial function
 Verbal function
 Subject function
@@ -32774,7 +32060,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -32840,7 +32125,6 @@ Verbal function
 Subject function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Verbal function
 Subject function
 Predicate function
@@ -32883,14 +32167,15 @@ Verbal function
 Subject function
 Predicate function
 Verbal Copula function
+Predicate function
 Subject function
 Predicate function
 Verbal Copula function
+Predicate function
 Subject function
 Verbal function
 Indirect Object function
 Verbal function
-Subject function
 Subject function
 Object function
 Adverbial function
@@ -32984,7 +32269,6 @@ Verbal function
 Adverbial function
 Subject function
 Verbal Copula function
-Verbal Copula function
 Subject function
 Verbal function
 Verbal function
@@ -33006,6 +32290,7 @@ Verbal function
 Predicate function
 Verbal Copula function
 Verbal function
+Subject function
 Object function
 Subject function
 Predicate function
@@ -33021,7 +32306,6 @@ Indirect Object function
 Subject function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Adverbial function
 Verbal function
 Object function
@@ -33045,6 +32329,7 @@ Predicate function
 Subject function
 Verbal function
 Adverbial function
+Predicate function
 Verbal Copula function
 Predicate function
 Indirect Object function
@@ -33092,7 +32377,6 @@ Verbal Copula function
 Object function
 Verbal function
 Indirect Object function
-Indirect Object function
 Verbal function
 Adverbial function
 Subject function
@@ -33190,6 +32474,7 @@ Adverbial function
 Verbal Copula function
 Predicate function
 Object function
+Verbal function
 Subject function
 Verbal function
 Verbal function
@@ -33233,7 +32518,6 @@ Subject function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Object function
@@ -33260,7 +32544,6 @@ Predicate function
 Verbal Copula function
 Verbal function
 Subject function
-Adverbial function
 Adverbial function
 Verbal function
 Object function
@@ -33347,6 +32630,7 @@ Subject function
 Object function
 Verbal function
 Indirect Object function
+Object function
 Adverbial function
 Object function
 Verbal function
@@ -33416,11 +32700,9 @@ Verbal function
 Verbal function
 Predicate function
 Subject function
-Predicate function
 Predicate function
 Verbal function
 Object function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -33430,7 +32712,9 @@ Adverbial function
 Verbal function
 Subject function
 Adverbial function
+Verbal function
 Verbal function
+Verbal function
 Adverbial function
 Adverbial function
 Subject function
@@ -33440,6 +32724,7 @@ Verbal function
 Subject function
 Object function
 Verbal function
+Object function
 Subject function
 Object function
 Verbal function
@@ -33451,11 +32736,9 @@ Verbal Copula function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Verbal function
-Subject function
 Subject function
 Subject function
 Verbal Copula function
@@ -33490,12 +32773,10 @@ Predicate function
 Verbal function
 Subject function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Object function
 Object function
-Verbal function
 Verbal function
 Verbal function
 Adverbial function
@@ -33553,7 +32834,6 @@ Verbal function
 Verbal function
 Verbal function
 Object function
-Object function
 Verbal function
 Subject function
 Indirect Object function
@@ -33566,7 +32846,6 @@ Adverbial function
 Subject function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -33586,7 +32865,6 @@ Verbal Copula function
 Predicate function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Verbal Copula function
@@ -33595,7 +32873,6 @@ Indirect Object function
 Verbal function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -33603,26 +32880,24 @@ Verbal function
 Subject function
 Object function
 Adverbial function
+Object function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal Copula function
 Subject function
 Predicate function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Adverbial function
 Adverbial function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
-Verbal function
 Subject function
 Verbal function
 Subject function
+Verbal function
 Verbal function
 Object function
 Subject function
@@ -33634,14 +32909,13 @@ Adverbial function
 Adverbial function
 Verbal Copula function
 Predicate function
-Predicate function
 Adverbial function
 Verbal function
 Subject function
 Adverbial function
 Verbal function
-Object function
 Second Object function
+Object function
 Verbal function
 Object function
 Verbal function
@@ -33698,7 +32972,6 @@ Subject function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Adverbial function
@@ -33739,7 +33012,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Adverbial function
 Verbal function
@@ -33757,6 +33029,7 @@ Adverbial function
 Verbal Copula function
 Predicate function
 Adverbial function
+Subject function
 Verbal function
 Subject function
 Subject function
@@ -33784,13 +33057,11 @@ Verbal function
 Verbal function
 Verbal function
 Subject function
-Subject function
 Verbal function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -33803,7 +33074,6 @@ Object function
 Subject function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Adverbial function
 Verbal function
@@ -33835,11 +33105,9 @@ Subject function
 Verbal function
 Indirect Object function
 Verbal function
-Object function
 Object function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Object function
@@ -33848,7 +33116,6 @@ Verbal function
 Verbal function
 Object function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -33885,7 +33152,6 @@ Object function
 Verbal function
 Subject function
 Verbal function
-Verbal function
 Subject function
 Subject function
 Verbal function
@@ -33903,7 +33169,6 @@ Verbal function
 Indirect Object function
 Object function
 Verbal function
-Subject function
 Subject function
 Verbal function
 Subject function
@@ -33916,6 +33181,8 @@ Verbal function
 Subject function
 Object function
 Verbal function
+Object function
+Object function
 Verbal function
 Object function
 Adverbial function
@@ -33927,7 +33194,6 @@ Verbal function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Predicate function
 Verbal Copula function
@@ -33948,7 +33214,6 @@ Adverbial function
 Subject function
 Adverbial function
 Subject function
-Verbal function
 Verbal function
 Object function
 Adverbial function
@@ -33971,7 +33236,6 @@ Adverbial function
 Verbal function
 Verbal function
 Object function
-Object function
 Subject function
 Adverbial function
 Verbal function
@@ -33985,7 +33249,6 @@ Verbal Copula function
 Adverbial function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal Copula function
 Predicate function
@@ -33997,7 +33260,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Object function
-Object function
 Verbal function
 Object function
 Verbal function
@@ -34009,7 +33271,6 @@ Adverbial function
 Adverbial function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -34022,7 +33283,6 @@ Verbal function
 Verbal function
 Verbal function
 Object function
-Object function
 Subject function
 Adverbial function
 Verbal function
@@ -34033,7 +33293,6 @@ Subject function
 Object function
 Verbal function
 Adverbial function
-Subject function
 Subject function
 Verbal function
 Indirect Object function
@@ -34042,8 +33301,9 @@ Adverbial function
 Adverbial function
 Subject function
 Verbal function
-Verbal function
+Subject function
 Subject function
+Predicate function
 Verbal Copula function
 Predicate function
 Verbal function
@@ -34058,7 +33318,6 @@ Adverbial function
 Object function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -34073,7 +33332,6 @@ Verbal function
 Adverbial function
 Verbal function
 Indirect Object function
-Indirect Object function
 Verbal function
 Object function
 Adverbial function
@@ -34093,12 +33351,10 @@ Object function
 Object function
 Adverbial function
 Verbal function
-Object function
 Object function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Object function
 Adverbial function
 Verbal function
@@ -34111,11 +33367,11 @@ Verbal function
 Adverbial function
 Adverbial function
 Adverbial function
+Object function
 Verbal function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Object function
@@ -34124,6 +33380,7 @@ Verbal function
 Subject function
 Adverbial function
 Verbal function
+Subject function
 Verbal function
 Adverbial function
 Adverbial function
@@ -34146,10 +33403,9 @@ Subject function
 Verbal function
 Adverbial function
 Subject function
-Subject function
 Verbal function
-Object function
 Subject function
+Object function
 Verbal function
 Adverbial function
 Adverbial function
@@ -34175,10 +33431,10 @@ Verbal function
 Subject function
 Verbal function
 Adverbial function
+Verbal function
 Object function
 Verbal function
 Indirect Object function
-Indirect Object function
 Verbal function
 Subject function
 Verbal Copula function
@@ -34198,7 +33454,6 @@ Verbal function
 Object function
 Subject function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -34211,7 +33466,6 @@ Verbal function
 Subject function
 Adverbial function
 Verbal function
-Verbal function
 Verbal Copula function
 Subject function
 Predicate function
@@ -34237,7 +33491,6 @@ Indirect Object function
 Verbal function
 Subject function
 Verbal function
-Indirect Object function
 Indirect Object function
 Subject function
 Verbal function
@@ -34309,13 +33562,11 @@ Adverbial function
 Adverbial function
 Verbal function
 Object function
-Object function
 Verbal function
 Subject function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -34336,6 +33587,7 @@ Subject function
 Verbal function
 Adverbial function
 Predicate function
+Subject function
 Verbal Copula function
 Subject function
 Adverbial function
@@ -34347,7 +33599,6 @@ Verbal function
 Adverbial function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Object function
 Verbal function
@@ -34370,7 +33621,6 @@ Subject function
 Predicate function
 Verbal Copula function
 Subject function
-Subject function
 Verbal function
 Indirect Object function
 Subject function
@@ -34405,8 +33655,8 @@ Verbal function
 Subject function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
+Object function
 Subject function
 Object function
 Verbal function
@@ -34466,7 +33716,6 @@ Verbal Copula function
 Verbal function
 Object function
 Adverbial function
-Object function
 Object function
 Subject function
 Verbal function
@@ -34497,6 +33746,7 @@ Adverbial function
 Verbal function
 Verbal function
 Subject function
+Object function
 Verbal function
 Object function
 Adverbial function
@@ -34545,7 +33795,6 @@ Verbal function
 Verbal function
 Subject function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Object function
 Subject function
@@ -34556,10 +33805,9 @@ Indirect Object function
 Subject function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
-Subject function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Subject function
@@ -34616,6 +33864,7 @@ Adverbial function
 Verbal function
 Indirect Object function
 Subject function
+Object function
 Verbal function
 Object function
 Verbal function
@@ -34629,7 +33878,6 @@ Subject function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -34675,7 +33923,6 @@ Predicate function
 Verbal Copula function
 Verbal Copula function
 Adverbial function
-Subject function
 Subject function
 Verbal function
 Object function
@@ -34708,12 +33955,15 @@ Second Object function
 Adverbial function
 Verbal function
 Verbal Copula function
+Verbal Copula function
 Subject function
 Verbal function
 Object function
+Subject function
 Subject function
 Verbal function
 Object function
+Verbal function
 Object function
 Verbal function
 Indirect Object function
@@ -34775,7 +34025,6 @@ Verbal function
 Object function
 Verbal function
 Object function
-Verbal function
 Verbal function
 Subject function
 Object function
@@ -34817,25 +34066,23 @@ Predicate function
 Verbal Copula function
 Adverbial function
 Verbal function
-Subject function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Indirect Object function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Verbal function
 Subject function
-Verbal Copula function
 Predicate function
+Verbal Copula function
 Indirect Object function
 Subject function
 Verbal function
 Object function
 Predicate function
 Verbal function
-Indirect Object function
 Indirect Object function
 Verbal function
 Object function
@@ -34847,18 +34094,17 @@ Adverbial function
 Verbal function
 Adverbial function
 Subject function
-Subject function
 Verbal function
 Indirect Object function
 Subject function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
+Object function
+Subject function
 Verbal function
 Subject function
 Verbal function
-Object function
 Adverbial function
 Verbal function
 Indirect Object function
@@ -34957,9 +34203,9 @@ Verbal function
 Subject function
 Adverbial function
 Verbal function
-Object function
 Adverbial function
 Verbal function
+Object function
 Adverbial function
 Verbal function
 Verbal function
@@ -35000,7 +34246,6 @@ Verbal function
 Predicate function
 Subject function
 Verbal Copula function
-Adverbial function
 Adverbial function
 Verbal function
 Indirect Object function
@@ -35049,7 +34294,6 @@ Adverbial function
 Verbal function
 Object function
 Object function
-Object function
 Verbal function
 Adverbial function
 Verbal function
@@ -35159,7 +34403,6 @@ Predicate function
 Adverbial function
 Object function
 Object function
-Verbal function
 Subject function
 Adverbial function
 Verbal function
@@ -35187,7 +34430,6 @@ Subject function
 Object function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Object function
@@ -35233,7 +34475,6 @@ Adverbial function
 Predicate function
 Predicate function
 Subject function
-Verbal function
 Verbal function
 Indirect Object function
 Verbal function
@@ -35320,7 +34561,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Object function
-Object function
 Verbal function
 Verbal function
 Adverbial function
@@ -35340,7 +34580,6 @@ Verbal function
 Adverbial function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -35548,8 +34787,8 @@ Verbal function
 Subject function
 Verbal function
 Verbal function
-Object function
 Second Object function
+Object function
 Verbal function
 Object function
 Adverbial function
@@ -35572,7 +34811,6 @@ Verbal function
 Verbal function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Subject function
 Object function
 Verbal function
@@ -35710,7 +34948,6 @@ Object function
 Object function
 Subject function
 Verbal function
-Indirect Object function
 Indirect Object function
 Object function
 Indirect Object function
@@ -35719,7 +34956,6 @@ Verbal function
 Verbal function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Adverbial function
 Verbal function
 Adverbial function
@@ -35779,8 +35015,8 @@ Adverbial function
 Subject function
 Verbal function
 Adverbial function
-Verbal function
 Object function
+Verbal function
 Indirect Object function
 Verbal function
 Verbal function
@@ -35829,7 +35065,6 @@ Object function
 Object function
 Adverbial function
 Verbal function
-Object function
 Object function
 Verbal function
 Subject function
@@ -35851,11 +35086,10 @@ Object function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
+Subject function
 Predicate function
 Verbal Copula function
-Subject function
 Object function
 Verbal function
 Subject function
@@ -35896,7 +35130,6 @@ Verbal function
 Verbal function
 Subject function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Subject function
 Verbal function
@@ -35914,7 +35147,6 @@ Adverbial function
 Verbal function
 Subject function
 Adverbial function
-Adverbial function
 Subject function
 Adverbial function
 Object function
@@ -36081,7 +35313,6 @@ Verbal function
 Indirect Object function
 Verbal function
 Indirect Object function
-Object function
 Object function
 Predicate function
 Verbal Copula function
@@ -36095,6 +35326,7 @@ Subject function
 Object function
 Verbal function
 Adverbial function
+Object function
 Verbal function
 Object function
 Verbal function
@@ -36104,6 +35336,7 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
+Subject function
 Subject function
 Adverbial function
 Object function
@@ -36216,7 +35449,6 @@ Subject function
 Subject function
 Subject function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Verbal function
@@ -36279,6 +35511,7 @@ Object function
 Object function
 Verbal function
 Subject function
+Verbal function
 Adverbial function
 Adverbial function
 Adverbial function
@@ -36294,6 +35527,7 @@ Predicate function
 Verbal Copula function
 Verbal Copula function
 Subject function
+Subject function
 Predicate function
 Subject function
 Predicate function
@@ -36358,7 +35592,6 @@ Adverbial function
 Subject function
 Object function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Object function
@@ -36393,7 +35626,6 @@ Subject function
 Adverbial function
 Verbal function
 Subject function
-Subject function
 Verbal function
 Subject function
 Verbal function
@@ -36402,14 +35634,12 @@ Object function
 Adverbial function
 Verbal function
 Subject function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Object function
@@ -36426,7 +35656,6 @@ Object function
 Verbal function
 Indirect Object function
 Subject function
-Verbal Copula function
 Verbal Copula function
 Verbal function
 Subject function
@@ -36446,7 +35675,6 @@ Adverbial function
 Verbal function
 Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Object function
@@ -36471,7 +35699,6 @@ Verbal function
 Indirect Object function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -36482,11 +35709,9 @@ Verbal function
 Object function
 Verbal function
 Object function
-Object function
 Verbal Copula function
 Predicate function
 Adverbial function
-Subject function
 Subject function
 Verbal function
 Subject function
@@ -36501,7 +35726,6 @@ Subject function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Object function
@@ -36524,7 +35748,6 @@ Predicate function
 Verbal function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Object function
@@ -36536,11 +35759,10 @@ Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
+Subject function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Verbal function
@@ -36548,18 +35770,17 @@ Indirect Object function
 Indirect Object function
 Verbal function
 Object function
-Object function
 Verbal function
 Indirect Object function
 Subject function
 Subject function
 Predicate function
 Verbal Copula function
+Predicate function
 Verbal function
 Subject function
 Adverbial function
 Verbal Copula function
-Verbal Copula function
 Verbal function
 Subject function
 Object function
@@ -36571,7 +35792,6 @@ Verbal Copula function
 Verbal function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -36609,7 +35829,6 @@ Verbal function
 Object function
 Verbal function
 Subject function
-Subject function
 Object function
 Subject function
 Verbal function
@@ -36638,8 +35857,8 @@ Verbal function
 Object function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
+Verbal function
 Subject function
 Verbal function
 Verbal function
@@ -36654,18 +35873,16 @@ Adverbial function
 Verbal Copula function
 Verbal function
 Subject function
-Verbal Copula function
 Predicate function
+Verbal Copula function
 Adverbial function
 Verbal function
 Subject function
 Object function
 Subject function
 Verbal function
-Subject function
 Adverbial function
 Predicate function
-Predicate function
 Adverbial function
 Verbal function
 Subject function
@@ -36686,11 +35903,12 @@ Adverbial function
 Adverbial function
 Verbal function
 Verbal function
-Object function
 Object function
 Verbal function
 Subject function
 Adverbial function
+Verbal function
+Object function
 Verbal function
 Object function
 Verbal function
@@ -36699,10 +35917,10 @@ Adverbial function
 Verbal function
 Subject function
 Object function
+Verbal function
 Adverbial function
 Indirect Object function
 Verbal function
-Object function
 Object function
 Verbal function
 Indirect Object function
@@ -36778,7 +35996,6 @@ Subject function
 Adverbial function
 Verbal Copula function
 Predicate function
-Predicate function
 Verbal function
 Indirect Object function
 Subject function
@@ -36823,7 +36040,6 @@ Subject function
 Adverbial function
 Verbal function
 Adverbial function
-Object function
 Object function
 Verbal Copula function
 Predicate function
@@ -36834,8 +36050,8 @@ Verbal function
 Indirect Object function
 Adverbial function
 Verbal function
+Verbal function
 Indirect Object function
-Object function
 Object function
 Verbal function
 Adverbial function
@@ -36844,10 +36060,8 @@ Adverbial function
 Object function
 Adverbial function
 Object function
-Object function
 Verbal Copula function
 Subject function
-Predicate function
 Predicate function
 Adverbial function
 Verbal function
@@ -36887,7 +36101,6 @@ Verbal function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Adverbial function
@@ -36945,7 +36158,6 @@ Subject function
 Object function
 Adverbial function
 Verbal function
-Indirect Object function
 Indirect Object function
 Verbal function
 Indirect Object function
@@ -36966,6 +36178,7 @@ Adverbial function
 Verbal function
 Object function
 Adverbial function
+Object function
 Adverbial function
 Verbal function
 Indirect Object function
@@ -36992,7 +36205,6 @@ Subject function
 Second Object function
 Object function
 Verbal function
-Indirect Object function
 Indirect Object function
 Subject function
 Verbal function
@@ -37007,7 +36219,6 @@ Verbal Copula function
 Predicate function
 Adverbial function
 Predicate function
-Predicate function
 Verbal Copula function
 Predicate function
 Subject function
@@ -37016,7 +36227,6 @@ Predicate function
 Verbal function
 Indirect Object function
 Verbal function
-Predicate function
 Predicate function
 Verbal function
 Subject function
@@ -37035,7 +36245,6 @@ Verbal function
 Object function
 Adverbial function
 Object function
-Object function
 Adverbial function
 Verbal function
 Object function
@@ -37061,9 +36270,8 @@ Predicate function
 Adverbial function
 Object function
 Adverbial function
-Predicate function
 Adverbial function
-Object function
+Predicate function
 Object function
 Verbal function
 Object function
@@ -37071,19 +36279,19 @@ Subject function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Object function
+Subject function
 Verbal function
 Subject function
 Subject function
 Predicate function
 Verbal Copula function
 Subject function
+Predicate function
 Adverbial function
 Verbal function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Adverbial function
 Adverbial function
@@ -37096,13 +36304,14 @@ Subject function
 Verbal function
 Predicate function
 Verbal Copula function
+Predicate function
 Verbal function
 Subject function
 Object function
-Verbal function
 Verbal function
 Verbal function
 Subject function
+Subject function
 Verbal function
 Object function
 Verbal function
@@ -37110,7 +36319,6 @@ Object function
 Verbal function
 Object function
 Indirect Object function
-Object function
 Object function
 Object function
 Object function
@@ -37120,7 +36328,6 @@ Predicate function
 Adverbial function
 Predicate function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -37136,11 +36343,10 @@ Object function
 Indirect Object function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
+Subject function
 Object function
-Verbal function
 Verbal function
 Verbal function
 Adverbial function
@@ -37168,8 +36374,8 @@ Subject function
 Object function
 Adverbial function
 Adverbial function
-Subject function
 Verbal function
+Subject function
 Adverbial function
 Subject function
 Verbal function
@@ -37179,6 +36385,7 @@ Subject function
 Verbal function
 Subject function
 Verbal function
+Subject function
 Object function
 Adverbial function
 Verbal function
@@ -37191,7 +36398,6 @@ Verbal function
 Verbal function
 Object function
 Verbal function
-Object function
 Object function
 Subject function
 Adverbial function
@@ -37202,8 +36408,8 @@ Verbal function
 Adverbial function
 Subject function
 Adverbial function
-Adverbial function
 Verbal Copula function
+Adverbial function
 Predicate function
 Subject function
 Verbal function
@@ -37214,6 +36420,8 @@ Verbal function
 Verbal function
 Subject function
 Subject function
+Object function
+Object function
 Verbal function
 Object function
 Verbal function
@@ -37241,6 +36449,7 @@ Subject function
 Verbal function
 Verbal function
 Predicate function
+Subject function
 Verbal Copula function
 Subject function
 Subject function
@@ -37258,12 +36467,13 @@ Verbal function
 Subject function
 Adverbial function
 Verbal function
+Subject function
+Subject function
 Adverbial function
 Subject function
 Verbal function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -37271,19 +36481,16 @@ Object function
 Subject function
 Verbal Copula function
 Predicate function
-Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
 Verbal function
 Object function
 Verbal function
-Subject function
 Subject function
 Verbal function
 Verbal function
 Object function
-Object function
 Verbal function
 Subject function
 Subject function
@@ -37291,7 +36498,6 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Verbal function
 Object function
@@ -37303,7 +36509,6 @@ Predicate function
 Verbal Copula function
 Adverbial function
 Verbal function
-Verbal function
 Verbal Copula function
 Predicate function
 Adverbial function
@@ -37321,7 +36526,6 @@ Predicate function
 Verbal Copula function
 Subject function
 Verbal function
-Object function
 Object function
 Adverbial function
 Subject function
@@ -37330,11 +36534,12 @@ Adverbial function
 Predicate function
 Adverbial function
 Verbal Copula function
+Adverbial function
+Adverbial function
 Verbal function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Verbal function
 Adverbial function
@@ -37352,14 +36557,12 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Verbal function
 Subject function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Adverbial function
@@ -37370,7 +36573,6 @@ Verbal function
 Adverbial function
 Adverbial function
 Verbal function
-Subject function
 Subject function
 Adverbial function
 Verbal function
@@ -37425,16 +36627,16 @@ Adverbial function
 Adverbial function
 Verbal function
 Subject function
-Verbal function
-Adverbial function
 Verbal function
 Subject function
-Subject function
 Adverbial function
 Object function
 Subject function
 Adverbial function
 Adverbial function
+Verbal function
+Subject function
+Subject function
 Verbal function
 Indirect Object function
 Subject function
@@ -37505,7 +36707,6 @@ Subject function
 Adverbial function
 Object function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -37525,7 +36726,6 @@ Object function
 Adverbial function
 Object function
 Verbal function
-Indirect Object function
 Indirect Object function
 Verbal function
 Subject function
@@ -37551,11 +36751,9 @@ Object function
 Verbal function
 Object function
 Indirect Object function
-Indirect Object function
 Verbal function
 Subject function
 Verbal function
-Object function
 Object function
 Verbal function
 Indirect Object function
@@ -37576,12 +36774,12 @@ Indirect Object function
 Verbal function
 Object function
 Object function
+Object function
 Verbal function
 Object function
 Verbal function
 Indirect Object function
 Object function
-Verbal function
 Verbal function
 Verbal function
 Subject function
@@ -37593,12 +36791,10 @@ Verbal Copula function
 Predicate function
 Verbal function
 Subject function
-Subject function
 Verbal function
 Indirect Object function
 Subject function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -37664,7 +36860,7 @@ Adverbial function
 Verbal function
 Subject function
 Verbal function
-Verbal function
+Object function
 Object function
 Verbal function
 Subject function
@@ -37714,7 +36910,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Object function
-Object function
 Subject function
 Adverbial function
 Verbal function
@@ -37723,7 +36918,6 @@ Adverbial function
 Verbal function
 Subject function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Verbal function
 Indirect Object function
@@ -37734,7 +36928,6 @@ Verbal function
 Verbal function
 Indirect Object function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Indirect Object function
@@ -37748,7 +36941,6 @@ Verbal function
 Adverbial function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -37758,14 +36950,12 @@ Subject function
 Indirect Object function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Subject function
 Verbal function
 Adverbial function
 Predicate function
 Verbal Copula function
 Object function
-Verbal function
 Verbal function
 Verbal Copula function
 Predicate function
@@ -37818,6 +37008,8 @@ Subject function
 Verbal function
 Subject function
 Verbal function
+Subject function
+Verbal function
 Object function
 Subject function
 Predicate function
@@ -37926,7 +37118,6 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Object function
 Verbal function
 Adverbial function
@@ -37961,7 +37152,6 @@ Object function
 Verbal function
 Subject function
 Verbal function
-Indirect Object function
 Indirect Object function
 Subject function
 Predicate function
@@ -38006,38 +37196,36 @@ Verbal function
 Predicate function
 Subject function
 Verbal Copula function
-Verbal Copula function
 Verbal function
 Subject function
 Object function
 Verbal function
-Subject function
 Subject function
 Subject function
 Verbal function
 Adverbial function
-Verbal function
 Adverbial function
+Subject function
+Verbal function
 Subject function
 Verbal function
 Object function
 Verbal function
+Object function
 Object function
-TBD
-TBD
 Object function
 Verbal function
 Adverbial function
+Adverbial function
 Object function
-Verbal function
 Verbal function
 Subject function
+Verbal function
 Adverbial function
 Verbal function
 Indirect Object function
-Object function
-Verbal function
 Adverbial function
+Object function
 Verbal function
 Indirect Object function
 Adverbial function
@@ -38066,11 +37254,9 @@ Adverbial function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -38145,6 +37331,8 @@ Verbal Copula function
 Predicate function
 Object function
 Verbal function
+Object function
+Object function
 Verbal function
 Adverbial function
 Verbal function
@@ -38161,8 +37349,8 @@ Object function
 Adverbial function
 Adverbial function
 Verbal function
-Adverbial function
 Subject function
+Adverbial function
 Verbal function
 Verbal Copula function
 Subject function
@@ -38183,7 +37371,6 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Object function
@@ -38208,7 +37395,6 @@ Adverbial function
 Predicate function
 Subject function
 Verbal Copula function
-Predicate function
 Predicate function
 Verbal function
 Adverbial function
@@ -38224,10 +37410,11 @@ Adverbial function
 Object function
 Verbal function
 Subject function
-Subject function
 Verbal function
 Subject function
 Verbal function
+Adverbial function
+Subject function
 Adverbial function
 Verbal function
 Adverbial function
@@ -38309,10 +37496,10 @@ Verbal function
 Adverbial function
 Subject function
 Verbal function
-Indirect Object function
 Indirect Object function
 Verbal function
 Adverbial function
+Verbal function
 Subject function
 Subject function
 Verbal function
@@ -38325,14 +37512,15 @@ Verbal function
 Subject function
 Adverbial function
 Verbal function
-Subject function
 Subject function
 Verbal function
 Verbal function
 Adverbial function
-Subject function
 Verbal function
+Subject function
 Verbal Copula function
+Subject function
+Verbal function
 Predicate function
 Predicate function
 Adverbial function
@@ -38357,23 +37545,22 @@ Verbal function
 Subject function
 Adverbial function
 Object function
-Object function
 Verbal function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
-Subject function
 Predicate function
-Verbal Copula function
+Verbal function
+Subject function
 Verbal Copula function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
 Verbal function
-Adverbial function
 Subject function
+Adverbial function
 Verbal function
 Object function
 Verbal function
@@ -38391,7 +37578,6 @@ Object function
 Subject function
 Verbal function
 Subject function
-Verbal function
 Verbal function
 Verbal Copula function
 Predicate function
@@ -38474,7 +37660,6 @@ Predicate function
 Verbal function
 Subject function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Adverbial function
@@ -38491,7 +37676,6 @@ Adverbial function
 Verbal function
 Subject function
 Verbal function
-Subject function
 Subject function
 Adverbial function
 Subject function
@@ -38521,7 +37705,6 @@ Subject function
 Verbal Copula function
 Predicate function
 Adverbial function
-Adverbial function
 Predicate function
 Verbal Copula function
 Adverbial function
@@ -38550,6 +37733,7 @@ Verbal Copula function
 Predicate function
 Adverbial function
 Verbal function
+Object function
 Adverbial function
 Object function
 Verbal function
@@ -38558,11 +37742,9 @@ Verbal function
 Object function
 Subject function
 Verbal function
-Verbal function
 Adverbial function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -38575,10 +37757,11 @@ Adverbial function
 Verbal function
 Object function
 Second Object function
-Second Object function
 Adverbial function
 Verbal function
 Subject function
+Second Object function
+Object function
 Second Object function
 Verbal function
 Subject function
@@ -38586,14 +37769,12 @@ Object function
 Subject function
 Verbal function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
 Object function
 Verbal function
 Verbal function
-Verbal function
 Subject function
 Adverbial function
 Verbal function
@@ -38603,23 +37784,20 @@ Subject function
 Adverbial function
 Adverbial function
 Verbal function
-Object function
 Object function
 Predicate function
 Verbal Copula function
 Subject function
 Predicate function
-Predicate function
 Object function
+Predicate function
 Verbal function
 Subject function
-Subject function
 Adverbial function
 Verbal function
 Verbal function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -38632,13 +37810,11 @@ Subject function
 Verbal function
 Object function
 Object function
-Object function
 Verbal function
 Adverbial function
 Subject function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -38656,10 +37832,8 @@ Indirect Object function
 Subject function
 Object function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -38673,12 +37847,10 @@ Adverbial function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -38710,10 +37882,8 @@ Object function
 Verbal function
 Verbal function
 Subject function
-Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -38775,7 +37945,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Object function
@@ -38784,7 +37953,6 @@ Subject function
 Adverbial function
 Verbal Copula function
 Predicate function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -38808,6 +37976,7 @@ Verbal function
 Object function
 Object function
 Subject function
+Object function
 Verbal function
 Object function
 Verbal function
@@ -38822,9 +37991,9 @@ Verbal function
 Verbal function
 Subject function
 Verbal function
-Indirect Object function
 Indirect Object function
 Object function
+Object function
 Verbal function
 Object function
 Subject function
@@ -38860,7 +38029,6 @@ Adverbial function
 Verbal function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -38875,16 +38043,14 @@ Object function
 Verbal function
 Indirect Object function
 Object function
-Verbal function
-Subject function
 Object function
+Verbal function
 Subject function
 Verbal function
 Adverbial function
 Object function
 Verbal function
 Subject function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -38897,8 +38063,8 @@ Object function
 Verbal function
 Adverbial function
 Object function
-Verbal function
 Adverbial function
+Verbal function
 Adverbial function
 Verbal function
 Subject function
@@ -38907,7 +38073,6 @@ Verbal function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Adverbial function
@@ -38926,8 +38091,8 @@ Verbal function
 Subject function
 Indirect Object function
 Adverbial function
-Subject function
 Verbal function
+Subject function
 Object function
 Verbal function
 Object function
@@ -38936,7 +38101,6 @@ Object function
 Adverbial function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -38962,7 +38126,6 @@ Adverbial function
 Verbal Copula function
 Predicate function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Object function
@@ -38970,7 +38133,6 @@ Verbal function
 Verbal function
 Verbal Copula function
 Subject function
-Predicate function
 Predicate function
 Verbal function
 Adverbial function
@@ -39034,16 +38196,16 @@ Verbal Copula function
 Predicate function
 Subject function
 Adverbial function
+Subject function
 Verbal Copula function
+Subject function
 Predicate function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
 Subject function
-Subject function
 Verbal function
-Object function
 Object function
 Adverbial function
 Verbal function
@@ -39054,15 +38216,14 @@ Adverbial function
 Predicate function
 Verbal function
 Verbal function
-Verbal function
 Object function
 Predicate function
-Verbal Copula function
 Verbal Copula function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
+Verbal function
+Subject function
 Verbal function
 Object function
 Verbal function
@@ -39075,9 +38236,9 @@ Adverbial function
 Verbal function
 Object function
 Verbal function
-Indirect Object function
 Indirect Object function
 Subject function
+Subject function
 Verbal function
 Adverbial function
 Adverbial function
@@ -39102,7 +38263,6 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -39123,7 +38283,6 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Object function
@@ -39142,18 +38301,17 @@ Adverbial function
 Verbal function
 Predicate function
 Verbal Copula function
+Predicate function
 Subject function
 Adverbial function
 Verbal function
 Subject function
-Subject function
 Verbal function
 Adverbial function
 Verbal function
 Object function
 Adverbial function
 Subject function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -39182,7 +38340,6 @@ Predicate function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Object function
@@ -39192,9 +38349,9 @@ Adverbial function
 Verbal function
 Subject function
 Verbal function
-Subject function
 Verbal function
 Adverbial function
+Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
@@ -39225,32 +38382,33 @@ Adverbial function
 Adverbial function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
-Subject function
 Verbal Copula function
+Subject function
 Predicate function
 Predicate function
 Subject function
 Verbal function
 Adverbial function
+Verbal function
 Predicate function
 Verbal Copula function
-Verbal function
 Verbal Copula function
+Verbal Copula function
 Adverbial function
 Subject function
 Predicate function
 Predicate function
 Adverbial function
 Verbal function
+Object function
+Subject function
 Object function
 Subject function
 Subject function
 Verbal Copula function
-Predicate function
 Predicate function
 Adverbial function
 Subject function
@@ -39285,7 +38443,6 @@ Verbal function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Predicate function
 Adverbial function
@@ -39327,10 +38484,9 @@ Adverbial function
 Object function
 Object function
 Verbal function
-Indirect Object function
 Indirect Object function
-Subject function
 Verbal function
+Subject function
 Object function
 Verbal function
 Subject function
@@ -39357,10 +38513,8 @@ Indirect Object function
 Adverbial function
 Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Adverbial function
@@ -39377,7 +38531,6 @@ Object function
 Predicate function
 Verbal function
 Object function
-Object function
 Verbal function
 Adverbial function
 Verbal function
@@ -39393,7 +38546,6 @@ Verbal function
 Subject function
 Adverbial function
 Verbal function
-Object function
 Object function
 Adverbial function
 Verbal function
@@ -39427,14 +38579,14 @@ Adverbial function
 Subject function
 Verbal function
 Object function
-Object function
 Verbal function
-Subject function
 Subject function
 Verbal function
 Object function
 Verbal function
 Adverbial function
+Subject function
+Verbal function
 Subject function
 Verbal function
 Subject function
@@ -39449,7 +38601,6 @@ Adverbial function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Subject function
 Adverbial function
 Verbal function
@@ -39460,7 +38611,6 @@ Verbal function
 Verbal function
 Adverbial function
 Indirect Object function
-Object function
 Object function
 Verbal function
 Adverbial function
@@ -39483,14 +38633,12 @@ Object function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
 Object function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -39505,7 +38653,6 @@ Adverbial function
 Predicate function
 Verbal Copula function
 Subject function
-Subject function
 Verbal function
 Subject function
 Verbal function
@@ -39517,6 +38664,7 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
+Verbal function
 Verbal function
 Object function
 Adverbial function
@@ -39526,7 +38674,6 @@ Adverbial function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Verbal function
 Object function
 Object function
@@ -39552,7 +38699,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
-Object function
 Object function
 Verbal function
 Subject function
@@ -39589,11 +38735,9 @@ Subject function
 Indirect Object function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Verbal function
-Object function
 Object function
 Verbal function
 Subject function
@@ -39605,13 +38749,11 @@ Adverbial function
 Object function
 Verbal function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Object function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -39665,7 +38807,6 @@ Object function
 Adverbial function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Verbal function
 Adverbial function
 Adverbial function
@@ -39675,7 +38816,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -39690,7 +38830,6 @@ Object function
 Verbal function
 Subject function
 Predicate function
-Predicate function
 Adverbial function
 Verbal function
 Subject function
@@ -39700,9 +38839,9 @@ Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
-Subject function
 Subject function
 Verbal function
+Subject function
 Object function
 Verbal function
 Adverbial function
@@ -39712,9 +38851,8 @@ Subject function
 Verbal function
 Object function
 Verbal function
-Object function
 Object function
-Object function
+Verbal function
 Verbal function
 Object function
 Verbal function
@@ -39747,16 +38885,14 @@ Verbal function
 Verbal function
 Subject function
 Adverbial function
-Adverbial function
+Subject function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Adverbial function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -39788,7 +38924,6 @@ Verbal function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Object function
 Verbal function
@@ -39797,8 +38932,8 @@ Adverbial function
 Verbal function
 Object function
 Adverbial function
-Object function
 Verbal function
+Object function
 Subject function
 Verbal function
 Object function
@@ -39817,7 +38952,6 @@ Subject function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Object function
 Verbal function
@@ -39825,7 +38959,6 @@ Subject function
 Subject function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Verbal function
@@ -39847,6 +38980,7 @@ Adverbial function
 Verbal function
 Adverbial function
 Object function
+Adverbial function
 Indirect Object function
 Verbal function
 Adverbial function
@@ -39880,7 +39014,6 @@ Adverbial function
 Verbal Copula function
 Predicate function
 Subject function
-Subject function
 Verbal function
 Adverbial function
 Subject function
@@ -39892,6 +39025,7 @@ Adverbial function
 Adverbial function
 Verbal function
 Object function
+Verbal function
 Adverbial function
 Object function
 Verbal function
@@ -39943,7 +39077,6 @@ Verbal function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Adverbial function
@@ -39952,9 +39085,9 @@ Subject function
 Adverbial function
 Verbal function
 Object function
-Subject function
 Subject function
 Verbal function
+Subject function
 Verbal Copula function
 Subject function
 Predicate function
@@ -39968,7 +39101,6 @@ Indirect Object function
 Predicate function
 Verbal Copula function
 Adverbial function
-Subject function
 Subject function
 Verbal function
 Subject function
@@ -39998,11 +39130,13 @@ Object function
 Verbal function
 Subject function
 Indirect Object function
+Verbal function
 Subject function
 Verbal function
 Adverbial function
 Adverbial function
 Verbal function
+Subject function
 Adverbial function
 Subject function
 Adverbial function
@@ -40017,6 +39151,7 @@ Adverbial function
 Verbal function
 Object function
 Second Object function
+Object function
 Adverbial function
 Verbal function
 Adverbial function
@@ -40041,7 +39176,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Subject function
-Adverbial function
 Adverbial function
 Verbal Copula function
 Predicate function
@@ -40064,7 +39198,6 @@ Object function
 Indirect Object function
 Verbal function
 Object function
-Object function
 Verbal function
 Subject function
 Object function
@@ -40075,7 +39208,6 @@ Object function
 Indirect Object function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -40094,7 +39226,6 @@ Verbal Copula function
 Adverbial function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Object function
@@ -40114,7 +39245,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Object function
-Object function
 Verbal function
 Subject function
 Adverbial function
@@ -40132,7 +39262,6 @@ Verbal function
 Indirect Object function
 Adverbial function
 Subject function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -40154,6 +39283,7 @@ Subject function
 Verbal function
 Object function
 Subject function
+Subject function
 Adverbial function
 Verbal function
 Predicate function
@@ -40252,7 +39382,6 @@ Object function
 Indirect Object function
 Indirect Object function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -40308,7 +39437,6 @@ Adverbial function
 Verbal function
 Object function
 Indirect Object function
-Indirect Object function
 Subject function
 Verbal function
 Indirect Object function
@@ -40322,9 +39450,9 @@ Subject function
 Verbal function
 Subject function
 Adverbial function
-Predicate function
 Predicate function
 Subject function
+Subject function
 Predicate function
 Object function
 Verbal function
@@ -40368,7 +39496,6 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Verbal Copula function
 Predicate function
@@ -40386,6 +39513,8 @@ Subject function
 Verbal function
 Object function
 Subject function
+Adverbial function
+Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -40414,7 +39543,6 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Object function
 Verbal function
 Object function
 Verbal function
@@ -40424,19 +39552,16 @@ Verbal function
 Indirect Object function
 Object function
 Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Subject function
 Adverbial function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Object function
@@ -40444,7 +39569,6 @@ Subject function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Object function
@@ -40453,18 +39577,15 @@ Verbal function
 Verbal function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
 Indirect Object function
-Object function
 Object function
 Verbal function
 Subject function
@@ -40489,7 +39610,6 @@ Subject function
 Verbal function
 Subject function
 Adverbial function
-Adverbial function
 Subject function
 Adverbial function
 Predicate function
@@ -40503,6 +39623,7 @@ Verbal function
 Verbal Copula function
 Predicate function
 Subject function
+Predicate function
 Object function
 Verbal function
 Subject function
@@ -40512,7 +39633,6 @@ Verbal Copula function
 Predicate function
 Verbal Copula function
 Predicate function
-Predicate function
 Verbal function
 Object function
 Adverbial function
@@ -40536,7 +39656,6 @@ Subject function
 Verbal function
 Verbal function
 Subject function
-Verbal function
 Adverbial function
 Verbal function
 Subject function
@@ -40553,6 +39672,7 @@ Object function
 Adverbial function
 Verbal function
 Adverbial function
+Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -40562,10 +39682,9 @@ Object function
 Adverbial function
 Adverbial function
 Verbal function
-Object function
 Object function
-Subject function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Subject function
@@ -40576,13 +39695,12 @@ Verbal function
 Indirect Object function
 Object function
 Adverbial function
-Subject function
 Indirect Object function
+Subject function
 Verbal function
 Object function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Adverbial function
@@ -40591,8 +39709,8 @@ Adverbial function
 Verbal Copula function
 Predicate function
 Predicate function
-Verbal function
 Object function
+Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -40600,12 +39718,12 @@ Verbal Copula function
 Predicate function
 Subject function
 Adverbial function
+Subject function
 Subject function
 Adverbial function
 Verbal Copula function
 Predicate function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
@@ -40615,6 +39733,7 @@ Verbal function
 Adverbial function
 Subject function
 Predicate function
+Verbal function
 Subject function
 Verbal Copula function
 Verbal function
@@ -40623,20 +39742,18 @@ Verbal function
 Subject function
 Adverbial function
 Adverbial function
+Subject function
 Verbal function
 Adverbial function
-Subject function
 Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Object function
-Verbal function
+Object function
 Verbal function
 Subject function
 Verbal function
@@ -40664,13 +39781,11 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Object function
 Verbal function
 Subject function
 Indirect Object function
 Verbal function
 Verbal function
-Indirect Object function
 Indirect Object function
 Verbal function
 Subject function
@@ -40683,7 +39798,6 @@ Verbal function
 Verbal function
 Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
@@ -40691,13 +39805,11 @@ Verbal function
 Adverbial function
 Subject function
 Verbal function
-Object function
 Object function
 Verbal function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Object function
 Verbal function
@@ -40724,7 +39836,6 @@ Verbal function
 Verbal function
 Verbal function
 Adverbial function
-Subject function
 Subject function
 Verbal function
 Subject function
@@ -40736,9 +39847,8 @@ Subject function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
-Subject function
 Verbal function
+Subject function
 Object function
 Adverbial function
 Verbal function
@@ -40779,12 +39889,10 @@ Adverbial function
 Verbal function
 Object function
 Adverbial function
-Subject function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
@@ -40794,7 +39902,6 @@ Object function
 Adverbial function
 Verbal function
 Subject function
-Adverbial function
 Adverbial function
 Subject function
 Adverbial function
@@ -40807,8 +39914,8 @@ Verbal function
 Adverbial function
 Object function
 Object function
-Verbal function
 Object function
+Verbal function
 Predicate function
 Verbal Copula function
 Object function
@@ -40820,7 +39927,6 @@ Subject function
 Verbal function
 Adverbial function
 Adverbial function
-Adverbial function
 Object function
 Verbal function
 Subject function
@@ -40838,7 +39944,6 @@ Object function
 Verbal function
 Verbal function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Verbal Copula function
 Subject function
@@ -40856,21 +39961,19 @@ Subject function
 Object function
 Subject function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
-Object function
 Adverbial function
+Object function
 Object function
+Adverbial function
 Verbal function
 Verbal function
 Subject function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -40882,11 +39985,13 @@ Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
+Verbal function
 Verbal function
+Adverbial function
 Verbal function
 Verbal Copula function
 Subject function
+Predicate function
 Adverbial function
 Predicate function
 Predicate function
@@ -40894,9 +39999,7 @@ Verbal function
 Adverbial function
 Subject function
 Subject function
-Subject function
 Verbal function
-Subject function
 Subject function
 Subject function
 Subject function
@@ -40938,7 +40041,6 @@ Verbal function
 Object function
 Verbal function
 Object function
-Object function
 Verbal function
 Adverbial function
 Subject function
@@ -40956,6 +40058,7 @@ Subject function
 Verbal function
 Indirect Object function
 Object function
+Verbal function
 Subject function
 Adverbial function
 Verbal function
@@ -40970,26 +40073,26 @@ Object function
 Verbal function
 Subject function
 Verbal function
+Object function
+Subject function
+Verbal function
 Indirect Object function
 Adverbial function
 Verbal function
 Verbal function
-Object function
-Object function
 Verbal function
 Verbal function
 Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
-Subject function
 Subject function
 Verbal function
 Verbal function
 Verbal function
 Verbal function
-Object function
 Verbal function
+Object function
 Verbal function
 Verbal Copula function
 Predicate function
@@ -41002,7 +40105,6 @@ Object function
 Subject function
 Verbal Copula function
 Predicate function
-Predicate function
 Verbal function
 Subject function
 Verbal function
@@ -41022,7 +40124,6 @@ Verbal function
 Verbal function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Adverbial function
@@ -41046,7 +40147,6 @@ Object function
 Verbal function
 Indirect Object function
 Subject function
-Subject function
 Verbal function
 Object function
 Adverbial function
@@ -41057,7 +40157,6 @@ Adverbial function
 Verbal function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -41071,7 +40170,6 @@ Verbal function
 Adverbial function
 Verbal Copula function
 Predicate function
-Predicate function
 Subject function
 Verbal function
 Object function
@@ -41088,7 +40186,9 @@ Indirect Object function
 Indirect Object function
 Adverbial function
 Verbal function
+Adverbial function
 Adverbial function
+Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -41098,7 +40198,6 @@ Verbal function
 Adverbial function
 Subject function
 Verbal function
-Object function
 Object function
 Verbal function
 Subject function
@@ -41108,7 +40207,7 @@ Adverbial function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
+Subject function
 Subject function
 Adverbial function
 Verbal function
@@ -41126,7 +40225,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Object function
@@ -41157,9 +40255,9 @@ Verbal function
 Adverbial function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Predicate function
+Subject function
 Verbal Copula function
 Subject function
 Adverbial function
@@ -41179,8 +40277,8 @@ Adverbial function
 Verbal function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
+Predicate function
 Verbal Copula function
 Subject function
 Predicate function
@@ -41196,7 +40294,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -41218,10 +40315,10 @@ Verbal function
 Predicate function
 Verbal Copula function
 Subject function
-Subject function
 Verbal function
 Adverbial function
 Object function
+Subject function
 Adverbial function
 Verbal function
 Object function
@@ -41231,7 +40328,6 @@ Verbal function
 Adverbial function
 Verbal function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Object function
@@ -41248,7 +40344,6 @@ Verbal function
 Object function
 Verbal function
 Object function
-Verbal function
 Verbal function
 Predicate function
 Verbal Copula function
@@ -41257,11 +40352,9 @@ Adverbial function
 Verbal function
 Subject function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Adverbial function
@@ -41290,7 +40383,6 @@ Object function
 Verbal function
 Indirect Object function
 Object function
-Object function
 Subject function
 Verbal function
 Object function
@@ -41299,7 +40391,6 @@ Predicate function
 Verbal Copula function
 Verbal function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Verbal Copula function
 Verbal function
@@ -41348,7 +40439,6 @@ Subject function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal Copula function
 Predicate function
 Verbal function
@@ -41394,7 +40484,6 @@ Subject function
 Verbal function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -41408,8 +40497,8 @@ Adverbial function
 Adverbial function
 Verbal function
 Subject function
-Object function
 Predicate function
+Object function
 Verbal Copula function
 Subject function
 Object function
@@ -41430,7 +40519,6 @@ Verbal Copula function
 Predicate function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
@@ -41449,7 +40537,6 @@ Verbal function
 Verbal function
 Subject function
 Verbal function
-Object function
 Object function
 Verbal function
 Subject function
@@ -41463,15 +40550,14 @@ Predicate function
 Subject function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Subject function
 Subject function
 Verbal function
 Object function
-Subject function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Adverbial function
@@ -41480,12 +40566,10 @@ Object function
 Adverbial function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Verbal function
 Object function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -41511,7 +40595,6 @@ Object function
 Subject function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -41527,7 +40610,6 @@ Verbal function
 Verbal function
 Verbal function
 Subject function
-Subject function
 Verbal function
 Adverbial function
 Subject function
@@ -41544,6 +40626,7 @@ Verbal function
 Object function
 Second Object function
 Verbal function
+Object function
 Adverbial function
 Verbal function
 Verbal function
@@ -41552,6 +40635,8 @@ Verbal function
 Object function
 Object function
 Subject function
+Verbal function
+Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -41568,7 +40653,6 @@ Subject function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -41581,12 +40665,10 @@ Verbal function
 Adverbial function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
 Subject function
 Adverbial function
@@ -41594,10 +40676,9 @@ Verbal function
 Object function
 Verbal function
 Indirect Object function
-Adverbial function
 Adverbial function
-Subject function
 Verbal function
+Subject function
 Object function
 Verbal function
 Adverbial function
@@ -41629,6 +40710,7 @@ Subject function
 Verbal function
 Object function
 Verbal function
+Object function
 Adverbial function
 Verbal function
 Adverbial function
@@ -41740,7 +40822,6 @@ Subject function
 Subject function
 Object function
 Verbal function
-Subject function
 Subject function
 Verbal function
 Subject function
@@ -41751,7 +40832,6 @@ Verbal function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Verbal Copula function
@@ -41774,7 +40854,6 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -41783,6 +40862,8 @@ Indirect Object function
 Adverbial function
 Verbal function
 Subject function
+Verbal function
+Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -41801,14 +40882,13 @@ Adverbial function
 Verbal function
 Verbal function
 Object function
-Object function
 Verbal function
 Adverbial function
 Subject function
 Verbal function
 Indirect Object function
-Object function
 Verbal function
+Object function
 Verbal function
 Verbal function
 Adverbial function
@@ -41817,7 +40897,6 @@ Adverbial function
 Subject function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -41829,7 +40908,6 @@ Verbal function
 Subject function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
@@ -41847,7 +40925,6 @@ Adverbial function
 Predicate function
 Verbal Copula function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -41862,7 +40939,6 @@ Subject function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Indirect Object function
 Verbal function
@@ -41882,7 +40958,6 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
-Subject function
 Subject function
 Adverbial function
 Verbal function
@@ -41891,14 +40966,12 @@ Verbal function
 Subject function
 Adverbial function
 Adverbial function
-Adverbial function
 Verbal function
 Object function
 Object function
 Verbal function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -41917,7 +40990,6 @@ Verbal Copula function
 Predicate function
 Verbal function
 Object function
-Object function
 Verbal function
 Object function
 Verbal function
@@ -41929,7 +41001,6 @@ Adverbial function
 Indirect Object function
 Subject function
 Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -41943,7 +41014,6 @@ Verbal function
 Object function
 Adverbial function
 Indirect Object function
-Indirect Object function
 Verbal Copula function
 Subject function
 Predicate function
@@ -41957,17 +41027,18 @@ Object function
 Object function
 Verbal Copula function
 Subject function
-Predicate function
 Predicate function
 Subject function
+Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
 Adverbial function
 Verbal Copula function
 Predicate function
+Subject function
+Subject function
 Verbal function
 Object function
 Adverbial function
@@ -41990,14 +41061,12 @@ Predicate function
 Verbal function
 Subject function
 Indirect Object function
-Indirect Object function
 Verbal function
 Adverbial function
 Verbal function
 Object function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -42006,12 +41075,11 @@ Adverbial function
 Subject function
 Verbal function
 Object function
-Subject function
 Verbal Copula function
+Subject function
 Adverbial function
 Subject function
 Predicate function
-Predicate function
 Adverbial function
 Verbal function
 Adverbial function
@@ -42050,19 +41118,16 @@ Verbal function
 Subject function
 Object function
 Verbal function
-Object function
 Object function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Predicate function
 Verbal Copula function
 Adverbial function
 Verbal function
-Object function
 Object function
 Verbal Copula function
 Predicate function
@@ -42079,13 +41144,15 @@ Adverbial function
 Verbal function
 Object function
 Indirect Object function
-Indirect Object function
+Subject function
 Subject function
 Verbal function
 Adverbial function
 Subject function
 Verbal Copula function
 Adverbial function
+Verbal Copula function
+Adverbial function
 Predicate function
 Adverbial function
 Adverbial function
@@ -42093,11 +41160,11 @@ Verbal function
 Object function
 Subject function
 Adverbial function
+Verbal function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Adverbial function
@@ -42121,13 +41188,11 @@ Adverbial function
 Verbal function
 Subject function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Adverbial function
 Verbal function
 Verbal function
-Object function
 Object function
 Verbal function
 Adverbial function
@@ -42147,7 +41212,6 @@ Verbal Copula function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Object function
 Verbal function
@@ -42181,13 +41245,13 @@ Subject function
 Object function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
 Verbal Copula function
 Predicate function
 Adverbial function
+Verbal function
 Subject function
 Verbal function
 Verbal function
@@ -42195,6 +41259,7 @@ Subject function
 Object function
 Verbal function
 Subject function
+Verbal function
 Adverbial function
 Predicate function
 Predicate function
@@ -42203,25 +41268,21 @@ Object function
 Adverbial function
 Verbal function
 Object function
-Object function
+Verbal function
 Verbal function
 Subject function
 Adverbial function
-Adverbial function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Subject function
 Verbal function
 Predicate function
 Verbal Copula function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -42237,24 +41298,21 @@ Subject function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
+Verbal function
 Verbal function
 Indirect Object function
 Object function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Verbal Copula function
 Subject function
-Predicate function
 Predicate function
 Predicate function
 Subject function
 Verbal Copula function
-Verbal Copula function
 Subject function
 Verbal function
 Object function
@@ -42293,7 +41351,6 @@ Subject function
 Verbal function
 Predicate function
 Adverbial function
-Predicate function
 Predicate function
 Adverbial function
 Verbal function
@@ -42307,9 +41364,7 @@ Indirect Object function
 Verbal Copula function
 Predicate function
 Verbal function
-Verbal function
 Subject function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -42320,7 +41375,6 @@ Verbal function
 Object function
 Verbal Copula function
 Predicate function
-Predicate function
 Verbal Copula function
 Predicate function
 Adverbial function
@@ -42329,7 +41383,6 @@ Adverbial function
 Subject function
 Verbal Copula function
 Predicate function
-Subject function
 Subject function
 Subject function
 Verbal function
@@ -42352,12 +41405,10 @@ Verbal function
 Object function
 Indirect Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Adverbial function
 Verbal function
@@ -42371,7 +41422,6 @@ Adverbial function
 Verbal function
 Object function
 Second Object function
-Second Object function
 Verbal function
 Adverbial function
 Verbal function
@@ -42390,16 +41440,16 @@ Verbal function
 Object function
 Verbal function
 Object function
-Subject function
 Subject function
 Adverbial function
+Subject function
 Verbal function
 Subject function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Subject function
+Subject function
 Verbal function
 Adverbial function
 Verbal function
@@ -42430,12 +41480,11 @@ Subject function
 Verbal function
 Object function
 Adverbial function
-Subject function
 Verbal function
+Subject function
 Object function
 Verbal function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -42447,7 +41496,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Adverbial function
@@ -42456,7 +41504,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -42465,13 +41512,13 @@ Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
+Subject function
 Verbal Copula function
 Predicate function
 Subject function
 Verbal function
 Verbal function
 Subject function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -42530,6 +41577,7 @@ Object function
 Subject function
 Verbal function
 Object function
+Adverbial function
 Subject function
 Adverbial function
 Verbal function
@@ -42547,8 +41595,9 @@ Object function
 Verbal function
 Predicate function
 Subject function
-Verbal Copula function
 Verbal function
+Verbal Copula function
+Verbal Copula function
 Verbal Copula function
 Subject function
 Verbal function
@@ -42564,7 +41613,6 @@ Object function
 Indirect Object function
 Subject function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
@@ -42588,7 +41636,6 @@ Verbal function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -42610,8 +41657,9 @@ Object function
 Verbal function
 Second Object function
 Adverbial function
-Verbal function
 Second Object function
+Verbal function
+Verbal function
 Object function
 Subject function
 Verbal function
@@ -42621,6 +41669,7 @@ Object function
 Object function
 Adverbial function
 Verbal function
+Adverbial function
 Predicate function
 Verbal Copula function
 Subject function
@@ -42647,7 +41696,6 @@ Verbal function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Adverbial function
 Verbal function
@@ -42656,14 +41704,12 @@ Verbal function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
 Object function
-Object function
 Predicate function
 Verbal Copula function
 Adverbial function
@@ -42703,7 +41749,6 @@ Verbal function
 Object function
 Subject function
 Verbal function
-Indirect Object function
 Indirect Object function
 Verbal function
 Subject function
@@ -42712,7 +41757,6 @@ Adverbial function
 Verbal function
 Indirect Object function
 Subject function
-Subject function
 Verbal function
 Subject function
 Verbal function
@@ -42732,10 +41776,9 @@ Verbal function
 Adverbial function
 Subject function
 Verbal function
-Object function
 Object function
-Subject function
 Verbal function
+Subject function
 Object function
 Verbal function
 Adverbial function
@@ -42747,15 +41790,16 @@ Verbal function
 Verbal function
 Subject function
 Verbal function
+Indirect Object function
 Verbal Copula function
 Predicate function
-Indirect Object function
 Adverbial function
 Verbal function
 Subject function
 Verbal function
 Object function
 Adverbial function
+Second Object function
 Verbal function
 Object function
 Second Object function
@@ -42771,7 +41815,6 @@ Adverbial function
 Verbal Copula function
 Subject function
 Predicate function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -42786,7 +41829,6 @@ Adverbial function
 Verbal function
 Subject function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Object function
@@ -42799,7 +41841,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -42807,11 +41848,10 @@ Object function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
+Subject function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -42837,7 +41877,6 @@ Adverbial function
 Verbal function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -42845,7 +41884,6 @@ Subject function
 Subject function
 Verbal Copula function
 Predicate function
-Predicate function
 Subject function
 Predicate function
 Predicate function
@@ -42885,7 +41923,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
-Verbal function
 Verbal function
 Verbal function
 Subject function
@@ -42902,19 +41939,17 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Object function
-Second Object function
 Second Object function
 Object function
+Object function
 Second Object function
 Second Object function
 Subject function
 Verbal Copula function
 Predicate function
 Verbal function
-Predicate function
 Predicate function
 Subject function
 Verbal Copula function
@@ -42940,6 +41975,7 @@ Verbal function
 Subject function
 Predicate function
 Verbal Copula function
+Predicate function
 Verbal function
 Object function
 Adverbial function
@@ -42976,7 +42012,6 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
-Indirect Object function
 Indirect Object function
 Verbal function
 Adverbial function
@@ -43000,7 +42035,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Object function
 Adverbial function
@@ -43013,11 +42047,10 @@ Object function
 Verbal function
 Adverbial function
 Object function
-Verbal function
 Adverbial function
+Verbal function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Indirect Object function
@@ -43062,7 +42095,6 @@ Object function
 Verbal function
 Indirect Object function
 Object function
-Object function
 Verbal function
 Adverbial function
 Adverbial function
@@ -43081,7 +42113,6 @@ Subject function
 Adverbial function
 Verbal function
 Subject function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -43094,18 +42125,15 @@ Object function
 Verbal function
 Object function
 Indirect Object function
-Indirect Object function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Object function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Verbal function
@@ -43113,14 +42141,13 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
+Verbal function
 Subject function
 Verbal function
 Object function
-Object function
 Verbal function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -43151,7 +42178,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Object function
-Object function
 Adverbial function
 Verbal function
 Object function
@@ -43159,13 +42185,12 @@ Verbal function
 Object function
 Adverbial function
 Object function
-Verbal function
 Subject function
 Verbal function
+Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Subject function
 Subject function
 Verbal function
 Subject function
@@ -43176,6 +42201,7 @@ Verbal function
 Object function
 Verbal function
 Subject function
+Object function
 Adverbial function
 Adverbial function
 Verbal function
@@ -43239,7 +42265,6 @@ Verbal function
 Indirect Object function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Adverbial function
@@ -43292,19 +42317,18 @@ Adverbial function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Verbal function
 Object function
 Object function
 Adverbial function
 Verbal function
-Object function
 Object function
 Verbal function
 Adverbial function
 Object function
 Verbal function
 Indirect Object function
+Object function
 Adverbial function
 Verbal function
 Object function
@@ -43312,7 +42336,6 @@ Adverbial function
 Verbal function
 Object function
 Adverbial function
-Verbal function
 Verbal function
 Verbal function
 Subject function
@@ -43323,7 +42346,6 @@ Verbal function
 Object function
 Verbal function
 Object function
-Object function
 Verbal function
 Adverbial function
 Subject function
@@ -43339,26 +42361,24 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Object function
 Object function
 Adverbial function
 Verbal function
 Adverbial function
 Subject function
 Verbal function
+Verbal function
 Object function
 Adverbial function
 Verbal function
 Object function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Subject function
 Verbal function
 Object function
@@ -43375,7 +42395,6 @@ Verbal function
 Adverbial function
 Adverbial function
 Verbal function
-Object function
 Object function
 Verbal function
 Subject function
@@ -43383,12 +42402,12 @@ Adverbial function
 Verbal function
 Subject function
 Adverbial function
+Subject function
 Adverbial function
 Subject function
 Verbal function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -43401,20 +42420,20 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Object function
 Verbal function
 Adverbial function
 Adverbial function
 Verbal function
+Subject function
 Verbal Copula function
 Predicate function
-Subject function
 Adverbial function
 Predicate function
 Subject function
 Subject function
 Verbal function
 Adverbial function
+Subject function
 Verbal function
 Subject function
 Adverbial function
@@ -43438,13 +42457,12 @@ Verbal function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
+Subject function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -43489,31 +42507,31 @@ Adverbial function
 Verbal function
 Subject function
 Verbal function
-Object function
 Object function
 Verbal function
 Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
 Subject function
 Verbal Copula function
-Predicate function
 Predicate function
 Predicate function
 Verbal function
 Adverbial function
+Verbal function
+Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
 Predicate function
+Verbal function
 Subject function
 Verbal Copula function
-Verbal function
+Verbal Copula function
 Verbal function
 Indirect Object function
 Verbal function
@@ -43528,6 +42546,8 @@ Object function
 Verbal function
 Object function
 Subject function
+Verbal function
+Object function
 Verbal function
 Object function
 Verbal function
@@ -43545,7 +42565,6 @@ Verbal Copula function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Verbal function
 Subject function
@@ -43574,9 +42593,8 @@ Object function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
-Subject function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Indirect Object function
@@ -43586,10 +42604,9 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
-Subject function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Subject function
@@ -43610,10 +42627,10 @@ Verbal Copula function
 Verbal Copula function
 Verbal function
 Object function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
+Verbal function
 Predicate function
 Verbal Copula function
 Verbal Copula function
@@ -43625,7 +42642,7 @@ Subject function
 Verbal function
 Object function
 Verbal function
-Verbal function
+Object function
 Verbal function
 Indirect Object function
 Object function
@@ -43643,11 +42660,11 @@ Object function
 Adverbial function
 Object function
 Verbal function
+Object function
 Adverbial function
 Adverbial function
 Subject function
 Verbal function
-Object function
 Object function
 Verbal function
 Object function
@@ -43655,6 +42672,7 @@ Subject function
 Adverbial function
 Subject function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Subject function
@@ -43663,11 +42681,10 @@ Adverbial function
 Subject function
 Subject function
 Subject function
-Verbal function
 Verbal function
-Subject function
 Predicate function
 Verbal Copula function
+Subject function
 Adverbial function
 Verbal function
 Subject function
@@ -43678,7 +42695,6 @@ Object function
 Verbal function
 Verbal function
 Subject function
-Subject function
 Verbal function
 Subject function
 Adverbial function
@@ -43686,11 +42702,11 @@ Verbal function
 Object function
 Verbal function
 Indirect Object function
-Adverbial function
+Object function
 Subject function
+Adverbial function
 Verbal Copula function
 Predicate function
-Predicate function
 Verbal function
 Object function
 Verbal function
@@ -43705,7 +42721,6 @@ Adverbial function
 Verbal function
 Object function
 Subject function
-Verbal function
 Verbal function
 Verbal function
 Subject function
@@ -43729,7 +42744,6 @@ Adverbial function
 Verbal function
 Subject function
 Adverbial function
-Adverbial function
 Verbal function
 Object function
 Adverbial function
@@ -43739,7 +42753,6 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -43747,7 +42760,6 @@ Subject function
 Object function
 Verbal function
 Object function
-Object function
 Verbal function
 Subject function
 Object function
@@ -43755,12 +42767,10 @@ Adverbial function
 Adverbial function
 Verbal function
 Subject function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Adverbial function
@@ -43773,9 +42783,9 @@ Verbal function
 Adverbial function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Adverbial function
+Adverbial function
 Verbal function
 Subject function
 Object function
@@ -43783,7 +42793,6 @@ Verbal function
 Verbal function
 Indirect Object function
 Subject function
-Object function
 Object function
 Verbal function
 Adverbial function
@@ -43795,7 +42804,6 @@ Object function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -43810,7 +42818,6 @@ Verbal function
 Adverbial function
 Predicate function
 Verbal Copula function
-Subject function
 Subject function
 Adverbial function
 Verbal function
@@ -43823,7 +42830,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Subject function
 Verbal function
 Subject function
@@ -43845,10 +42851,10 @@ Verbal function
 Indirect Object function
 Subject function
 Verbal function
-Subject function
 Subject function
 Subject function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Object function
@@ -43880,6 +42886,7 @@ Subject function
 Adverbial function
 Verbal function
 Predicate function
+Verbal function
 Verbal Copula function
 Subject function
 Verbal function
@@ -43892,7 +42899,6 @@ Object function
 Adverbial function
 Verbal function
 Object function
-Object function
 Subject function
 Adverbial function
 Verbal function
@@ -43916,9 +42922,9 @@ Object function
 Adverbial function
 Verbal Copula function
 Subject function
-Predicate function
 Predicate function
 Subject function
+Subject function
 Verbal function
 Verbal function
 Subject function
@@ -43932,7 +42938,6 @@ Subject function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Adverbial function
 Object function
@@ -43943,7 +42948,6 @@ Adverbial function
 Verbal function
 Subject function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Object function
@@ -43955,7 +42959,6 @@ Object function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -43968,30 +42971,28 @@ Verbal function
 Predicate function
 Verbal Copula function
 Subject function
-Subject function
 Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
+Subject function
 Verbal function
 Adverbial function
 Adverbial function
 Subject function
-Verbal function
 Verbal function
-Subject function
 Object function
 Verbal function
+Subject function
 Verbal function
 Subject function
+Predicate function
 Verbal function
 Predicate function
 Verbal Copula function
 Object function
-Verbal function
 Verbal function
 Verbal function
 Object function
@@ -44003,15 +43004,18 @@ Subject function
 Adverbial function
 Verbal function
 Subject function
-Adverbial function
 Verbal function
+Adverbial function
 Object function
 Verbal function
 Adverbial function
 Verbal function
+Adverbial function
+Verbal function
 Predicate function
-Verbal Copula function
 Verbal function
+Subject function
+Verbal Copula function
 Subject function
 Verbal function
 Subject function
@@ -44020,7 +43024,6 @@ Verbal function
 Verbal function
 Object function
 Verbal function
-Object function
 Object function
 Verbal function
 Subject function
@@ -44039,7 +43042,6 @@ Object function
 Adverbial function
 Verbal function
 Indirect Object function
-Indirect Object function
 Object function
 Verbal function
 Object function
@@ -44052,6 +43054,7 @@ Object function
 Subject function
 Predicate function
 Verbal Copula function
+Predicate function
 Adverbial function
 Verbal function
 Verbal function
@@ -44079,14 +43082,15 @@ Adverbial function
 Predicate function
 Adverbial function
 Verbal Copula function
-Verbal Copula function
 Adverbial function
 Verbal function
 Verbal function
 Subject function
 Verbal function
+Predicate function
 Predicate function
 Verbal Copula function
+Predicate function
 Verbal Copula function
 Predicate function
 Adverbial function
@@ -44095,9 +43099,9 @@ Adverbial function
 Adverbial function
 Subject function
 Verbal Copula function
-Predicate function
 Predicate function
 Object function
+Object function
 Verbal function
 Subject function
 Adverbial function
@@ -44120,13 +43124,10 @@ Verbal function
 Indirect Object function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Verbal function
 Object function
-Object function
 Subject function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -44136,7 +43137,6 @@ Adverbial function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Indirect Object function
@@ -44179,7 +43179,6 @@ Adverbial function
 Verbal function
 Verbal Copula function
 Predicate function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -44197,7 +43196,6 @@ Indirect Object function
 Verbal Copula function
 Subject function
 Predicate function
-Predicate function
 Verbal function
 Subject function
 Verbal function
@@ -44218,7 +43216,6 @@ Verbal function
 Object function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -44251,15 +43248,15 @@ Object function
 Subject function
 Verbal Copula function
 Predicate function
-Adverbial function
+Subject function
 Adverbial function
 Verbal function
 Adverbial function
 Verbal function
 Adverbial function
 Object function
-Object function
 Subject function
+Predicate function
 Verbal Copula function
 Predicate function
 Verbal function
@@ -44276,7 +43273,6 @@ Subject function
 Object function
 Verbal function
 Object function
-Object function
 Verbal function
 Subject function
 Verbal function
@@ -44285,34 +43281,33 @@ Verbal function
 Subject function
 Adverbial function
 Verbal Copula function
-Predicate function
 Predicate function
 Predicate function
 Adverbial function
 Verbal function
 Object function
+Predicate function
 Verbal Copula function
 Predicate function
 Verbal function
 Subject function
-Adverbial function
-Verbal function
+Predicate function
 Subject function
 Predicate function
+Adverbial function
+Verbal function
 Verbal Copula function
 Verbal Copula function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
-Subject function
 Verbal function
+Subject function
 Object function
 Verbal function
 Adverbial function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Adverbial function
@@ -44329,19 +43324,16 @@ Adverbial function
 Object function
 Verbal function
 Object function
-Object function
 Verbal function
 Adverbial function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Adverbial function
@@ -44374,7 +43366,6 @@ Verbal function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Predicate function
@@ -44382,10 +43373,10 @@ Adverbial function
 Predicate function
 Adverbial function
 Subject function
+Verbal function
+Adverbial function
 Predicate function
 Verbal Copula function
-Adverbial function
-Verbal function
 Adverbial function
 Subject function
 Verbal function
@@ -44402,7 +43393,6 @@ Object function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Object function
 Subject function
@@ -44411,7 +43401,6 @@ Object function
 Adverbial function
 Indirect Object function
 Verbal function
-Object function
 Object function
 Verbal function
 Subject function
@@ -44428,7 +43417,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Object function
 Verbal function
 Adverbial function
@@ -44436,7 +43424,6 @@ Verbal function
 Adverbial function
 Verbal Copula function
 Subject function
-Predicate function
 Predicate function
 Verbal function
 Adverbial function
@@ -44451,26 +43438,21 @@ Adverbial function
 Subject function
 Verbal function
 Object function
-Object function
 Verbal function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Subject function
 Adverbial function
 Adverbial function
-Verbal function
-Verbal function
 Subject function
 Verbal function
-Adverbial function
 Verbal function
+Adverbial function
 Verbal function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Verbal function
@@ -44481,11 +43463,9 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Subject function
 Verbal Copula function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -44494,15 +43474,12 @@ Subject function
 Object function
 Verbal function
 Subject function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Verbal Copula function
 Subject function
-Predicate function
 Predicate function
 Verbal function
 Adverbial function
@@ -44522,7 +43499,6 @@ Object function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Adverbial function
@@ -44532,7 +43508,6 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Subject function
 Subject function
 Object function
 Verbal function
@@ -44547,6 +43522,7 @@ Adverbial function
 Verbal function
 Adverbial function
 Subject function
+Subject function
 Adverbial function
 Subject function
 Verbal function
@@ -44581,8 +43557,8 @@ Predicate function
 Verbal Copula function
 Verbal Copula function
 Verbal function
-Adverbial function
 Subject function
+Adverbial function
 Predicate function
 Verbal Copula function
 Subject function
@@ -44592,7 +43568,6 @@ Verbal function
 Adverbial function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal Copula function
@@ -44609,7 +43584,6 @@ Verbal function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Object function
 Verbal function
@@ -44650,13 +43624,12 @@ Object function
 Object function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
 Subject function
-Subject function
 Predicate function
+Subject function
 Adverbial function
 Subject function
 Verbal function
@@ -44664,6 +43637,8 @@ Object function
 Verbal function
 Indirect Object function
 Object function
+Object function
+Verbal function
 Object function
 Verbal function
 Verbal function
@@ -44696,7 +43671,6 @@ Subject function
 Adverbial function
 Verbal function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -44714,14 +43688,12 @@ Subject function
 Subject function
 Verbal function
 Subject function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
 Verbal function
 Object function
 Object function
-Object function
 Subject function
 Verbal function
 Adverbial function
@@ -44737,7 +43709,6 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Subject function
 Object function
@@ -44750,7 +43721,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Object function
@@ -44760,7 +43730,6 @@ Subject function
 Verbal function
 Object function
 Verbal function
-Indirect Object function
 Indirect Object function
 Verbal function
 Adverbial function
@@ -44768,22 +43737,24 @@ Predicate function
 Verbal Copula function
 Subject function
 Verbal function
+Subject function
 Adverbial function
 Adverbial function
 Verbal function
 Predicate function
-Subject function
 Subject function
 Verbal function
+Subject function
 Object function
-Verbal function
 Verbal function
 Predicate function
 Verbal Copula function
+Predicate function
 Subject function
 Adverbial function
 Verbal function
 Subject function
+Predicate function
 Verbal Copula function
 Predicate function
 Predicate function
@@ -44817,7 +43788,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -44830,17 +43800,16 @@ Adverbial function
 Adverbial function
 Object function
 Verbal function
-Object function
 Object function
 Adverbial function
 Verbal function
 Subject function
 Verbal function
+Subject function
 Object function
 Adverbial function
 Verbal function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -44849,7 +43818,6 @@ Object function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -44860,7 +43828,6 @@ Adverbial function
 Verbal Copula function
 Predicate function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -44890,10 +43857,8 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Verbal Copula function
 Subject function
@@ -44904,7 +43869,6 @@ Verbal function
 Subject function
 Adverbial function
 Predicate function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -44916,7 +43880,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -44926,8 +43889,8 @@ Verbal function
 Adverbial function
 Verbal function
 Subject function
+Subject function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Verbal function
 Adverbial function
@@ -44946,7 +43909,6 @@ Verbal function
 Verbal function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Adverbial function
@@ -44974,12 +43936,10 @@ Adverbial function
 Adverbial function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Verbal function
@@ -44990,6 +43950,7 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
+Verbal function
 Verbal function
 Predicate function
 Verbal Copula function
@@ -44997,7 +43958,6 @@ Adverbial function
 Adverbial function
 Verbal Copula function
 Predicate function
-Predicate function
 Adverbial function
 Verbal function
 Adverbial function
@@ -45023,6 +43983,7 @@ Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
+Object function
 Verbal function
 Object function
 Verbal function
@@ -45039,8 +44000,8 @@ Object function
 Object function
 Adverbial function
 Verbal function
-Adverbial function
 Subject function
+Adverbial function
 Verbal function
 Adverbial function
 Object function
@@ -45090,7 +44051,6 @@ Adverbial function
 Predicate function
 Verbal Copula function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -45162,8 +44122,8 @@ Adverbial function
 Verbal function
 Object function
 Verbal function
-Subject function
 Verbal function
+Subject function
 Object function
 Subject function
 Verbal function
@@ -45179,9 +44139,9 @@ Verbal function
 Verbal function
 Object function
 Adverbial function
-Verbal function
 Verbal function
 Predicate function
+Subject function
 Verbal Copula function
 Subject function
 Subject function
@@ -45223,12 +44183,10 @@ Verbal function
 Adverbial function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
 Object function
-Object function
 Verbal function
 Object function
 Verbal function
@@ -45255,12 +44213,10 @@ Verbal function
 Object function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Object function
 Verbal function
@@ -45281,7 +44237,6 @@ Adverbial function
 Verbal Copula function
 Predicate function
 Verbal function
-Adverbial function
 Adverbial function
 Predicate function
 Verbal Copula function
@@ -45331,7 +44286,6 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Object function
 Subject function
 Object function
 Adverbial function
@@ -45347,7 +44301,6 @@ Verbal function
 Subject function
 Verbal function
 Subject function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -45360,19 +44313,17 @@ Adverbial function
 Verbal function
 Indirect Object function
 Indirect Object function
-Indirect Object function
 Verbal function
 Subject function
 Adverbial function
 Verbal function
 Object function
-Subject function
 Subject function
 Adverbial function
 Verbal function
 Subject function
 Adverbial function
-Adverbial function
+Subject function
 Verbal function
 Subject function
 Subject function
@@ -45384,24 +44335,25 @@ Object function
 Verbal function
 Subject function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
-Object function
 Object function
 Verbal function
 Indirect Object function
 Verbal function
 Verbal function
 Subject function
-Verbal function
 Verbal Copula function
 Predicate function
+Subject function
+Verbal function
+Verbal function
 Subject function
 Predicate function
 Verbal Copula function
 Verbal function
 Adverbial function
+Second Object function
 Verbal function
 Second Object function
 Object function
@@ -45411,14 +44363,12 @@ Verbal function
 Subject function
 Object function
 Adverbial function
-Verbal function
 Verbal function
 Predicate function
 Verbal Copula function
 Adverbial function
 Verbal function
 Verbal function
-Verbal function
 Object function
 Verbal function
 Object function
@@ -45450,7 +44400,6 @@ Verbal Copula function
 Verbal function
 Subject function
 Verbal function
-Object function
 Object function
 Adverbial function
 Verbal function
@@ -45504,16 +44453,14 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Object function
 Verbal function
 Subject function
 Adverbial function
 Predicate function
-Verbal function
 Object function
+Verbal function
 Adverbial function
 Verbal function
-Subject function
 Subject function
 Verbal function
 Subject function
@@ -45529,7 +44476,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Subject function
-Subject function
 Verbal function
 Object function
 Verbal function
@@ -45560,7 +44506,6 @@ Verbal function
 Predicate function
 Verbal Copula function
 Object function
-Verbal function
 Verbal function
 Subject function
 Object function
@@ -45584,7 +44529,6 @@ Verbal function
 Subject function
 Verbal function
 Object function
-Object function
 Verbal function
 Adverbial function
 Subject function
@@ -45594,13 +44538,11 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
 Subject function
 Verbal Copula function
@@ -45610,11 +44552,10 @@ Verbal function
 Predicate function
 Verbal function
 Adverbial function
-Object function
 Object function
 Verbal function
 Subject function
-Subject function
+Predicate function
 Verbal Copula function
 Predicate function
 Predicate function
@@ -45625,7 +44566,6 @@ Verbal function
 Indirect Object function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Verbal function
@@ -45639,7 +44579,6 @@ Adverbial function
 Verbal function
 Verbal function
 Verbal function
-Object function
 Object function
 Verbal function
 Adverbial function
@@ -45655,12 +44594,12 @@ Verbal Copula function
 Predicate function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
+Predicate function
 Verbal Copula function
 Predicate function
 Adverbial function
@@ -45700,7 +44639,6 @@ Adverbial function
 Verbal function
 Subject function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -45710,14 +44648,12 @@ Indirect Object function
 Object function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
 Predicate function
 Verbal Copula function
 Verbal Copula function
-Verbal Copula function
 Verbal function
 Adverbial function
 Subject function
@@ -45725,23 +44661,22 @@ Verbal Copula function
 Predicate function
 Object function
 Subject function
-Verbal function
 Verbal function
 Subject function
 Predicate function
 Verbal Copula function
 Object function
-Verbal function
+Object function
 Verbal function
+Object function
+Object function
 Adverbial function
 Verbal function
 Object function
 Verbal function
 Indirect Object function
-Indirect Object function
 Verbal function
 Object function
-Verbal function
 Verbal function
 Verbal function
 Subject function
@@ -45755,10 +44690,9 @@ Verbal function
 Adverbial function
 Object function
 Verbal function
-Verbal function
 Indirect Object function
-Adverbial function
 Verbal function
+Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -45766,6 +44700,7 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
+Verbal function
 Adverbial function
 Subject function
 Verbal function
@@ -45781,7 +44716,6 @@ Subject function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Subject function
@@ -45797,8 +44731,8 @@ Verbal function
 Object function
 Object function
 Verbal Copula function
-Adverbial function
 Predicate function
+Adverbial function
 Object function
 Verbal function
 Verbal function
@@ -45808,7 +44742,6 @@ Verbal function
 Verbal function
 Object function
 Verbal function
-Object function
 Object function
 Verbal function
 Adverbial function
@@ -45859,7 +44792,6 @@ Subject function
 Adverbial function
 Verbal function
 Object function
-Object function
 Verbal function
 Object function
 Adverbial function
@@ -45904,21 +44836,21 @@ Verbal function
 Adverbial function
 Subject function
 Object function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
+Verbal function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
 Object function
 Verbal function
+Subject function
 Adverbial function
 Subject function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Verbal function
 Subject function
 Verbal function
@@ -45927,23 +44859,19 @@ Verbal function
 Indirect Object function
 Subject function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Subject function
 Verbal function
 Verbal function
-Verbal function
 Subject function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
 Subject function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -45958,7 +44886,6 @@ Predicate function
 Verbal Copula function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -45977,15 +44904,13 @@ Verbal function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
-Subject function
 Verbal function
+Subject function
 Object function
 Verbal function
 Subject function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -46011,7 +44936,6 @@ Adverbial function
 Verbal function
 Subject function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Object function
@@ -46028,14 +44952,14 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
-Subject function
 Verbal function
+Subject function
 Adverbial function
 Subject function
 Verbal Copula function
 Predicate function
+Subject function
 Adverbial function
 Subject function
 Predicate function
@@ -46046,7 +44970,6 @@ Predicate function
 Verbal Copula function
 Predicate function
 Adverbial function
-Verbal function
 Verbal function
 Object function
 Subject function
@@ -46056,16 +44979,13 @@ Subject function
 Verbal function
 Subject function
 Subject function
-Subject function
 Verbal function
 Adverbial function
 Verbal function
-Subject function
 Subject function
 Subject function
 Verbal function
 Object function
-Object function
 Verbal function
 Subject function
 Subject function
@@ -46084,6 +45004,7 @@ Subject function
 Verbal function
 Subject function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Subject function
@@ -46093,8 +45014,8 @@ Subject function
 Verbal function
 Object function
 Adverbial function
-Object function
 Verbal function
+Object function
 Adverbial function
 Adverbial function
 Verbal function
@@ -46106,8 +45027,8 @@ Verbal function
 Verbal function
 Object function
 Adverbial function
-Verbal function
 Subject function
+Verbal function
 Adverbial function
 Verbal function
 Verbal function
@@ -46121,7 +45042,6 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Object function
 Verbal Copula function
 Predicate function
 Subject function
@@ -46138,7 +45058,6 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Adverbial function
 Subject function
@@ -46160,29 +45079,26 @@ Verbal Copula function
 Adverbial function
 Verbal function
 Object function
-Object function
-Subject function
 Verbal function
+Subject function
 Object function
 Verbal function
 Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Indirect Object function
 Indirect Object function
-Subject function
 Verbal function
+Subject function
 Object function
 Verbal function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
+Verbal function
 Verbal function
 Object function
 Indirect Object function
-Indirect Object function
 Subject function
 Verbal function
 Object function
@@ -46199,11 +45115,10 @@ Adverbial function
 Verbal function
 Object function
 Verbal function
-Indirect Object function
 Indirect Object function
-Subject function
 Verbal function
 Object function
+Subject function
 Adverbial function
 Verbal function
 Adverbial function
@@ -46228,7 +45143,6 @@ Object function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Adverbial function
 Verbal function
@@ -46248,9 +45162,9 @@ Adverbial function
 Verbal Copula function
 Predicate function
 Verbal function
-Object function
 Object function
 Subject function
+Subject function
 Verbal function
 Object function
 Verbal function
@@ -46263,11 +45177,10 @@ Adverbial function
 Verbal function
 Object function
 Verbal function
-Object function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
+Object function
 Adverbial function
 Object function
 Verbal function
@@ -46301,10 +45214,11 @@ Verbal function
 Object function
 Verbal function
 Adverbial function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
+Object function
+Verbal function
 Object function
 Verbal function
 Indirect Object function
@@ -46317,9 +45231,9 @@ Adverbial function
 Verbal function
 Indirect Object function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
+Subject function
 Adverbial function
 Verbal function
 Indirect Object function
@@ -46341,7 +45255,6 @@ Object function
 Indirect Object function
 Verbal function
 Object function
-Indirect Object function
 Indirect Object function
 Verbal function
 Adverbial function
@@ -46353,15 +45266,14 @@ Verbal function
 Adverbial function
 Predicate function
 Verbal function
-Verbal function
-Object function
 Object function
+Verbal function
+Verbal function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
 Subject function
-Subject function
 Adverbial function
 Verbal function
 Subject function
@@ -46369,7 +45281,6 @@ Adverbial function
 Subject function
 Verbal function
 Indirect Object function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -46394,7 +45305,6 @@ Verbal function
 Subject function
 Object function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Predicate function
@@ -46405,7 +45315,6 @@ Predicate function
 Subject function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Object function
 Adverbial function
@@ -46420,13 +45329,11 @@ Second Object function
 Subject function
 Verbal function
 Object function
-Object function
 Verbal function
 Subject function
 Verbal function
 Subject function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Verbal function
 Subject function
@@ -46456,12 +45363,14 @@ Adverbial function
 Verbal function
 Adverbial function
 Object function
+Adverbial function
 Verbal function
 Subject function
 Adverbial function
 Verbal function
 Object function
 Verbal function
+Object function
 Adverbial function
 Object function
 Verbal function
@@ -46471,7 +45380,6 @@ Second Object function
 Adverbial function
 Verbal function
 Object function
-Object function
 Verbal function
 Object function
 Indirect Object function
@@ -46487,11 +45395,13 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
+Object function
 Verbal function
 Object function
 Object function
 Subject function
 Verbal function
+Subject function
 Verbal function
 Subject function
 Adverbial function
@@ -46514,6 +45424,7 @@ Adverbial function
 Adverbial function
 Adverbial function
 Subject function
+Verbal function
 Adverbial function
 Verbal function
 Object function
@@ -46521,6 +45432,8 @@ Verbal function
 Adverbial function
 Adverbial function
 Subject function
+Verbal function
+Object function
 Verbal function
 Object function
 Verbal function
@@ -46536,7 +45449,6 @@ Adverbial function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Object function
 Subject function
@@ -46553,17 +45465,16 @@ Verbal function
 Indirect Object function
 Verbal function
 Subject function
-Object function
 Verbal function
 Object function
+Subject function
 Verbal function
 Subject function
 Verbal function
-Object function
 Object function
 Adverbial function
-Subject function
 Verbal function
+Subject function
 Adverbial function
 Verbal Copula function
 Predicate function
@@ -46573,7 +45484,6 @@ Object function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Adverbial function
@@ -46596,10 +45506,10 @@ Indirect Object function
 Adverbial function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
+Object function
 Subject function
 Object function
 Verbal function
@@ -46609,14 +45519,12 @@ Indirect Object function
 Subject function
 Verbal function
 Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Indirect Object function
 Subject function
@@ -46634,25 +45542,27 @@ Adverbial function
 Object function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Subject function
+Subject function
 Verbal function
 Subject function
 Adverbial function
-Object function
 Subject function
+Object function
 Verbal function
 Adverbial function
 Verbal function
 Subject function
+Verbal function
 Subject function
 Verbal function
-Object function
-Object function
 Subject function
 Verbal Copula function
 Predicate function
+Subject function
+Verbal function
+Object function
 Verbal function
 Adverbial function
 Verbal function
@@ -46674,7 +45584,6 @@ Subject function
 Object function
 Verbal function
 Object function
-Verbal function
 Adverbial function
 Verbal function
 Subject function
@@ -46683,7 +45592,6 @@ Object function
 Adverbial function
 Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Indirect Object function
@@ -46696,15 +45604,14 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
+Verbal function
 Adverbial function
 Verbal function
 Adverbial function
 Subject function
-Verbal function
 Verbal function
 Object function
 Adverbial function
@@ -46717,6 +45624,7 @@ Verbal function
 Verbal function
 Object function
 Verbal function
+Object function
 Adverbial function
 Verbal function
 Object function
@@ -46728,8 +45636,8 @@ Subject function
 Verbal function
 Object function
 Subject function
-Verbal function
 Object function
+Verbal function
 Indirect Object function
 Verbal function
 Object function
@@ -46742,7 +45650,6 @@ Verbal function
 Object function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -46791,7 +45698,6 @@ Subject function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Object function
@@ -46804,6 +45710,7 @@ Subject function
 Adverbial function
 Verbal function
 Subject function
+Object function
 Verbal function
 Object function
 Subject function
@@ -46818,16 +45725,16 @@ Adverbial function
 Verbal function
 Subject function
 Verbal function
-Verbal function
 Subject function
+Verbal function
 Verbal function
+Subject function
 Object function
 Verbal function
 Verbal function
 Adverbial function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -46839,17 +45746,15 @@ Adverbial function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Subject function
 Adverbial function
 Verbal function
 Subject function
 Object function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
-Object function
+Verbal function
 Object function
 Adverbial function
 Verbal function
@@ -46880,13 +45785,13 @@ Verbal function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Object function
 Subject function
-Verbal function
+Object function
 Verbal function
+Subject function
 Subject function
 Verbal function
 Object function
@@ -46913,7 +45818,6 @@ Object function
 Adverbial function
 Object function
 Verbal function
-Verbal function
 Subject function
 Adverbial function
 Verbal function
@@ -46928,14 +45832,17 @@ Verbal function
 Adverbial function
 Object function
 Verbal function
+Adverbial function
 Adverbial function
 Verbal function
 Object function
 Second Object function
 Adverbial function
 Verbal function
+Adverbial function
 Verbal function
 Adverbial function
+Predicate function
 Verbal Copula function
 Subject function
 Predicate function
@@ -46964,7 +45871,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Subject function
 Adverbial function
 Verbal function
@@ -46978,13 +45884,11 @@ Verbal Copula function
 Adverbial function
 Subject function
 Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Object function
 Verbal function
 Object function
@@ -46997,8 +45901,8 @@ Adverbial function
 Verbal function
 Object function
 Verbal function
-Object function
 Verbal function
+Object function
 Subject function
 Verbal function
 Object function
@@ -47007,8 +45911,8 @@ Adverbial function
 Verbal function
 Object function
 Verbal function
-Object function
 Adverbial function
+Object function
 Verbal function
 Adverbial function
 Verbal function
@@ -47018,16 +45922,17 @@ Verbal function
 Adverbial function
 Adverbial function
 Verbal function
+Object function
 Adverbial function
 Verbal function
+Object function
 Subject function
 Object function
 Adverbial function
 Verbal function
-Object function
-Object function
 Subject function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Subject function
@@ -47040,11 +45945,9 @@ Verbal function
 Predicate function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Verbal Copula function
 Subject function
@@ -47064,10 +45967,11 @@ Verbal function
 Object function
 Second Object function
 Adverbial function
+Second Object function
 Verbal function
 Object function
-Second Object function
 Adverbial function
+Second Object function
 Verbal function
 Indirect Object function
 Verbal function
@@ -47104,34 +46008,32 @@ Adverbial function
 Object function
 Verbal function
 Adverbial function
-Subject function
 Object function
+Subject function
 Verbal function
 Adverbial function
 Verbal function
+Object function
 Verbal function
 Object function
 Adverbial function
 Verbal function
 Indirect Object function
 Object function
-Verbal function
 Adverbial function
-Subject function
 Verbal function
 Subject function
 Verbal function
+Subject function
 Adverbial function
 Predicate function
 Subject function
 Adverbial function
 Predicate function
 Adverbial function
-Verbal function
 Object function
 Verbal function
 Indirect Object function
-Indirect Object function
 Object function
 Subject function
 Verbal function
@@ -47141,11 +46043,10 @@ Verbal function
 Verbal function
 Subject function
 Object function
+Subject function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
-Verbal function
 Verbal function
 Verbal function
 Verbal function
@@ -47153,24 +46054,21 @@ Verbal function
 Object function
 Verbal function
 Verbal function
-Verbal function
 Adverbial function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Object function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
-Subject function
+Verbal function
 Subject function
 Verbal function
-Object function
 Verbal function
+Object function
 Verbal function
 Verbal function
 Subject function
@@ -47178,7 +46076,6 @@ Adverbial function
 Object function
 Verbal function
 Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -47224,7 +46121,6 @@ Indirect Object function
 Adverbial function
 Predicate function
 Indirect Object function
-Indirect Object function
 Verbal function
 Adverbial function
 Verbal function
@@ -47238,7 +46134,6 @@ Verbal function
 Adverbial function
 Adverbial function
 Subject function
-Adverbial function
 Object function
 Verbal function
 Adverbial function
@@ -47251,13 +46146,12 @@ Adverbial function
 Subject function
 Verbal Copula function
 Predicate function
-Predicate function
 Adverbial function
 Verbal function
 Adverbial function
-Subject function
 Adverbial function
 Verbal function
+Subject function
 Object function
 Verbal function
 Adverbial function
@@ -47274,7 +46168,6 @@ Verbal function
 Object function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Adverbial function
 Verbal function
@@ -47284,8 +46177,8 @@ Adverbial function
 Verbal Copula function
 Predicate function
 Predicate function
-Subject function
 Verbal Copula function
+Subject function
 Subject function
 Verbal function
 Verbal Copula function
@@ -47304,8 +46197,8 @@ Adverbial function
 Verbal function
 Adverbial function
 Predicate function
-Verbal Copula function
 Verbal function
+Verbal Copula function
 Subject function
 Subject function
 Indirect Object function
@@ -47314,7 +46207,6 @@ Verbal function
 Indirect Object function
 Adverbial function
 Verbal function
-Verbal function
 Predicate function
 Subject function
 Verbal Copula function
@@ -47330,6 +46222,7 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
+Adverbial function
 Verbal function
 Subject function
 Verbal function
@@ -47351,8 +46244,8 @@ Adverbial function
 Verbal function
 Object function
 Verbal function
-Verbal function
 Adverbial function
+Verbal function
 Verbal Copula function
 Predicate function
 Verbal function
@@ -47373,7 +46266,6 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Subject function
@@ -47383,12 +46275,11 @@ Verbal function
 Verbal function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
+Subject function
 Subject function
 Verbal function
 Adverbial function
@@ -47409,8 +46300,8 @@ Object function
 Adverbial function
 Verbal function
 Adverbial function
-Subject function
 Verbal function
+Subject function
 Object function
 Object function
 Adverbial function
@@ -47418,9 +46309,9 @@ Verbal function
 Subject function
 Verbal function
 Subject function
+Subject function
 Predicate function
 Verbal Copula function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -47437,7 +46328,6 @@ Verbal function
 Adverbial function
 Subject function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Indirect Object function
@@ -47454,10 +46344,9 @@ Predicate function
 Verbal Copula function
 Adverbial function
 Verbal function
-Indirect Object function
 Indirect Object function
-Verbal function
 Adverbial function
+Verbal function
 Subject function
 Verbal function
 Verbal function
@@ -47471,9 +46360,10 @@ Subject function
 Verbal function
 Subject function
 Adverbial function
+Subject function
+Subject function
 Verbal function
 Object function
-Object function
 Adverbial function
 Verbal function
 Adverbial function
@@ -47487,7 +46377,6 @@ Verbal function
 Object function
 Verbal function
 Subject function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -47516,7 +46405,6 @@ Object function
 Verbal function
 Subject function
 Verbal function
-Verbal function
 Adverbial function
 Subject function
 Verbal function
@@ -47527,6 +46415,7 @@ Object function
 Verbal function
 Object function
 Adverbial function
+Object function
 Verbal function
 Adverbial function
 Verbal function
@@ -47540,6 +46429,7 @@ Subject function
 Predicate function
 Verbal Copula function
 Subject function
+Subject function
 Adverbial function
 Verbal function
 Verbal function
@@ -47550,17 +46440,14 @@ Object function
 Verbal function
 Object function
 Adverbial function
-Verbal function
 Verbal function
 Predicate function
 Verbal Copula function
 Subject function
 Verbal function
 Object function
-Object function
 Verbal Copula function
 Subject function
-Predicate function
 Predicate function
 Verbal function
 Object function
@@ -47575,16 +46462,14 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
-Verbal function
-Verbal function
 Object function
-Verbal function
 Object function
-Adverbial function
 Verbal function
 Object function
+Adverbial function
 Verbal function
 Verbal function
+Object function
 Object function
 Verbal function
 Adverbial function
@@ -47597,20 +46482,19 @@ Object function
 Indirect Object function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal function
 Object function
 Object function
+Subject function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
+Subject function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal Copula function
 Predicate function
@@ -47624,7 +46508,6 @@ Verbal function
 Object function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -47634,10 +46517,9 @@ Verbal function
 Object function
 Subject function
 Object function
-Subject function
 Adverbial function
-Object function
 Subject function
+Object function
 Adverbial function
 Adverbial function
 Verbal function
@@ -47650,12 +46532,11 @@ Adverbial function
 Verbal function
 Predicate function
 Subject function
-Verbal Copula function
 Verbal Copula function
 Subject function
 Verbal function
-Object function
 Adverbial function
+Object function
 Verbal function
 Object function
 Indirect Object function
@@ -47666,7 +46547,6 @@ Object function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Object function
@@ -47691,10 +46571,9 @@ Subject function
 Subject function
 Verbal function
 Adverbial function
-Verbal function
 Subject function
-Adverbial function
 Verbal function
+Adverbial function
 Verbal function
 Subject function
 Verbal function
@@ -47720,7 +46599,6 @@ Verbal function
 Subject function
 Verbal Copula function
 Predicate function
-Predicate function
 Adverbial function
 Verbal function
 Subject function
@@ -47736,15 +46614,14 @@ Subject function
 Adverbial function
 Verbal function
 Adverbial function
+Subject function
 Verbal function
 Adverbial function
 Verbal function
-Subject function
 Verbal function
 Object function
 Indirect Object function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -47760,7 +46637,6 @@ Verbal function
 Object function
 Verbal function
 Object function
-Object function
 Adverbial function
 Verbal function
 Adverbial function
@@ -47813,7 +46689,6 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -47827,6 +46702,7 @@ Subject function
 Verbal function
 Adverbial function
 Subject function
+Subject function
 Object function
 Verbal function
 Indirect Object function
@@ -47847,8 +46723,8 @@ Verbal function
 Object function
 Adverbial function
 Object function
-Second Object function
 Verbal function
+Second Object function
 Verbal function
 Adverbial function
 Verbal function
@@ -47856,10 +46732,10 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
+Adverbial function
 Adverbial function
 Object function
 Verbal function
-Verbal function
 Subject function
 Adverbial function
 Verbal function
@@ -47871,7 +46747,6 @@ Adverbial function
 Verbal function
 Subject function
 Verbal function
-Object function
 Object function
 Verbal function
 Adverbial function
@@ -47879,6 +46754,7 @@ Verbal function
 Object function
 Verbal function
 Adverbial function
+Adverbial function
 Predicate function
 Adverbial function
 Verbal Copula function
@@ -47894,8 +46770,8 @@ Subject function
 Indirect Object function
 Verbal function
 Object function
-Adverbial function
 Verbal function
+Adverbial function
 Object function
 Adverbial function
 Adverbial function
@@ -47903,7 +46779,6 @@ Adverbial function
 Subject function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -47948,7 +46823,6 @@ Verbal function
 Verbal function
 Verbal function
 Object function
-Object function
 Predicate function
 Verbal Copula function
 Adverbial function
@@ -47997,7 +46871,9 @@ Predicate function
 Indirect Object function
 Verbal Copula function
 Predicate function
+Indirect Object function
 Indirect Object function
+Subject function
 Indirect Object function
 Subject function
 Adverbial function
@@ -48008,7 +46884,6 @@ Adverbial function
 Adverbial function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Predicate function
 Verbal Copula function
@@ -48027,26 +46902,27 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
+Object function
 Object function
 Object function
 Verbal function
 Object function
 Indirect Object function
+Object function
 Adverbial function
 Verbal function
 Subject function
-Adverbial function
 Subject function
+Adverbial function
 Verbal Copula function
 Verbal function
-Adverbial function
 Adverbial function
 Adverbial function
 Verbal function
 Subject function
 Verbal function
+Verbal function
 Object function
 Adverbial function
 Verbal function
@@ -48066,16 +46942,15 @@ Verbal Copula function
 Adverbial function
 Subject function
 Indirect Object function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
 Object function
 Predicate function
+Predicate function
 Verbal Copula function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Adverbial function
@@ -48084,6 +46959,7 @@ Adverbial function
 Adverbial function
 Verbal function
 Subject function
+Subject function
 Adverbial function
 Verbal function
 Verbal function
@@ -48099,11 +46975,11 @@ Verbal Copula function
 Adverbial function
 Subject function
 Indirect Object function
-Verbal function
 Verbal function
 Subject function
 Adverbial function
 Verbal function
+Subject function
 Adverbial function
 Verbal Copula function
 Subject function
@@ -48152,12 +47028,12 @@ Verbal function
 Object function
 Subject function
 Adverbial function
+Subject function
 Subject function
 Verbal function
 Object function
 Adverbial function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Object function
@@ -48232,6 +47108,7 @@ Verbal function
 Object function
 Object function
 Verbal function
+Object function
 Object function
 Verbal function
 Subject function
@@ -48265,7 +47142,6 @@ Subject function
 Adverbial function
 Object function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Indirect Object function
@@ -48285,8 +47161,8 @@ Adverbial function
 Indirect Object function
 Verbal function
 Object function
-Indirect Object function
 Verbal function
+Indirect Object function
 Object function
 Subject function
 Subject function
@@ -48298,13 +47174,11 @@ Subject function
 Indirect Object function
 Verbal function
 Object function
-Indirect Object function
 Indirect Object function
 Adverbial function
 Verbal Copula function
 Subject function
 Predicate function
-Predicate function
 Subject function
 Adverbial function
 Verbal function
@@ -48365,10 +47239,10 @@ Object function
 Verbal function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
+Predicate function
 Verbal Copula function
 Predicate function
 Predicate function
@@ -48398,7 +47272,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Subject function
 Adverbial function
@@ -48406,7 +47279,6 @@ Verbal function
 Adverbial function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Object function
@@ -48450,13 +47322,12 @@ Subject function
 Predicate function
 Subject function
 Predicate function
-Adverbial function
 Adverbial function
 Predicate function
 Subject function
 Verbal function
 Object function
-Object function
+Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -48468,7 +47339,7 @@ Verbal function
 Verbal Copula function
 Subject function
 Predicate function
-Predicate function
+Subject function
 Subject function
 Predicate function
 Predicate function
@@ -48520,7 +47391,6 @@ Subject function
 Subject function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Object function
 Verbal function
 Adverbial function
@@ -48579,7 +47449,6 @@ Verbal function
 Adverbial function
 Verbal Copula function
 Subject function
-Predicate function
 Predicate function
 Verbal function
 Object function
@@ -48599,14 +47468,13 @@ Subject function
 Adverbial function
 Adverbial function
 Predicate function
-Predicate function
 Adverbial function
 Subject function
 Verbal function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
+Subject function
 Adverbial function
 Verbal function
 Adverbial function
@@ -48631,7 +47499,6 @@ Verbal Copula function
 Subject function
 Predicate function
 Verbal function
-Object function
 Object function
 Predicate function
 Subject function
@@ -48640,7 +47507,6 @@ Adverbial function
 Adverbial function
 Adverbial function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Subject function
@@ -48662,7 +47528,6 @@ Object function
 Adverbial function
 Subject function
 Object function
-Adverbial function
 Adverbial function
 Object function
 Verbal function
@@ -48672,7 +47537,6 @@ Verbal function
 Verbal function
 Object function
 Verbal function
-Verbal function
 Object function
 Verbal function
 Subject function
@@ -48683,7 +47547,6 @@ Adverbial function
 Verbal function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Object function
 Subject function
@@ -48695,16 +47558,16 @@ Object function
 Verbal function
 Indirect Object function
 Adverbial function
-Adverbial function
 Indirect Object function
 Verbal function
 Subject function
+Adverbial function
 Verbal function
 Adverbial function
 Indirect Object function
 Verbal function
-Indirect Object function
 Verbal function
+Indirect Object function
 Adverbial function
 Verbal function
 Object function
@@ -48725,26 +47588,27 @@ Subject function
 Verbal function
 Subject function
 Verbal function
+Subject function
 Predicate function
 Subject function
 Adverbial function
 Verbal function
 Subject function
-Object function
 Object function
 Subject function
 Predicate function
-Predicate function
 Verbal function
 Indirect Object function
 Subject function
 Adverbial function
 Adverbial function
 Verbal function
+Predicate function
 Verbal Copula function
 Predicate function
 Predicate function
 Predicate function
+Object function
 Verbal function
 Object function
 Adverbial function
@@ -48766,12 +47630,14 @@ Verbal function
 Adverbial function
 Adverbial function
 Adverbial function
+Subject function
+Indirect Object function
 Subject function
 Predicate function
 Subject function
 Verbal Copula function
-Indirect Object function
-Indirect Object function
+Predicate function
+Predicate function
 Adverbial function
 Adverbial function
 Subject function
@@ -48800,24 +47666,24 @@ Subject function
 Verbal Copula function
 Predicate function
 Adverbial function
-Object function
 Verbal function
 Adverbial function
+Second Object function
 Verbal function
 Object function
 Adverbial function
-Verbal function
 Object function
+Verbal function
 Adverbial function
 Verbal function
+Object function
 Adverbial function
 Verbal function
+Object function
 Adverbial function
 Verbal function
 Adverbial function
-Second Object function
 Verbal function
-Object function
 Subject function
 Adverbial function
 Verbal function
@@ -48841,6 +47707,7 @@ Adverbial function
 Verbal Copula function
 Verbal Copula function
 Object function
+Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -48853,10 +47720,10 @@ Indirect Object function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal Copula function
-Predicate function
 Object function
 Verbal function
+Predicate function
+Verbal Copula function
 Adverbial function
 Verbal function
 Verbal function
@@ -48873,19 +47740,17 @@ Indirect Object function
 Adverbial function
 Indirect Object function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Object function
+Adverbial function
 Subject function
 Verbal function
 Adverbial function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -48911,9 +47776,11 @@ Adverbial function
 Subject function
 Object function
 Verbal function
+Subject function
 Adverbial function
 Subject function
 Object function
+Subject function
 Adverbial function
 Subject function
 Object function
@@ -48933,7 +47800,6 @@ Subject function
 Predicate function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
 Subject function
 Verbal function
@@ -48949,7 +47815,6 @@ Predicate function
 Verbal Copula function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -48988,9 +47853,9 @@ Adverbial function
 Subject function
 Verbal function
 Adverbial function
+Adverbial function
 Subject function
 Verbal Copula function
-Predicate function
 Predicate function
 Subject function
 Adverbial function
@@ -49026,7 +47891,7 @@ Subject function
 Subject function
 Predicate function
 Adverbial function
-Adverbial function
+Subject function
 Subject function
 Predicate function
 Adverbial function
@@ -49070,7 +47935,6 @@ Adverbial function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Object function
 Verbal function
 Verbal function
@@ -49139,14 +48003,12 @@ Adverbial function
 Verbal function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Verbal function
 Adverbial function
@@ -49157,8 +48019,8 @@ Subject function
 Verbal Copula function
 Predicate function
 Adverbial function
-Predicate function
 Verbal function
+Predicate function
 Adverbial function
 Adverbial function
 Verbal function
@@ -49179,7 +48041,6 @@ Adverbial function
 Verbal function
 Object function
 Second Object function
-Indirect Object function
 Indirect Object function
 Subject function
 Adverbial function
@@ -49187,7 +48048,6 @@ Verbal function
 Verbal Copula function
 Predicate function
 Predicate function
-Predicate function
 Object function
 Verbal function
 Verbal Copula function
@@ -49210,17 +48070,14 @@ Verbal function
 Predicate function
 Adverbial function
 Predicate function
-Adverbial function
 Adverbial function
 Subject function
 Indirect Object function
 Verbal Copula function
 Predicate function
-Predicate function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Verbal function
 Adverbial function
@@ -49245,8 +48102,8 @@ Adverbial function
 Predicate function
 Verbal Copula function
 Predicate function
+Predicate function
 Verbal Copula function
-Adverbial function
 Adverbial function
 Object function
 Verbal function
@@ -49257,22 +48114,21 @@ Adverbial function
 Verbal function
 Subject function
 Predicate function
-Predicate function
 Adverbial function
 Verbal function
 Adverbial function
 Verbal function
+Adverbial function
 Indirect Object function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Object function
 Object function
 Subject function
-Predicate function
 Predicate function
 Subject function
+Subject function
 Predicate function
 Adverbial function
 Adverbial function
@@ -49285,7 +48141,6 @@ Verbal function
 Subject function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Indirect Object function
@@ -49348,7 +48203,6 @@ Adverbial function
 Verbal function
 Subject function
 Adverbial function
-Adverbial function
 Object function
 Verbal function
 Subject function
@@ -49359,6 +48213,7 @@ Object function
 Adverbial function
 Verbal function
 Adverbial function
+Object function
 Object function
 Adverbial function
 Verbal function
@@ -49377,13 +48232,11 @@ Object function
 Adverbial function
 Subject function
 Predicate function
-Predicate function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
 Subject function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -49403,10 +48256,10 @@ Adverbial function
 Verbal function
 Verbal function
 Subject function
+Subject function
 Predicate function
 Predicate function
 Subject function
-Predicate function
 Predicate function
 Subject function
 Adverbial function
@@ -49428,7 +48281,6 @@ Adverbial function
 Predicate function
 Subject function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Predicate function
@@ -49437,7 +48289,6 @@ Subject function
 Predicate function
 Verbal Copula function
 Verbal function
-Adverbial function
 Adverbial function
 Object function
 Verbal function
@@ -49469,7 +48320,6 @@ Subject function
 Verbal function
 Adverbial function
 Subject function
-Subject function
 Verbal function
 Adverbial function
 Verbal function
@@ -49479,7 +48329,6 @@ Verbal Copula function
 Predicate function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -49488,7 +48337,7 @@ Adverbial function
 Object function
 Verbal function
 Object function
-Verbal function
+Object function
 Object function
 Adverbial function
 Verbal function
@@ -49498,8 +48347,8 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
-Object function
 Subject function
+Object function
 Verbal function
 Verbal function
 Subject function
@@ -49509,9 +48358,10 @@ Subject function
 Verbal function
 Adverbial function
 Subject function
-Subject function
 Verbal function
 Object function
+Adverbial function
+Verbal function
 Adverbial function
 Verbal function
 Object function
@@ -49519,7 +48369,6 @@ Object function
 Adverbial function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -49532,6 +48381,8 @@ Object function
 Adverbial function
 Verbal Copula function
 Predicate function
+Predicate function
+Subject function
 Predicate function
 Subject function
 Object function
@@ -49543,15 +48394,15 @@ Adverbial function
 Adverbial function
 Subject function
 Adverbial function
+Adverbial function
 Verbal function
-Object function
 Object function
 Adverbial function
-Object function
+Adverbial function
 Object function
 Subject function
 Adverbial function
-Predicate function
+Subject function
 Predicate function
 Subject function
 Adverbial function
@@ -49575,30 +48426,27 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Predicate function
 Verbal Copula function
 Object function
-Verbal function
 Verbal function
 Subject function
 Predicate function
 Object function
-Object function
 Subject function
-Predicate function
 Predicate function
 Subject function
+Subject function
 Predicate function
 Predicate function
 Subject function
 Predicate function
 Adverbial function
+Indirect Object function
 Indirect Object function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Subject function
@@ -49607,9 +48455,9 @@ Verbal Copula function
 Object function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
+Predicate function
 Verbal Copula function
 Predicate function
 Predicate function
@@ -49627,13 +48475,13 @@ Verbal Copula function
 Predicate function
 Predicate function
 Subject function
-Predicate function
 Predicate function
 Subject function
+Subject function
 Predicate function
-Adverbial function
 Adverbial function
 Subject function
+Subject function
 Predicate function
 Adverbial function
 Adverbial function
@@ -49664,7 +48512,6 @@ Verbal function
 Verbal function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Verbal function
 Subject function
@@ -49673,6 +48520,8 @@ Verbal function
 Subject function
 Predicate function
 Verbal Copula function
+Predicate function
+Predicate function
 Verbal function
 Object function
 Adverbial function
@@ -49704,10 +48553,10 @@ Subject function
 Adverbial function
 Verbal function
 Adverbial function
+Verbal function
 Adverbial function
 Subject function
 Object function
-Verbal function
 Verbal function
 Indirect Object function
 Subject function
@@ -49719,7 +48568,6 @@ Adverbial function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Verbal function
@@ -49731,9 +48579,9 @@ Object function
 Verbal function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Object function
+Verbal function
 Object function
 Adverbial function
 Verbal function
@@ -49752,7 +48600,6 @@ Object function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Adverbial function
 Subject function
@@ -49778,7 +48625,6 @@ Subject function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Indirect Object function
 Verbal function
@@ -49815,7 +48661,6 @@ Object function
 Verbal function
 Object function
 Adverbial function
-Verbal function
 Verbal function
 Object function
 Verbal function
@@ -49825,7 +48670,6 @@ Subject function
 Predicate function
 Subject function
 Predicate function
-Predicate function
 Subject function
 Object function
 Adverbial function
@@ -49849,8 +48693,8 @@ Predicate function
 Verbal function
 Predicate function
 Verbal function
-Predicate function
 Adverbial function
+Predicate function
 Verbal function
 Subject function
 Verbal Copula function
@@ -49875,7 +48719,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Verbal function
 Subject function
@@ -49903,11 +48746,10 @@ Verbal Copula function
 Predicate function
 Subject function
 Predicate function
-Predicate function
 Verbal function
-Subject function
 Predicate function
 Verbal Copula function
+Subject function
 Adverbial function
 Subject function
 Verbal Copula function
@@ -49923,7 +48765,6 @@ Verbal Copula function
 Predicate function
 Subject function
 Predicate function
-Adverbial function
 Adverbial function
 Adverbial function
 Adverbial function
@@ -49951,18 +48792,18 @@ Predicate function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Predicate function
 Adverbial function
 Verbal function
 Verbal Copula function
 Predicate function
-Subject function
 Subject function
 Subject function
 Adverbial function
+Adverbial function
 Subject function
+Adverbial function
 Object function
 Verbal function
 Adverbial function
@@ -49982,9 +48823,8 @@ Object function
 Verbal function
 Object function
 Verbal function
-Verbal function
 Object function
-Verbal function
+Object function
 Verbal function
 Object function
 Verbal function
@@ -49992,7 +48832,6 @@ Verbal function
 Subject function
 Predicate function
 Adverbial function
-Verbal function
 Verbal function
 Indirect Object function
 Verbal function
@@ -50010,7 +48849,6 @@ Verbal function
 Predicate function
 Verbal function
 Predicate function
-Predicate function
 Verbal function
 Subject function
 Indirect Object function
@@ -50027,7 +48865,6 @@ Subject function
 Adverbial function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Object function
 Verbal function
@@ -50035,12 +48872,13 @@ Verbal function
 Indirect Object function
 Adverbial function
 Verbal function
-Verbal function
+Object function
 Object function
 Subject function
 Verbal function
 Verbal function
 Verbal function
+Subject function
 Predicate function
 Verbal Copula function
 Subject function
@@ -50057,16 +48895,18 @@ Verbal function
 Adverbial function
 Adverbial function
 Verbal function
+Object function
 Subject function
 Object function
 Adverbial function
 Verbal function
 Object function
-Object function
 Adverbial function
+Object function
 Object function
 Adverbial function
 Adverbial function
+Verbal function
 Subject function
 Verbal function
 Object function
@@ -50106,7 +48946,6 @@ Subject function
 Adverbial function
 Verbal Copula function
 Predicate function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -50128,11 +48967,9 @@ Subject function
 Verbal function
 Indirect Object function
 Object function
-Object function
 Predicate function
 Verbal Copula function
 Adverbial function
-Verbal function
 Verbal function
 Object function
 Verbal function
@@ -50165,9 +49002,8 @@ Verbal function
 Adverbial function
 Verbal function
 Verbal function
-Verbal function
 Subject function
-Predicate function
+Subject function
 Predicate function
 Verbal function
 Indirect Object function
@@ -50179,16 +49015,13 @@ Verbal function
 Object function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Indirect Object function
 Adverbial function
 Verbal function
-Verbal function
 Predicate function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -50197,7 +49030,6 @@ Verbal function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Adverbial function
 Verbal function
@@ -50245,17 +49077,14 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -50270,24 +49099,20 @@ Subject function
 Verbal function
 Object function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
 Object function
 Adverbial function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
 Object function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -50304,7 +49129,6 @@ Adverbial function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Subject function
@@ -50312,9 +49136,9 @@ Verbal function
 Object function
 Object function
 Subject function
-Adverbial function
 Adverbial function
 Subject function
+Subject function
 Adverbial function
 Adverbial function
 Verbal function
@@ -50343,7 +49167,6 @@ Object function
 Adverbial function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -50358,7 +49181,6 @@ Adverbial function
 Object function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -50417,7 +49239,6 @@ Subject function
 Adverbial function
 Verbal function
 Object function
-Indirect Object function
 Indirect Object function
 Adverbial function
 Subject function
@@ -50430,14 +49251,14 @@ Subject function
 Adverbial function
 Verbal Copula function
 Predicate function
-Predicate function
+Object function
 Object function
 Verbal function
 Subject function
 Object function
 Adverbial function
 Verbal function
-Verbal function
+Subject function
 Subject function
 Verbal function
 Subject function
@@ -50487,9 +49308,8 @@ Subject function
 Predicate function
 Adverbial function
 Subject function
-Subject function
-Verbal function
 Indirect Object function
+Verbal function
 Indirect Object function
 Adverbial function
 Verbal Copula function
@@ -50519,7 +49339,6 @@ Predicate function
 Subject function
 Subject function
 Subject function
-Verbal function
 Verbal function
 Subject function
 Predicate function
@@ -50538,13 +49357,11 @@ Object function
 Verbal function
 Subject function
 Object function
-Object function
 Verbal function
 Subject function
 Subject function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Adverbial function
@@ -50563,17 +49380,17 @@ Verbal function
 Verbal function
 Object function
 Predicate function
+Predicate function
 Verbal function
-Subject function
 Subject function
 Predicate function
+Predicate function
 Subject function
 Subject function
 Verbal function
 Adverbial function
 Adverbial function
 Subject function
-Verbal function
 Verbal function
 Subject function
 Adverbial function
@@ -50591,17 +49408,18 @@ Subject function
 Adverbial function
 Verbal function
 Adverbial function
+Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Adverbial function
 Verbal function
 Subject function
 Verbal function
+Verbal function
 Object function
 Object function
 Adverbial function
@@ -50632,7 +49450,6 @@ Adverbial function
 Predicate function
 Predicate function
 Verbal function
-Object function
 Object function
 Adverbial function
 Predicate function
@@ -50647,7 +49464,6 @@ Subject function
 Adverbial function
 Verbal function
 Object function
-Object function
 Adverbial function
 Verbal function
 Adverbial function
@@ -50689,11 +49505,11 @@ Predicate function
 Subject function
 Indirect Object function
 Subject function
-Adverbial function
 Adverbial function
 Verbal function
-Adverbial function
+Subject function
 Subject function
+Adverbial function
 Verbal function
 Object function
 Second Object function
@@ -50709,7 +49525,6 @@ Adverbial function
 Verbal function
 Subject function
 Predicate function
-Subject function
 Subject function
 Subject function
 Verbal function
@@ -50723,40 +49538,41 @@ Verbal function
 Adverbial function
 Object function
 Verbal function
-Verbal function
 Object function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Indirect Object function
+Object function
 Subject function
 Verbal function
 Object function
 Object function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Subject function
+Subject function
 Adverbial function
 Object function
 Verbal function
+Object function
 Adverbial function
 Subject function
 Predicate function
 Verbal Copula function
 Adverbial function
-Adverbial function
 Subject function
-Predicate function
+Subject function
 Predicate function
 Verbal function
 Object function
 Adverbial function
 Verbal function
 Indirect Object function
+Object function
 Object function
+Object function
 Adverbial function
 Object function
 Adverbial function
@@ -50833,12 +49649,12 @@ Object function
 Adverbial function
 Predicate function
 Adverbial function
-Verbal function
 Verbal function
 Object function
 Verbal function
 Verbal function
 Verbal function
+Verbal function
 Object function
 Indirect Object function
 Verbal function
@@ -50869,13 +49685,11 @@ Adverbial function
 Object function
 Subject function
 Indirect Object function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
 Subject function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Adverbial function
@@ -50889,12 +49703,11 @@ Subject function
 Verbal function
 Indirect Object function
 Object function
-Verbal function
 Verbal function
 Subject function
+Adverbial function
 Verbal Copula function
 Predicate function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -50929,6 +49742,7 @@ Adverbial function
 Object function
 Verbal function
 Predicate function
+Predicate function
 Verbal Copula function
 Adverbial function
 Verbal function
@@ -50980,6 +49794,7 @@ Verbal function
 Predicate function
 Subject function
 Subject function
+Object function
 Verbal function
 Object function
 Object function
@@ -50995,11 +49810,9 @@ Adverbial function
 Verbal function
 Subject function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Verbal function
-Object function
 Object function
 Verbal function
 Object function
@@ -51016,17 +49829,14 @@ Object function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Object function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Object function
@@ -51037,7 +49847,6 @@ Object function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Adverbial function
@@ -51046,7 +49855,6 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Object function
 Verbal function
@@ -51056,17 +49864,14 @@ Verbal Copula function
 Verbal function
 Object function
 Adverbial function
-Verbal function
 Verbal function
 Verbal function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -51084,7 +49889,6 @@ Verbal function
 Adverbial function
 Verbal function
 Verbal function
-Verbal function
 Object function
 Subject function
 Adverbial function
@@ -51093,7 +49897,6 @@ Adverbial function
 Verbal function
 Verbal function
 Verbal function
-Object function
 Object function
 Subject function
 Adverbial function
@@ -51114,13 +49917,11 @@ Verbal function
 Verbal function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Adverbial function
 Subject function
 Verbal function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Adverbial function
@@ -51131,10 +49932,8 @@ Subject function
 Adverbial function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -51154,7 +49953,6 @@ Adverbial function
 Object function
 Verbal function
 Indirect Object function
-Indirect Object function
 Adverbial function
 Object function
 Verbal function
@@ -51164,6 +49962,7 @@ Adverbial function
 Adverbial function
 Adverbial function
 Verbal function
+Object function
 Indirect Object function
 Object function
 Verbal function
@@ -51189,7 +49988,6 @@ Verbal function
 Adverbial function
 Subject function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Subject function
@@ -51208,12 +50006,12 @@ Adverbial function
 Predicate function
 Adverbial function
 Adverbial function
+Object function
 Verbal function
 Object function
 Adverbial function
 Verbal function
 Object function
-Object function
 Subject function
 Predicate function
 Predicate function
@@ -51247,6 +50045,7 @@ Adverbial function
 Object function
 Verbal function
 Subject function
+Verbal function
 Verbal function
 Verbal function
 Adverbial function
@@ -51255,7 +50054,6 @@ Subject function
 Adverbial function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Verbal function
 Subject function
 Object function
@@ -51277,7 +50075,6 @@ Subject function
 Verbal function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -51287,7 +50084,6 @@ Verbal function
 Adverbial function
 Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Indirect Object function
@@ -51305,16 +50101,17 @@ Object function
 Subject function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
 Predicate function
 Verbal Copula function
+Predicate function
 Adverbial function
 Adverbial function
 Verbal function
 Object function
+Subject function
 Adverbial function
 Subject function
 Adverbial function
@@ -51335,6 +50132,7 @@ Verbal function
 Adverbial function
 Adverbial function
 Verbal function
+Verbal function
 Object function
 Object function
 Verbal function
@@ -51349,7 +50147,6 @@ Subject function
 Verbal function
 Adverbial function
 Subject function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -51360,9 +50157,8 @@ Adverbial function
 Verbal function
 Subject function
 Adverbial function
-Adverbial function
-Adverbial function
 Verbal function
+Verbal function
 Subject function
 Adverbial function
 Adverbial function
@@ -51374,7 +50170,6 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -51399,7 +50194,8 @@ Subject function
 Predicate function
 Verbal function
 Adverbial function
-Adverbial function
+Verbal function
+Object function
 Verbal function
 Object function
 Verbal function
@@ -51414,7 +50210,6 @@ Adverbial function
 Subject function
 Adverbial function
 Verbal function
-Object function
 Object function
 Adverbial function
 Verbal function
@@ -51443,7 +50238,6 @@ Adverbial function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
 Object function
 Verbal function
 Adverbial function
@@ -51452,6 +50246,7 @@ Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
+Verbal function
 Verbal function
 Object function
 Adverbial function
@@ -51460,19 +50255,17 @@ Adverbial function
 Adverbial function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Verbal function
 Subject function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
+Verbal function
 Verbal function
 Predicate function
 Verbal Copula function
@@ -51497,9 +50290,9 @@ Verbal function
 Adverbial function
 Verbal function
 Verbal function
-Verbal function
-Adverbial function
 Subject function
+Subject function
+Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
@@ -51517,9 +50310,8 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
-Predicate function
+Subject function
 Predicate function
 Verbal function
 Indirect Object function
@@ -51536,7 +50328,9 @@ Adverbial function
 Object function
 Verbal function
 Adverbial function
+Subject function
 Subject function
+Predicate function
 Verbal Copula function
 Predicate function
 Verbal function
@@ -51546,6 +50340,7 @@ Adverbial function
 Object function
 Verbal function
 Object function
+Subject function
 Verbal function
 Subject function
 Object function
@@ -51613,10 +50408,10 @@ Object function
 Adverbial function
 Verbal function
 Object function
-Subject function
 Subject function
 Verbal function
 Subject function
+Subject function
 Verbal function
 Object function
 Adverbial function
@@ -51634,7 +50429,6 @@ Object function
 Object function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Adverbial function
@@ -51642,14 +50436,12 @@ Verbal function
 Adverbial function
 Verbal function
 Verbal function
-Verbal function
 Subject function
 Predicate function
 Verbal Copula function
 Adverbial function
-Object function
 Predicate function
-Adverbial function
+Object function
 Adverbial function
 Subject function
 Verbal function
@@ -51680,7 +50472,6 @@ Verbal function
 Adverbial function
 Adverbial function
 Verbal function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -51701,6 +50492,7 @@ Verbal function
 Object function
 Adverbial function
 Predicate function
+Subject function
 Indirect Object function
 Subject function
 Adverbial function
@@ -51738,8 +50530,8 @@ Subject function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
+Object function
 Object function
 Adverbial function
 Adverbial function
@@ -51751,19 +50543,18 @@ Adverbial function
 Verbal Copula function
 Predicate function
 Subject function
-Subject function
 Verbal function
-Adverbial function
+Verbal function
 Adverbial function
 Verbal function
 Indirect Object function
+Adverbial function
 Adverbial function
 Adverbial function
 Adverbial function
 Subject function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Verbal function
 Object function
 Object function
@@ -51771,13 +50562,10 @@ Subject function
 Verbal function
 Subject function
 Verbal Copula function
-Predicate function
 Predicate function
 Subject function
 Predicate function
-Predicate function
 Subject function
-Predicate function
 Predicate function
 Subject function
 Predicate function
@@ -51805,10 +50593,10 @@ Adverbial function
 Verbal function
 Object function
 Verbal function
+Adverbial function
 Verbal function
 Object function
 Subject function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -51818,18 +50606,15 @@ Adverbial function
 Verbal function
 Subject function
 Subject function
-Subject function
 Adverbial function
 Verbal function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Adverbial function
 Verbal function
 Adverbial function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Verbal function
 Object function
 Object function
@@ -51863,19 +50648,16 @@ Object function
 Verbal function
 Subject function
 Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
 Object function
 Verbal function
-Verbal function
 Indirect Object function
-Object function
 Object function
 Indirect Object function
 Object function
-Object function
+Indirect Object function
 Indirect Object function
 Indirect Object function
 Object function
@@ -51888,8 +50670,8 @@ Verbal Copula function
 Subject function
 Predicate function
 Adverbial function
-Adverbial function
 Verbal function
+Object function
 Object function
 Object function
 Adverbial function
@@ -51916,12 +50698,11 @@ Object function
 Object function
 Object function
 Verbal function
+Subject function
 Object function
 Adverbial function
 Verbal function
 Verbal function
-Subject function
-Subject function
 Object function
 Verbal function
 Verbal function
@@ -51935,6 +50716,7 @@ Verbal Copula function
 Predicate function
 Subject function
 Verbal Copula function
+Predicate function
 Adverbial function
 Predicate function
 Predicate function
@@ -51943,16 +50725,15 @@ Subject function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
+Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
 Verbal function
 Indirect Object function
 Object function
-Object function
 Adverbial function
 Verbal function
 Object function
@@ -51972,13 +50753,13 @@ Predicate function
 Predicate function
 Predicate function
 Subject function
-Verbal Copula function
 Predicate function
+Verbal Copula function
 Predicate function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
+Object function
 Adverbial function
 Object function
 Verbal function
@@ -51994,7 +50775,6 @@ Subject function
 Verbal function
 Object function
 Verbal function
-Object function
 Adverbial function
 Object function
 Verbal function
@@ -52016,7 +50796,6 @@ Subject function
 Indirect Object function
 Verbal function
 Object function
-Object function
 Indirect Object function
 Verbal function
 Subject function
@@ -52024,10 +50803,10 @@ Adverbial function
 Subject function
 Object function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
+Subject function
 Object function
 Adverbial function
 Subject function
@@ -52036,7 +50815,6 @@ Object function
 Subject function
 Verbal function
 Adverbial function
-Subject function
 Subject function
 Subject function
 Object function
@@ -52056,7 +50834,6 @@ Adverbial function
 Adverbial function
 Object function
 Verbal function
-Verbal function
 Subject function
 Adverbial function
 Verbal function
@@ -52069,16 +50846,13 @@ Adverbial function
 Verbal function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
 Adverbial function
 Object function
-Object function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -52086,13 +50860,11 @@ Object function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Object function
-Verbal function
 Verbal function
 Subject function
-Verbal function
+Subject function
 Object function
 Verbal function
 Indirect Object function
@@ -52110,7 +50882,6 @@ Verbal function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
 Predicate function
 Verbal Copula function
@@ -52126,26 +50897,24 @@ Verbal function
 Verbal function
 Subject function
 Verbal Copula function
-Predicate function
 Predicate function
 Subject function
+Subject function
 Predicate function
 Predicate function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Predicate function
 Verbal Copula function
 Subject function
-Subject function
 Predicate function
 Verbal Copula function
 Subject function
 Predicate function
 Adverbial function
 Verbal function
-Predicate function
 Indirect Object function
+Predicate function
 Subject function
 Verbal function
 Subject function
@@ -52170,13 +50939,12 @@ Verbal function
 Subject function
 Verbal function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Subject function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
+Predicate function
 Verbal Copula function
 Predicate function
 Predicate function
@@ -52187,18 +50955,14 @@ Indirect Object function
 Adverbial function
 Object function
 Verbal function
-Verbal function
 Subject function
-Verbal function
 Verbal function
 Subject function
 Verbal function
 Adverbial function
-Verbal function
-Verbal function
-Subject function
 Verbal function
 Object function
+Subject function
 Verbal function
 Adverbial function
 Verbal function
@@ -52219,6 +50983,7 @@ Subject function
 Predicate function
 Verbal Copula function
 Subject function
+Subject function
 Verbal function
 Verbal function
 Adverbial function
@@ -52229,21 +50994,20 @@ Predicate function
 Verbal Copula function
 Subject function
 Object function
-Verbal function
 Verbal function
 Verbal function
 Subject function
+Verbal function
 Object function
 Verbal function
 Object function
 Verbal function
 Subject function
-Verbal function
 Verbal function
 Verbal function
 Subject function
 Verbal function
-Verbal function
+Adverbial function
 Adverbial function
 Adverbial function
 Verbal function
@@ -52277,11 +51041,9 @@ Verbal Copula function
 Verbal Copula function
 Verbal Copula function
 Predicate function
-Predicate function
 Subject function
 Predicate function
 Adverbial function
-Verbal Copula function
 Verbal Copula function
 Verbal function
 Predicate function
@@ -52309,9 +51071,7 @@ Subject function
 Verbal function
 Subject function
 Predicate function
-Predicate function
 Subject function
-Predicate function
 Predicate function
 Subject function
 Predicate function
@@ -52326,10 +51086,10 @@ Adverbial function
 Object function
 Subject function
 Verbal function
-Verbal function
 Adverbial function
 Predicate function
 Verbal Copula function
+Adverbial function
 Verbal function
 Adverbial function
 Object function
@@ -52360,10 +51120,9 @@ Object function
 Adverbial function
 Subject function
 Verbal function
-Adverbial function
-Adverbial function
 Adverbial function
 Object function
+Object function
 Verbal function
 Adverbial function
 Adverbial function
@@ -52378,11 +51137,11 @@ Adverbial function
 Subject function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Object function
 Verbal function
+Object function
 Verbal function
 Object function
 Adverbial function
@@ -52404,7 +51163,6 @@ Verbal function
 Verbal function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Verbal function
 Subject function
@@ -52419,18 +51177,15 @@ Adverbial function
 Subject function
 Predicate function
 Adverbial function
-Adverbial function
 Subject function
 Predicate function
 Adverbial function
 Subject function
-Predicate function
 Predicate function
 Subject function
 Predicate function
 Subject function
 Predicate function
-Predicate function
 Subject function
 Predicate function
 Adverbial function
@@ -52441,6 +51196,7 @@ Verbal function
 Verbal function
 Predicate function
 Verbal Copula function
+Predicate function
 Adverbial function
 Adverbial function
 Verbal function
@@ -52458,6 +51214,7 @@ Adverbial function
 Adverbial function
 Object function
 Adverbial function
+Adverbial function
 Subject function
 Object function
 Verbal function
@@ -52513,6 +51270,8 @@ Subject function
 Subject function
 Adverbial function
 Predicate function
+Subject function
+Object function
 Subject function
 Object function
 Verbal function
@@ -52527,7 +51286,6 @@ Verbal function
 Adverbial function
 Subject function
 Object function
-Verbal function
 Verbal function
 Subject function
 Adverbial function
@@ -52571,7 +51329,9 @@ Predicate function
 Predicate function
 Verbal Copula function
 Predicate function
-Predicate function
+Subject function
+Verbal function
+Subject function
 Subject function
 Verbal function
 Adverbial function
@@ -52586,7 +51346,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Indirect Object function
@@ -52598,7 +51357,6 @@ Predicate function
 Verbal Copula function
 Predicate function
 Adverbial function
-Verbal function
 Verbal function
 Predicate function
 Adverbial function
@@ -52608,7 +51366,6 @@ Verbal function
 Object function
 Subject function
 Verbal function
-Verbal function
 Object function
 Subject function
 Verbal function
@@ -52652,7 +51409,6 @@ Object function
 Verbal function
 Adverbial function
 Indirect Object function
-Verbal function
 Verbal function
 Adverbial function
 Verbal Copula function
@@ -52732,7 +51488,6 @@ Predicate function
 Subject function
 Object function
 Verbal function
-Verbal function
 Subject function
 Predicate function
 Predicate function
@@ -52749,7 +51504,6 @@ Adverbial function
 Verbal function
 Subject function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Verbal function
 Object function
@@ -52767,9 +51521,7 @@ Predicate function
 Verbal Copula function
 Verbal Copula function
 Verbal function
-Verbal Copula function
 Subject function
-Predicate function
 Predicate function
 Subject function
 Verbal function
@@ -52780,6 +51532,7 @@ Verbal function
 Object function
 Subject function
 Object function
+Subject function
 Verbal function
 Subject function
 Predicate function
@@ -52800,7 +51553,6 @@ Adverbial function
 Adverbial function
 Adverbial function
 Verbal Copula function
-Predicate function
 Predicate function
 Verbal function
 Adverbial function
@@ -52827,7 +51579,6 @@ Indirect Object function
 Subject function
 Object function
 Verbal function
-Verbal function
 Adverbial function
 Subject function
 Indirect Object function
@@ -52854,28 +51605,24 @@ Adverbial function
 Verbal function
 Object function
 Subject function
-Adverbial function
 Adverbial function
 Object function
 Verbal function
 Adverbial function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Verbal Copula function
 Predicate function
 Subject function
+Object function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Subject function
-Adverbial function
 Adverbial function
 Subject function
 Adverbial function
-Adverbial function
 Verbal function
 Indirect Object function
 Predicate function
@@ -52887,7 +51634,6 @@ Verbal function
 Verbal function
 Predicate function
 Verbal Copula function
-Verbal function
 Verbal function
 Verbal function
 Indirect Object function
@@ -52909,12 +51655,12 @@ Subject function
 Object function
 Adverbial function
 Verbal function
-Verbal function
 Indirect Object function
 Verbal function
 Subject function
 Subject function
 Subject function
+Object function
 Verbal function
 Object function
 Object function
@@ -52934,7 +51680,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Object function
-Object function
 Verbal function
 Subject function
 Adverbial function
@@ -52944,7 +51689,6 @@ Subject function
 Adverbial function
 Subject function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Adverbial function
 Predicate function
@@ -52960,8 +51704,8 @@ Adverbial function
 Verbal function
 Object function
 Subject function
-Subject function
 Object function
+Verbal function
 Verbal function
 Verbal function
 Object function
@@ -52970,12 +51714,12 @@ Verbal function
 Object function
 Verbal function
 Verbal function
+Verbal function
 Object function
 Verbal function
 Verbal function
 Indirect Object function
 Verbal function
-Subject function
 Subject function
 Object function
 Verbal function
@@ -53019,7 +51763,6 @@ Predicate function
 Verbal Copula function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Adverbial function
 Verbal function
@@ -53028,6 +51771,7 @@ Predicate function
 Verbal Copula function
 Subject function
 Verbal function
+Predicate function
 Verbal Copula function
 Predicate function
 Adverbial function
@@ -53035,9 +51779,9 @@ Verbal function
 Adverbial function
 Verbal Copula function
 Predicate function
-Predicate function
 Subject function
 Adverbial function
+Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -53046,14 +51790,12 @@ Adverbial function
 Object function
 Adverbial function
 Verbal function
-Verbal function
 Object function
 Verbal function
 Adverbial function
 Verbal function
 Adverbial function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Verbal function
 Subject function
@@ -53093,12 +51835,11 @@ Adverbial function
 Verbal function
 Subject function
 Subject function
-Subject function
 Object function
-Verbal function
 Verbal function
 Object function
 Verbal function
+Verbal function
 Subject function
 Verbal function
 Adverbial function
@@ -53134,7 +51875,6 @@ Object function
 Predicate function
 Adverbial function
 Verbal function
-Subject function
 Subject function
 Verbal function
 Subject function
@@ -53191,14 +51931,13 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
 Object function
-Subject function
 Object function
+Subject function
 Verbal function
 Adverbial function
 Subject function
@@ -53241,7 +51980,6 @@ Adverbial function
 Verbal function
 Subject function
 Object function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -53250,7 +51988,6 @@ Object function
 Verbal function
 Subject function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Subject function
@@ -53274,7 +52011,6 @@ Adverbial function
 Predicate function
 Subject function
 Adverbial function
-Predicate function
 Predicate function
 Adverbial function
 Verbal Copula function
@@ -53313,7 +52049,6 @@ Subject function
 Predicate function
 Verbal Copula function
 Verbal function
-Verbal function
 Subject function
 Object function
 Adverbial function
@@ -53345,13 +52080,12 @@ Adverbial function
 Object function
 Verbal function
 Verbal function
-Adverbial function
 Subject function
 Verbal function
+Adverbial function
 Subject function
 Adverbial function
 Subject function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -53447,7 +52181,6 @@ Subject function
 Object function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -53459,15 +52192,14 @@ Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
 Verbal function
 Verbal function
 Adverbial function
-Verbal function
 Subject function
+Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -53524,7 +52256,6 @@ Subject function
 Adverbial function
 Verbal function
 Object function
-Object function
 Adverbial function
 Verbal function
 Object function
@@ -53558,9 +52289,9 @@ Object function
 Verbal function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Predicate function
+Subject function
 Verbal Copula function
 Subject function
 Subject function
@@ -53571,7 +52302,6 @@ Object function
 Adverbial function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Predicate function
 Verbal Copula function
@@ -53620,7 +52350,6 @@ Predicate function
 Adverbial function
 Object function
 Verbal function
-Verbal function
 Object function
 Verbal function
 Adverbial function
@@ -53632,7 +52361,6 @@ Verbal function
 Adverbial function
 Verbal function
 Subject function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -53640,18 +52368,14 @@ Object function
 Adverbial function
 Verbal function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Object function
 Verbal function
-Verbal function
 Subject function
-Object function
 Object function
 Subject function
 Adverbial function
@@ -53670,10 +52394,10 @@ Verbal function
 Subject function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Adverbial function
 Verbal function
 Subject function
+Verbal function
 Verbal function
 Object function
 Subject function
@@ -53696,9 +52420,10 @@ Object function
 Subject function
 Object function
 Verbal function
-Adverbial function
+Object function
 Verbal function
 Adverbial function
+Verbal function
 Adverbial function
 Subject function
 Verbal Copula function
@@ -53708,7 +52433,6 @@ Adverbial function
 Verbal function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Predicate function
@@ -53753,11 +52477,9 @@ Verbal function
 Verbal function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -53802,6 +52524,7 @@ Subject function
 Object function
 Verbal function
 Adverbial function
+Predicate function
 Verbal Copula function
 Predicate function
 Subject function
@@ -53816,6 +52539,7 @@ Subject function
 Predicate function
 Subject function
 Verbal Copula function
+Subject function
 Subject function
 Adverbial function
 Verbal function
@@ -53826,7 +52550,6 @@ Verbal function
 Object function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Object function
 Verbal function
 Verbal function
@@ -53892,6 +52615,7 @@ Subject function
 Subject function
 Verbal function
 Object function
+Subject function
 Verbal function
 Object function
 Verbal function
@@ -53912,8 +52636,8 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Object function
+Verbal function
 Object function
 Adverbial function
 Subject function
@@ -53937,6 +52661,7 @@ Object function
 Adverbial function
 Verbal function
 Predicate function
+Adverbial function
 Verbal Copula function
 Adverbial function
 Adverbial function
@@ -53944,6 +52669,7 @@ Subject function
 Adverbial function
 Object function
 Verbal function
+Object function
 Verbal function
 Object function
 Object function
@@ -53953,7 +52679,6 @@ Verbal Copula function
 Verbal Copula function
 Subject function
 Predicate function
-Predicate function
 Verbal function
 Object function
 Adverbial function
@@ -53970,9 +52695,11 @@ Object function
 Predicate function
 Subject function
 Verbal Copula function
+Predicate function
 Object function
 Predicate function
 Subject function
+Predicate function
 Object function
 Predicate function
 Subject function
@@ -53980,13 +52707,13 @@ Subject function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
 Object function
+Predicate function
 Verbal Copula function
 Predicate function
 Adverbial function
@@ -54000,7 +52727,6 @@ Verbal function
 Predicate function
 Adverbial function
 Subject function
-Verbal function
 Verbal function
 Verbal function
 Subject function
@@ -54043,6 +52769,7 @@ Adverbial function
 Subject function
 Predicate function
 Subject function
+Subject function
 Predicate function
 Adverbial function
 Verbal function
@@ -54058,7 +52785,6 @@ Subject function
 Verbal function
 Predicate function
 Adverbial function
-Verbal Copula function
 Verbal Copula function
 Subject function
 Verbal function
@@ -54081,7 +52807,6 @@ Adverbial function
 Verbal function
 Verbal function
 Subject function
-Subject function
 Object function
 Verbal function
 Adverbial function
@@ -54107,7 +52832,6 @@ Verbal Copula function
 Subject function
 Predicate function
 Verbal Copula function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -54123,7 +52847,6 @@ Verbal function
 Verbal function
 Subject function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Verbal function
@@ -54146,7 +52869,6 @@ Indirect Object function
 Verbal function
 Object function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -54163,6 +52885,7 @@ Object function
 Verbal function
 Verbal function
 Subject function
+Predicate function
 Verbal Copula function
 Predicate function
 Object function
@@ -54200,7 +52923,6 @@ Object function
 Adverbial function
 Predicate function
 Verbal Copula function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -54226,7 +52948,6 @@ Subject function
 Subject function
 Object function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -54248,12 +52969,11 @@ Adverbial function
 Verbal function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Object function
 Adverbial function
 Verbal function
-Verbal function
+Adverbial function
 Adverbial function
 Adverbial function
 Verbal function
@@ -54278,31 +52998,27 @@ Predicate function
 Subject function
 Subject function
 Adverbial function
-Adverbial function
 Subject function
-Verbal function
 Verbal function
 Subject function
+Subject function
 Verbal function
 Verbal function
 Subject function
-Verbal function
 Verbal function
 Subject function
+Subject function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Indirect Object function
 Verbal function
 Subject function
 Adverbial function
 Verbal function
-Verbal function
 Indirect Object function
 Adverbial function
 Verbal function
-Subject function
 Subject function
 Indirect Object function
 Subject function
@@ -54310,22 +53026,17 @@ Adverbial function
 Indirect Object function
 Subject function
 Adverbial function
-Adverbial function
 Indirect Object function
 Subject function
-Adverbial function
 Adverbial function
 Indirect Object function
 Subject function
-Subject function
 Indirect Object function
-Subject function
 Subject function
 Indirect Object function
 Subject function
 Indirect Object function
 Subject function
-Subject function
 Indirect Object function
 Subject function
 Object function
@@ -54339,13 +53050,14 @@ Subject function
 Predicate function
 Verbal Copula function
 Object function
-Verbal function
 Verbal function
 Subject function
+Subject function
 Predicate function
 Verbal Copula function
 Predicate function
 Verbal Copula function
+Predicate function
 Adverbial function
 Subject function
 Adverbial function
@@ -54358,8 +53070,8 @@ Subject function
 Subject function
 Object function
 Verbal function
-Verbal function
 Subject function
+Predicate function
 Verbal Copula function
 Predicate function
 Predicate function
@@ -54398,7 +53110,6 @@ Subject function
 Predicate function
 Predicate function
 Subject function
-Subject function
 Adverbial function
 Subject function
 Verbal function
@@ -54411,14 +53122,11 @@ Verbal Copula function
 Subject function
 Predicate function
 Predicate function
-Subject function
 Subject function
 Adverbial function
 Predicate function
 Subject function
-Subject function
 Predicate function
-Subject function
 Subject function
 Adverbial function
 Verbal function
@@ -54438,25 +53146,26 @@ Verbal function
 Adverbial function
 Subject function
 Verbal function
+Subject function
 Predicate function
 Verbal Copula function
-Subject function
 Predicate function
 Verbal Copula function
 Verbal Copula function
 Subject function
+Verbal function
+Predicate function
 Verbal Copula function
 Predicate function
-Verbal function
 Indirect Object function
 Object function
 Verbal function
 Verbal function
 Subject function
 Object function
-Verbal function
 Verbal function
 Subject function
+Subject function
 Adverbial function
 Object function
 Verbal function
@@ -54465,6 +53174,8 @@ Subject function
 Verbal function
 Object function
 Indirect Object function
+Verbal function
+Object function
 Verbal function
 Object function
 Object function
@@ -54520,6 +53231,7 @@ Subject function
 Predicate function
 Predicate function
 Subject function
+Object function
 Verbal function
 Object function
 Object function
@@ -54539,6 +53251,7 @@ Verbal function
 Verbal function
 Adverbial function
 Verbal function
+Adverbial function
 Object function
 Adverbial function
 Verbal function
@@ -54557,7 +53270,6 @@ Verbal function
 Object function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Object function
 Adverbial function
@@ -54574,7 +53286,6 @@ Verbal function
 Object function
 Object function
 Verbal function
-Verbal function
 Object function
 Adverbial function
 Verbal function
@@ -54603,7 +53314,6 @@ Verbal function
 Object function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -54624,7 +53334,6 @@ Subject function
 Verbal function
 Subject function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -54645,12 +53354,10 @@ Adverbial function
 Verbal Copula function
 Predicate function
 Verbal function
-Object function
 Object function
 Verbal function
 Adverbial function
 Adverbial function
-Adverbial function
 Object function
 Adverbial function
 Verbal function
@@ -54658,7 +53365,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -54671,13 +53377,10 @@ Adverbial function
 Subject function
 Verbal function
 Object function
-Object function
 Verbal function
-Object function
 Object function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
@@ -54685,7 +53388,6 @@ Indirect Object function
 Verbal function
 Indirect Object function
 Subject function
-Verbal function
 Verbal function
 Indirect Object function
 Verbal function
@@ -54709,7 +53411,6 @@ Subject function
 Verbal function
 Adverbial function
 Adverbial function
-Adverbial function
 Verbal function
 Predicate function
 Subject function
@@ -54723,10 +53424,9 @@ Verbal function
 Verbal function
 Subject function
 Object function
-Verbal function
 Verbal function
-Verbal function
-Verbal function
+Adverbial function
+Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -54753,7 +53453,8 @@ Subject function
 Verbal function
 Subject function
 Verbal function
-Verbal function
+Subject function
+Object function
 Subject function
 Object function
 Verbal function
@@ -54762,6 +53463,7 @@ Verbal function
 Adverbial function
 Adverbial function
 Subject function
+Adverbial function
 Adverbial function
 Object function
 Verbal function
@@ -54772,7 +53474,7 @@ Verbal function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
+Subject function
 Verbal function
 Subject function
 Verbal Copula function
@@ -54795,6 +53497,7 @@ Predicate function
 Predicate function
 Predicate function
 Verbal Copula function
+Predicate function
 Adverbial function
 Verbal function
 Verbal function
@@ -54808,22 +53511,19 @@ Verbal function
 Verbal function
 Adverbial function
 Subject function
-Verbal function
 Verbal function
 Subject function
+Subject function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Predicate function
 Verbal Copula function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
@@ -54870,9 +53570,9 @@ Verbal Copula function
 Adverbial function
 Adverbial function
 Adverbial function
-Verbal function
 Verbal function
 Adverbial function
+Adverbial function
 Predicate function
 Verbal Copula function
 Adverbial function
@@ -54891,9 +53591,9 @@ Predicate function
 Verbal Copula function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
+Subject function
 Adverbial function
 Verbal function
 Verbal function
@@ -54902,7 +53602,6 @@ Subject function
 Adverbial function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -54913,7 +53612,6 @@ Verbal function
 Subject function
 Verbal function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
@@ -54932,7 +53630,6 @@ Verbal function
 Adverbial function
 Subject function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Predicate function
 Verbal Copula function
@@ -54967,9 +53664,8 @@ Verbal function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
-Verbal function
 Indirect Object function
+Verbal function
 Indirect Object function
 Subject function
 Verbal function
@@ -54977,7 +53673,6 @@ Verbal function
 Subject function
 Verbal function
 Indirect Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -55031,6 +53726,7 @@ Verbal function
 Verbal function
 Subject function
 Verbal function
+Predicate function
 Verbal Copula function
 Predicate function
 Verbal function
@@ -55039,6 +53735,7 @@ Verbal function
 Indirect Object function
 Predicate function
 Verbal Copula function
+Predicate function
 Subject function
 Verbal function
 Verbal function
@@ -55052,12 +53749,13 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
+Adverbial function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Verbal function
 Indirect Object function
+Indirect Object function
 Object function
 Verbal function
 Indirect Object function
@@ -55102,7 +53800,6 @@ Adverbial function
 Adverbial function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -55112,9 +53809,8 @@ Indirect Object function
 Adverbial function
 Indirect Object function
 Adverbial function
-Verbal function
-Indirect Object function
 Indirect Object function
+Verbal function
 Indirect Object function
 Subject function
 Verbal Copula function
@@ -55139,10 +53835,10 @@ Predicate function
 Verbal Copula function
 Verbal Copula function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Subject function
+Subject function
 Adverbial function
 Verbal function
 Adverbial function
@@ -55167,7 +53863,6 @@ Subject function
 Verbal function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Predicate function
 Subject function
@@ -55214,8 +53909,8 @@ Adverbial function
 Predicate function
 Adverbial function
 Verbal Copula function
-Verbal Copula function
 Adverbial function
+Subject function
 Verbal function
 Adverbial function
 Subject function
@@ -55232,7 +53927,6 @@ Verbal function
 Adverbial function
 Subject function
 Verbal function
-Verbal function
 Subject function
 Adverbial function
 Predicate function
@@ -55248,7 +53942,6 @@ Object function
 Indirect Object function
 Indirect Object function
 Verbal function
-Object function
 Object function
 Verbal function
 Subject function
@@ -55259,6 +53952,7 @@ Object function
 Adverbial function
 Subject function
 Verbal function
+Subject function
 Object function
 Verbal function
 Adverbial function
@@ -55305,11 +53999,11 @@ Adverbial function
 Adverbial function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
+Adverbial function
 Object function
 Verbal function
 Adverbial function
@@ -55323,7 +54017,6 @@ Subject function
 Subject function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Verbal function
 Verbal function
@@ -55338,6 +54031,7 @@ Adverbial function
 Adverbial function
 Verbal function
 Object function
+Object function
 Subject function
 Verbal function
 Adverbial function
@@ -55347,13 +54041,13 @@ Verbal function
 Subject function
 Adverbial function
 Verbal function
-Subject function
 Subject function
 Adverbial function
+Adverbial function
 Verbal function
 Verbal function
-Object function
 Subject function
+Object function
 Verbal function
 Adverbial function
 Verbal function
@@ -55378,23 +54072,18 @@ Indirect Object function
 Object function
 Object function
 Subject function
-Predicate function
 Predicate function
 Predicate function
 Subject function
-Subject function
 Predicate function
-Subject function
 Subject function
 Predicate function
 Subject function
-Subject function
 Predicate function
 Subject function
 Subject function
 Subject function
 Predicate function
-Subject function
 Subject function
 Predicate function
 Subject function
@@ -55484,12 +54173,12 @@ Verbal function
 Subject function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
 Adverbial function
 Adverbial function
+Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -55517,7 +54206,6 @@ Subject function
 Verbal function
 Subject function
 Adverbial function
-Adverbial function
 Predicate function
 Subject function
 Subject function
@@ -55526,10 +54214,12 @@ Predicate function
 Subject function
 Subject function
 Subject function
-Predicate function
+Subject function
 Predicate function
+Subject function
 Subject function
 Predicate function
+Indirect Object function
 Subject function
 Indirect Object function
 Verbal function
@@ -55538,6 +54228,7 @@ Object function
 Adverbial function
 Adverbial function
 Adverbial function
+Predicate function
 Verbal Copula function
 Predicate function
 Verbal function
@@ -55570,7 +54261,6 @@ Subject function
 Verbal function
 Verbal function
 Verbal function
-Verbal function
 Object function
 Verbal function
 Adverbial function
@@ -55589,7 +54279,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -55601,12 +54290,10 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Object function
 Adverbial function
-Verbal function
 Verbal function
 Object function
 Verbal function
@@ -55616,6 +54303,8 @@ Subject function
 Verbal function
 Verbal function
 Adverbial function
+Subject function
+Adverbial function
 Verbal function
 Subject function
 Subject function
@@ -55629,6 +54318,7 @@ Predicate function
 Verbal Copula function
 Adverbial function
 Object function
+Object function
 Verbal function
 Adverbial function
 Subject function
@@ -55653,7 +54343,6 @@ Adverbial function
 Verbal function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Verbal function
 Verbal function
@@ -55665,7 +54354,6 @@ Verbal function
 Subject function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Verbal function
 Object function
 Object function
@@ -55690,10 +54378,8 @@ Adverbial function
 Adverbial function
 Object function
 Subject function
-Verbal function
 Verbal function
 Object function
-Object function
 Verbal function
 Object function
 Verbal function
@@ -55733,6 +54419,7 @@ Predicate function
 Adverbial function
 Verbal Copula function
 Predicate function
+Subject function
 Indirect Object function
 Subject function
 Adverbial function
@@ -55775,14 +54462,15 @@ Predicate function
 Adverbial function
 Verbal function
 Adverbial function
+Predicate function
 Verbal Copula function
 Predicate function
-Adverbial function
 Adverbial function
 Adverbial function
 Verbal function
 Subject function
 Verbal function
+Verbal function
 Adverbial function
 Verbal Copula function
 Predicate function
@@ -55821,7 +54509,6 @@ Adverbial function
 Subject function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal Copula function
@@ -55833,7 +54520,7 @@ Verbal function
 Adverbial function
 Adverbial function
 Adverbial function
-Adverbial function
+Object function
 Verbal function
 Indirect Object function
 Object function
@@ -55842,7 +54529,6 @@ Object function
 Adverbial function
 Verbal function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Verbal function
@@ -55873,7 +54559,6 @@ Adverbial function
 Object function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Object function
 Verbal function
@@ -55888,13 +54573,11 @@ Verbal function
 Verbal Copula function
 Predicate function
 Subject function
-Subject function
 Predicate function
 Subject function
 Subject function
 Adverbial function
 Verbal Copula function
-Predicate function
 Predicate function
 Subject function
 Adverbial function
@@ -55907,14 +54590,12 @@ Predicate function
 Predicate function
 Adverbial function
 Verbal Copula function
-Verbal Copula function
 Subject function
 Adverbial function
 Predicate function
 Adverbial function
 Subject function
 Indirect Object function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -55931,7 +54612,6 @@ Predicate function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Subject function
 Second Object function
 Object function
@@ -55978,6 +54658,7 @@ Verbal function
 Object function
 Verbal function
 Adverbial function
+Verbal function
 Subject function
 Verbal function
 Verbal function
@@ -55985,7 +54666,6 @@ Adverbial function
 Subject function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Adverbial function
 Verbal function
 Indirect Object function
@@ -55993,6 +54673,7 @@ Adverbial function
 Adverbial function
 Verbal function
 Verbal function
+Object function
 Verbal function
 Object function
 Verbal function
@@ -56005,10 +54686,10 @@ Object function
 Verbal function
 Verbal function
 Adverbial function
-Object function
-Object function
 Adverbial function
+Adverbial function
 Verbal function
+Object function
 Predicate function
 Adverbial function
 Subject function
@@ -56035,7 +54716,6 @@ Object function
 Adverbial function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Indirect Object function
 Object function
 Verbal function
@@ -56049,7 +54729,6 @@ Adverbial function
 Adverbial function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Object function
 Verbal function
@@ -56072,7 +54751,7 @@ Verbal function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
+Indirect Object function
 Subject function
 Indirect Object function
 Adverbial function
@@ -56089,9 +54768,7 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
-Predicate function
 Predicate function
 Adverbial function
 Predicate function
@@ -56100,10 +54777,11 @@ Adverbial function
 Subject function
 Predicate function
 Predicate function
+Verbal function
+Subject function
 Verbal function
 Object function
 Object function
-Subject function
 Adverbial function
 Adverbial function
 Adverbial function
@@ -56132,7 +54810,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Object function
 Verbal function
@@ -56155,7 +54832,7 @@ Second Object function
 Second Object function
 Subject function
 Verbal function
-Verbal function
+Subject function
 Subject function
 Verbal function
 Verbal function
@@ -56168,7 +54845,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Subject function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -56196,7 +54872,6 @@ Adverbial function
 Adverbial function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Object function
@@ -56214,7 +54889,6 @@ Adverbial function
 Verbal function
 Verbal function
 Subject function
-Subject function
 Adverbial function
 Subject function
 Adverbial function
@@ -56288,7 +54962,6 @@ Predicate function
 Object function
 Verbal function
 Object function
-Second Object function
 Second Object function
 Object function
 Second Object function
@@ -56303,7 +54976,6 @@ Verbal function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Object function
 Adverbial function
@@ -56347,10 +55019,9 @@ Adverbial function
 Adverbial function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
-Adverbial function
+Subject function
 Adverbial function
 Verbal function
 Object function
@@ -56373,7 +55044,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Predicate function
 Predicate function
@@ -56391,7 +55061,6 @@ Verbal function
 Verbal function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Adverbial function
@@ -56409,15 +55078,14 @@ Verbal function
 Subject function
 Verbal function
 Predicate function
-Predicate function
 Subject function
 Adverbial function
 Verbal function
-Predicate function
 Predicate function
 Verbal function
 Subject function
 Verbal function
+Object function
 Adverbial function
 Verbal function
 Object function
@@ -56431,7 +55099,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Subject function
 Verbal Copula function
@@ -56443,7 +55110,6 @@ Verbal function
 Verbal function
 Subject function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Object function
@@ -56452,7 +55118,6 @@ Predicate function
 Predicate function
 Verbal function
 Indirect Object function
-Object function
 Object function
 Verbal function
 Adverbial function
@@ -56461,7 +55126,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -56477,12 +55141,11 @@ Verbal function
 Verbal function
 Predicate function
 Adverbial function
-Verbal Copula function
 Verbal Copula function
 Subject function
 Verbal function
 Adverbial function
-Verbal function
+Adverbial function
 Verbal function
 Subject function
 Object function
@@ -56492,14 +55155,11 @@ Verbal function
 Verbal function
 Object function
 Object function
-Object function
 Verbal function
 Object function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Verbal function
@@ -56511,6 +55171,7 @@ Indirect Object function
 Object function
 Verbal function
 Indirect Object function
+Object function
 Adverbial function
 Adverbial function
 Verbal function
@@ -56522,7 +55183,6 @@ Verbal function
 Indirect Object function
 Verbal function
 Indirect Object function
-Indirect Object function
 Subject function
 Verbal function
 Object function
@@ -56539,6 +55199,8 @@ Adverbial function
 Verbal function
 Adverbial function
 Subject function
+Verbal function
+Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -56578,6 +55240,7 @@ Subject function
 Verbal function
 Adverbial function
 Object function
+Verbal function
 Indirect Object function
 Adverbial function
 Verbal function
@@ -56587,7 +55250,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Object function
-Object function
 Adverbial function
 Verbal function
 Subject function
@@ -56608,7 +55270,6 @@ Verbal function
 Subject function
 Verbal Copula function
 Predicate function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -56633,6 +55294,8 @@ Subject function
 Object function
 Adverbial function
 Verbal function
+Object function
+Object function
 Adverbial function
 Verbal function
 Subject function
@@ -56686,16 +55349,15 @@ Object function
 Verbal function
 Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
+Adverbial function
 Adverbial function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Object function
@@ -56713,7 +55375,6 @@ Adverbial function
 Adverbial function
 Subject function
 Predicate function
-Adverbial function
 Adverbial function
 Subject function
 Predicate function
@@ -56722,15 +55383,13 @@ Adverbial function
 Subject function
 Predicate function
 Adverbial function
-Adverbial function
 Subject function
 Predicate function
-Adverbial function
 Adverbial function
 Subject function
 Predicate function
-Verbal function
 Verbal Copula function
+Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -56749,11 +55408,12 @@ Adverbial function
 Adverbial function
 Verbal function
 Verbal function
+Subject function
+Subject function
 Object function
 Adverbial function
 Verbal function
 Subject function
-Subject function
 Verbal function
 Object function
 Object function
@@ -56766,9 +55426,10 @@ Verbal Copula function
 Adverbial function
 Predicate function
 Verbal function
-Subject function
 Subject function
+Object function
 Verbal function
+Object function
 Object function
 Verbal function
 Object function
@@ -56785,7 +55446,6 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Predicate function
 Verbal Copula function
 Adverbial function
@@ -56819,9 +55479,9 @@ Subject function
 Subject function
 Verbal function
 Object function
-Subject function
 Verbal function
 Object function
+Subject function
 Adverbial function
 Adverbial function
 Verbal function
@@ -56861,7 +55521,6 @@ Adverbial function
 Adverbial function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Object function
@@ -56872,6 +55531,8 @@ Verbal function
 Verbal function
 Subject function
 Adverbial function
+Verbal function
+Object function
 Verbal function
 Indirect Object function
 Object function
@@ -56901,7 +55562,6 @@ Subject function
 Adverbial function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -56937,10 +55597,10 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Indirect Object function
+Indirect Object function
 Object function
 Verbal function
 Adverbial function
@@ -56949,9 +55609,8 @@ Adverbial function
 Subject function
 Verbal function
 Adverbial function
-Verbal function
-Verbal function
 Adverbial function
+Verbal function
 Adverbial function
 Adverbial function
 Verbal function
@@ -57057,7 +55716,6 @@ Subject function
 Object function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Indirect Object function
 Verbal function
@@ -57065,19 +55723,19 @@ Object function
 Adverbial function
 Adverbial function
 Object function
-Verbal function
+Object function
 Verbal function
 Predicate function
 Verbal Copula function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
 Object function
 Subject function
 Predicate function
+Adverbial function
 Object function
 Adverbial function
 Verbal function
@@ -57097,7 +55755,6 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -57114,7 +55771,6 @@ Adverbial function
 Predicate function
 Predicate function
 Predicate function
-Predicate function
 Object function
 Adverbial function
 Verbal function
@@ -57139,7 +55795,6 @@ Adverbial function
 Adverbial function
 Subject function
 Verbal function
-Object function
 Object function
 Verbal function
 Object function
@@ -57163,7 +55818,6 @@ Adverbial function
 Verbal function
 Subject function
 Adverbial function
-Adverbial function
 Second Object function
 Verbal function
 Object function
@@ -57177,7 +55831,6 @@ Object function
 Subject function
 Predicate function
 Verbal Copula function
-Adverbial function
 Adverbial function
 Object function
 Subject function
@@ -57194,8 +55847,8 @@ Verbal function
 Adverbial function
 Adverbial function
 Object function
+Object function
 Verbal function
-Subject function
 Subject function
 Verbal function
 Subject function
@@ -57214,7 +55867,6 @@ Indirect Object function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Object function
@@ -57256,17 +55908,16 @@ Verbal function
 Adverbial function
 Subject function
 Indirect Object function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
 Object function
 Adverbial function
 Subject function
-Predicate function
 Adverbial function
 Predicate function
 Adverbial function
+Verbal function
 Predicate function
 Verbal function
 Adverbial function
@@ -57281,17 +55932,17 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
+Subject function
 Adverbial function
 Predicate function
 Predicate function
 Adverbial function
+Object function
 Verbal function
 Object function
 Verbal function
@@ -57341,12 +55992,11 @@ Verbal function
 Object function
 Adverbial function
 Adverbial function
-Verbal function
-Verbal function
 Subject function
-Predicate function
+Verbal function
 Predicate function
 Subject function
+Subject function
 Predicate function
 Subject function
 Verbal function
@@ -57376,7 +56026,6 @@ Adverbial function
 Verbal function
 Object function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Adverbial function
@@ -57395,12 +56044,11 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Object function
 Adverbial function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
+Verbal function
 Adverbial function
 Object function
 Verbal function
@@ -57411,7 +56059,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -57432,10 +56079,8 @@ Second Object function
 Adverbial function
 Verbal function
 Object function
-Object function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Verbal function
 Object function
@@ -57454,11 +56099,14 @@ Subject function
 Adverbial function
 Adverbial function
 Subject function
+Verbal function
+Object function
 Verbal function
 Object function
 Adverbial function
 Verbal function
 Verbal function
+Object function
 Verbal function
 Object function
 Adverbial function
@@ -57528,7 +56176,6 @@ Adverbial function
 Verbal function
 Object function
 Subject function
-Verbal function
 Verbal function
 Object function
 Verbal function
@@ -57552,6 +56199,7 @@ Adverbial function
 Adverbial function
 Predicate function
 Subject function
+Subject function
 Verbal function
 Adverbial function
 Adverbial function
@@ -57567,7 +56215,6 @@ Verbal function
 Adverbial function
 Subject function
 Verbal function
-Subject function
 Predicate function
 Verbal Copula function
 Adverbial function
@@ -57592,7 +56239,6 @@ Verbal function
 Adverbial function
 Subject function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Object function
@@ -57620,7 +56266,6 @@ Adverbial function
 Verbal function
 Verbal function
 Subject function
-Verbal function
 Verbal function
 Adverbial function
 Subject function
@@ -57699,14 +56344,15 @@ Verbal function
 Verbal function
 Verbal function
 Object function
+Verbal function
+Subject function
 Verbal function
 Subject function
 Verbal Copula function
 Predicate function
 Adverbial function
-Verbal function
-Verbal function
 Adverbial function
+Adverbial function
 Verbal function
 Adverbial function
 Subject function
@@ -57722,18 +56368,20 @@ Verbal function
 Object function
 Verbal function
 Adverbial function
+Verbal function
 Verbal function
 Adverbial function
 Verbal function
 Object function
 Adverbial function
+Object function
+Adverbial function
 Verbal function
 Object function
 Adverbial function
 Verbal function
 Subject function
 Verbal function
-Adverbial function
 Verbal function
 Subject function
 Adverbial function
@@ -57748,11 +56396,11 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
 Verbal function
+Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -57761,7 +56409,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal Copula function
-Predicate function
 Predicate function
 Object function
 Verbal function
@@ -57804,7 +56451,6 @@ Subject function
 Subject function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -57827,25 +56473,21 @@ Verbal Copula function
 Predicate function
 Subject function
 Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Object function
 Verbal function
 Adverbial function
 Adverbial function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Subject function
 Verbal function
 Adverbial function
 Adverbial function
-Adverbial function
 Predicate function
 Verbal Copula function
 Adverbial function
@@ -57877,7 +56519,6 @@ Indirect Object function
 Verbal function
 Verbal function
 Subject function
-Indirect Object function
 Indirect Object function
 Subject function
 Adverbial function
@@ -57890,7 +56531,6 @@ Verbal function
 Adverbial function
 Verbal function
 Verbal function
-Verbal function
 Subject function
 Adverbial function
 Verbal function
@@ -57926,7 +56566,7 @@ Verbal function
 Adverbial function
 Verbal function
 Subject function
-Predicate function
+Subject function
 Predicate function
 Verbal function
 Verbal function
@@ -57985,6 +56625,7 @@ Verbal function
 Adverbial function
 Verbal function
 Verbal function
+Object function
 Verbal function
 Object function
 Adverbial function
@@ -58002,7 +56643,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Adverbial function
@@ -58022,7 +56662,6 @@ Subject function
 Predicate function
 Predicate function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Verbal function
 Verbal function
@@ -58030,7 +56669,6 @@ Subject function
 Adverbial function
 Verbal Copula function
 Predicate function
-Predicate function
 Verbal function
 Adverbial function
 Verbal function
@@ -58043,7 +56681,6 @@ Verbal Copula function
 Verbal Copula function
 Subject function
 Object function
-Verbal function
 Verbal function
 Subject function
 Predicate function
@@ -58054,14 +56691,13 @@ Object function
 Adverbial function
 Adverbial function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
-Verbal function
 Verbal function
 Subject function
 Predicate function
 Verbal Copula function
+Object function
 Adverbial function
 Verbal function
 Object function
@@ -58103,6 +56739,8 @@ Subject function
 Verbal function
 Object function
 Adverbial function
+Subject function
+Indirect Object function
 Subject function
 Indirect Object function
 Subject function
@@ -58163,9 +56801,9 @@ Adverbial function
 Object function
 Verbal function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Adverbial function
+Object function
 Verbal function
 Object function
 Object function
@@ -58175,13 +56813,12 @@ Verbal function
 Verbal function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Predicate function
 Adverbial function
 Verbal Copula function
-Verbal Copula function
 Verbal function
+Indirect Object function
 Indirect Object function
 Adverbial function
 Verbal function
@@ -58196,7 +56833,6 @@ Object function
 Verbal function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Object function
 Object function
@@ -58209,6 +56845,7 @@ Object function
 Verbal function
 Adverbial function
 Adverbial function
+Predicate function
 Verbal Copula function
 Predicate function
 Predicate function
@@ -58263,7 +56900,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
@@ -58291,7 +56927,6 @@ Verbal function
 Indirect Object function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Adverbial function
 Indirect Object function
@@ -58332,6 +56967,7 @@ Adverbial function
 Verbal function
 Object function
 Subject function
+Object function
 Adverbial function
 Verbal function
 Indirect Object function
@@ -58348,8 +56984,8 @@ Object function
 Adverbial function
 Subject function
 Object function
-Adverbial function
 Subject function
+Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -58367,8 +57003,9 @@ Verbal Copula function
 Object function
 Verbal function
 Indirect Object function
+Object function
+Object function
 Subject function
-Adverbial function
 Adverbial function
 Subject function
 Adverbial function
@@ -58387,7 +57024,6 @@ Object function
 Verbal function
 Verbal function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Subject function
@@ -58420,7 +57056,6 @@ Verbal Copula function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Subject function
 Verbal function
 Subject function
@@ -58428,7 +57063,6 @@ Adverbial function
 Predicate function
 Adverbial function
 Predicate function
-Predicate function
 Verbal function
 Adverbial function
 Verbal function
@@ -58464,7 +57098,6 @@ Adverbial function
 Verbal function
 Second Object function
 Object function
-Verbal function
 Verbal function
 Subject function
 Adverbial function
@@ -58475,13 +57108,13 @@ Adverbial function
 Verbal function
 Adverbial function
 Subject function
-Subject function
 Verbal function
 Adverbial function
 Subject function
 Object function
 Adverbial function
 Verbal function
+Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -58508,9 +57141,9 @@ Indirect Object function
 Adverbial function
 Subject function
 Verbal function
-Verbal function
 Object function
 Verbal function
+Adverbial function
 Adverbial function
 Object function
 Verbal function
@@ -58527,7 +57160,6 @@ Adverbial function
 Adverbial function
 Adverbial function
 Predicate function
-Predicate function
 Subject function
 Verbal function
 Indirect Object function
@@ -58544,14 +57176,14 @@ Object function
 Object function
 Verbal function
 Indirect Object function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
 Predicate function
 Verbal Copula function
-Subject function
+Predicate function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Object function
@@ -58563,14 +57195,12 @@ Adverbial function
 Subject function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Predicate function
 Verbal Copula function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Verbal function
 Predicate function
 Subject function
@@ -58580,7 +57210,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
 Adverbial function
@@ -58633,6 +57262,7 @@ Verbal function
 Object function
 Subject function
 Verbal function
+Indirect Object function
 Verbal function
 Subject function
 Indirect Object function
@@ -58644,7 +57274,6 @@ Adverbial function
 Adverbial function
 Subject function
 Verbal Copula function
-Predicate function
 Predicate function
 Object function
 Verbal function
@@ -58669,7 +57298,6 @@ Indirect Object function
 Adverbial function
 Verbal function
 Subject function
-Subject function
 Adverbial function
 Subject function
 Adverbial function
@@ -58681,15 +57309,13 @@ Indirect Object function
 Verbal function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Predicate function
 Adverbial function
-Verbal Copula function
 Verbal Copula function
 Subject function
+Subject function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Subject function
 Predicate function
@@ -58699,7 +57325,6 @@ Verbal function
 Verbal function
 Subject function
 Verbal function
-Verbal function
 Adverbial function
 Predicate function
 Verbal Copula function
@@ -58712,7 +57337,6 @@ Subject function
 Adverbial function
 Verbal function
 Indirect Object function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -58722,6 +57346,8 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
+Verbal function
+Verbal function
 Subject function
 Predicate function
 Verbal Copula function
@@ -58733,7 +57359,6 @@ Subject function
 Adverbial function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Subject function
 Predicate function
 Verbal Copula function
@@ -58762,7 +57387,6 @@ Predicate function
 Predicate function
 Verbal Copula function
 Adverbial function
-Predicate function
 Predicate function
 Verbal function
 Adverbial function
@@ -58777,6 +57401,7 @@ Verbal Copula function
 Verbal Copula function
 Predicate function
 Verbal Copula function
+Predicate function
 Adverbial function
 Adverbial function
 Subject function
@@ -58810,6 +57435,7 @@ Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
+Predicate function
 Verbal Copula function
 Predicate function
 Predicate function
@@ -58836,6 +57462,7 @@ Adverbial function
 Object function
 Adverbial function
 Verbal function
+Object function
 Verbal function
 Object function
 Verbal function
@@ -58864,13 +57491,11 @@ Verbal function
 Verbal function
 Object function
 Verbal function
-Object function
 Object function
 Object function
 Object function
 Predicate function
 Subject function
-Subject function
 Verbal function
 Indirect Object function
 Predicate function
@@ -58891,7 +57516,6 @@ Object function
 Verbal function
 Verbal function
 Object function
-Verbal function
 Verbal function
 Predicate function
 Verbal function
@@ -58920,20 +57544,22 @@ Verbal function
 Indirect Object function
 Indirect Object function
 Predicate function
-Verbal Copula function
 Verbal function
+Verbal Copula function
 Object function
 Adverbial function
 Verbal function
 Verbal function
 Subject function
+Object function
 Verbal function
 Object function
 Object function
+Subject function
 Subject function
 Adverbial function
 Verbal function
-Verbal function
+Subject function
 Subject function
 Adverbial function
 Subject function
@@ -58942,25 +57568,22 @@ Verbal function
 Subject function
 Verbal Copula function
 Predicate function
-Predicate function
 Subject function
 Predicate function
 Adverbial function
 Verbal function
 Subject function
 Verbal Copula function
-Predicate function
 Predicate function
 Subject function
+Subject function
 Predicate function
 Verbal Copula function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Predicate function
 Verbal Copula function
@@ -58981,9 +57604,8 @@ Subject function
 Adverbial function
 Subject function
 Verbal function
-Object function
 Object function
-Object function
+Subject function
 Subject function
 Adverbial function
 Predicate function
@@ -59002,11 +57624,13 @@ Subject function
 Verbal function
 Object function
 Adverbial function
+Adverbial function
 Verbal function
 Subject function
 Adverbial function
 Adverbial function
 Adverbial function
+Predicate function
 Verbal Copula function
 Predicate function
 Adverbial function
@@ -59039,11 +57663,9 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -59051,13 +57673,14 @@ Subject function
 Object function
 Verbal function
 Subject function
+Verbal function
+Subject function
 Adverbial function
 Verbal function
 Verbal function
 Adverbial function
 Subject function
 Verbal function
-Subject function
 Adverbial function
 Verbal function
 Subject function
@@ -59077,14 +57700,12 @@ Subject function
 Verbal function
 Object function
 Verbal function
-Object function
 Object function
 Predicate function
 Verbal Copula function
-Verbal Copula function
-Verbal Copula function
-Verbal Copula function
+Subject function
 Subject function
+Subject function
 Object function
 Adverbial function
 Verbal function
@@ -59097,7 +57718,6 @@ Adverbial function
 Verbal function
 Subject function
 Verbal function
-Object function
 Object function
 Subject function
 Adverbial function
@@ -59108,8 +57728,8 @@ Adverbial function
 Adverbial function
 Verbal function
 Object function
-Object function
 Subject function
+Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -59123,19 +57743,16 @@ Verbal function
 Adverbial function
 Verbal function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Object function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
-Adverbial function
+Subject function
 Adverbial function
 Subject function
 Object function
@@ -59183,9 +57800,9 @@ Object function
 Verbal function
 Object function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
+Subject function
 Verbal Copula function
 Predicate function
 Predicate function
@@ -59266,7 +57883,6 @@ Adverbial function
 Verbal function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Object function
 Verbal function
@@ -59279,7 +57895,6 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Adverbial function
@@ -59304,6 +57919,7 @@ Adverbial function
 Verbal function
 Adverbial function
 Indirect Object function
+Adverbial function
 Verbal function
 Adverbial function
 Subject function
@@ -59313,7 +57929,7 @@ Subject function
 Verbal function
 Subject function
 Verbal function
-Verbal function
+Adverbial function
 Adverbial function
 Verbal function
 Verbal function
@@ -59328,7 +57944,6 @@ Subject function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -59337,8 +57952,8 @@ Indirect Object function
 Subject function
 Verbal function
 Subject function
-Indirect Object function
 Indirect Object function
+Subject function
 Predicate function
 Verbal Copula function
 Subject function
@@ -59346,6 +57961,8 @@ Subject function
 Subject function
 Adverbial function
 Verbal function
+Subject function
+Predicate function
 Subject function
 Predicate function
 Adverbial function
@@ -59364,6 +57981,8 @@ Subject function
 Indirect Object function
 Verbal Copula function
 Predicate function
+Indirect Object function
+Subject function
 Indirect Object function
 Subject function
 Adverbial function
@@ -59420,6 +58039,7 @@ Verbal function
 Adverbial function
 Adverbial function
 Verbal function
+Subject function
 Adverbial function
 Subject function
 Verbal function
@@ -59518,6 +58138,7 @@ Object function
 Verbal Copula function
 Predicate function
 Adverbial function
+Predicate function
 Subject function
 Predicate function
 Verbal Copula function
@@ -59542,7 +58163,6 @@ Adverbial function
 Verbal function
 Object function
 Verbal function
-Object function
 Object function
 Adverbial function
 Verbal function
@@ -59557,7 +58177,7 @@ Predicate function
 Adverbial function
 Subject function
 Verbal function
-Verbal function
+Predicate function
 Verbal Copula function
 Predicate function
 Verbal function
@@ -59586,7 +58206,6 @@ Object function
 Adverbial function
 Verbal function
 Predicate function
-Predicate function
 Adverbial function
 Subject function
 Adverbial function
@@ -59594,7 +58213,6 @@ Verbal Copula function
 Predicate function
 Verbal Copula function
 Predicate function
-Adverbial function
 Adverbial function
 Subject function
 Verbal Copula function
@@ -59606,6 +58224,7 @@ Second Object function
 Predicate function
 Object function
 Verbal function
+Object function
 Adverbial function
 Object function
 Verbal function
@@ -59688,6 +58307,7 @@ Predicate function
 Adverbial function
 Predicate function
 Verbal Copula function
+Predicate function
 Adverbial function
 Verbal function
 Indirect Object function
@@ -59751,7 +58371,6 @@ Verbal function
 Adverbial function
 Predicate function
 Subject function
-Object function
 Verbal function
 Object function
 Verbal function
@@ -59759,7 +58378,9 @@ Adverbial function
 Object function
 Object function
 Verbal function
+Adverbial function
 Adverbial function
+Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -59770,7 +58391,6 @@ Verbal function
 Adverbial function
 Indirect Object function
 Subject function
-Adverbial function
 Adverbial function
 Verbal function
 Object function
@@ -59796,7 +58416,6 @@ Predicate function
 Predicate function
 Predicate function
 Predicate function
-Predicate function
 Indirect Object function
 Verbal function
 Subject function
@@ -59808,7 +58427,6 @@ Verbal function
 Object function
 Verbal function
 Object function
-Indirect Object function
 Indirect Object function
 Subject function
 Verbal function
@@ -59848,11 +58466,9 @@ Verbal Copula function
 Predicate function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal Copula function
@@ -59865,7 +58481,6 @@ Adverbial function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
 Object function
 Verbal function
 Verbal function
@@ -59880,6 +58495,7 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
+Verbal function
 Verbal function
 Adverbial function
 Adverbial function
@@ -59891,7 +58507,6 @@ Verbal function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Adverbial function
 Verbal function
@@ -59911,8 +58526,8 @@ Adverbial function
 Object function
 Verbal function
 Adverbial function
-Object function
 Verbal function
+Object function
 Adverbial function
 Object function
 Verbal function
@@ -59943,7 +58558,6 @@ Indirect Object function
 Subject function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -59976,7 +58590,6 @@ Adverbial function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal Copula function
 Adverbial function
 Predicate function
@@ -59987,7 +58600,6 @@ Adverbial function
 Subject function
 Adverbial function
 Verbal function
-Object function
 Object function
 Verbal Copula function
 Predicate function
@@ -60004,7 +58616,6 @@ Verbal function
 Object function
 Adverbial function
 Second Object function
-Second Object function
 Subject function
 Adverbial function
 Verbal function
@@ -60019,7 +58630,6 @@ Adverbial function
 Verbal function
 Verbal function
 Adverbial function
-Subject function
 Subject function
 Object function
 Verbal function
@@ -60036,7 +58646,6 @@ Subject function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Adverbial function
@@ -60045,14 +58654,13 @@ Verbal Copula function
 Predicate function
 Verbal Copula function
 Adverbial function
-Predicate function
 Predicate function
 Adverbial function
 Predicate function
 Adverbial function
 Subject function
 Verbal function
-Verbal function
+Subject function
 Subject function
 Predicate function
 Verbal function
@@ -60066,7 +58674,6 @@ Adverbial function
 Adverbial function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Adverbial function
 Verbal function
@@ -60079,6 +58686,7 @@ Subject function
 Verbal function
 Adverbial function
 Verbal function
+Subject function
 Subject function
 Verbal function
 Predicate function
@@ -60094,7 +58702,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Subject function
-Subject function
 Verbal function
 Adverbial function
 Verbal function
@@ -60173,8 +58780,8 @@ Adverbial function
 Verbal function
 Subject function
 Indirect Object function
-Object function
 Second Object function
+Object function
 Verbal function
 Object function
 Verbal function
@@ -60201,6 +58808,7 @@ Object function
 Subject function
 Object function
 Object function
+Predicate function
 Verbal Copula function
 Predicate function
 Adverbial function
@@ -60216,7 +58824,6 @@ Predicate function
 Subject function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Subject function
 Verbal function
 Adverbial function
@@ -60226,9 +58833,9 @@ Adverbial function
 Object function
 Adverbial function
 Verbal function
-Object function
 Object function
 Subject function
+Subject function
 Verbal function
 Object function
 Object function
@@ -60278,9 +58885,11 @@ Object function
 Verbal function
 Adverbial function
 Subject function
+Adverbial function
 Object function
 Verbal function
 Object function
+Object function
 Verbal function
 Adverbial function
 Adverbial function
@@ -60313,6 +58922,7 @@ Verbal function
 Subject function
 Verbal function
 Adverbial function
+Predicate function
 Verbal Copula function
 Subject function
 Predicate function
@@ -60342,6 +58952,8 @@ Adverbial function
 Verbal function
 Object function
 Adverbial function
+Verbal function
+Object function
 Verbal function
 Object function
 Verbal function
@@ -60392,6 +59004,7 @@ Object function
 Subject function
 Verbal function
 Object function
+Subject function
 Indirect Object function
 Subject function
 Adverbial function
@@ -60405,6 +59018,7 @@ Indirect Object function
 Verbal Copula function
 Predicate function
 Adverbial function
+Subject function
 Indirect Object function
 Subject function
 Adverbial function
@@ -60439,7 +59053,6 @@ Adverbial function
 Predicate function
 Subject function
 Verbal Copula function
-Verbal Copula function
 Predicate function
 Subject function
 Subject function
@@ -60464,12 +59077,12 @@ Verbal Copula function
 Predicate function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
+Verbal function
+Verbal function
 Object function
 Subject function
 Adverbial function
@@ -60488,11 +59101,9 @@ Adverbial function
 Verbal function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Subject function
 Adverbial function
-Adverbial function
 Subject function
 Adverbial function
 Object function
@@ -60501,7 +59112,6 @@ Subject function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Adverbial function
@@ -60512,7 +59122,7 @@ Verbal function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
+Subject function
 Subject function
 Adverbial function
 Adverbial function
@@ -60523,7 +59133,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Adverbial function
 Verbal function
@@ -60562,9 +59171,9 @@ Adverbial function
 Verbal function
 Adverbial function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Adverbial function
+Adverbial function
 Predicate function
 Subject function
 Verbal function
@@ -60620,6 +59229,7 @@ Verbal function
 Subject function
 Adverbial function
 Verbal function
+Object function
 Verbal function
 Object function
 Verbal function
@@ -60703,6 +59313,7 @@ Indirect Object function
 Object function
 Object function
 Adverbial function
+Subject function
 Verbal function
 Subject function
 Subject function
@@ -60765,7 +59376,6 @@ Adverbial function
 Subject function
 Verbal function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -60779,6 +59389,7 @@ Verbal function
 Object function
 Object function
 Verbal function
+Object function
 Subject function
 Adverbial function
 Object function
@@ -60795,9 +59406,7 @@ Adverbial function
 Subject function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
-Verbal function
 Object function
 Verbal function
 Adverbial function
@@ -60808,9 +59417,9 @@ Verbal function
 Adverbial function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Second Object function
+Verbal function
 Object function
 Object function
 Verbal function
@@ -60819,7 +59428,6 @@ Adverbial function
 Verbal function
 Object function
 Object function
-Verbal function
 Verbal function
 Verbal function
 Verbal function
@@ -60836,7 +59444,6 @@ Adverbial function
 Object function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Object function
@@ -60847,7 +59454,6 @@ Adverbial function
 Verbal function
 Subject function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Verbal function
 Object function
@@ -60863,16 +59469,16 @@ Adverbial function
 Adverbial function
 Verbal function
 Object function
-Object function
+Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
 Object function
 Verbal function
 Indirect Object function
-Predicate function
 Adverbial function
 Predicate function
+Adverbial function
 Predicate function
 Adverbial function
 Predicate function
@@ -60882,7 +59488,7 @@ Verbal function
 Object function
 Verbal function
 Object function
-Object function
+Subject function
 Verbal Copula function
 Predicate function
 Subject function
@@ -60902,6 +59508,8 @@ Adverbial function
 Adverbial function
 Subject function
 Verbal function
+Subject function
+Verbal function
 Adverbial function
 Subject function
 Adverbial function
@@ -60945,6 +59553,7 @@ Object function
 Verbal function
 Verbal function
 Adverbial function
+Object function
 Verbal function
 Object function
 Object function
@@ -60971,9 +59580,8 @@ Adverbial function
 Adverbial function
 Subject function
 Adverbial function
-Verbal function
-Subject function
 Verbal function
+Object function
 Object function
 Adverbial function
 Object function
@@ -60983,7 +59591,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Predicate function
 Object function
@@ -60999,11 +59606,11 @@ Adverbial function
 Object function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Predicate function
 Verbal Copula function
 Verbal Copula function
+Verbal Copula function
 Verbal function
 Object function
 Adverbial function
@@ -61011,7 +59618,6 @@ Verbal function
 Object function
 Verbal function
 Second Object function
-Object function
 Object function
 Subject function
 Verbal function
@@ -61019,7 +59625,7 @@ Object function
 Adverbial function
 Verbal function
 Indirect Object function
-Indirect Object function
+Adverbial function
 Adverbial function
 Verbal function
 Predicate function
@@ -61032,11 +59638,11 @@ Predicate function
 Predicate function
 Object function
 Verbal function
-Verbal function
 Subject function
 Adverbial function
 Verbal function
 Adverbial function
+Object function
 Verbal function
 Object function
 Subject function
@@ -61129,7 +59735,6 @@ Verbal function
 Subject function
 Verbal Copula function
 Predicate function
-Predicate function
 Verbal function
 Adverbial function
 Adverbial function
@@ -61138,7 +59743,6 @@ Object function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Verbal function
 Predicate function
@@ -61176,15 +59780,17 @@ Object function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Subject function
-Verbal function
+Subject function
+Adverbial function
 Adverbial function
+Verbal function
 Adverbial function
 Subject function
 Adverbial function
+Subject function
 Verbal function
 Adverbial function
 Adverbial function
@@ -61200,12 +59806,10 @@ Verbal function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Object function
 Verbal function
 Adverbial function
-Object function
 Object function
 Object function
 Object function
@@ -61214,7 +59818,6 @@ Subject function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Indirect Object function
 Subject function
 Adverbial function
@@ -61226,12 +59829,13 @@ Object function
 Subject function
 Verbal function
 Object function
-Subject function
 Subject function
 Adverbial function
 Subject function
 Subject function
 Predicate function
+Subject function
+Indirect Object function
 Subject function
 Indirect Object function
 Subject function
@@ -61335,12 +59939,12 @@ Predicate function
 Predicate function
 Predicate function
 Verbal Copula function
-Subject function
 Adverbial function
-Verbal function
+Subject function
 Verbal function
 Verbal function
 Adverbial function
+Verbal function
 Subject function
 Verbal function
 Object function
@@ -61360,7 +59964,6 @@ Verbal function
 Predicate function
 Adverbial function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -61384,6 +59987,7 @@ Adverbial function
 Predicate function
 Verbal Copula function
 Subject function
+Predicate function
 Adverbial function
 Verbal function
 Adverbial function
@@ -61397,6 +60001,7 @@ Predicate function
 Predicate function
 Verbal Copula function
 Subject function
+Predicate function
 Adverbial function
 Verbal function
 Indirect Object function
@@ -61434,7 +60039,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -61490,10 +60094,10 @@ Verbal function
 Adverbial function
 Verbal function
 Subject function
+Object function
 Verbal Copula function
 Predicate function
 Verbal function
-Object function
 Adverbial function
 Adverbial function
 Adverbial function
@@ -61503,6 +60107,7 @@ Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
+Verbal function
 Subject function
 Verbal Copula function
 Predicate function
@@ -61556,6 +60161,7 @@ Subject function
 Verbal Copula function
 Predicate function
 Verbal function
+Subject function
 Adverbial function
 Subject function
 Predicate function
@@ -61591,6 +60197,7 @@ Predicate function
 Adverbial function
 Subject function
 Verbal Copula function
+Object function
 Adverbial function
 Verbal function
 Object function
@@ -61607,22 +60214,23 @@ Adverbial function
 Subject function
 Verbal function
 Adverbial function
+Verbal function
 Object function
 Verbal function
 Adverbial function
 Object function
-Object function
+Verbal function
 Verbal function
 Subject function
 Verbal function
 Adverbial function
+Subject function
 Verbal function
 Subject function
 Adverbial function
 Subject function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Object function
@@ -61678,7 +60286,6 @@ Subject function
 Predicate function
 Predicate function
 Subject function
-Subject function
 Verbal function
 Adverbial function
 Verbal function
@@ -61749,7 +60356,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Subject function
 Predicate function
@@ -61858,6 +60464,7 @@ Adverbial function
 Subject function
 Verbal Copula function
 Predicate function
+Object function
 Indirect Object function
 Verbal function
 Object function
@@ -61897,7 +60504,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Indirect Object function
@@ -61935,6 +60541,8 @@ Verbal function
 Object function
 Subject function
 Predicate function
+Subject function
+Indirect Object function
 Subject function
 Indirect Object function
 Subject function
@@ -61949,12 +60557,13 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
-Object function
-Object function
 Verbal function
-Adverbial function
+Verbal function
 Adverbial function
+Object function
+Object function
 Subject function
+Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
@@ -61965,6 +60574,7 @@ Verbal Copula function
 Adverbial function
 Adverbial function
 Subject function
+Predicate function
 Verbal Copula function
 Predicate function
 Verbal function
@@ -62007,6 +60617,7 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
+Object function
 Adverbial function
 Object function
 Verbal function
@@ -62015,10 +60626,10 @@ Object function
 Verbal function
 Object function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
+Verbal function
 Object function
 Object function
 Predicate function
@@ -62030,8 +60641,9 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Object function
+Verbal function
 Adverbial function
+Object function
 Adverbial function
 Subject function
 Adverbial function
@@ -62043,7 +60655,9 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
+Object function
 Adverbial function
+Object function
 Verbal function
 Object function
 Verbal function
@@ -62085,9 +60699,8 @@ Object function
 Predicate function
 Adverbial function
 Verbal Copula function
-Verbal Copula function
-Verbal Copula function
 Verbal function
+Verbal function
 Object function
 Adverbial function
 Verbal function
@@ -62097,6 +60710,7 @@ Object function
 Verbal function
 Adverbial function
 Object function
+Subject function
 Predicate function
 Subject function
 Predicate function
@@ -62111,6 +60725,7 @@ Subject function
 Object function
 Verbal function
 Object function
+Verbal function
 Adverbial function
 Verbal function
 Subject function
@@ -62135,9 +60750,10 @@ Subject function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
+Predicate function
+Verbal Copula function
 Verbal Copula function
 Predicate function
 Verbal Copula function
@@ -62152,6 +60768,7 @@ Adverbial function
 Subject function
 Adverbial function
 Adverbial function
+Object function
 Verbal function
 Object function
 Adverbial function
@@ -62172,15 +60789,13 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
 Subject function
-Adverbial function
-Adverbial function
 Adverbial function
 Subject function
+Subject function
 Verbal function
 Adverbial function
 Adverbial function
@@ -62190,9 +60805,9 @@ Verbal function
 Adverbial function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
+Subject function
 Adverbial function
 Adverbial function
 Verbal function
@@ -62202,7 +60817,6 @@ Subject function
 Predicate function
 Subject function
 Predicate function
-Adverbial function
 Adverbial function
 Subject function
 Verbal Copula function
@@ -62218,10 +60832,10 @@ Object function
 Adverbial function
 Verbal function
 Object function
+Verbal function
 Adverbial function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -62250,7 +60864,6 @@ Verbal function
 Adverbial function
 Verbal function
 Subject function
-Subject function
 Adverbial function
 Verbal function
 Subject function
@@ -62267,20 +60880,19 @@ Object function
 Verbal function
 Adverbial function
 Subject function
-Object function
 Object function
 Adverbial function
 Verbal function
+Verbal function
 Adverbial function
 Adverbial function
 Adverbial function
 Verbal function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
-Verbal function
 Object function
+Verbal function
 Indirect Object function
 Verbal function
 Adverbial function
@@ -62294,7 +60906,6 @@ Object function
 Adverbial function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Object function
@@ -62310,12 +60921,12 @@ Adverbial function
 Verbal function
 Object function
 Second Object function
-Adverbial function
 Adverbial function
 Adverbial function
 Adverbial function
 Verbal function
 Object function
+Verbal function
 Adverbial function
 Adverbial function
 Verbal function
@@ -62333,14 +60944,12 @@ Adverbial function
 Verbal function
 Verbal function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Object function
 Verbal function
 Indirect Object function
 Adverbial function
-Adverbial function
 Predicate function
 Verbal Copula function
 Subject function
@@ -62381,6 +60990,8 @@ Adverbial function
 Adverbial function
 Adverbial function
 Subject function
+Verbal function
+Object function
 Verbal function
 Object function
 Adverbial function
@@ -62391,6 +61002,7 @@ Adverbial function
 Object function
 Verbal function
 Indirect Object function
+Subject function
 Subject function
 Predicate function
 Verbal Copula function
@@ -62401,8 +61013,8 @@ Adverbial function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Verbal function
+Subject function
 Subject function
 Verbal function
 Adverbial function
@@ -62421,10 +61033,10 @@ Verbal function
 Adverbial function
 Object function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Subject function
+Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -62446,7 +61058,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Object function
 Indirect Object function
 Verbal function
@@ -62494,7 +61105,6 @@ Subject function
 Adverbial function
 Verbal function
 Subject function
-Adverbial function
 Subject function
 Adverbial function
 Verbal function
@@ -62506,13 +61116,13 @@ Subject function
 Adverbial function
 Verbal function
 Subject function
+Subject function
 Adverbial function
 Verbal function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
-Verbal function
+Subject function
 Subject function
 Adverbial function
 Verbal Copula function
@@ -62520,9 +61130,11 @@ Predicate function
 Predicate function
 Subject function
 Object function
+Subject function
 Verbal function
 Subject function
 Subject function
+Predicate function
 Verbal Copula function
 Predicate function
 Adverbial function
@@ -62533,7 +61145,6 @@ Subject function
 Subject function
 Verbal function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
@@ -62569,10 +61180,10 @@ Adverbial function
 Object function
 Object function
 Adverbial function
-Verbal function
 Verbal function
 Verbal function
 Subject function
+Subject function
 Verbal function
 Object function
 Verbal function
@@ -62590,8 +61201,8 @@ Object function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
+Object function
 Object function
 Verbal function
 Object function
@@ -62633,7 +61244,6 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Object function
@@ -62666,12 +61276,14 @@ Predicate function
 Subject function
 Indirect Object function
 Subject function
-Adverbial function
+Indirect Object function
+Subject function
 Adverbial function
 Verbal function
 Object function
 Adverbial function
 Adverbial function
+Adverbial function
 Predicate function
 Verbal Copula function
 Verbal Copula function
@@ -62716,6 +61328,7 @@ Adverbial function
 Verbal function
 Object function
 Subject function
+Object function
 Verbal function
 Object function
 Adverbial function
@@ -62725,10 +61338,10 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
-Adverbial function
 Verbal function
+Verbal function
 Subject function
+Adverbial function
 Adverbial function
 Adverbial function
 Verbal function
@@ -62749,8 +61362,8 @@ Adverbial function
 Subject function
 Adverbial function
 Adverbial function
-Adverbial function
 Verbal function
+Object function
 Object function
 Adverbial function
 Adverbial function
@@ -62803,10 +61416,10 @@ Adverbial function
 Verbal function
 Subject function
 Adverbial function
-Adverbial function
 Subject function
 Adverbial function
 Verbal function
+Subject function
 Adverbial function
 Subject function
 Verbal function
@@ -62826,6 +61439,7 @@ Verbal function
 Adverbial function
 Subject function
 Verbal Copula function
+Subject function
 Predicate function
 Adverbial function
 Verbal function
@@ -62853,7 +61467,6 @@ Verbal function
 Object function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -62880,7 +61493,6 @@ Verbal function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Subject function
 Verbal function
@@ -62892,10 +61504,10 @@ Adverbial function
 Verbal function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Adverbial function
 Verbal function
+Verbal function
 Adverbial function
 Adverbial function
 Subject function
@@ -62906,7 +61518,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Predicate function
-Subject function
 Subject function
 Predicate function
 Verbal Copula function
@@ -62917,19 +61528,17 @@ Object function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Verbal function
+Indirect Object function
 Indirect Object function
 Adverbial function
 Verbal function
@@ -62940,7 +61549,6 @@ Adverbial function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Adverbial function
@@ -62997,9 +61605,8 @@ Adverbial function
 Adverbial function
 Verbal function
 Object function
-Verbal function
 Verbal function
-Verbal function
+Subject function
 Subject function
 Adverbial function
 Verbal function
@@ -63020,7 +61627,6 @@ Verbal function
 Verbal function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Indirect Object function
@@ -63067,7 +61673,6 @@ Subject function
 Verbal Copula function
 Predicate function
 Adverbial function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
@@ -63093,6 +61698,7 @@ Verbal function
 Object function
 Adverbial function
 Subject function
+Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
@@ -63106,6 +61712,7 @@ Adverbial function
 Adverbial function
 Adverbial function
 Subject function
+Object function
 Verbal function
 Object function
 Verbal function
@@ -63131,10 +61738,10 @@ Verbal function
 Verbal function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
 Adverbial function
+Predicate function
 Subject function
 Predicate function
 Predicate function
@@ -63156,15 +61763,14 @@ Object function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Indirect Object function
 Indirect Object function
 Subject function
-Adverbial function
 Adverbial function
 Object function
 Verbal function
 Indirect Object function
+Indirect Object function
 Adverbial function
 Verbal function
 Adverbial function
@@ -63175,8 +61781,8 @@ Object function
 Verbal function
 Object function
 Object function
-Verbal function
 Subject function
+Verbal function
 Adverbial function
 Verbal function
 Predicate function
@@ -63206,12 +61812,9 @@ Adverbial function
 Subject function
 Predicate function
 Adverbial function
-Subject function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Predicate function
 Subject function
@@ -63228,11 +61831,11 @@ Adverbial function
 Verbal Copula function
 Subject function
 Predicate function
-Predicate function
 Object function
 Verbal function
 Adverbial function
 Verbal function
+Predicate function
 Verbal function
 Subject function
 Adverbial function
@@ -63257,16 +61860,15 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
+Subject function
 Object function
 Verbal function
-Subject function
 Object function
 Verbal function
 Object function
 Object function
 Verbal Copula function
 Predicate function
-Predicate function
 Subject function
 Adverbial function
 Verbal function
@@ -63275,9 +61877,9 @@ Subject function
 Subject function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
+Subject function
 Verbal function
 Adverbial function
 Verbal function
@@ -63294,6 +61896,7 @@ Object function
 Verbal function
 Verbal function
 Subject function
+Predicate function
 Verbal Copula function
 Predicate function
 Predicate function
@@ -63324,6 +61927,8 @@ Verbal function
 Adverbial function
 Predicate function
 Predicate function
+Adverbial function
+Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -63336,8 +61941,8 @@ Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
+Adverbial function
 Predicate function
 Predicate function
 Adverbial function
@@ -63346,7 +61951,6 @@ Predicate function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Adverbial function
@@ -63354,8 +61958,8 @@ Adverbial function
 Verbal function
 Predicate function
 Verbal Copula function
-Adverbial function
 Subject function
+Adverbial function
 Predicate function
 Predicate function
 Predicate function
@@ -63363,15 +61967,16 @@ Predicate function
 Subject function
 Verbal Copula function
 Predicate function
+Object function
 Adverbial function
 Verbal function
 Object function
-Object function
 Subject function
 Adverbial function
 Verbal function
 Object function
 Indirect Object function
+Object function
 Verbal function
 Object function
 Adverbial function
@@ -63385,6 +61990,7 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
+Verbal function
 Subject function
 Verbal Copula function
 Predicate function
@@ -63406,7 +62012,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Adverbial function
@@ -63438,11 +62043,11 @@ Predicate function
 Adverbial function
 Verbal function
 Object function
-Verbal function
 Adverbial function
 Object function
 Verbal function
 Indirect Object function
+Predicate function
 Verbal Copula function
 Predicate function
 Verbal function
@@ -63453,18 +62058,20 @@ Verbal function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Subject function
 Adverbial function
 Verbal Copula function
 Predicate function
+Subject function
 Subject function
 Adverbial function
 Predicate function
 Verbal Copula function
+Object function
 Verbal function
 Object function
 Verbal function
+Predicate function
 Subject function
 Predicate function
 Adverbial function
@@ -63477,12 +62084,14 @@ Subject function
 Verbal Copula function
 Predicate function
 Predicate function
+Verbal function
 Object function
 Verbal function
 Subject function
 Object function
 Verbal function
 Verbal function
+Predicate function
 Verbal Copula function
 Predicate function
 Adverbial function
@@ -63515,6 +62124,8 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
+Object function
+Verbal function
 Object function
 Verbal function
 Object function
@@ -63532,6 +62143,7 @@ Object function
 Adverbial function
 Object function
 Adverbial function
+Object function
 Verbal function
 Object function
 Object function
@@ -63548,7 +62160,6 @@ Indirect Object function
 Subject function
 Verbal Copula function
 Predicate function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -63591,7 +62202,6 @@ Verbal function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Object function
 Verbal function
 Verbal function
@@ -63649,7 +62259,6 @@ Verbal function
 Adverbial function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -63724,8 +62333,8 @@ Verbal function
 Adverbial function
 Subject function
 Verbal function
-Verbal function
 Subject function
+Object function
 Verbal function
 Object function
 Adverbial function
@@ -63737,6 +62346,7 @@ Verbal Copula function
 Adverbial function
 Verbal function
 Verbal function
+Predicate function
 Verbal Copula function
 Predicate function
 Subject function
@@ -63766,6 +62376,7 @@ Subject function
 Subject function
 Subject function
 Verbal function
+Subject function
 Adverbial function
 Subject function
 Verbal function
@@ -63774,7 +62385,6 @@ Verbal function
 Predicate function
 Verbal Copula function
 Subject function
-Subject function
 Verbal Copula function
 Predicate function
 Subject function
@@ -63788,7 +62398,6 @@ Object function
 Verbal function
 Object function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -63797,12 +62406,10 @@ Subject function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Predicate function
 Verbal Copula function
 Subject function
 Object function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
@@ -63810,9 +62417,8 @@ Subject function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
-Adverbial function
 Subject function
+Subject function
 Object function
 Verbal function
 Object function
@@ -63854,6 +62460,7 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
+Adverbial function
 Object function
 Verbal function
 Subject function
@@ -63893,8 +62500,8 @@ Verbal function
 Verbal function
 Object function
 Object function
-Verbal function
 Subject function
+Verbal function
 Adverbial function
 Verbal function
 Subject function
@@ -63923,12 +62530,12 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
+Object function
 Verbal function
 Object function
 Subject function
 Verbal function
 Adverbial function
-Object function
 Verbal function
 Object function
 Adverbial function
@@ -63965,14 +62572,13 @@ Adverbial function
 Verbal function
 Indirect Object function
 Adverbial function
-Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
-Object function
 Adverbial function
+Object function
 Verbal function
+Adverbial function
 Object function
 Adverbial function
 Adverbial function
@@ -63984,19 +62590,17 @@ Object function
 Verbal function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Verbal function
 Object function
 Verbal function
 Verbal function
 Verbal function
-Verbal Copula function
 Predicate function
+Verbal Copula function
 Object function
 Verbal function
 Adverbial function
-Verbal function
 Object function
 Verbal function
 Object function
@@ -64045,9 +62649,8 @@ Adverbial function
 Verbal function
 Adverbial function
 Subject function
-Verbal function
 Verbal function
-Verbal function
+Subject function
 Subject function
 Verbal function
 Adverbial function
@@ -64079,10 +62682,10 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Subject function
+Verbal function
 Adverbial function
 Object function
 Verbal function
@@ -64114,6 +62717,7 @@ Verbal function
 Adverbial function
 Adverbial function
 Subject function
+Object function
 Verbal function
 Object function
 Adverbial function
@@ -64132,7 +62736,6 @@ Object function
 Verbal function
 Subject function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Verbal function
 Object function
@@ -64150,6 +62753,8 @@ Verbal function
 Verbal function
 Object function
 Second Object function
+Verbal function
+Second Object function
 Second Object function
 Verbal function
 Object function
@@ -64157,6 +62762,8 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
+Adverbial function
+Adverbial function
 Subject function
 Adverbial function
 Object function
@@ -64174,7 +62781,6 @@ Verbal function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Verbal function
@@ -64189,9 +62795,9 @@ Verbal function
 Adverbial function
 Subject function
 Verbal function
-Object function
 Object function
 Predicate function
+Subject function
 Verbal Copula function
 Subject function
 Subject function
@@ -64209,12 +62815,10 @@ Predicate function
 Verbal function
 Predicate function
 Adverbial function
-Verbal function
 Verbal function
 Object function
 Verbal function
 Verbal function
-Verbal function
 Object function
 Object function
 Object function
@@ -64222,7 +62826,6 @@ Object function
 Adverbial function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Object function
 Verbal function
@@ -64230,11 +62833,11 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Verbal function
 Subject function
 Adverbial function
 Verbal function
 Subject function
+Predicate function
 Verbal Copula function
 Predicate function
 Predicate function
@@ -64254,7 +62857,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Object function
 Verbal function
 Verbal function
@@ -64288,7 +62890,6 @@ Object function
 Object function
 Verbal function
 Object function
-Verbal function
 Verbal function
 Predicate function
 Verbal Copula function
@@ -64307,7 +62908,6 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
 Subject function
 Verbal function
@@ -64330,7 +62930,6 @@ Verbal Copula function
 Adverbial function
 Adverbial function
 Subject function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -64360,11 +62959,9 @@ Subject function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -64375,6 +62972,7 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
+Object function
 Verbal function
 Object function
 Verbal function
@@ -64405,7 +63003,6 @@ Adverbial function
 Verbal function
 Verbal function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -64422,20 +63019,20 @@ Verbal function
 Object function
 Object function
 Adverbial function
+Adverbial function
 Object function
-Verbal function
 Verbal function
 Adverbial function
-Verbal function
+Adverbial function
 Verbal function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
+Object function
 Verbal function
 Object function
 Object function
-Verbal function
 Verbal function
 Subject function
 Adverbial function
@@ -64458,6 +63055,8 @@ Verbal function
 Indirect Object function
 Subject function
 Adverbial function
+Subject function
+Indirect Object function
 Subject function
 Indirect Object function
 Verbal function
@@ -64486,7 +63085,6 @@ Verbal Copula function
 Adverbial function
 Predicate function
 Adverbial function
-Adverbial function
 Object function
 Verbal function
 Adverbial function
@@ -64501,6 +63099,7 @@ Object function
 Subject function
 Object function
 Indirect Object function
+Object function
 Verbal function
 Indirect Object function
 Subject function
@@ -64551,7 +63150,6 @@ Object function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Object function
 Verbal function
 Adverbial function
@@ -64572,7 +63170,6 @@ Adverbial function
 Object function
 Verbal function
 Subject function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -64604,15 +63201,16 @@ Subject function
 Verbal Copula function
 Predicate function
 Predicate function
+Object function
 Verbal function
 Object function
 Object function
 Predicate function
 Object function
-Predicate function
 Predicate function
 Verbal function
 Subject function
+Predicate function
 Verbal Copula function
 Adverbial function
 Predicate function
@@ -64630,6 +63228,7 @@ Predicate function
 Verbal function
 Object function
 Adverbial function
+Predicate function
 Verbal Copula function
 Predicate function
 Verbal function
@@ -64638,14 +63237,12 @@ Verbal function
 Predicate function
 Object function
 Verbal function
-Verbal function
 Verbal Copula function
 Predicate function
 Subject function
 Subject function
 Subject function
 Object function
-Verbal function
 Verbal function
 Subject function
 Object function
@@ -64687,11 +63284,10 @@ Verbal function
 Subject function
 Object function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
-Verbal Copula function
 Predicate function
+Verbal Copula function
 Predicate function
 Subject function
 Verbal function
@@ -64701,6 +63297,7 @@ Adverbial function
 Verbal function
 Adverbial function
 Subject function
+Predicate function
 Verbal Copula function
 Predicate function
 Predicate function
@@ -64719,6 +63316,7 @@ Predicate function
 Predicate function
 Verbal function
 Subject function
+Predicate function
 Verbal Copula function
 Predicate function
 Predicate function
@@ -64744,6 +63342,8 @@ Object function
 Object function
 Object function
 Subject function
+Verbal function
+Object function
 Verbal function
 Adverbial function
 Object function
@@ -64760,9 +63360,10 @@ Verbal function
 Adverbial function
 Object function
 Verbal function
+Object function
 Object function
+Object function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -64811,7 +63412,7 @@ Verbal Copula function
 Predicate function
 Object function
 Verbal function
-Adverbial function
+Object function
 Adverbial function
 Verbal Copula function
 Adverbial function
@@ -64829,6 +63430,7 @@ Object function
 Object function
 Subject function
 Verbal function
+Subject function
 Adverbial function
 Object function
 Verbal function
@@ -64873,19 +63475,19 @@ Adverbial function
 Verbal function
 Verbal function
 Adverbial function
+Verbal function
 Subject function
 Verbal function
 Verbal Copula function
 Predicate function
 Predicate function
 Verbal function
+Object function
 Adverbial function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
-Verbal function
 Object function
 Adverbial function
 Verbal function
@@ -64912,6 +63514,8 @@ Object function
 Adverbial function
 Subject function
 Predicate function
+Subject function
+Indirect Object function
 Subject function
 Indirect Object function
 Subject function
@@ -64933,6 +63537,7 @@ Verbal Copula function
 Adverbial function
 Object function
 Verbal function
+Object function
 Adverbial function
 Adverbial function
 Subject function
@@ -64954,8 +63559,10 @@ Predicate function
 Verbal function
 Object function
 Adverbial function
+Object function
 Verbal function
 Adverbial function
+Object function
 Object function
 Object function
 Verbal function
@@ -64964,9 +63571,9 @@ Object function
 Subject function
 Verbal Copula function
 Predicate function
+Object function
 Subject function
 Verbal function
-Object function
 Adverbial function
 Verbal function
 Object function
@@ -64982,7 +63589,6 @@ Predicate function
 Subject function
 Verbal Copula function
 Predicate function
-Predicate function
 Adverbial function
 Verbal function
 Adverbial function
@@ -64993,9 +63599,9 @@ Verbal function
 Adverbial function
 Second Object function
 Adverbial function
-Indirect Object function
 Indirect Object function
 Adverbial function
+Adverbial function
 Indirect Object function
 Adverbial function
 Adverbial function
@@ -65007,8 +63613,8 @@ Object function
 Object function
 Object function
 Adverbial function
-Object function
 Verbal function
+Object function
 Verbal function
 Object function
 Indirect Object function
@@ -65040,7 +63646,6 @@ Indirect Object function
 Verbal function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -65061,10 +63666,9 @@ Subject function
 Subject function
 Predicate function
 Adverbial function
+Subject function
 Verbal function
 Indirect Object function
-Adverbial function
-Subject function
 Adverbial function
 Verbal function
 Indirect Object function
@@ -65078,8 +63682,8 @@ Object function
 Subject function
 Verbal Copula function
 Predicate function
-Adverbial function
 Verbal function
+Adverbial function
 Object function
 Adverbial function
 Object function
@@ -65092,9 +63696,11 @@ Adverbial function
 Object function
 Adverbial function
 Verbal function
+Object function
 Indirect Object function
 Verbal function
 Adverbial function
+Indirect Object function
 Predicate function
 Verbal Copula function
 Subject function
@@ -65123,6 +63729,7 @@ Verbal function
 Object function
 Subject function
 Subject function
+Adverbial function
 Adverbial function
 Verbal function
 Predicate function
@@ -65133,6 +63740,7 @@ Predicate function
 Object function
 Second Object function
 Adverbial function
+Adverbial function
 Subject function
 Predicate function
 Predicate function
@@ -65150,6 +63758,7 @@ Subject function
 Adverbial function
 Adverbial function
 Subject function
+Adverbial function
 Adverbial function
 Object function
 Verbal function
@@ -65158,13 +63767,12 @@ Predicate function
 Verbal Copula function
 Subject function
 Verbal function
-Verbal function
 Subject function
 Verbal function
+Subject function
 Subject function
 Verbal function
 Verbal function
-Subject function
 Object function
 Verbal function
 Object function
@@ -65177,7 +63785,6 @@ Predicate function
 Verbal Copula function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -65218,6 +63825,8 @@ Verbal function
 Object function
 Adverbial function
 Subject function
+Verbal function
+Object function
 Verbal function
 Object function
 Subject function
@@ -65268,7 +63877,6 @@ Indirect Object function
 Object function
 Verbal function
 Second Object function
-Second Object function
 Adverbial function
 Verbal function
 Indirect Object function
@@ -65283,7 +63891,6 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
-Object function
 Object function
 Verbal function
 Adverbial function
@@ -65297,7 +63904,6 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Subject function
@@ -65337,6 +63943,7 @@ Adverbial function
 Verbal function
 Object function
 Verbal function
+Object function
 Subject function
 Verbal Copula function
 Predicate function
@@ -65348,6 +63955,8 @@ Adverbial function
 Verbal function
 Predicate function
 Verbal Copula function
+Predicate function
+Predicate function
 Object function
 Verbal function
 Verbal function
@@ -65357,12 +63966,12 @@ Verbal function
 Adverbial function
 Verbal function
 Verbal function
+Predicate function
 Verbal Copula function
 Predicate function
 Adverbial function
 Adverbial function
 Verbal function
-Object function
 Object function
 Adverbial function
 Object function
@@ -65385,9 +63994,9 @@ Object function
 Object function
 Subject function
 Adverbial function
-Adverbial function
 Object function
 Subject function
+Object function
 Adverbial function
 Verbal function
 Adverbial function
@@ -65397,10 +64006,8 @@ Adverbial function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Object function
@@ -65411,7 +64018,6 @@ Subject function
 Predicate function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Adverbial function
 Predicate function
@@ -65490,7 +64096,6 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -65498,7 +64103,6 @@ Verbal function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Object function
 Verbal function
 Adverbial function
@@ -65507,7 +64111,6 @@ Object function
 Verbal function
 Subject function
 Verbal function
-Adverbial function
 Adverbial function
 Indirect Object function
 Verbal function
@@ -65521,7 +64124,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -65530,7 +64132,6 @@ Verbal function
 Adverbial function
 Verbal function
 Subject function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -65577,6 +64178,7 @@ Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
+Object function
 Verbal function
 Object function
 Object function
@@ -65594,15 +64196,15 @@ Object function
 Object function
 Object function
 Subject function
-Verbal function
 Verbal function
 Adverbial function
+Adverbial function
 Verbal function
+Adverbial function
 Adverbial function
 Verbal function
 Subject function
 Indirect Object function
-Indirect Object function
 Subject function
 Verbal function
 Adverbial function
@@ -65611,16 +64213,17 @@ Verbal function
 Adverbial function
 Adverbial function
 Adverbial function
-Subject function
 Subject function
 Verbal function
 Adverbial function
 Adverbial function
 Adverbial function
 Subject function
+Adverbial function
 Verbal function
-Subject function
+Adverbial function
 Verbal function
+Subject function
 Predicate function
 Verbal function
 Adverbial function
@@ -65631,14 +64234,12 @@ Verbal Copula function
 Subject function
 Predicate function
 Adverbial function
-Adverbial function
 Subject function
 Predicate function
 Verbal function
 Adverbial function
 Predicate function
 Adverbial function
-Subject function
 Subject function
 Verbal function
 Object function
@@ -65653,9 +64254,8 @@ Object function
 Adverbial function
 Verbal function
 Adverbial function
-Object function
 Verbal function
-Adverbial function
+Object function
 Adverbial function
 Verbal function
 Adverbial function
@@ -65664,7 +64264,6 @@ Verbal function
 Object function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Adverbial function
@@ -65768,6 +64367,7 @@ Verbal Copula function
 Predicate function
 Adverbial function
 Adverbial function
+Object function
 Verbal function
 Object function
 Verbal function
@@ -65776,17 +64376,17 @@ Subject function
 Second Object function
 Second Object function
 Verbal Copula function
-Verbal function
 Object function
+Verbal function
 Object function
 Object function
 Subject function
 Verbal function
 Object function
-Predicate function
 Predicate function
 Predicate function
 Verbal Copula function
+Predicate function
 Verbal Copula function
 Subject function
 Predicate function
@@ -65800,6 +64400,7 @@ Object function
 Adverbial function
 Verbal function
 Adverbial function
+Object function
 Verbal function
 Object function
 Object function
@@ -65812,12 +64413,9 @@ Verbal function
 Verbal function
 Verbal function
 Subject function
-Subject function
 Predicate function
 Object function
 Adverbial function
-Verbal function
-Object function
 Verbal function
 Object function
 Verbal function
@@ -65835,7 +64433,6 @@ Verbal function
 Adverbial function
 Object function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -65859,8 +64456,8 @@ Predicate function
 Predicate function
 Subject function
 Predicate function
-Predicate function
 Verbal function
+Adverbial function
 Adverbial function
 Object function
 Verbal function
@@ -65868,7 +64465,6 @@ Adverbial function
 Adverbial function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
 Predicate function
 Subject function
@@ -65878,26 +64474,29 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
+Verbal function
 Verbal function
 Subject function
 Object function
 Verbal function
+Object function
 Adverbial function
 Adverbial function
 Adverbial function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Predicate function
+Predicate function
 Adverbial function
 Verbal function
-Object function
 Object function
 Indirect Object function
 Verbal function
 Subject function
 Adverbial function
 Verbal function
+Adverbial function
+Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -65910,20 +64509,21 @@ Object function
 Adverbial function
 Verbal function
 Object function
-Object function
 Subject function
 Adverbial function
 Verbal function
 Verbal function
+Predicate function
 Adverbial function
 Predicate function
 Adverbial function
 Subject function
 Adverbial function
 Verbal function
+Subject function
+Verbal function
 Indirect Object function
 Object function
-Subject function
 Verbal function
 Adverbial function
 Adverbial function
@@ -65939,6 +64539,7 @@ Verbal function
 Object function
 Verbal function
 Object function
+Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -65947,10 +64548,10 @@ Adverbial function
 Subject function
 Adverbial function
 Verbal function
+Subject function
 Adverbial function
 Predicate function
 Verbal Copula function
-Adverbial function
 Adverbial function
 Subject function
 Subject function
@@ -65981,13 +64582,11 @@ Adverbial function
 Adverbial function
 Object function
 Verbal function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal Copula function
 Predicate function
 Adverbial function
-Adverbial function
 Verbal function
 Predicate function
 Subject function
@@ -65996,14 +64595,15 @@ Object function
 Subject function
 Verbal function
 Adverbial function
+Subject function
 Subject function
 Adverbial function
 Object function
 Verbal function
 Object function
 Verbal function
-Adverbial function
 Object function
+Adverbial function
 Subject function
 Verbal Copula function
 Predicate function
@@ -66021,7 +64621,6 @@ Object function
 Verbal function
 Object function
 Verbal function
-Verbal function
 Adverbial function
 Subject function
 Adverbial function
@@ -66031,7 +64630,6 @@ Adverbial function
 Object function
 Verbal function
 Subject function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -66053,7 +64651,6 @@ Subject function
 Subject function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Adverbial function
 Verbal function
@@ -66061,6 +64658,7 @@ Predicate function
 Adverbial function
 Subject function
 Adverbial function
+Subject function
 Verbal function
 Subject function
 Adverbial function
@@ -66070,7 +64668,6 @@ Subject function
 Adverbial function
 Subject function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Subject function
@@ -66098,19 +64695,16 @@ Adverbial function
 Verbal function
 Subject function
 Subject function
-Verbal function
 Adverbial function
+Verbal function
 Adverbial function
 Verbal function
 Subject function
 Predicate function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
 Subject function
-Verbal function
-Adverbial function
 Adverbial function
 Object function
 Verbal function
@@ -66121,11 +64715,11 @@ Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
-Adverbial function
 Subject function
 Adverbial function
 Verbal Copula function
 Predicate function
+Verbal Copula function
 Subject function
 Adverbial function
 Verbal function
@@ -66139,6 +64733,7 @@ Predicate function
 Adverbial function
 Predicate function
 Verbal Copula function
+Predicate function
 Subject function
 Subject function
 Subject function
@@ -66156,6 +64751,7 @@ Object function
 Adverbial function
 Verbal function
 Adverbial function
+Verbal function
 Object function
 Verbal function
 Adverbial function
@@ -66164,6 +64760,7 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
+Subject function
 Adverbial function
 Verbal function
 Subject function
@@ -66190,7 +64787,6 @@ Object function
 Verbal function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Subject function
 Object function
@@ -66198,14 +64794,14 @@ Verbal function
 Second Object function
 Verbal function
 Object function
-Object function
+Subject function
 Subject function
 Object function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Verbal function
+Object function
 Verbal function
 Object function
 Subject function
@@ -66223,12 +64819,12 @@ Object function
 Verbal function
 Predicate function
 Verbal function
+Object function
 Subject function
 Object function
 Verbal function
 Verbal function
 Verbal Copula function
-Predicate function
 Predicate function
 Adverbial function
 Verbal Copula function
@@ -66241,11 +64837,13 @@ Object function
 Subject function
 Object function
 Verbal function
+Object function
+Object function
 Verbal function
 Subject function
 Verbal function
 Object function
-Object function
+Verbal function
 Verbal function
 Verbal function
 Object function
@@ -66253,12 +64851,12 @@ Adverbial function
 Verbal function
 Indirect Object function
 Adverbial function
-Adverbial function
 Object function
 Verbal function
+Object function
 Adverbial function
-Verbal Copula function
 Predicate function
+Verbal Copula function
 Predicate function
 Subject function
 Adverbial function
@@ -66267,8 +64865,9 @@ Verbal function
 Subject function
 Verbal Copula function
 Predicate function
-Predicate function
 Adverbial function
+Subject function
+Verbal function
 Subject function
 Verbal function
 Object function
@@ -66356,12 +64955,11 @@ Subject function
 Verbal function
 Subject function
 Verbal function
-Predicate function
 Predicate function
 Verbal function
 Subject function
 Object function
-Object function
+Subject function
 Verbal function
 Subject function
 Predicate function
@@ -66372,6 +64970,7 @@ Predicate function
 Subject function
 Verbal Copula function
 Predicate function
+Object function
 Verbal function
 Object function
 Verbal function
@@ -66383,6 +64982,7 @@ Object function
 Subject function
 Verbal function
 Subject function
+Predicate function
 Object function
 Predicate function
 Subject function
@@ -66393,16 +64993,16 @@ Verbal Copula function
 Predicate function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Adverbial function
 Verbal function
+Adverbial function
 Adverbial function
 Verbal function
 Subject function
 Object function
 Verbal function
-Verbal function
+Adverbial function
 Adverbial function
 Subject function
 Adverbial function
@@ -66436,6 +65036,7 @@ Adverbial function
 Predicate function
 Adverbial function
 Verbal function
+Subject function
 Verbal function
 Subject function
 Verbal function
@@ -66479,12 +65080,13 @@ Verbal Copula function
 Subject function
 Verbal function
 Adverbial function
+Object function
 Verbal function
 Subject function
 Verbal function
 Object function
-Object function
 Predicate function
+Subject function
 Subject function
 Predicate function
 Verbal function
@@ -66520,7 +65122,6 @@ Object function
 Verbal function
 Adverbial function
 Subject function
-Subject function
 Object function
 Adverbial function
 Verbal function
@@ -66532,7 +65133,6 @@ Adverbial function
 Adverbial function
 Adverbial function
 Verbal function
-Subject function
 Subject function
 Predicate function
 Subject function
@@ -66542,6 +65142,7 @@ Subject function
 Adverbial function
 Adverbial function
 Verbal function
+Adverbial function
 Subject function
 Adverbial function
 Adverbial function
@@ -66566,9 +65167,9 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Adverbial function
+Adverbial function
 Subject function
 Adverbial function
 Subject function
@@ -66577,15 +65178,16 @@ Verbal function
 Adverbial function
 Object function
 Verbal function
+Object function
 Adverbial function
 Verbal function
 Indirect Object function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
-Subject function
+Object function
 Verbal function
+Subject function
 Object function
 Verbal function
 Object function
@@ -66621,7 +65223,6 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
-Verbal function
 Object function
 Verbal function
 Indirect Object function
@@ -66629,12 +65230,10 @@ Object function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Adverbial function
 Verbal function
 Object function
@@ -66659,10 +65258,13 @@ Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
+Subject function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
+Adverbial function
+Object function
 Adverbial function
 Verbal function
 Object function
@@ -66674,6 +65276,7 @@ Subject function
 Object function
 Adverbial function
 Verbal function
+Object function
 Adverbial function
 Verbal function
 Adverbial function
@@ -66710,15 +65313,13 @@ Object function
 Object function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Predicate function
 Subject function
 Adverbial function
-Subject function
-Subject function
 Subject function
 Verbal function
+Verbal function
 Object function
 Adverbial function
 Object function
@@ -66740,7 +65341,6 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
 Predicate function
 Subject function
@@ -66759,7 +65359,6 @@ Verbal function
 Adverbial function
 Verbal function
 Subject function
-Subject function
 Adverbial function
 Verbal function
 Subject function
@@ -66773,8 +65372,8 @@ Subject function
 Subject function
 Verbal function
 Object function
-Subject function
 Verbal function
+Subject function
 Object function
 Adverbial function
 Verbal function
@@ -66782,13 +65381,14 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
+Adverbial function
 Subject function
 Object function
 Verbal function
 Subject function
+Object function
 Second Object function
 Verbal function
-Object function
 Adverbial function
 Verbal function
 Subject function
@@ -66816,6 +65416,8 @@ Object function
 Adverbial function
 Verbal function
 Object function
+Verbal function
+Object function
 Adverbial function
 Verbal function
 Adverbial function
@@ -66823,7 +65425,6 @@ Predicate function
 Adverbial function
 Verbal function
 Verbal Copula function
-Verbal Copula function
 Adverbial function
 Verbal function
 Verbal function
@@ -66835,7 +65436,6 @@ Verbal function
 Verbal function
 Subject function
 Object function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -66846,8 +65446,8 @@ Object function
 Object function
 Verbal function
 Object function
-Verbal function
 Object function
+Verbal function
 Object function
 Adverbial function
 Subject function
@@ -66863,10 +65463,9 @@ Adverbial function
 Verbal function
 Subject function
 Adverbial function
-Adverbial function
 Subject function
-Verbal Copula function
 Predicate function
+Verbal Copula function
 Predicate function
 Predicate function
 Verbal Copula function
@@ -66875,7 +65474,6 @@ Verbal function
 Predicate function
 Predicate function
 Adverbial function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -66889,6 +65487,7 @@ Verbal function
 Subject function
 Verbal function
 Adverbial function
+Object function
 Subject function
 Object function
 Verbal function
@@ -66916,12 +65515,12 @@ Adverbial function
 Verbal function
 Verbal function
 Object function
-Subject function
 Subject function
 Adverbial function
 Verbal function
 Object function
 Adverbial function
+Adverbial function
 Predicate function
 Verbal function
 Verbal function
@@ -66937,8 +65536,8 @@ Object function
 Predicate function
 Verbal Copula function
 Adverbial function
-Subject function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Verbal function
@@ -66950,12 +65549,12 @@ Object function
 Object function
 Predicate function
 Verbal Copula function
+Predicate function
 Adverbial function
 Verbal function
 Subject function
 Verbal function
 Adverbial function
-Verbal function
 Object function
 Verbal function
 Adverbial function
@@ -66989,9 +65588,10 @@ Object function
 Verbal function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
+Verbal function
+Verbal function
 Subject function
 Adverbial function
 Subject function
@@ -67011,24 +65611,22 @@ Adverbial function
 Predicate function
 Verbal Copula function
 Adverbial function
-Adverbial function
 Subject function
 Object function
 Verbal function
 Object function
-Verbal function
 Verbal function
 Verbal function
 Object function
-Adverbial function
 Verbal function
+Adverbial function
 Verbal function
 Verbal function
 Object function
 Verbal function
 Adverbial function
-Verbal function
 Object function
+Verbal function
 Subject function
 Verbal Copula function
 Predicate function
@@ -67039,6 +65637,7 @@ Object function
 Subject function
 Predicate function
 Verbal Copula function
+Predicate function
 Verbal function
 Indirect Object function
 Object function
@@ -67105,7 +65704,6 @@ Verbal Copula function
 Verbal function
 Verbal Copula function
 Predicate function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -67166,6 +65764,7 @@ Verbal function
 Verbal function
 Subject function
 Verbal function
+Subject function
 Adverbial function
 Adverbial function
 Adverbial function
@@ -67190,6 +65789,8 @@ Adverbial function
 Verbal Copula function
 Predicate function
 Adverbial function
+Object function
+Verbal function
 Object function
 Verbal function
 Subject function
@@ -67205,9 +65806,9 @@ Object function
 Verbal function
 Subject function
 Object function
-Verbal function
 Verbal function
 Object function
+Object function
 Verbal function
 Verbal function
 Verbal function
@@ -67216,15 +65817,17 @@ Verbal function
 Verbal function
 Adverbial function
 Adverbial function
-Verbal function
 Verbal function
 Verbal function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal Copula function
 Predicate function
 Subject function
+Adverbial function
+Verbal function
+Adverbial function
+Adverbial function
 Subject function
 Verbal function
 Adverbial function
@@ -67239,11 +65842,11 @@ Adverbial function
 Verbal function
 Verbal function
 Subject function
-Verbal function
 Object function
 Verbal function
 Adverbial function
 Object function
+Object function
 Verbal function
 Object function
 Adverbial function
@@ -67294,7 +65897,6 @@ Verbal function
 Object function
 Verbal function
 Subject function
-Verbal function
 Verbal function
 Verbal function
 Object function
@@ -67311,6 +65913,7 @@ Adverbial function
 Verbal function
 Subject function
 Subject function
+Predicate function
 Verbal Copula function
 Predicate function
 Predicate function
@@ -67318,7 +65921,6 @@ Verbal Copula function
 Subject function
 Subject function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Adverbial function
 Object function
@@ -67329,12 +65931,10 @@ Adverbial function
 Verbal function
 Indirect Object function
 Verbal function
-Verbal function
 Subject function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Adverbial function
@@ -67342,22 +65942,24 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Object function
 Subject function
+Adverbial function
 Predicate function
 Adverbial function
 Verbal function
 Object function
+Verbal function
 Predicate function
 Verbal Copula function
 Object function
-Predicate function
 Predicate function
 Adverbial function
+Predicate function
 Object function
 Indirect Object function
 Adverbial function
 Verbal function
+Object function
 Object function
 Verbal function
 Object function
@@ -67373,8 +65975,8 @@ Adverbial function
 Subject function
 Verbal function
 Verbal function
-Verbal function
 Adverbial function
+Object function
 Verbal function
 Adverbial function
 Object function
@@ -67402,20 +66004,18 @@ Subject function
 Adverbial function
 Verbal function
 Object function
-Object function
 Verbal function
 Adverbial function
 Verbal function
 Object function
-Verbal function
 Verbal function
 Object function
+Object function
 Adverbial function
 Verbal function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Adverbial function
 Verbal function
@@ -67445,6 +66045,7 @@ Subject function
 Verbal function
 Subject function
 Verbal function
+Predicate function
 Verbal Copula function
 Predicate function
 Verbal function
@@ -67467,12 +66068,12 @@ Verbal function
 Verbal function
 Object function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
-Subject function
+Adverbial function
 Verbal function
 Object function
-Adverbial function
 Verbal function
 Adverbial function
 Subject function
@@ -67487,7 +66088,6 @@ Verbal function
 Adverbial function
 Subject function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -67538,7 +66138,7 @@ Subject function
 Adverbial function
 Subject function
 Predicate function
-Predicate function
+Object function
 Object function
 Verbal function
 Subject function
@@ -67575,6 +66175,8 @@ Subject function
 Verbal function
 Indirect Object function
 Object function
+Object function
+Verbal function
 Object function
 Verbal function
 Object function
@@ -67603,6 +66205,7 @@ Object function
 Subject function
 Object function
 Verbal function
+Subject function
 Verbal function
 Subject function
 Adverbial function
@@ -67627,22 +66230,21 @@ Verbal function
 Object function
 Object function
 Object function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
+Object function
 Adverbial function
 Indirect Object function
-Object function
 Subject function
 Verbal Copula function
 Predicate function
 Verbal function
 Indirect Object function
-Indirect Object function
 Object function
 Adverbial function
 Verbal function
+Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -67671,7 +66273,6 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Object function
@@ -67679,13 +66280,14 @@ Verbal function
 Verbal function
 Adverbial function
 Verbal function
-Indirect Object function
 Indirect Object function
 Subject function
 Subject function
 Verbal function
 Adverbial function
 Object function
+Adverbial function
+Object function
 Verbal function
 Object function
 Adverbial function
@@ -67698,12 +66300,12 @@ Adverbial function
 Indirect Object function
 Subject function
 Adverbial function
-Adverbial function
 Verbal function
 Object function
 Object function
 Verbal function
 Object function
+Adverbial function
 Adverbial function
 Verbal function
 Indirect Object function
@@ -67725,8 +66327,10 @@ Adverbial function
 Subject function
 Indirect Object function
 Verbal function
-Verbal function
 Object function
+Verbal function
+Verbal function
+Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -67734,7 +66338,6 @@ Adverbial function
 Subject function
 Verbal function
 Object function
-Object function
 Subject function
 Object function
 Verbal function
@@ -67750,12 +66353,12 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
+Adverbial function
 Indirect Object function
 Adverbial function
 Verbal function
-Adverbial function
 Verbal function
-Indirect Object function
+Verbal function
 Indirect Object function
 Verbal function
 Adverbial function
@@ -67766,7 +66369,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -67777,12 +66379,11 @@ Adverbial function
 Subject function
 Predicate function
 Adverbial function
-Adverbial function
 Verbal function
 Subject function
-Adverbial function
 Adverbial function
 Subject function
+Subject function
 Adverbial function
 Adverbial function
 Subject function
@@ -67822,12 +66423,10 @@ Verbal function
 Subject function
 Predicate function
 Verbal Copula function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
 Object function
-Object function
 Subject function
 Verbal function
 Adverbial function
@@ -67835,7 +66434,6 @@ Verbal function
 Adverbial function
 Subject function
 Verbal function
-Object function
 Object function
 Subject function
 Verbal function
@@ -67861,7 +66459,6 @@ Subject function
 Predicate function
 Verbal function
 Verbal function
-Verbal function
 Verbal Copula function
 Subject function
 Predicate function
@@ -67882,7 +66479,6 @@ Adverbial function
 Verbal function
 Object function
 Verbal function
-Object function
 Object function
 Verbal Copula function
 Predicate function
@@ -67916,6 +66512,7 @@ Verbal Copula function
 Verbal function
 Adverbial function
 Verbal function
+Predicate function
 Verbal Copula function
 Predicate function
 Subject function
@@ -67936,8 +66533,9 @@ Object function
 Subject function
 Predicate function
 Subject function
-Verbal Copula function
+Subject function
 Predicate function
+Verbal Copula function
 Verbal function
 Object function
 Adverbial function
@@ -67953,9 +66551,7 @@ Object function
 Verbal function
 Adverbial function
 Subject function
-Subject function
 Verbal function
-Subject function
 Subject function
 Verbal function
 Adverbial function
@@ -67990,7 +66586,6 @@ Verbal function
 Indirect Object function
 Verbal function
 Object function
-Object function
 Subject function
 Verbal function
 Object function
@@ -68012,6 +66607,7 @@ Adverbial function
 Adverbial function
 Object function
 Verbal function
+Object function
 Adverbial function
 Verbal function
 Object function
@@ -68028,12 +66624,11 @@ Subject function
 Subject function
 Object function
 Verbal function
-Subject function
 Verbal function
+Subject function
 Adverbial function
 Verbal Copula function
 Predicate function
-Predicate function
 Subject function
 Verbal function
 Adverbial function
@@ -68042,7 +66637,6 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Verbal function
 Verbal Copula function
@@ -68053,7 +66647,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Subject function
 Predicate function
 Adverbial function
@@ -68061,14 +66654,15 @@ Verbal function
 Object function
 Verbal function
 Subject function
-Object function
 Object function
 Predicate function
 Subject function
 Subject function
+Subject function
 Object function
 Verbal function
 Subject function
+Verbal function
 Object function
 Adverbial function
 Verbal function
@@ -68082,15 +66676,14 @@ Predicate function
 Verbal Copula function
 Verbal function
 Object function
-Object function
 Verbal function
+Subject function
 Indirect Object function
 Subject function
 Verbal function
 Adverbial function
 Verbal function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Indirect Object function
@@ -68156,7 +66749,6 @@ Verbal function
 Subject function
 Verbal function
 Object function
-Verbal function
 Subject function
 Object function
 Object function
@@ -68189,16 +66781,15 @@ Subject function
 Adverbial function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Adverbial function
 Subject function
 Predicate function
+Verbal Copula function
 Verbal Copula function
 Verbal function
 Adverbial function
 Object function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Subject function
@@ -68254,13 +66845,13 @@ Verbal function
 Object function
 Predicate function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
+Object function
 Object function
+Subject function
 Verbal function
 Subject function
 Predicate function
@@ -68276,10 +66867,10 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Subject function
 Subject function
 Adverbial function
 Verbal function
+Verbal function
 Subject function
 Predicate function
 Verbal Copula function
@@ -68287,10 +66878,10 @@ Verbal Copula function
 Subject function
 Adverbial function
 Verbal function
-Object function
 Object function
 Object function
 Verbal function
+Verbal function
 Subject function
 Object function
 Verbal function
@@ -68298,6 +66889,7 @@ Subject function
 Object function
 Object function
 Subject function
+Object function
 Verbal function
 Object function
 Subject function
@@ -68308,6 +66900,7 @@ Adverbial function
 Object function
 Adverbial function
 Adverbial function
+Object function
 Verbal function
 Object function
 Adverbial function
@@ -68332,7 +66925,6 @@ Adverbial function
 Predicate function
 Verbal Copula function
 Adverbial function
-Predicate function
 Predicate function
 Predicate function
 Predicate function
@@ -68383,9 +66975,9 @@ Verbal function
 Subject function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Subject function
 Verbal function
+Predicate function
 Verbal Copula function
 Predicate function
 Object function
@@ -68399,17 +66991,16 @@ Verbal function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
 Object function
 Verbal function
-Subject function
 Object function
 Verbal function
+Subject function
+Object function
 Verbal function
 Indirect Object function
 Verbal function
 Object function
-Object function
 Verbal function
 Object function
 Verbal function
@@ -68456,6 +67047,7 @@ Verbal function
 Object function
 Object function
 Verbal function
+Predicate function
 Verbal Copula function
 Predicate function
 Predicate function
@@ -68485,6 +67077,7 @@ Verbal function
 Object function
 Predicate function
 Subject function
+Predicate function
 Verbal Copula function
 Predicate function
 Adverbial function
@@ -68501,7 +67094,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Object function
 Adverbial function
 Verbal function
@@ -68509,7 +67101,6 @@ Adverbial function
 Subject function
 Predicate function
 Verbal Copula function
-Verbal Copula function
 Verbal function
 Object function
 Verbal function
@@ -68565,9 +67156,8 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
-Object function
 Object function
-Object function
+Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -68585,8 +67175,8 @@ Object function
 Object function
 Subject function
 Verbal function
-Verbal function
 Adverbial function
+Verbal function
 Verbal function
 Adverbial function
 Adverbial function
@@ -68595,6 +67185,7 @@ Verbal function
 Subject function
 Adverbial function
 Verbal function
+Second Object function
 Verbal function
 Verbal function
 Second Object function
@@ -68611,12 +67202,13 @@ Verbal function
 Object function
 Verbal function
 Verbal function
+Predicate function
 Verbal Copula function
 Subject function
-Predicate function
-Predicate function
 Predicate function
 Adverbial function
+Adverbial function
+Adverbial function
 Verbal function
 Adverbial function
 Object function
@@ -68656,7 +67248,6 @@ Object function
 Verbal function
 Verbal function
 Indirect Object function
-Indirect Object function
 Verbal function
 Indirect Object function
 Object function
@@ -68670,6 +67261,7 @@ Verbal function
 Subject function
 Verbal function
 Subject function
+Predicate function
 Verbal Copula function
 Predicate function
 Predicate function
@@ -68718,6 +67310,7 @@ Indirect Object function
 Indirect Object function
 Subject function
 Indirect Object function
+Subject function
 Verbal function
 Predicate function
 Subject function
@@ -68736,7 +67329,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -68744,15 +67336,14 @@ Adverbial function
 Adverbial function
 Subject function
 Verbal function
-Subject function
 Adverbial function
+Subject function
 Verbal function
 Verbal function
 Adverbial function
 Object function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -68786,10 +67377,10 @@ Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
+Verbal function
 Object function
 Verbal function
 Adverbial function
@@ -68832,12 +67423,10 @@ Verbal function
 Adverbial function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -68874,15 +67463,14 @@ Subject function
 Subject function
 Subject function
 Verbal function
+Subject function
 Subject function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal Copula function
 Predicate function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Object function
@@ -68897,6 +67485,7 @@ Adverbial function
 Verbal function
 Predicate function
 Subject function
+Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -68922,8 +67511,8 @@ Object function
 Subject function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
+Adverbial function
 Subject function
 Adverbial function
 Verbal function
@@ -68948,6 +67537,7 @@ Predicate function
 Predicate function
 Predicate function
 Predicate function
+Object function
 Verbal function
 Object function
 Adverbial function
@@ -68957,12 +67547,10 @@ Adverbial function
 Subject function
 Adverbial function
 Predicate function
-Predicate function
 Adverbial function
 Predicate function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Adverbial function
 Verbal function
@@ -68989,6 +67577,7 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
+Indirect Object function
 Adverbial function
 Indirect Object function
 Verbal function
@@ -69002,6 +67591,7 @@ Verbal function
 Object function
 Predicate function
 Predicate function
+Second Object function
 Verbal function
 Second Object function
 Object function
@@ -69020,7 +67610,6 @@ Verbal function
 Adverbial function
 Indirect Object function
 Indirect Object function
-Indirect Object function
 Subject function
 Predicate function
 Adverbial function
@@ -69028,7 +67617,6 @@ Verbal function
 Subject function
 Object function
 Verbal function
-Adverbial function
 Adverbial function
 Predicate function
 Subject function
@@ -69068,6 +67656,7 @@ Verbal function
 Adverbial function
 Subject function
 Object function
+Subject function
 Verbal function
 Adverbial function
 Adverbial function
@@ -69077,19 +67666,18 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Verbal function
 Verbal Copula function
 Predicate function
 Verbal function
 Verbal function
 Verbal function
-Adverbial function
 Adverbial function
 Adverbial function
 Verbal function
 Indirect Object function
 Indirect Object function
 Subject function
+Subject function
 Verbal function
 Object function
 Adverbial function
@@ -69103,7 +67691,6 @@ Predicate function
 Subject function
 Verbal Copula function
 Adverbial function
-Predicate function
 Predicate function
 Adverbial function
 Subject function
@@ -69122,6 +67709,7 @@ Object function
 Verbal function
 Predicate function
 Verbal Copula function
+Predicate function
 Verbal function
 Adverbial function
 Verbal function
@@ -69137,7 +67725,6 @@ Adverbial function
 Indirect Object function
 Adverbial function
 Verbal function
-Subject function
 Subject function
 Adverbial function
 Subject function
@@ -69153,8 +67740,8 @@ Adverbial function
 Predicate function
 Object function
 Adverbial function
-Predicate function
 Adverbial function
+Predicate function
 Verbal function
 Predicate function
 Adverbial function
@@ -69162,7 +67749,6 @@ Verbal function
 Predicate function
 Object function
 Verbal function
-Verbal function
 Subject function
 Verbal function
 Object function
@@ -69176,7 +67762,6 @@ Adverbial function
 Object function
 Adverbial function
 Verbal function
-Object function
 Object function
 Verbal function
 Adverbial function
@@ -69190,7 +67775,7 @@ Subject function
 Predicate function
 Subject function
 Predicate function
-Predicate function
+Subject function
 Subject function
 Predicate function
 Verbal function
@@ -69207,12 +67792,11 @@ Adverbial function
 Verbal function
 Adverbial function
 Predicate function
-Predicate function
 Adverbial function
-Verbal function
 Verbal function
 Verbal function
 Object function
+Object function
 Verbal function
 Adverbial function
 Predicate function
@@ -69224,11 +67808,12 @@ Second Object function
 Adverbial function
 Object function
 Verbal function
+Object function
+Object function
 Adverbial function
 Verbal function
 Subject function
 Verbal function
-Object function
 Object function
 Predicate function
 Verbal function
@@ -69247,14 +67832,13 @@ Adverbial function
 Object function
 Verbal function
 Indirect Object function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal function
 Adverbial function
-Verbal function
 Indirect Object function
 Verbal function
+Verbal function
 Adverbial function
 Indirect Object function
 Verbal function
@@ -69271,6 +67855,7 @@ Verbal function
 Adverbial function
 Adverbial function
 Object function
+Subject function
 Adverbial function
 Verbal function
 Subject function
@@ -69290,8 +67875,6 @@ Adverbial function
 Subject function
 Object function
 Verbal function
-Adverbial function
-Object function
 Verbal function
 Subject function
 Verbal function
@@ -69299,6 +67882,9 @@ Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
+Object function
+Verbal function
+Object function
 Predicate function
 Subject function
 Verbal function
@@ -69325,7 +67911,6 @@ Object function
 Indirect Object function
 Adverbial function
 Verbal function
-Object function
 Object function
 Adverbial function
 Indirect Object function
@@ -69333,9 +67918,7 @@ Verbal function
 Verbal function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -69401,14 +67984,12 @@ Predicate function
 Subject function
 Adverbial function
 Verbal function
-Verbal function
 Adverbial function
 Subject function
 Verbal function
 Adverbial function
 Adverbial function
 Adverbial function
-Verbal function
 Verbal function
 Verbal function
 Object function
@@ -69440,7 +68021,6 @@ Indirect Object function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Object function
 Verbal function
 Subject function
@@ -69454,13 +68034,14 @@ Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
+Predicate function
 Verbal Copula function
 Predicate function
 Verbal function
 Subject function
 Verbal function
 Object function
-Object function
+Adverbial function
 Adverbial function
 Verbal function
 Indirect Object function
@@ -69472,10 +68053,8 @@ Verbal function
 Subject function
 Object function
 Verbal function
-Verbal function
 Indirect Object function
 Verbal function
-Object function
 Object function
 Verbal function
 Adverbial function
@@ -69519,6 +68098,7 @@ Verbal function
 Indirect Object function
 Subject function
 Adverbial function
+Adverbial function
 Indirect Object function
 Adverbial function
 Adverbial function
@@ -69543,15 +68123,18 @@ Subject function
 Indirect Object function
 Subject function
 Indirect Object function
+Object function
 Adverbial function
 Verbal function
 Object function
 Adverbial function
 Subject function
 Indirect Object function
+Subject function
 Verbal function
 Adverbial function
 Adverbial function
+Object function
 Indirect Object function
 Subject function
 Object function
@@ -69563,36 +68146,35 @@ Adverbial function
 Adverbial function
 Object function
 Indirect Object function
+Object function
 Verbal function
 Adverbial function
 Verbal Copula function
 Predicate function
 Verbal function
-Object function
 Object function
 Adverbial function
 Object function
 Verbal function
 Adverbial function
 Object function
-Object function
 Adverbial function
-Object function
-Object function
 Adverbial function
-Object function
 Object function
 Adverbial function
-Object function
-Object function
 Adverbial function
 Object function
-Object function
+Adverbial function
 Adverbial function
 Object function
+Adverbial function
+Adverbial function
 Object function
 Adverbial function
+Adverbial function
 Object function
+Adverbial function
+Adverbial function
 Object function
 Subject function
 Adverbial function
@@ -69605,10 +68187,12 @@ Subject function
 Predicate function
 Verbal Copula function
 Verbal function
+Object function
 Verbal function
 Object function
 Object function
 Adverbial function
+Adverbial function
 Verbal function
 Second Object function
 Object function
@@ -69632,7 +68216,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Second Object function
 Verbal function
@@ -69665,8 +68248,8 @@ Verbal function
 Indirect Object function
 Object function
 Object function
-Verbal Copula function
 Predicate function
+Verbal Copula function
 Predicate function
 Verbal function
 Adverbial function
@@ -69674,6 +68257,7 @@ Object function
 Subject function
 Verbal function
 Indirect Object function
+Subject function
 Adverbial function
 Predicate function
 Subject function
@@ -69693,9 +68277,8 @@ Predicate function
 Verbal function
 Second Object function
 Object function
-Adverbial function
-Verbal function
 Object function
+Adverbial function
 Verbal function
 Adverbial function
 Object function
@@ -69724,7 +68307,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Subject function
-Subject function
 Verbal Copula function
 Subject function
 Predicate function
@@ -69792,6 +68374,7 @@ Object function
 Verbal function
 Adverbial function
 Verbal function
+Adverbial function
 Adverbial function
 Subject function
 Verbal function
@@ -69806,7 +68389,6 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
-Object function
 Adverbial function
 Object function
 Adverbial function
@@ -69816,7 +68398,6 @@ Verbal function
 Subject function
 Subject function
 Object function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -69828,7 +68409,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Object function
-Object function
 Subject function
 Predicate function
 Verbal function
@@ -69848,6 +68428,7 @@ Verbal function
 Adverbial function
 Verbal function
 Adverbial function
+Object function
 Verbal function
 Object function
 Verbal function
@@ -69867,6 +68448,7 @@ Object function
 Verbal function
 Object function
 Verbal function
+Object function
 Subject function
 Adverbial function
 Verbal function
@@ -69878,7 +68460,6 @@ Adverbial function
 Verbal function
 Indirect Object function
 Subject function
-Verbal function
 Verbal function
 Object function
 Verbal function
@@ -69893,6 +68474,7 @@ Object function
 Indirect Object function
 Verbal function
 Subject function
+Predicate function
 Verbal Copula function
 Predicate function
 Adverbial function
@@ -69910,7 +68492,6 @@ Verbal Copula function
 Adverbial function
 Subject function
 Predicate function
-Adverbial function
 Adverbial function
 Predicate function
 Verbal Copula function
@@ -69932,18 +68513,22 @@ Adverbial function
 Subject function
 Verbal function
 Adverbial function
+Object function
 Adverbial function
 Adverbial function
 Object function
 Indirect Object function
 Verbal function
+Object function
 Adverbial function
 Verbal function
+Object function
 Adverbial function
 Object function
 Verbal function
 Object function
 Verbal function
+Object function
 Adverbial function
 Object function
 Object function
@@ -69967,7 +68552,6 @@ Subject function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Verbal function
 Object function
 Verbal function
@@ -69987,13 +68571,13 @@ Adverbial function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Adverbial function
 Verbal function
 Object function
 Object function
+Object function
 Subject function
 Adverbial function
 Predicate function
@@ -70009,8 +68593,8 @@ Object function
 Verbal function
 Verbal function
 Adverbial function
-Verbal function
 Object function
+Verbal function
 Subject function
 Verbal function
 Object function
@@ -70023,17 +68607,18 @@ Adverbial function
 Adverbial function
 Subject function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Verbal function
 Verbal function
 Subject function
 Verbal function
+Subject function
 Adverbial function
 Subject function
 Verbal function
 Predicate function
+Verbal function
 Verbal Copula function
 Subject function
 Adverbial function
@@ -70083,14 +68668,12 @@ Subject function
 Verbal function
 Adverbial function
 Object function
-Adverbial function
-Adverbial function
 Adverbial function
 Subject function
+Subject function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
@@ -70133,7 +68716,6 @@ Subject function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Predicate function
 Predicate function
@@ -70156,6 +68738,7 @@ Indirect Object function
 Subject function
 Predicate function
 Verbal Copula function
+Subject function
 Predicate function
 Adverbial function
 Verbal Copula function
@@ -70197,6 +68780,7 @@ Predicate function
 Predicate function
 Verbal function
 Object function
+Predicate function
 Verbal Copula function
 Predicate function
 Predicate function
@@ -70226,6 +68810,7 @@ Verbal function
 Verbal function
 Subject function
 Verbal function
+Object function
 Verbal function
 Adverbial function
 Object function
@@ -70279,6 +68864,7 @@ Subject function
 Adverbial function
 Verbal function
 Verbal function
+Object function
 Verbal function
 Indirect Object function
 Object function
@@ -70338,40 +68924,41 @@ Verbal function
 Verbal function
 Subject function
 Verbal function
-Object function
 Object function
 Verbal function
 Indirect Object function
 Indirect Object function
+Indirect Object function
 Verbal function
 Indirect Object function
 Subject function
-Adverbial function
 Adverbial function
 Verbal function
 Indirect Object function
 Indirect Object function
+Indirect Object function
 Verbal function
 Object function
 Verbal function
+Indirect Object function
 Indirect Object function
 Indirect Object function
 Verbal function
 Object function
-Object function
 Verbal function
+Indirect Object function
 Indirect Object function
 Indirect Object function
 Verbal function
 Object function
-Object function
 Verbal function
+Indirect Object function
 Indirect Object function
 Indirect Object function
 Verbal function
 Object function
-Object function
 Verbal function
+Indirect Object function
 Indirect Object function
 Indirect Object function
 Predicate function
@@ -70394,14 +68981,15 @@ Subject function
 Predicate function
 Subject function
 Subject function
+Subject function
 Verbal Copula function
 Predicate function
 Predicate function
 Predicate function
 Verbal Copula function
 Verbal Copula function
-Verbal function
 Subject function
+Verbal function
 Subject function
 Verbal function
 Object function
@@ -70427,7 +69015,6 @@ Adverbial function
 Verbal Copula function
 Predicate function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Verbal function
 Adverbial function
@@ -70444,6 +69031,7 @@ Adverbial function
 Adverbial function
 Verbal function
 Subject function
+Adverbial function
 Verbal function
 Indirect Object function
 Adverbial function
@@ -70718,15 +69306,15 @@ Object function
 Object function
 Subject function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Subject function
-Predicate function
+Subject function
 Predicate function
 Adverbial function
 Verbal function
 Verbal function
 Verbal function
+Verbal function
 Object function
 Subject function
 Subject function
@@ -70765,7 +69353,6 @@ Subject function
 Verbal function
 Adverbial function
 Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -70782,6 +69369,7 @@ Subject function
 Verbal function
 Adverbial function
 Adverbial function
+Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
@@ -70889,12 +69477,12 @@ Predicate function
 Adverbial function
 Predicate function
 Verbal Copula function
-Adverbial function
 Adverbial function
 Subject function
 Predicate function
 Verbal Copula function
 Verbal Copula function
+Verbal Copula function
 Verbal function
 Object function
 Object function
@@ -70997,6 +69585,7 @@ Subject function
 Adverbial function
 Verbal function
 Subject function
+Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -71017,7 +69606,6 @@ Subject function
 Verbal function
 Object function
 Second Object function
-Second Object function
 Subject function
 Verbal function
 Subject function
@@ -71072,7 +69660,6 @@ Object function
 Object function
 Subject function
 Object function
-Verbal function
 Verbal function
 Subject function
 Verbal function
@@ -71101,9 +69688,9 @@ Adverbial function
 Verbal function
 Object function
 Verbal function
+Object function
 Adverbial function
 Verbal function
-Object function
 Adverbial function
 Verbal function
 Verbal function
@@ -71140,7 +69727,6 @@ Object function
 Verbal function
 Object function
 Verbal function
-Verbal function
 Predicate function
 Verbal Copula function
 Subject function
@@ -71261,11 +69847,13 @@ Object function
 Verbal function
 Indirect Object function
 Verbal function
-Adverbial function
-Adverbial function
+Object function
 Verbal function
 Object function
+Indirect Object function
 Verbal function
+Adverbial function
+Adverbial function
 Predicate function
 Verbal Copula function
 Subject function
@@ -71283,7 +69871,6 @@ Verbal function
 Verbal function
 Object function
 Adverbial function
-Object function
 Verbal function
 Verbal function
 Verbal function
@@ -71298,6 +69885,7 @@ Verbal function
 Object function
 Verbal function
 Verbal function
+Indirect Object function
 Object function
 Indirect Object function
 Verbal function
@@ -71358,6 +69946,7 @@ Adverbial function
 Subject function
 Indirect Object function
 Object function
+Subject function
 Verbal function
 Adverbial function
 Subject function
@@ -71385,12 +69974,13 @@ Object function
 Verbal function
 Adverbial function
 Adverbial function
-Adverbial function
 Verbal function
+Object function
 Object function
+Adverbial function
+Object function
 Verbal function
 Indirect Object function
-Adverbial function
 Object function
 Adverbial function
 Object function
@@ -71414,7 +70004,9 @@ Verbal function
 Adverbial function
 Adverbial function
 Adverbial function
+Verbal function
 Verbal function
+Subject function
 Verbal function
 Adverbial function
 Subject function
@@ -71470,8 +70062,8 @@ Verbal function
 Indirect Object function
 Verbal function
 Adverbial function
-Verbal function
 Object function
+Verbal function
 Indirect Object function
 Verbal function
 Adverbial function
@@ -71503,7 +70095,6 @@ Subject function
 Verbal function
 Verbal function
 Verbal function
-Subject function
 Subject function
 Verbal function
 Adverbial function
@@ -71518,6 +70109,8 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
+Object function
+Object function
 Verbal function
 Subject function
 Adverbial function
@@ -71525,8 +70118,8 @@ Verbal function
 Verbal function
 Object function
 Verbal function
-Adverbial function
 Object function
+Adverbial function
 Verbal function
 Adverbial function
 Object function
@@ -71541,7 +70134,6 @@ Verbal function
 Object function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
 Verbal function
 Object function
@@ -71603,7 +70195,6 @@ Verbal function
 Subject function
 Predicate function
 Verbal Copula function
-Verbal function
 Object function
 Verbal function
 Indirect Object function
@@ -71636,6 +70227,7 @@ Indirect Object function
 Adverbial function
 Verbal function
 Indirect Object function
+Subject function
 Indirect Object function
 Subject function
 Verbal function
@@ -71651,7 +70243,6 @@ Verbal function
 Adverbial function
 Verbal function
 Indirect Object function
-Adverbial function
 Adverbial function
 Verbal function
 Subject function
@@ -71666,10 +70257,11 @@ Adverbial function
 Object function
 Verbal function
 Verbal function
+Object function
+Verbal function
 Verbal function
 Adverbial function
 Object function
-Verbal function
 Object function
 Subject function
 Object function
@@ -71697,36 +70289,33 @@ Verbal function
 Adverbial function
 Verbal function
 Object function
-Verbal function
 Verbal function
 Adverbial function
 Subject function
 Verbal function
 Object function
 Verbal function
-Verbal function
 Object function
-Verbal function
 Verbal function
 Object function
 Verbal function
-Verbal function
+Subject function
+Subject function
 Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
-Subject function
 Verbal function
 Object function
 Verbal function
+Object function
+Object function
 Verbal function
 Object function
 Subject function
 Subject function
-Subject function
 Object function
 Adverbial function
-Verbal function
 Verbal function
 Object function
 Adverbial function
@@ -71796,10 +70385,9 @@ Verbal function
 Object function
 Verbal function
 Object function
-Adverbial function
-Adverbial function
 Adverbial function
 Subject function
+Subject function
 Verbal function
 Object function
 Verbal function
@@ -71810,6 +70398,7 @@ Indirect Object function
 Predicate function
 Verbal Copula function
 Subject function
+Adverbial function
 Verbal function
 Adverbial function
 Subject function
@@ -71819,10 +70408,9 @@ Verbal function
 Predicate function
 Object function
 Adverbial function
-Verbal function
-Verbal function
 Verbal function
 Subject function
+Subject function
 Verbal function
 Object function
 Adverbial function
@@ -71838,7 +70426,6 @@ Adverbial function
 Object function
 Verbal function
 Adverbial function
-Verbal function
 Verbal function
 Object function
 Verbal function
@@ -71848,7 +70435,6 @@ Object function
 Adverbial function
 Verbal function
 Object function
-Object function
 Indirect Object function
 Verbal function
 Object function
@@ -71872,7 +70458,6 @@ Indirect Object function
 Subject function
 Verbal function
 Adverbial function
-Verbal function
 Predicate function
 Verbal function
 Adverbial function
@@ -71894,11 +70479,13 @@ Object function
 Adverbial function
 Verbal function
 Subject function
+Subject function
 Predicate function
 Subject function
 Indirect Object function
 Subject function
 Indirect Object function
+Subject function
 Adverbial function
 Verbal function
 Adverbial function
@@ -72040,7 +70627,6 @@ Adverbial function
 Adverbial function
 Verbal function
 Object function
-Object function
 Verbal function
 Object function
 Verbal function
@@ -72175,7 +70761,6 @@ Object function
 Verbal function
 Verbal function
 Subject function
-Verbal function
 Object function
 Adverbial function
 Verbal function
@@ -72251,7 +70836,6 @@ Subject function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
 Verbal function
 Adverbial function
 Verbal function
@@ -72277,6 +70861,7 @@ Indirect Object function
 Object function
 Object function
 Adverbial function
+Object function
 Verbal function
 Object function
 Subject function
@@ -72351,7 +70936,7 @@ Object function
 Verbal function
 Indirect Object function
 Adverbial function
-Adverbial function
+Indirect Object function
 Verbal function
 Indirect Object function
 Subject function
@@ -72504,11 +71089,13 @@ Adverbial function
 Object function
 Verbal function
 Object function
-Verbal function
 Subject function
 Verbal function
+Object function
 Object function
 Verbal function
+Object function
+Object function
 Verbal function
 Object function
 Adverbial function
@@ -72591,9 +71178,11 @@ Subject function
 Verbal function
 Object function
 Object function
+Predicate function
 Verbal Copula function
 Predicate function
 Verbal function
+Predicate function
 Verbal Copula function
 Predicate function
 Adverbial function
@@ -72695,7 +71284,6 @@ Indirect Object function
 Subject function
 Verbal function
 Adverbial function
-Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -72807,9 +71395,9 @@ Verbal function
 Object function
 Adverbial function
 Verbal function
-Adverbial function
 Predicate function
 Verbal Copula function
+Adverbial function
 Verbal function
 Object function
 Adverbial function
@@ -72840,6 +71428,7 @@ Adverbial function
 Verbal function
 Object function
 Object function
+Subject function
 Verbal function
 Subject function
 Verbal function
@@ -73082,8 +71671,8 @@ Verbal function
 Verbal function
 Adverbial function
 Verbal function
-Object function
 Adverbial function
+Object function
 Adverbial function
 Verbal function
 Object function
@@ -73189,6 +71778,8 @@ Verbal function
 Adverbial function
 Indirect Object function
 Verbal function
+Indirect Object function
+Verbal function
 Object function
 Verbal function
 Adverbial function
@@ -73236,6 +71827,7 @@ Verbal function
 Subject function
 Object function
 Verbal function
+Object function
 Subject function
 Verbal function
 Subject function
@@ -73642,13 +72234,14 @@ Predicate function
 Adverbial function
 Verbal function
 Subject function
+Adverbial function
 Verbal function
 Subject function
 Adverbial function
 Verbal function
 Adverbial function
-Adverbial function
 Subject function
+Predicate function
 Verbal Copula function
 Predicate function
 Subject function
@@ -73702,7 +72295,7 @@ Verbal function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
+Object function
 Object function
 Adverbial function
 Adverbial function
@@ -73858,7 +72451,6 @@ Adverbial function
 Verbal function
 Verbal function
 Subject function
-Verbal function
 Object function
 Verbal function
 Subject function
@@ -73921,11 +72513,10 @@ Verbal function
 Verbal function
 Subject function
 Object function
-Adverbial function
 Adverbial function
 Adverbial function
-Verbal function
 Subject function
+Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
@@ -74138,6 +72729,7 @@ Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
+Subject function
 Verbal function
 Subject function
 Subject function
@@ -74146,6 +72738,7 @@ Verbal function
 Adverbial function
 Subject function
 Verbal function
+Subject function
 Adverbial function
 Adverbial function
 Verbal function
@@ -74359,6 +72952,7 @@ Object function
 Subject function
 Verbal function
 Adverbial function
+Subject function
 Adverbial function
 Verbal function
 Subject function
@@ -74416,8 +73010,8 @@ Verbal function
 Object function
 Object function
 Adverbial function
-Verbal function
 Subject function
+Verbal function
 Adverbial function
 Verbal function
 Adverbial function
@@ -74487,6 +73081,7 @@ Verbal function
 Object function
 Verbal function
 Object function
+Predicate function
 Predicate function
 Verbal Copula function
 Verbal Copula function
@@ -74625,6 +73220,7 @@ Subject function
 Verbal function
 Object function
 Predicate function
+Subject function
 Verbal Copula function
 Subject function
 Verbal function
@@ -74645,6 +73241,7 @@ Subject function
 Subject function
 Verbal function
 Adverbial function
+Subject function
 Subject function
 Verbal function
 Adverbial function
@@ -74701,9 +73298,10 @@ Object function
 Object function
 Subject function
 Verbal function
-Object function
 Adverbial function
+Subject function
 Verbal function
+Object function
 Adverbial function
 Adverbial function
 Verbal function
@@ -74860,9 +73458,9 @@ Verbal Copula function
 Predicate function
 Predicate function
 Subject function
-Verbal function
 Verbal function
 Subject function
+Subject function
 Verbal function
 Object function
 Adverbial function
@@ -74998,6 +73596,7 @@ Subject function
 Subject function
 Subject function
 Verbal function
+Subject function
 Subject function
 Adverbial function
 Verbal function
@@ -75086,12 +73685,13 @@ Predicate function
 Verbal function
 Adverbial function
 Verbal function
-Adverbial function
 Object function
+Adverbial function
 Verbal function
 Object function
 Object function
 Adverbial function
+Subject function
 Verbal function
 Subject function
 Subject function
@@ -75133,6 +73733,7 @@ Adverbial function
 Subject function
 Adverbial function
 Verbal function
+Subject function
 Adverbial function
 Verbal function
 Object function
@@ -75185,8 +73786,8 @@ Verbal function
 Subject function
 Object function
 Verbal function
-Verbal Copula function
 Predicate function
+Verbal Copula function
 Subject function
 Object function
 Adverbial function
@@ -75210,6 +73811,7 @@ Subject function
 Verbal function
 Object function
 Object function
+Predicate function
 Verbal Copula function
 Predicate function
 Predicate function
@@ -75224,6 +73826,7 @@ Verbal function
 Adverbial function
 Subject function
 Verbal function
+Predicate function
 Verbal Copula function
 Predicate function
 Predicate function
@@ -75235,7 +73838,6 @@ Object function
 Object function
 Verbal function
 Object function
-Verbal function
 Second Object function
 Second Object function
 Object function
@@ -75302,7 +73904,6 @@ Subject function
 Adverbial function
 Verbal function
 Object function
-Verbal function
 Adverbial function
 Object function
 Adverbial function
@@ -75310,6 +73911,8 @@ Verbal function
 Adverbial function
 Object function
 Adverbial function
+Object function
+Adverbial function
 Verbal function
 Object function
 Verbal function
@@ -75336,6 +73939,8 @@ Verbal function
 Object function
 Verbal function
 Indirect Object function
+Object function
+Object function
 Adverbial function
 Verbal function
 Verbal function
@@ -75381,6 +73986,7 @@ Subject function
 Verbal function
 Adverbial function
 Adverbial function
+Object function
 Subject function
 Verbal function
 Adverbial function
@@ -75511,6 +74117,7 @@ Verbal function
 Subject function
 Subject function
 Adverbial function
+Subject function
 Verbal function
 Subject function
 Verbal function
@@ -75591,6 +74198,7 @@ Subject function
 Verbal function
 Object function
 Subject function
+Subject function
 Predicate function
 Verbal Copula function
 Verbal Copula function
@@ -75616,12 +74224,14 @@ Verbal function
 Indirect Object function
 Verbal function
 Adverbial function
+Predicate function
 Verbal Copula function
 Predicate function
 Verbal function
 Object function
 Verbal function
 Subject function
+Subject function
 Verbal Copula function
 Predicate function
 Predicate function
@@ -75639,7 +74249,6 @@ Verbal Copula function
 Predicate function
 Predicate function
 Adverbial function
-Verbal function
 Verbal function
 Subject function
 Predicate function
@@ -75925,7 +74534,8 @@ Adverbial function
 Subject function
 Predicate function
 Verbal Copula function
-Verbal Copula function
+Predicate function
+Predicate function
 Subject function
 Adverbial function
 Verbal function
@@ -75936,6 +74546,7 @@ Adverbial function
 Adverbial function
 Verbal function
 Object function
+Subject function
 Subject function
 Verbal function
 Verbal function
@@ -75944,7 +74555,6 @@ Adverbial function
 Verbal function
 Adverbial function
 Adverbial function
-Verbal function
 Subject function
 Verbal function
 Adverbial function
@@ -76069,6 +74679,7 @@ Verbal function
 Object function
 Object function
 Predicate function
+Subject function
 Subject function
 Subject function
 Verbal function
@@ -76174,17 +74785,20 @@ Adverbial function
 Verbal function
 Adverbial function
 Subject function
+Subject function
 Predicate function
-Verbal Copula function
 Verbal Copula function
 Subject function
+Subject function
 Adverbial function
+Object function
 Verbal function
 Object function
 Object function
 Verbal function
 Adverbial function
 Subject function
+Subject function
 Verbal function
 Object function
 Object function
@@ -76202,7 +74816,6 @@ Adverbial function
 Subject function
 Adverbial function
 Verbal function
-Adverbial function
 Adverbial function
 Subject function
 Adverbial function
@@ -76288,6 +74901,7 @@ Indirect Object function
 Subject function
 Verbal function
 Adverbial function
+Adverbial function
 Verbal function
 Adverbial function
 Predicate function
@@ -76311,6 +74925,7 @@ Verbal function
 Indirect Object function
 Verbal function
 Adverbial function
+Predicate function
 Verbal Copula function
 Predicate function
 Verbal function
@@ -76350,6 +74965,7 @@ Indirect Object function
 Adverbial function
 Subject function
 Verbal function
+Subject function
 Subject function
 Predicate function
 Predicate function
