@@ -12,7 +12,7 @@
 @description=Subject reference (to nodeID in XML source data, not yet post-processes)
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-05-17T17:53:26Z
+@dateWritten=2023-05-17T18:10:31Z
 
 
 

@@ -12,7 +12,7 @@
 @description=Strongs number
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-05-17T17:53:26Z
+@dateWritten=2023-05-17T18:10:30Z
 
 976
 1078

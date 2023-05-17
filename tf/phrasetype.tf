@@ -12,7 +12,7 @@
 @description=Phrase type information
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-05-17T17:53:26Z
+@dateWritten=2023-05-17T18:10:29Z
 
 154191	N2NP
 N2NP

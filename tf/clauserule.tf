@@ -12,7 +12,7 @@
 @description=Clause rule
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-05-17T17:53:23Z
+@dateWritten=2023-05-17T18:10:27Z
 
 138067	S-V-O
 Conj13CL

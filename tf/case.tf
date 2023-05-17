@@ -12,7 +12,7 @@
 @description=Gramatical case (Nominative, Genitive, Dative, Accusative, Vocative)
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-05-17T17:53:23Z
+@dateWritten=2023-05-17T18:10:26Z
 
 Nominative
 Genitive

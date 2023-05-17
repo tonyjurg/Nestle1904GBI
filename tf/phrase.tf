@@ -12,7 +12,7 @@
 @description=Phrase number (counted per chapter)
 @valueType=int
 @writtenBy=Text-Fabric
-@dateWritten=2023-05-17T17:53:25Z
+@dateWritten=2023-05-17T18:10:29Z
 
 2
 2

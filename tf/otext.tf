@@ -15,5 +15,5 @@
 @structureFeatures=book,chapter,verse
 @structureTypes=book,chapter,verse
 @writtenBy=Text-Fabric
-@dateWritten=2023-05-17T17:53:28Z
+@dateWritten=2023-05-17T18:10:32Z
 
