@@ -4,6 +4,8 @@
 
 See Jupyter Notebook of conversion process on [nbviewer](https://nbviewer.org/github/tonyjurg/NA1904/blob/1d314c138e67aa0e9ed8387c4d9cb92687c56b01/resources/converter/CreateTFfromXML.ipynb).
 
+The source data for the conversion are the XML node files representing the macula-greek version of Eberhard Nestle's 1904 Greek New Testment (British Foreign Bible Society 1904). The starting dataset is formatted according to Syntax diagram markup by the Global Bible Initiative (GBI).   The most recent source data can be found on github https://github.com/Clear-Bible/macula-greek/tree/main/Nestle1904/nodes. Attribution: "MACULA Greek Linguistic Datasets, available at https://github.com/Clear-Bible/macula-greek/".
+
 The following directories contain the Text-Fabric data:
  * [app](app#readme): app config data.
  * [tf/1904](tf/1904#readme): the actual dataset.
