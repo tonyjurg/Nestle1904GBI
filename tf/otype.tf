@@ -6,17 +6,17 @@
 @Convertor_source=https://github.com/tonyjurg/NA1904/tree/main/resources/converter
 @Data source=MACULA Greek Linguistic Datasets, available at https://github.com/Clear-Bible/macula-greek/tree/main/Nestle1904/nodes
 @Editors=Eberhart Nestle
-@Name=Greek New Testament (Nestle 1904)
+@Name=Greek New Testament (Nestle 1904) based upon GBI tree node data
 @TextFabric version=11.4.10
 @Version=1904
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-05-17T15:47:33Z
+@dateWritten=2023-05-17T17:53:25Z
 
 1-137779	word
 137780-137806	book
 137807-138066	chapter
 138067-154190	clause
-154191-229700	phrase
-229701-235420	sentence
-235421-243364	verse
+154191-227737	phrase
+227738-233457	sentence
+233458-241401	verse

@@ -6,13 +6,13 @@
 @Convertor_source=https://github.com/tonyjurg/NA1904/tree/main/resources/converter
 @Data source=MACULA Greek Linguistic Datasets, available at https://github.com/Clear-Bible/macula-greek/tree/main/Nestle1904/nodes
 @Editors=Eberhart Nestle
-@Name=Greek New Testament (Nestle 1904)
+@Name=Greek New Testament (Nestle 1904) based upon GBI tree node data
 @TextFabric version=11.4.10
 @Version=1904
 @description=NT book number (Matthew=1, Mark=2, ..., Revelation=27)
 @valueType=int
 @writtenBy=Text-Fabric
-@dateWritten=2023-05-17T15:47:30Z
+@dateWritten=2023-05-17T17:53:23Z
 
 1
 1
@@ -137792,4 +137792,31 @@
 27
 27
 27
+27
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
 27

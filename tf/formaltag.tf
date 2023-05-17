@@ -6,13 +6,13 @@
 @Convertor_source=https://github.com/tonyjurg/NA1904/tree/main/resources/converter
 @Data source=MACULA Greek Linguistic Datasets, available at https://github.com/Clear-Bible/macula-greek/tree/main/Nestle1904/nodes
 @Editors=Eberhart Nestle
-@Name=Greek New Testament (Nestle 1904)
+@Name=Greek New Testament (Nestle 1904) based upon GBI tree node data
 @TextFabric version=11.4.10
 @Version=1904
 @description=Formal tag (Sandborg-Petersen morphology)
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-05-17T15:47:31Z
+@dateWritten=2023-05-17T17:53:23Z
 
 N-NSF
 N-GSF
