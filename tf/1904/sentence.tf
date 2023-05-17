@@ -1,18 +1,18 @@
 @node
 @Availability=Creative Commons Attribution 4.0 International (CC BY 4.0)
-@Converter_author=Tony Jurg, Vrije Universiteit Amsterdam, Netherlands
-@Converter_execution=Tony Jurg, Vrije Universiteit Amsterdam, Netherlands
+@Converter_author=Tony Jurg, ReMa student Vrije Universiteit Amsterdam, Netherlands
+@Converter_execution=Tony Jurg, ReMa student Vrije Universiteit Amsterdam, Netherlands
 @Converter_version=0.1 (Initial)
 @Convertor_source=https://github.com/tonyjurg/NA1904/tree/main/resources/converter
 @Data source=MACULA Greek Linguistic Datasets, available at https://github.com/Clear-Bible/macula-greek/tree/main/Nestle1904/nodes
-@Editors=Nestle & Aland
-@Name=Greek New Testament (NA1904)
-@TextFabric version=11.2.3
+@Editors=Eberhart Nestle
+@Name=Greek New Testament (Nestle 1904)
+@TextFabric version=11.4.10
 @Version=1904
 @description=Sentence number (counted per chapter)
 @valueType=int
 @writtenBy=Text-Fabric
-@dateWritten=2023-04-05T10:04:09Z
+@dateWritten=2023-05-17T09:53:21Z
 
 1
 1
@@ -137793,7 +137793,7 @@
 351
 351
 351
-229222	1
+228147	1
 2
 3
 4
