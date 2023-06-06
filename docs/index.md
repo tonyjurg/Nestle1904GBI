@@ -13,7 +13,7 @@ The following directories contain the Text-Fabric data:
  * [doc](#readme): the documentation for the dataset.
  
  Additionaly provided:
- * [resources](resources#readme): data and tools used for production.
+ * [resources](https://github.com/tonyjurg/Nestle1904GBI/tree/main/resources#readme): data and tools used for production.
 
 ## Attribution and legal notes
 
