@@ -8,9 +8,9 @@ See [here](https://archive.org/details/the-greek-new-testament-nestle-1904-us-ed
 
 ## Content of the repository
 The following directories contain the Text-Fabric data:
- * [app](app#readme): app config data.
- * [tf/1904](tf/1904#readme): the actual dataset.
- * [doc](docs/home.md#readme): the documentation for the dataset.
+ * [app](https://github.com/tonyjurg/Nestle1904GBI/tree/main/app#readme): app config data.
+ * [tf/1904](https://github.com/tonyjurg/Nestle1904GBI/tree/main/tf/): the actual dataset.
+ * [doc](#readme): the documentation for the dataset.
  
  Additionaly provided:
  * [resources](resources#readme): data and tools used for production.
