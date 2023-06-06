@@ -22,6 +22,6 @@ The following directories contain the Text-Fabric data:
 
 ## Attribution and legal notes
 
-Attribution: "MACULA Greek Linguistic Datasets", available at https://github.com/Clear-Bible/macula-greek/".
+Attribution: "MACULA Greek Linguistic Datasets", available at [https://github.com/Clear-Bible/macula-greek/](https://github.com/Clear-Bible/macula-greek/).
 
 See [here](legal.md) for full Provenance, Sourcedata, Legal Notes, and License.
