@@ -8,7 +8,7 @@ See [here](https://archive.org/details/the-greek-new-testament-nestle-1904-us-ed
 
 ## Text Fabric
 
-[features/home.md](features)
+[features](features/home.md)
 
 ## Content of the repository
 
