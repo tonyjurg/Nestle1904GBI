@@ -6,6 +6,10 @@ This repository contains the results of the conversion of Eberhard Nestle's 1904
 
 See [here](https://archive.org/details/the-greek-new-testament-nestle-1904-us-edition/mode/2up) a scan of the orginal publication: Nestle, Eberhard. Η Καινή Διαθήκη Novum Testamentum Graece (New York: Fleming H. Revell Company, 1904).
 
+## Text Fabric
+
+[features/home.md](features)
+
 ## Content of the repository
 
 The following directories contain the Text-Fabric data:
