@@ -8,7 +8,7 @@ The source data for the conversion are the XML node files representing the macul
 
 The following directories contain the Text-Fabric data:
  * [app](app#readme): app config data.
- * [tf/1904](tf/1904#readme): the actual dataset.
+ * [tf](tf#readme): the actual dataset.
  * [doc](docs/home.md#readme): the documentation for the dataset.
  
  Additionaly provided:
