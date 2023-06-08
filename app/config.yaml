@@ -32,9 +32,13 @@ typeDisplay:
   phrase:
     label: '#{phrase}'
     style: ""
-interfaceDefaults: {}
+interfaceDefaults:
+  fmt: layout-orig-full
+  # used by tf browser
 provenanceSpec:
-  corpus: "Nestle 1904"
+  corpus: "Nestle 1904 (GBI nodes)"
   version: "0.2"
+  org: "tonyjurg"
+  repro: "Nestle1904GBI"
   webUrl: "https://bibleol.3bmoodle.dk/text/show_text/nestle1904/<1>/<2>/<3>"
 
