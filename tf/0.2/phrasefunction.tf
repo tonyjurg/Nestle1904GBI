@@ -2,19 +2,19 @@
 @Availability=Creative Commons Attribution 4.0 International (CC BY 4.0)
 @Converter_author=Tony Jurg, ReMa student Vrije Universiteit Amsterdam, Netherlands
 @Converter_execution=Tony Jurg, ReMa student Vrije Universiteit Amsterdam, Netherlands
-@Converter_version=0.1 (Initial)
-@Convertor_source=https://github.com/tonyjurg/NA1904/tree/main/resources/converter
+@Convertor_source=https://github.com/tonyjurg/Nestle1904GBI/tree/main/resources/converter
 @Data source=MACULA Greek Linguistic Datasets, available at https://github.com/Clear-Bible/macula-greek/tree/main/Nestle1904/nodes
 @Editors=Eberhart Nestle
 @Name=Greek New Testament (Nestle 1904) based upon GBI tree node data
 @TextFabric version=11.4.10
-@Version=1904
+@Version=0.2
 @description=Phrase function (abbreviated)
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-05-17T18:10:29Z
+@dateWritten=2023-06-08T09:35:06Z
 
-154191	S
+154191	P
+S
 V
 O
 O
@@ -10029,7 +10029,7 @@ S
 P
 VC
 ADV
-ADV
+P
 P
 V
 ADV
@@ -16420,7 +16420,7 @@ ADV
 V
 ADV
 O
-O
+TBD
 S
 V
 O
@@ -27176,7 +27176,7 @@ ADV
 V
 ADV
 O
-O
+P
 VC
 S
 S
@@ -36493,7 +36493,7 @@ V
 O
 V
 O
-O
+TBD
 np
 O
 V
@@ -46053,7 +46053,7 @@ O
 V
 O
 ADV
-ADV
+S
 S
 V
 ADV
@@ -49664,7 +49664,7 @@ ADV
 IO
 S
 ADV
-ADV
+S
 IO
 VC
 P
@@ -53576,7 +53576,7 @@ P
 S
 P
 ADV
-ADV
+S
 IO
 VC
 P
@@ -55857,7 +55857,7 @@ O
 S
 S
 P
-P
+S
 S
 V
 O
@@ -57078,7 +57078,7 @@ V
 S
 P
 np
-np
+S
 IO
 VC
 P
@@ -58086,7 +58086,7 @@ P
 V
 O
 ADV
-ADV
+S
 IO
 VC
 P
@@ -58872,7 +58872,7 @@ ADV
 S
 S
 P
-P
+S
 IO
 S
 ADV
@@ -59555,7 +59555,7 @@ V
 O
 S
 P
-P
+S
 IO
 S
 V
@@ -60254,7 +60254,7 @@ S
 IO
 S
 P
-P
+S
 IO
 S
 ADV
@@ -60611,7 +60611,7 @@ ADV
 V
 S
 P
-P
+S
 IO
 S
 S
@@ -61446,7 +61446,7 @@ ADV
 V
 S
 P
-P
+S
 IO
 S
 S
@@ -62092,7 +62092,7 @@ S
 P
 S
 P
-P
+S
 S
 ADV
 O
@@ -62428,7 +62428,7 @@ O
 ADV
 S
 P
-P
+S
 IO
 S
 ADV
@@ -62573,7 +62573,7 @@ S
 S
 S
 P
-P
+ADV
 V
 IO
 ADV
@@ -65157,7 +65157,7 @@ O
 S
 S
 ADV
-ADV
+S
 IO
 V
 np
@@ -66116,7 +66116,7 @@ O
 ADV
 V
 O
-O
+S
 IO
 IO
 IO
@@ -66920,7 +66920,7 @@ O
 ADV
 S
 IO
-IO
+S
 IO
 ADV
 V
@@ -67467,7 +67467,7 @@ ADV
 IO
 S
 ADV
-ADV
+S
 VC
 P
 O
@@ -68679,7 +68679,7 @@ np
 V
 O
 ADV
-ADV
+S
 IO
 O
 V
@@ -68941,7 +68941,7 @@ S
 V
 O
 ADV
-ADV
+S
 S
 IO
 ADV
@@ -69170,7 +69170,7 @@ IO
 ADV
 S
 ADV
-ADV
+P
 O
 V
 IO
@@ -73559,5 +73559,4 @@ ADV
 intj
 V
 S
-P
 P

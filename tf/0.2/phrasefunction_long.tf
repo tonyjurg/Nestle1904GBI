@@ -2,19 +2,19 @@
 @Availability=Creative Commons Attribution 4.0 International (CC BY 4.0)
 @Converter_author=Tony Jurg, ReMa student Vrije Universiteit Amsterdam, Netherlands
 @Converter_execution=Tony Jurg, ReMa student Vrije Universiteit Amsterdam, Netherlands
-@Converter_version=0.1 (Initial)
-@Convertor_source=https://github.com/tonyjurg/NA1904/tree/main/resources/converter
+@Convertor_source=https://github.com/tonyjurg/Nestle1904GBI/tree/main/resources/converter
 @Data source=MACULA Greek Linguistic Datasets, available at https://github.com/Clear-Bible/macula-greek/tree/main/Nestle1904/nodes
 @Editors=Eberhart Nestle
 @Name=Greek New Testament (Nestle 1904) based upon GBI tree node data
 @TextFabric version=11.4.10
-@Version=1904
+@Version=0.2
 @description=Phrase function (long description)
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-05-17T18:10:29Z
+@dateWritten=2023-06-08T09:35:06Z
 
-154191	Subject function
+154191	Predicate function
+Subject function
 Verbal function
 Object function
 Object function
@@ -10029,7 +10029,7 @@ Subject function
 Predicate function
 Verbal Copula function
 Adverbial function
-Adverbial function
+Predicate function
 Predicate function
 Verbal function
 Adverbial function
@@ -16420,7 +16420,7 @@ Adverbial function
 Verbal function
 Adverbial function
 Object function
-Object function
+TBD
 Subject function
 Verbal function
 Object function
@@ -27175,8 +27175,8 @@ Adverbial function
 Adverbial function
 Verbal function
 Adverbial function
-Object function
 Object function
+Predicate function
 Verbal Copula function
 Subject function
 Subject function
@@ -36492,8 +36492,8 @@ Subject function
 Verbal function
 Object function
 Verbal function
-Object function
 Object function
+TBD
 TBD
 Object function
 Verbal function
@@ -46053,7 +46053,7 @@ Object function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
+Subject function
 Subject function
 Verbal function
 Adverbial function
@@ -49664,7 +49664,7 @@ Adverbial function
 Indirect Object function
 Subject function
 Adverbial function
-Adverbial function
+Subject function
 Indirect Object function
 Verbal Copula function
 Predicate function
@@ -53575,8 +53575,8 @@ Subject function
 Predicate function
 Subject function
 Predicate function
-Adverbial function
 Adverbial function
+Subject function
 Indirect Object function
 Verbal Copula function
 Predicate function
@@ -55856,9 +55856,9 @@ Verbal function
 Object function
 Subject function
 Subject function
-Predicate function
 Predicate function
 Subject function
+Subject function
 Verbal function
 Object function
 Adverbial function
@@ -57078,7 +57078,7 @@ Verbal function
 Subject function
 Predicate function
 Predicate function
-Predicate function
+Subject function
 Indirect Object function
 Verbal Copula function
 Predicate function
@@ -58086,7 +58086,7 @@ Predicate function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
+Subject function
 Indirect Object function
 Verbal Copula function
 Predicate function
@@ -58872,7 +58872,7 @@ Adverbial function
 Subject function
 Subject function
 Predicate function
-Predicate function
+Subject function
 Indirect Object function
 Subject function
 Adverbial function
@@ -59554,8 +59554,8 @@ Adverbial function
 Verbal function
 Object function
 Subject function
-Predicate function
 Predicate function
+Subject function
 Indirect Object function
 Subject function
 Verbal function
@@ -60254,7 +60254,7 @@ Subject function
 Indirect Object function
 Subject function
 Predicate function
-Predicate function
+Subject function
 Indirect Object function
 Subject function
 Adverbial function
@@ -60611,7 +60611,7 @@ Adverbial function
 Verbal function
 Subject function
 Predicate function
-Predicate function
+Subject function
 Indirect Object function
 Subject function
 Subject function
@@ -61445,8 +61445,8 @@ Subject function
 Adverbial function
 Verbal function
 Subject function
-Predicate function
 Predicate function
+Subject function
 Indirect Object function
 Subject function
 Subject function
@@ -62091,9 +62091,9 @@ Subject function
 Subject function
 Predicate function
 Subject function
-Predicate function
 Predicate function
 Subject function
+Subject function
 Adverbial function
 Object function
 Verbal function
@@ -62428,7 +62428,7 @@ Object function
 Adverbial function
 Subject function
 Predicate function
-Predicate function
+Subject function
 Indirect Object function
 Subject function
 Adverbial function
@@ -62573,7 +62573,7 @@ Subject function
 Subject function
 Subject function
 Predicate function
-Predicate function
+Adverbial function
 Verbal function
 Indirect Object function
 Adverbial function
@@ -65156,8 +65156,8 @@ Verbal function
 Object function
 Subject function
 Subject function
-Adverbial function
 Adverbial function
+Subject function
 Indirect Object function
 Verbal function
 Verbal function
@@ -66116,7 +66116,7 @@ Object function
 Adverbial function
 Verbal function
 Object function
-Object function
+Subject function
 Indirect Object function
 Indirect Object function
 Indirect Object function
@@ -66920,7 +66920,7 @@ Object function
 Adverbial function
 Subject function
 Indirect Object function
-Indirect Object function
+Subject function
 Indirect Object function
 Adverbial function
 Verbal function
@@ -67467,7 +67467,7 @@ Adverbial function
 Indirect Object function
 Subject function
 Adverbial function
-Adverbial function
+Subject function
 Verbal Copula function
 Predicate function
 Object function
@@ -68678,8 +68678,8 @@ Predicate function
 Predicate function
 Verbal function
 Object function
-Adverbial function
 Adverbial function
+Subject function
 Indirect Object function
 Object function
 Verbal function
@@ -68941,7 +68941,7 @@ Subject function
 Verbal function
 Object function
 Adverbial function
-Adverbial function
+Subject function
 Subject function
 Indirect Object function
 Adverbial function
@@ -69170,7 +69170,7 @@ Indirect Object function
 Adverbial function
 Subject function
 Adverbial function
-Adverbial function
+Predicate function
 Object function
 Verbal function
 Indirect Object function
@@ -73559,5 +73559,4 @@ Adverbial function
 Adverbial function
 Verbal function
 Subject function
-Predicate function
 Predicate function
