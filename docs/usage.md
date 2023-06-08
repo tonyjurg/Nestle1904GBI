@@ -1,3 +1,3 @@
 # Usage of the TF dataset
 
-Example use cases to be added.
+* [Load Text-Fabric in notebook](usecases/load_text_fabric.ipynb)
