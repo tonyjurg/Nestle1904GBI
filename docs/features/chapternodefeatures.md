@@ -1,4 +1,4 @@
-# Features for chapter nodes in Nestle1904 Text-Fabric Corpus
+# Features for chapter nodes in Nestle1904GBI Text-Fabric Corpus
 ###### [Click here for list of all features](home.md#readme)
 
 Feature | Type | Short description
