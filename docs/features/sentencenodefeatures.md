@@ -4,4 +4,4 @@
 Feature | Type | Short description
 --- | --- | ---
 [sentence](sentence.md#readme) | int | Sentence number (counted per chapter)
-[sentencetype](sentencetype.md#readme) | str |  sentence type information
+[sentencetype](sentencetype.md#readme) | str |  Sentence type information
