@@ -1,4 +1,4 @@
-# Feature: book_long
+# Feature: book
 
 Datatype: `string`
 
