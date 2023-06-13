@@ -4,8 +4,8 @@
 Feature | Type | Short description
 --- | --- | ---
 [book](book.md#readme) | str | Book name (fully spelled out)
-[bookshort](bookshort.md#readme) | str | Book name (abbreviated)
 [booknum](booknum.md#readme) | int |  NT book number (Matthew=1, Mark=2, ..., Revelation=27)
+[bookshort](bookshort.md#readme) | str | Book name (abbreviated)
 [case](case.md#readme) | str | Gramatical case (Nominative, Genitive, Dative, Accusative, Vocative)
 [chapter](chapter.md#readme) | int | Chapter number inside book
 [clause](clause.md#readme) | int | Clause number (counted per chapter)
