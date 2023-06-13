@@ -1,4 +1,4 @@
-# Feature: book_code
+# Feature: bookcode
 
 Datatype: `string`
 
@@ -8,7 +8,7 @@ Feature description: Short book abbreviation
 
 Possible values:
 
-Book Code (this feature) | Full name of book ([feature: book_long](book_long.md#readme)) | Number ([feature: booknum](booknum.md#readme))
+Book Code (this feature) | Full name of book ([feature: book](book.md#readme)) | Number ([feature: booknum](booknum.md#readme))
 --- | --- | --- 
 Matt | Matthew | 1
 Mark | Mark | 2
