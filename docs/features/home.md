@@ -3,10 +3,9 @@
 
 Feature | Type | Short description
 --- | --- | ---
-[book](book.md#readme) | str | Book
-[book_code](book_code.md#readme) | str | Short book abbreviation
-[book_long](book_long.md#readme) | str |  Book name (fully spelled out)
-[book_short](book_short.md#readme) | str | Book name (abbreviated)
+[book](book.md#readme) | str | Book name (fully spelled out)
+[bookcode](bookcode.md#readme) | str | Short book abbreviation
+[bookshort](bookshort.md#readme) | str | Book name (abbreviated)
 [booknum](booknum.md#readme) | int |  NT book number (Matthew=1, Mark=2, ..., Revelation=27)
 [case](case.md#readme) | str | Gramatical case (Nominative, Genitive, Dative, Accusative, Vocative)
 [chapter](chapter.md#readme) | int | Chapter number inside book
