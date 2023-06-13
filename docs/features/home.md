@@ -27,7 +27,6 @@ Feature | Type | Short description
 [normalized](normalized.md#readme) | str | Surface word stripped of punctations
 [nu](nu.md#readme) | str | Gramatical number (Singular, Plural)
 [number](number.md#readme) | str | Gramatical number of the verb
-[orig_order](orig_order.md#readme) | int | Word order within corpus
 [otype](otype.md#readme) | str | - 
 [person](person.md#readme) | str | Gramatical person of the verb (first, second, third)
 [phrase](phrase.md#readme) | int | Phrase number (counted per chapter)
