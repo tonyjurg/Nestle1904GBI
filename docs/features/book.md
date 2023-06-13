@@ -2,7 +2,7 @@
 
 Datatype: `string`
 
-Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
+Available for nodetype(s): [`word`](wordnodefeatures.md#readme) [`book`](booknodefeatures.md#readme)
 
 Feature description: Book name (fully spelled out).
 
