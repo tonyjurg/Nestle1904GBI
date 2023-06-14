@@ -8,7 +8,7 @@ Feature description: Phrase function (abbreviated)
 
 Possible values:
 
-Abbreviation (this feature) | Long description (feature: [prhasefunction_long](phrasefunction_long.md#readme))
+Abbreviation (this feature) | Long description (feature: [phrasefunction_long](phrasefunction_long.md#readme))
 --- | --- 
 ADV | Adverbial function
 IO | Indirect Object function
