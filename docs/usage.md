@@ -8,3 +8,4 @@
 * [The particles μέν and δέ](https://nbviewer.org/github/tonyjurg/Nestle1904GBI/blob/main/docs/usecases/particles_men_and_de.ipynb)
 * [The use of μονογενής](https://nbviewer.org/github/tonyjurg/Nestle1904GBI/blob/main/docs/usecases/use_of_monogenes.ipynb)
 * [The use of προσκυνέω](https://nbviewer.org/github/tonyjurg/Nestle1904GBI/blob/main/docs/usecases/use_of_proskyneo.ipynb)
+* [Mismatch adverb and noun](https://nbviewer.org/github/tonyjurg/Nestle1904GBI/blob/main/docs/usecases/incongruent_adverb_noun.ipynb)
