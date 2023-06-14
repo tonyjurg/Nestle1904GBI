@@ -4,5 +4,5 @@
 Feature | Type | Short description
 --- | --- | ---
 [book](book.md#readme) | str | Book name (fully spelled out)
-[bookshort](book_short.md#readme) | str | Book name (abbreviated)
+[bookshort](bookshort.md#readme) | str | Book name (abbreviated)
 [booknum](booknum.md#readme) | int |  NT book number (Matthew=1, Mark=2, ..., Revelation=27)
