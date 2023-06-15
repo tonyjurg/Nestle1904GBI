@@ -8,7 +8,7 @@ Feature description: abbreviated Part of Speech description for each wordtype.
 
 Possible values:
 
-Label (this feature) | Part of Speech Full ([feature: sp_full](sp_full.md#readme)) | frequency
+Label (this feature) | Part of Speech long ([feature: splong](splong.md#readme)) | frequency
 --- | --- | ---
 adj | adjective | 8452
 adv | adverb | 6147
