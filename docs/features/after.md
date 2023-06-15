@@ -10,9 +10,9 @@ This feature contains the character (space or punctuation) pressent after a word
 
 after | explanation | Frequency
 ---  | --- | ---
-' ' | normal space | ??
+' ' | normal space | 119272
 ',' | comma | 9441
-'.' | normal dot | 5717
+'.' | normal dot | 5712
 '·' | high dot | 2355
 ';' | semicollon | 969
 '—' | dash | 30
