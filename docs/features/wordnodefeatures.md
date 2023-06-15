@@ -3,6 +3,7 @@
 
 Feature | Type | Short description
 --- | --- | ---
+[after](after.md#readme) | str | space or punctuation after word
 [book](book.md#readme) | str |  Book name (fully spelled out)
 [booknum](booknum.md#readme) | int |  NT book number (Matthew=1, Mark=2, ..., Revelation=27)
 [bookshort](bookshort.md#readme) | str | Book name (abbreviated)
