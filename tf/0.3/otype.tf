@@ -15,7 +15,7 @@
 @title=Greek New Testament
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-06-15T15:46:46Z
+@dateWritten=2023-06-15T17:55:42Z
 
 1-137779	word
 137780-137806	book

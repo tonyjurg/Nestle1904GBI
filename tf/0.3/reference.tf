@@ -16,7 +16,7 @@
 @title=Greek New Testament
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-06-15T15:46:47Z
+@dateWritten=2023-06-15T17:55:42Z
 
 
 

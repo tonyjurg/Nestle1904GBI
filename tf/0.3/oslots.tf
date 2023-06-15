@@ -15,7 +15,7 @@
 @title=Greek New Testament
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-06-15T15:46:48Z
+@dateWritten=2023-06-15T17:55:44Z
 
 137780	1-18299
 18300-29576

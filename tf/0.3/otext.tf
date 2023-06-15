@@ -19,5 +19,5 @@
 @structureTypes=book,chapter,verse
 @title=Greek New Testament
 @writtenBy=Text-Fabric
-@dateWritten=2023-06-15T15:46:49Z
+@dateWritten=2023-06-15T17:55:44Z
 
