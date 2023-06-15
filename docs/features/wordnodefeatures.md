@@ -28,7 +28,7 @@ Feature | Type | Short description
 [phrase](phrase.md#readme) | int | Phrase number (counted per chapter)
 [sentence](sentence.md#readme) | int | Sentence number (counted per chapter)
 [sp](sp.md#readme) | str | Part of Speech (abbreviated)
-[sp_full](sp_full.md#readme) | str | Part of Speech (long description)
+[splong](splong.md#readme) | str | Part of Speech (long description)
 [strongs](strongs.md#readme) | str | Strongs number
 [subj_ref](subj_ref.md#readme) | str | Subject reference (to nodeID in XML source data, not yet post-processes)
 [tense](tense.md#readme) | str | Gramatical tense of the verb (e.g. Present, Aorist)
