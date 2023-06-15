@@ -22,7 +22,7 @@ ptcl | particle | 773
 pron | pronoun | 16177
 verb | verb | 28357
 
-See also the description in [MACULA Greek Treebank for the Nestle 1904 Greek New Testament.pdf](https://nbviewer.org/github/biblicalhumanities/greek-new-testament/blob/master/syntax-trees/nestle1904/doc/Nestle%201904%20Treebank%20Documentation.pdf) on page 6 and 7 (section 2.2. Syntactic Categories at Word Level: Part of Speech Labels).
+See also the description in [MACULA Greek Treebank for the Nestle 1904 Greek New Testament.pdf](https://nbviewer.org/github/biblicalhumanities/greek-new-testament/blob/master/syntax-trees/nestle1904/doc/Nestle%201904%20Treebank%20Documentation.pdf) on page 4 and 5 (section 2.2. Syntactic Categories at Word Level: Part of Speech Labels).
 
 ---
 ###### [Click here for list of all features](home.md#readme)
