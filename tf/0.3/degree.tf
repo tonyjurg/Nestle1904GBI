@@ -16,7 +16,7 @@
 @title=Greek New Testament
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-06-15T17:55:40Z
+@dateWritten=2023-06-19T16:21:18Z
 
 
 
@@ -7575,8 +7575,8 @@ Superlative
 
 
 
-
 Comparative
+
 
 
 
@@ -11453,8 +11453,8 @@ Comparative
 
 
 
-Superlative
 
+Superlative
 Superlative
 
 Superlative
@@ -12696,8 +12696,8 @@ Superlative
 
 
 
-
 Comparative
+
 
 
 
@@ -13268,7 +13268,6 @@ Superlative
 
 
 
-
 Comparative
 
 
@@ -13420,6 +13419,7 @@ Comparative
 
 
 
+
 Superlative
 
 
@@ -13877,7 +13877,6 @@ Comparative
 
 
 Comparative
-
 
 
 
@@ -15457,6 +15456,7 @@ Comparative
 
 
 
+
 Comparative
 
 
@@ -16689,7 +16689,6 @@ Comparative
 
 
 Comparative
-
 
 
 
@@ -16995,6 +16994,7 @@ Comparative
 
 
 
+
 Comparative
 
 
@@ -25045,9 +25045,9 @@ Comparative
 
 
 
-Superlative
 
 Superlative
+Superlative
 
 
 Superlative
@@ -29398,7 +29398,6 @@ Comparative
 
 
 Superlative
-
 
 
 
@@ -29626,6 +29625,7 @@ Comparative
 
 
 
+
 Superlative
 
 
@@ -37497,8 +37497,8 @@ Comparative
 
 
 
-
 Comparative
+
 
 
 
@@ -42739,7 +42739,6 @@ Superlative
 
 
 
-
 Comparative
 
 
@@ -44007,6 +44006,7 @@ Comparative
 
 
 Comparative
+
 
 
 
@@ -57252,8 +57252,8 @@ Comparative
 
 
 
-
 Superlative
+
 
 
 
@@ -63346,10 +63346,10 @@ Comparative
 
 
 
+Superlative
 
 
 
-Superlative
 
 
 
@@ -64695,9 +64695,9 @@ Comparative
 
 
 
+Superlative
 
 
-Superlative
 
 
 
@@ -66898,8 +66898,8 @@ Comparative
 
 
 
-Comparative
 
+Comparative
 
 
 
@@ -80207,10 +80207,10 @@ Comparative
 
 
 
+Superlative
 
 
 
-Superlative
 
 
 
@@ -81604,9 +81604,9 @@ Superlative
 
 
 
-Superlative
 
 
+Superlative
 
 
 
@@ -92349,7 +92349,6 @@ Superlative
 
 
 
-
 Comparative
 
 
@@ -92857,8 +92856,8 @@ Comparative
 
 
 
-Comparative
 
+Comparative
 
 
 
@@ -93442,6 +93441,7 @@ Comparative
 
 
 
+
 Comparative
 
 
@@ -94892,10 +94892,10 @@ Comparative
 
 
 
-Comparative
 
 
 
+Comparative
 
 
 
@@ -94916,7 +94916,6 @@ Comparative
 
 
 Comparative
-
 
 
 
@@ -95028,8 +95027,8 @@ Comparative
 
 
 
-Comparative
 
+Comparative
 
 
 
@@ -95679,6 +95678,7 @@ Comparative
 
 
 
+
 Superlative
 
 
@@ -95918,7 +95918,6 @@ Superlative
 
 
 Comparative
-
 
 
 
@@ -95943,6 +95942,7 @@ Superlative
 
 
 
+
 Superlative
 
 
@@ -99603,8 +99603,8 @@ Comparative
 
 
 
-
 Comparative
+
 
 
 
@@ -100984,8 +100984,8 @@ Comparative
 
 
 
-
 Superlative
+
 
 
 
@@ -112667,8 +112667,8 @@ Comparative
 
 
 
-
 Comparative
+
 
 
 
@@ -113711,8 +113711,8 @@ Comparative
 
 
 
-
 Comparative
+
 
 
 
@@ -116038,7 +116038,6 @@ Superlative
 
 
 
-
 Comparative
 
 
@@ -116047,6 +116046,7 @@ Comparative
 
 
 
+
 Comparative
 
 
@@ -117013,8 +117013,8 @@ Comparative
 
 
 
-Comparative
 
+Comparative
 
 
 
@@ -117678,9 +117678,9 @@ Comparative
 
 
 
+Comparative
 
 
-Comparative
 
 
 
@@ -118165,7 +118165,6 @@ Superlative
 
 
 Superlative
-
 
 
 
@@ -118459,6 +118458,7 @@ Comparative
 
 
 
+
 Comparative
 
 
@@ -118805,7 +118805,6 @@ Superlative
 
 
 Comparative
-
 
 
 
@@ -118925,8 +118924,8 @@ Comparative
 
 
 
-Comparative
 
+Comparative
 
 
 
@@ -119184,6 +119183,7 @@ Comparative
 
 
 Comparative
+
 
 
 
@@ -119738,8 +119738,8 @@ Comparative
 
 
 
-
 Comparative
+
 
 
 
@@ -121605,7 +121605,6 @@ Superlative
 
 
 
-
 Comparative
 
 
@@ -121833,6 +121832,7 @@ Comparative
 
 
 
+
 Superlative
 
 
@@ -123034,7 +123034,6 @@ Superlative
 
 
 Comparative
-
 
 
 
@@ -123660,8 +123659,9 @@ Comparative
 
 
 
-Comparative
+
 
+Comparative
 
 Comparative
 
@@ -124531,8 +124531,8 @@ Superlative
 
 
 Superlative
-
 Comparative
+
 
 
 

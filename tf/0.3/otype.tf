@@ -15,12 +15,12 @@
 @title=Greek New Testament
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-06-15T17:55:42Z
+@dateWritten=2023-06-19T16:21:20Z
 
 1-137779	word
 137780-137806	book
 137807-138066	chapter
 138067-154190	clause
-154191-227737	phrase
-227738-233457	sentence
-233458-241401	verse
+154191-226864	phrase
+226865-232584	sentence
+232585-240527	verse

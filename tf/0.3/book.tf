@@ -16,7 +16,7 @@
 @title=Greek New Testament
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-06-15T17:55:39Z
+@dateWritten=2023-06-19T16:21:17Z
 
 Matthew
 Matthew
@@ -154208,36 +154208,61 @@ Revelation
 Revelation
 Revelation
 Revelation
-170598	Luke
-190671	Acts
-227738	Matthew
-228538	Mark
-229074	Luke
-229929	John
-230660	Acts
-231363	Romans
-231644	I_Corinthians
-231944	II_Corinthians
-232118	Galatians
-232223	Ephesians
-232281	Philippians
-232342	Colossians
-232383	I_Thessalonians
-232432	II_Thessalonians
-232458	I_Timothy
-232526	II_Timothy
-232577	Titus
-232604	Philemon
-232615	Hebrews
-232795	James
-232878	I_Peter
-232932	II_Peter
-232961	I_John
-233064	II_John
-233075	III_John
-233090	Jude
-233107	Revelation
-233458	Matthew
+Matthew
+163967	Mark
+170323	Luke
+180914	John
+190204	Acts
+199511	Romans
+203047	I_Corinthians
+206869	II_Corinthians
+209117	Galatians
+210325	Ephesians
+211331	Philippians
+212112	Colossians
+212802	I_Thessalonians
+213506	II_Thessalonians
+213863	I_Timothy
+214703	II_Timothy
+215341	Titus
+215679	Philemon
+215828	Hebrews
+218406	James
+219355	I_Peter
+220150	II_Peter
+220694	I_John
+221919	II_John
+222058	III_John
+222189	Jude
+222415	Revelation
+226865	Matthew
+227665	Mark
+228201	Luke
+229056	John
+229787	Acts
+230490	Romans
+230771	I_Corinthians
+231071	II_Corinthians
+231245	Galatians
+231350	Ephesians
+231408	Philippians
+231469	Colossians
+231510	I_Thessalonians
+231559	II_Thessalonians
+231585	I_Timothy
+231653	II_Timothy
+231704	Titus
+231731	Philemon
+231742	Hebrews
+231922	James
+232005	I_Peter
+232059	II_Peter
+232088	I_John
+232191	II_John
+232202	III_John
+232217	Jude
+232234	Revelation
+232585	Matthew
 Matthew
 Matthew
 Matthew
@@ -161451,7 +161476,6 @@ James
 James
 James
 James
-I_Peter
 I_Peter
 I_Peter
 I_Peter
