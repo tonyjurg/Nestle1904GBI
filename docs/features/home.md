@@ -17,7 +17,7 @@ Feature | Type | Short description
 [functionaltag](functionaltag.md) | str | Functional tag (Sandborg-Petersen morphology)
 [gloss_EN](gloss_EN.md#readme) | str | English gloss
 [gn](gn.md#readme) | str | Gramatical gender (Masculine, Feminine, Neuter)
-[lemma](lemma.md#readme) | str | Lexeme (lemma)
+[lemma](lemma.md#readme) | str | Lexical lemma (cf. BDAG)
 [lex_dom](lex_dom.md#readme) | str | Lexical domain according to Semantic Dictionary of Biblical Greek, SDBG (not present everywhere)
 [ln](ln.md#readme) | str | Louw-Nida lexical classification (not present everywhere)
 [monad](monad.md#readme) | int | Monad
