@@ -17,15 +17,15 @@ Feature | Type | Short description
 [functionaltag](functionaltag.md) | str | Functional tag (Sandborg-Petersen morphology)
 [gloss_EN](gloss_EN.md#readme) | str | English gloss
 [gn](gn.md#readme) | str | Gramatical gender (Masculine, Feminine, Neuter)
-[lemma](lemma.md#readme) | str | Lexeme (lemma)
+[lemma](lemma.md#readme) | str | Lexical lemma (cf. BDAG)
 [lex_dom](lex_dom.md#readme) | str | Lexical domain according to Semantic Dictionary of Biblical Greek, SDBG (not present everywhere)
 [ln](ln.md#readme) | str | Louw-Nida lexical classification (not present everywhere)
 [monad](monad.md#readme) | int | Monad
 [mood](mood.md#readme) | str | Gramatical mood of a verb (Indicative, Optative, etc)
 [nodeID](nodeID.md#readme) | str | Node ID (as in the XML source data, not yet post-processes)
 [normalized](normalized.md#readme) | str | Surface word stripped of punctations
-[nu](nu.md#readme) | str | Gramatical number (Singular, Plural)
-[number](number.md#readme) | str | Gramatical number of the verb
+[nu](nu.md#readme) | str | Gramatical number of a noun (Singular, Plural)
+[number](number.md#readme) | str | Gramatical number of a verb (Singular, Plural)
 [otype](otype.md#readme) | str | - 
 [person](person.md#readme) | str | Gramatical person of the verb (first, second, third)
 [phrase](phrase.md#readme) | int | Phrase number (counted per chapter)
