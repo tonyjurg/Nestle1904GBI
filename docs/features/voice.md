@@ -4,7 +4,7 @@ Datatype: `string`
 
 Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
 
-Feature description: Gramatical voice of the verb.
+Feature description: Verbal voice of the verb.
 
 Possible values (curent): 
 
