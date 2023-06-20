@@ -10,6 +10,17 @@ The project comprises various TextFabric presentations of the Nestle 1904 versio
 Each version uses a different conversion method, resulting in a distinct set of features. The final stable product is planned to be stored at:
 * [https://github.com/ETCBC/nestle1904](https://github.com/ETCBC/nestle1904)
 
+# Differences between datasets
+
+The Text-Fabric datasets differ from each other in terms of the amount of syntactical information included. This can easily been seen by comparing the way they present text, grammar and syntax. The following two images show the graphical presentation of John 1:1.
+
+## The Nestle1904GBI implementation
+
+<img src="assets/images/john1v1GBI.jpg" alt="John 1v1 in Nestle1904GBI Text-Fabric">
+
+## The Nestle1904LFT implementation
+
+<img src="assets/images/john1v1LFT.jpg" alt="John 1v1 in Nestle1904LFT Text-Fabric">
 
 
 
