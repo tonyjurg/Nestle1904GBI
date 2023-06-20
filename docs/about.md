@@ -12,7 +12,7 @@ Each version uses a different conversion method, resulting in a distinct set of 
 
 # Differences between datasets
 
-The Text-Fabric datasets differ from each other in terms of the amount of syntactical information included. This can easily been seen by comparing the way they present text, grammar and syntax. The following two images show the graphical presentation of John 1:1.
+The Text-Fabric datasets vary in terms of the included syntactical information, which is evident when comparing their presentation of text, grammar, and syntax. Below are two images depicting the graphical representation of John 1:1.
 
 ## The Nestle1904GBI implementation
 
