@@ -1,6 +1,6 @@
 # Text-Fabric Nestle 1904 Greek New Testament (based on GBI XML node)
 
-### Warning: this is an ongoing project. Changes will be made. ###
+### Notice: this is an ongoing project. ###
 
 See Jupyter Notebook of conversion process on [nbviewer](https://nbviewer.org/github/tonyjurg/NA1904/blob/1d314c138e67aa0e9ed8387c4d9cb92687c56b01/resources/converter/CreateTFfromXML.ipynb).
 
