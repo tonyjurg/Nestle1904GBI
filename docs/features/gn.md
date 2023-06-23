@@ -1,12 +1,13 @@
 # Feature: gn
 
-Datatype: `string`
+Featuretype | Data type | Available for node types
+---  | --- | --- 
+[`Morphological`](home.md#Morphological-features) | `string`  | [`word`](wordnodefeatures.md#readme)
 
-Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
+## Feature description
+Gramatical gender for wordtypes nouns, adjectives, pronouns, participles, and definite articles.
 
-Feature description: Gramatical gender for wordtypes nouns, adjectives, pronouns, participles, and definite articles.
-
-Possible values:
+## Feature values
 
 gn'short'  (TBA) | gn (this feature) | explanation | Frequency
 --- | --- | --- | ---
