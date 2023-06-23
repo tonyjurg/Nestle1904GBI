@@ -1,8 +1,8 @@
 # Feature: otype
 
-Featuretype | Data type | Available for node types
----  | --- | --- 
-[`Grid`](home.md#grid-features) |  configuration | see below
+Feature group | Feature type | Data type | Available for node types
+---  | --- | --- | ---
+[`Grid`](home.md#grid-features) |   | configuration | see below
 
 ## Feature description
 
