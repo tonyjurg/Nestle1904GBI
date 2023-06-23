@@ -4,14 +4,14 @@
 This is the key to the meaning of the features of the
 [Nestle 1904 GBI dataset](https://github.com/tonyjurg/Nestle1904GBI). The available features can be taken together in the following groups: 
 
-* [Grid features](#grid-features)
-* [Sectional features](#sectional-features)
-* [Lexical features](#lexical-features)
-* [Orthograpic features](#orthograpic-features)
-* [Morphological features](#morphological-features)
-* [Syntactic features](#syntactic-features)
-* [Relational features](#relational-features)
-* [Statistical features](#statistical-features)
+* [Grid features](#Grid-features)
+* [Sectional features](#Sectional-features)
+* [Lexical features](#Lexical-features)
+* [Orthograpic features](#Orthograpic-features)
+* [Morphological features](#Morphological-features)
+* [Syntactic features](#Syntactic-features)
+* [Relational features](#Relational-features)
+* [Statistical features](#Statistical-features)
 
 ## Grid features
 
