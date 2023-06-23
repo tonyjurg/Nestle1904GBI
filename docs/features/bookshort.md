@@ -1,7 +1,7 @@
 # Feature: bookshort
 
 Feature group | Feature type | Data type | Available for node types
----  | --- | --- } ---
+---  | --- | --- | ---
 [`Sectional`](home.md#sectional-features) | `node` | `string`  | [`word`](wordnodefeatures.md#readme) [`book`](booknodefeatures.md#readme)
 
 ## Feature description 
