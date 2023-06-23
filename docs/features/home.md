@@ -18,7 +18,7 @@ This is the key to the meaning of the features of the
 Name | Description| Examples
 ---|---|---
 [oslots](oslots.md) | slot containment | `1` `1-11` `2010-2015,2020-2030`
-[otext](otext.md) | textapi | *no data, only specifications*  
+[otext](otext.md) | configuration for sections, structure, and text formats (textapi) | *no data, only specifications*  
 [otype](otype.md) | node type | `book` `verse` `clause` `phrase` `word`
 
 ## Sectional features
