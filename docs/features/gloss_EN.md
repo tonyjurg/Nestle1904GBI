@@ -1,10 +1,12 @@
 # Feature: gloss_EN
 
-Datatype: `string`
+Featuretype | Data type | Available for node types
+---  | --- | --- 
+[`Lexical`](home.md#Lexical-features) | `string`  | [`word`](wordnodefeatures.md#readme)
 
-Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
+## Feature description: 
 
-Feature description: English gloss.
+English gloss.
 
 ---
 ###### [Click here for list of all features](home.md#readme)
