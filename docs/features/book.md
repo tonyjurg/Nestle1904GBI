@@ -4,11 +4,11 @@ Featuretype | Data type | Available for node types
 ---  | --- | --- 
 [`Sectional`](home.md#Sectional-features) | `string`  | [`word`](wordnodefeatures.md#readme) [`book`](booknodefeatures.md#readme)
 
-## Feature description: 
+## Feature description
 
 Book name (fully spelled out).
 
-## Feature values: 
+## Feature values
 
 Book short name ([feature: bookshort](bookshort.md#readme)) | Book full name  (this feature) | Book number ([feature: booknum](booknum.md#readme))
 --- | --- | --- 
