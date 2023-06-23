@@ -1,12 +1,14 @@
 # Feature: type
 
-Datatype: `string`
+Featuretype | Data type | Available for node types
+---  | --- | --- 
+[`Morphological`](home.md#Morphological-features) | `string`  | [`word`](wordnodefeatures.md#readme)
 
-Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
+## Feature description
 
-Feature description: Gramatical type of noun or pronoun.
+Gramatical type of noun or pronoun.
 
-Possible values:
+## Feature values
 
 type (this feature) | explanation | Frequency
 ---- | ---- | ---
@@ -20,8 +22,6 @@ Possessive | | 70
 Proper | Name of a person, place, thing, etc. | 4639
 Relative |  | 1674
 '' | Empty for wordtypes other than noun or pronoun | 93321
-
-Note: table needs evaluation.
 
 ---
 ###### [Click here for list of all features](home.md#readme)
