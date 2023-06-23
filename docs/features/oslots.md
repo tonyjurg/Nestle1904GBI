@@ -14,7 +14,7 @@ type|kind|description
 `word`         |slot          |single word, fills a *slot*; sometimes words are not separated by a space
 `phrase`       |functional    |phrase, maybe with gaps
 `clause`       |functional    |clause, maybe with gaps
-``sentence`     |functional    |clause, maybe with gaps
+`sentence`     |functional    |clause, maybe with gaps
 `verse`        |section       |numbered unit of a chapter
 `chapter`      |section       |numbered unit of a book
 `book`         |section       |named part of the Bible
