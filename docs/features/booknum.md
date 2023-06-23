@@ -1,12 +1,14 @@
 # Feature: booknum
 
-Datatype: `integer`
+Featuretype | Data type | Available for node types
+---  | --- | --- 
+[`Sectional`](home.md#Sectional-features) | `integer`  | [`word`](wordnodefeatures.md#readme) [`book`](booknodefeatures.md#readme)
 
-Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
+## Feature description:  
 
-Feature description: NT book number.
+NT book number.
 
-Possible values:
+## Feature values:
 
 Book number (this feature) | Book short name ([feature: bookshort](bookshort.md#readme)) | Book full name ([feature: book](book.md#readme))
 --- | --- | --- 
