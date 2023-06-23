@@ -40,7 +40,6 @@ Name | Description | Examples
 
 Name| Description| Examples
 ---|---|---
-[case](case.md#readme) | Gramatical case | `Nominative` `Genitive` `Dative`
 [degree](degree.md#readme) | Degree of an comparative or superlative adjective |
 [gloss_EN](gloss_EN.md#readme) | English gloss | 
 [lemma](lemma.md#readme) | Lexical lemma (cf. BDAG) |
@@ -60,6 +59,7 @@ Name | Description | Examples
 
 Name | Description | Examples
 --- | --- | ---
+[case](case.md#readme) | Gramatical case | `Nominative` `Genitive` `Dative`
 [formaltag](formaltag.md#readme) | Formal tag (Sandborg-Petersen morphology) | 
 [functionaltag](functionaltag.md) | Functional tag (Sandborg-Petersen morphology) | 
 [gn](gn.md#readme) | Gramatical gender | `Masculine` `Feminine` `Neuter`
