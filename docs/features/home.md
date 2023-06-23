@@ -25,11 +25,11 @@ Name | Description| Examples
 
 Name | Description | Examples
 ---|---|---
-[book](book.md#readme) | Full book name | `Matthew` `Mark`
-[booknum](booknum.md#readme) | Book number (Matthew=1, ..., Revelation=27) | `1`  `27`  
-[bookshort](bookshort.md#readme) | Short book name | `MATT`
-[chapter](chapter.md#readme) | Chapter number inside book | `1` `2`
-[clause](clause.md#readme) | Clause number (counted per chapter) | `1` `2`
+[book](book.md#readme) | Full book name | `Matthew` `Mark` ... `Revelation`
+[booknum](booknum.md#readme) | Book number | `1` `2` ...  `27`  
+[bookshort](bookshort.md#readme) | Short book name | `Matt` `Mark` ... `Rev`
+[chapter](chapter.md#readme) | Chapter number inside book | `1` `2` ...
+[clause](clause.md#readme) | Clause number (counted per chapter) | `1` `2` ...
 [monad](monad.md#readme) | Monad | 
 [nodeID](nodeID.md#readme) | Node ID (as in the XML source data) |
 [phrase](phrase.md#readme) | Phrase number (counted per chapter) | 
