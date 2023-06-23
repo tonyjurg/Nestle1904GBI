@@ -4,11 +4,11 @@ Featuretype | Data type | Available for node types
 ---  | --- | --- 
 [`Orthograpic`](home.md#Orthograpic-features) | `string`  | [`word`](wordnodefeatures.md#readme)
 
-## Feature description: 
+## Feature description 
 
 This feature includes either a regular space character or a punctuation mark followed by a regular space character, occurring after a word.
 
-## Feature values: 
+## Feature values 
 
 after | symbol name | Unicode punctuation | Frequency
 ---  | --- | --- | ---
