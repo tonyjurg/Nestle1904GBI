@@ -1,12 +1,13 @@
 # Feature: mood
 
-Datatype: `string`
+Featuretype | Data type | Available for node types
+---  | --- | --- 
+[`Morphological`](home.md#Morphological-features) | `string`  | [`word`](wordnodefeatures.md#readme)
 
-Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
+## Feature description
+Gramatical mood of a verb.
 
-Feature description: Gramatical mood of a verb.
-
-Possible values:
+## Feature values 
 
 mood'short' (TBA) | mood (this feature) | Comment | Frequency
 --- | --- | --- | ---
