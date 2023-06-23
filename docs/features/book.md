@@ -1,10 +1,12 @@
 # Feature: book
 
-Datatype: `string`
+Featuretype | Data type | Available for node types
+---  | --- | --- 
+[`Sectional`](home.md#Sectional-features) | `string`  | [`word`](wordnodefeatures.md#readme) [`book`](booknodefeatures.md#readme)
 
-Available for nodetype(s): [`word`](wordnodefeatures.md#readme) [`book`](booknodefeatures.md#readme)
+## Feature description: 
 
-Feature description: Book name (fully spelled out).
+Book name (fully spelled out).
 
 Possible values:
 
