@@ -1,21 +1,24 @@
 # Feature: ln
 
-Datatype: `string`
+Featuretype | Data type | Available for node types
+---  | --- | --- 
+[`Lexical`](home.md#Lexical-features) | `string`  | [`word`](wordnodefeatures.md#readme)
 
-Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
+## Feature description
+Louw-Nida lexical classification.
 
-Feature description: Louw-Nida lexical classification.
-
-Possible values:
+## Feature values:
 
 ln (this feature) | Comment | Frequency
 --- | --- | ---
 xx.yy  | one or more entries for the Louw-Nida references | 126756
 '' | Empty | 11023
 
+## Interpreting the data
+
 Lookup of values for feature ln in [Louw-Nida Lexicon](https://www.laparola.net/greco/louwnida.php).
 
-Note: some wordnodes lack feature ln. Under investigation.
+## Note
 
 See also: feature [lex_dom](lex_dom.md#readme)
 
