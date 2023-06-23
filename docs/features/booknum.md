@@ -4,11 +4,11 @@ Feature type | Data type | Available for node types
 ---  | --- | --- 
 [`Sectional`](home.md#Sectional-features) | `integer`  | [`word`](wordnodefeatures.md#readme) [`book`](booknodefeatures.md#readme)
 
-## Feature description:  
+## Feature description 
 
 Sequential number of the book within the Greek New Testament corpus.
 
-## Feature values:
+## Feature values
 
 Book number (this feature) | Book short name ([feature: bookshort](bookshort.md#readme)) | Book full name ([feature: book](book.md#readme))
 --- | --- | --- 
