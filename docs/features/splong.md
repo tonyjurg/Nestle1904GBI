@@ -1,12 +1,15 @@
 # Feature: splong
 
-Datatype: `string`
 
-Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
+Feature type | Data type | Available for node types
+---  | --- | --- 
+[`Syntactic`](home.md#Syntactic-features) | `string` | [`word`](wordnodefeatures.md#readme)
 
-Feature description: Full Part of Speech description for each wordtype.
+## Feature description 
 
-Possible values:
+Full Part of Speech description for each wordtype.
+
+## Feature values
 
 Part of Speech Full (this feature) | Label ([feature: sp](sp.md#readme)) | Frequency
 --- | --- | ---
@@ -22,6 +25,7 @@ particle | ptcl | 773
 pronoun | pron | 16177
 verb | verb | 28357
 
+## Note
 See also the description in [MACULA Greek Treebank for the Nestle 1904 Greek New Testament.pdf](https://nbviewer.org/github/biblicalhumanities/greek-new-testament/blob/master/syntax-trees/nestle1904/doc/Nestle%201904%20Treebank%20Documentation.pdf) on page 4 and 5 (section 2.2. Syntactic Categories at Word Level: Part of Speech Labels).
 
 ---
