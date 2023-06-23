@@ -2,7 +2,7 @@
 
 Featuretype | Data type | Available for node types
 ---  | --- | --- 
-[`Grid`](home.md#Grid-features) | `string`  | [`word`](wordnodefeatures.md#readme) [`book`](booknodefeatures.md#readme) ALL!
+[`Grid`](home.md#Grid-features) | `integer`  | [`word`](wordnodefeatures.md#readme) [`book`](booknodefeatures.md#readme) ALL!
 
 ## Feature description 
 
