@@ -1,4 +1,4 @@
-# Features for Nestle1904GBI Text-Fabric Corpus (by type)
+# Features for Nestle1904GBI Text-Fabric Corpus (by feature type)
 ###### Features per: [`Word`](wordnodefeatures.md#readme) [`Phrase`](phrasenodefeatures.md#readme) [`Clause`](clausenodefeatures.md#readme) [`Sentence`](sentencenodefeatures.md#readme) [`Verse`](versenodefeatures.md#readme) [`Chapter`](chapternodefeatures.md#readme) [`Book`](booknodefeatures.md#readme)
 
 This is the key to the meaning of the features of the
