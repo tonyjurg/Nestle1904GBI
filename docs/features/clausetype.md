@@ -1,12 +1,15 @@
 # Feature: clausetype
 
-Datatype: `string`
+Feature type | Data type | Available for node types
+---  | --- | --- 
+[`Syntactic`](home.md#Syntactic-features) | `string` | [`clause`](clausenodefeatures.md#readme)
 
-Available for nodetype(s): [`clause`](clausenodefeatures.md#readme)
+## Feature description
 
-Feature description: Clause type information 
+Clause type information.
 
-Note: Feature under discussion. This will be changed in next versions.
+## Note
+Feature under discussion. This may be changed in next versions.
 
 ---
 ###### [Click here for list of all features](home.md#readme)
