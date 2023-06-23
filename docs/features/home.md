@@ -82,7 +82,7 @@ Name | Description | Examples
 [phrasetype](phrasetype.md#readme) | Phrase type information | 
 [sentencetype](sentencetype.md#readme) | Sentence type information | 
 [sp](sp.md#readme) | Part of Speech (abbreviated) | 
-[sp_full](sp_full.md#readme) | Part of Speech (long description) | 
+[splong](splong.md#readme) | Part of Speech (long description) | 
 
 ## Relational features
 
