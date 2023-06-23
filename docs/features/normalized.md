@@ -1,10 +1,12 @@
 # Feature: normalized
 
-Datatype: `string`
+Featuretype | Data type | Available for node types
+---  | --- | --- 
+[`Orthograpic`](home.md#Orthograpic-features) | `string`  | [`word`](wordnodefeatures.md#readme)
 
-Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
+## Feature description
 
-Feature description: Surface word stripped of punctations.
+Surface word stripped of punctations.
 
 ---
 ###### [Click here for list of all features](home.md#readme)
