@@ -1,6 +1,6 @@
 # Feature: booknum
 
-Featuretype | Data type | Available for node types
+Feature type | Data type | Available for node types
 ---  | --- | --- 
 [`Sectional`](home.md#Sectional-features) | `integer`  | [`word`](wordnodefeatures.md#readme) [`book`](booknodefeatures.md#readme)
 
