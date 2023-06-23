@@ -1,8 +1,8 @@
 # Feature: otext
 
-Featuretype | Data type | Available for node types
----  | --- | --- 
-[`Grid`](home.md#grid-features) | text configuration | not applicable
+Feature group | Feature type | Data type | Available for node types
+---  | --- | --- | ---
+[`Grid`](home.md#grid-features) | | text configuration | not applicable
 
 ## Feature description
 
