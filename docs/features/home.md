@@ -20,9 +20,9 @@ we have:
 
 Name | Description| Examples
 ---|---|---
-[otype](otype.md) | node type | `book` `verse` `clause` `phrase` `word`
 [oslots](oslots.md) | slot containment | `1` `1-11` `2010-2015,2020-2030`
 [otext](otext.md) | textapi | *no data, only specifications*  
+[otype](otype.md) | node type | `book` `verse` `clause` `phrase` `word`
 
 ## Sectional features
 
@@ -31,13 +31,13 @@ Name | Description | Examples
 [book](book.md#readme) | Full book name | `Matthew` `Mark`
 [booknum](booknum.md#readme) | Book number (Matthew=1, ..., Revelation=27) | `1`  `27`  
 [bookshort](bookshort.md#readme) | Short book name | `MATT`
-[clause](clause.md#readme) | Clause number (counted per chapter) | `1` `2`
-[verse](verse.md#readme) | Verse number inside chapter | `1` `2`
 [chapter](chapter.md#readme) | Chapter number inside book | `1` `2`
-[nodeID](nodeID.md#readme) | Node ID (as in the XML source data) |
+[clause](clause.md#readme) | Clause number (counted per chapter) | `1` `2`
 [monad](monad.md#readme) | Monad | 
+[nodeID](nodeID.md#readme) | Node ID (as in the XML source data) |
 [phrase](phrase.md#readme) | Phrase number (counted per chapter) | 
 [sentence](sentence.md#readme) | Sentence number (counted per chapter) | 
+[verse](verse.md#readme) | Verse number inside chapter | `1` `2`
 
 ## Lexical features
 
@@ -45,8 +45,8 @@ Name| Description| Examples
 ---|---|---
 [case](case.md#readme) | Gramatical case | `Nominative` `Genitive` `Dative`
 [degree](degree.md#readme) | Degree of an comparative or superlative adjective |
-[lemma](lemma.md#readme) | Lexical lemma (cf. BDAG) | 
 [gloss_EN](gloss_EN.md#readme) | English gloss | 
+[lemma](lemma.md#readme) | Lexical lemma (cf. BDAG) |
 [lex_dom](lex_dom.md#readme) | Lexical domain according to SDBG | 
 [ln](ln.md#readme) | Louw-Nida lexical classification | 
 [strongs](strongs.md#readme) | Strongs number |
@@ -65,10 +65,10 @@ Name | Description | Examples
 --- | --- | ---
 [formaltag](formaltag.md#readme) | Formal tag (Sandborg-Petersen morphology) | 
 [functionaltag](functionaltag.md) | Functional tag (Sandborg-Petersen morphology) | 
+[gn](gn.md#readme) | Gramatical gender | `Masculine` `Feminine` `Neuter`
+[mood](mood.md#readme) | Gramatical mood of a verb | `Indicative` `Optative `
 [nu](nu.md#readme) | Gramatical number of a noun | `Singular` `Plural`
 [number](number.md#readme) | Gramatical number of a verb | `Singular` `Plural`
-[mood](mood.md#readme) | Gramatical mood of a verb | `Indicative` `Optative `
-[gn](gn.md#readme) | Gramatical gender | `Masculine` `Feminine` `Neuter`
 [person](person.md#readme) | Gramatical person of the verb | `first` `second` `third`
 [tense](tense.md#readme) | Gramatical tense of the verb | `Present` `Aorist`
 [type](type.md#readme) | Gramatical type of noun or pronoun | `Common` `Personal`
@@ -80,12 +80,12 @@ Name | Description | Examples
 --- | --- | ---
 [clauserule](clauserule.md#readme) | Clause rule information | 
 [clausetype](clausetype.md#readme) | Clause type information | `verbless` `elided` `minor`
-[sp](sp.md#readme) | Part of Speech (abbreviated) | 
-[sp_full](sp_full.md#readme) | Part of Speech (long description) | 
 [phrasefunction](phrasefunction.md#readme) | Phrase function (abbreviated) | 
 [phrasefunction_long](phrasefunction_long.md#readme) | Phrase function (long description) | 
 [phrasetype](phrasetype.md#readme) | Phrase type information | 
 [sentencetype](sentencetype.md#readme) | Sentence type information | 
+[sp](sp.md#readme) | Part of Speech (abbreviated) | 
+[sp_full](sp_full.md#readme) | Part of Speech (long description) | 
 
 ## Relational features
 
