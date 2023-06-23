@@ -1,10 +1,12 @@
 # Feature: word
 
-Datatype: `string`
+Featuretype | Data type | Available for node types
+---  | --- | --- 
+[`Orthograpic`](home.md#Orthograpic-features) | `string`  | [`word`](wordnodefeatures.md#readme)
 
-Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
+## Feature description 
 
-Feature description: word as it appears in the text.
+The word as it appears in the text.
 
 ---
 ###### [Click here for list of all features](home.md#readme)
