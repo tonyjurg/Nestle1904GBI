@@ -1,6 +1,6 @@
 # Feature: After
 
-Featuretype | Data type | Nodes
+Featuretype | Data type | Available for node types
 ---  | --- | --- 
 [`Orthograpic`](home.md#orthograpic-features) | `string`  | [`word`](wordnodefeatures.md#readme)
 
