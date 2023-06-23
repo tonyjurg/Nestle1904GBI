@@ -1,3 +1,10 @@
+# Feature: oslots
+
+Featuretype | Data type | Available for node types
+---  | --- | --- 
+[`Grid`](home.md#Grid-features) | `string`  | [`word`](wordnodefeatures.md#readme) [`book`](booknodefeatures.md#readme) ALL!
+
+## Feature description 
 
 The set of slots associated with an object.
 
