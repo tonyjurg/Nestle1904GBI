@@ -1,14 +1,15 @@
 # Feature: degree
 
-Datatype: `string`
+Featuretype | Data type | Available for node types
+---  | --- | --- 
+[`Morphological`](home.md#Morphological-features) | `string`  | [`word`](wordnodefeatures.md#readme)
 
-Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
+## Feature description
+Degree of an comparative or superlative adjective.
 
-Feature description: Degree of an comparative or superlative adjective.
+## Feature values
 
-Possible values:
-
-degree (this feature) | Comment | Frequency
+degree (this feature) | description | Frequency
 --- | --- | ---
 Comparitative | Comparitative adjective | 313
 Superlative | Superlative adjective | 200
