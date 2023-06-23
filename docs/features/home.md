@@ -7,13 +7,14 @@ This is the key to the meaning of the features of the
 We organize the features in several groups, roughly analogous to the [types of objects](otype.md)
 we have:
 
-* [grid](#grid-features)
-* [sectional](#sectional-features)
-* [word](#word-features)
-* [lexeme](#lexeme-features)
-* [linguistic](#linguistic-features)
-* [relationships](#relationships)
-* [generic](#generic-features)
+* [Grid features](#grid-features)
+* [Sectional features](#sectional-features)
+* [Lexical features](#lexical-features)
+* [Orthograpic features](#orthograpic-features)
+* [Morphological features](#morphological-features)
+* [Syntactic features](#syntactic-features)
+* [Relational features](#relational-features)
+* [Statistical features](#statistical-features)
 
 ## Grid features
 
