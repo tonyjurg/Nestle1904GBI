@@ -1,8 +1,8 @@
 # Feature: clauserule
 
-Feature type | Data type | Available for node types
----  | --- | --- 
-[`Syntactic`](home.md#syntactic-features) | `string` | [`clause`](clausenodefeatures.md#readme)
+Feature group | Feature type | Data type | Available for node types
+---  | --- | --- | ---
+[`Syntactic`](home.md#syntactic-features) | `node` | `string` | [`clause`](clausenodefeatures.md#readme)
 
 ## Feature description 
 Clause rule information.
