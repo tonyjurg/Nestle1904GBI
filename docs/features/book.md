@@ -8,7 +8,7 @@ Featuretype | Data type | Available for node types
 
 Book name (fully spelled out).
 
-Possible values:
+## Feature values: 
 
 Book short name ([feature: bookshort](bookshort.md#readme)) | Book full name  (this feature) | Book number ([feature: booknum](booknum.md#readme))
 --- | --- | --- 
