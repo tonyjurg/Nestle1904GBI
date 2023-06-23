@@ -1,8 +1,8 @@
 # Feature: monad
 
-Featuretype | Data type | Available for node types
----  | --- | --- 
-[`Sectional`](home.md#sectional-features) | `string`  | [`word`](wordnodefeatures.md#readme)
+Feature group | Feature type | Data type | Available for node types
+---  | --- | --- | ---
+[`Sectional`](home.md#sectional-features) | `node` | `string`  | [`word`](wordnodefeatures.md#readme)
 
 ## Feature description
 
