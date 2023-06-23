@@ -3,4 +3,4 @@
 
 Feature | Feature type | Data type | Short description
 --- | --- | --- | ---
-[chapter](chapter.md#readme) | [`Sectional`](home.md#Sectional-features) | integer | Chapter number inside book
+[`chapter`](chapter.md#readme) | [`Sectional`](home.md#Sectional-features) | `integer` | Chapter number inside book
