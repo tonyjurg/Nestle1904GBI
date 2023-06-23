@@ -1,8 +1,8 @@
 # Feature: phrase
 
-Feature type | Data type | Available for node types
----  | --- | --- 
-[`Syntactic`](home.md#Syntactic-features) | `integer` | [`word`](wordnodefeatures.md#readme) [`phrase`](phrasenodefeatures.md#readme)
+Feature group | Feature type | Data type | Available for node types
+---  | --- | --- | ---
+[`Syntactic`](home.md#syntactic-features) | `node` | `integer` | [`word`](wordnodefeatures.md#readme) [`phrase`](phrasenodefeatures.md#readme)
 
 ## Feature description
 Phrase number (counted per chapter).
