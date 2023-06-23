@@ -1,10 +1,11 @@
 # Feature: phrase
 
-Datatype: `integer`
+Feature type | Data type | Available for node types
+---  | --- | --- 
+[`Syntactic`](home.md#Syntactic-features) | `integer` | [`word`](wordnodefeatures.md#readme) [`phrase`](phrasenodefeatures.md#readme)
 
-Available for nodetype(s): [`word`](wordnodefeatures.md#readme) [`phrase`](phrasenodefeatures.md#readme)
-
-Feature description: Phrase number (counted per chapter).
+## Feature description
+Phrase number (counted per chapter).
 
 ---
 ###### [Click here for list of all features](home.md#readme)
