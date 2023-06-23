@@ -22,9 +22,5 @@ Feature lex_dom is equivalent to a numerical representation of feature [ln](ln.m
 
 See also feature [ln](ln.md#readme).
 
-This data is not present everywhere.
-
-
-
 ---
 ###### [Click here for list of all features](home.md#readme)
