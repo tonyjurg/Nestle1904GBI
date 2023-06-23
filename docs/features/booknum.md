@@ -6,7 +6,7 @@ Featuretype | Data type | Available for node types
 
 ## Feature description:  
 
-Sequential number of the Book within the Greek New Testament corpus.
+Sequential number of the book within the Greek New Testament corpus.
 
 ## Feature values:
 
