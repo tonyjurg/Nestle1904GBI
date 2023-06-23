@@ -2,7 +2,7 @@
 
 Featuretype | Data type | Available for node types
 ---  | --- | --- 
-[`Lexical`](home.md#Lexical-features) | `string`  | [`word`](wordnodefeatures.md#readme)
+[`Lexical`](home.md#lexical-features) | `string`  | [`word`](wordnodefeatures.md#readme)
 
 ## Feature description
 
