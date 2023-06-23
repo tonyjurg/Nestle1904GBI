@@ -1,12 +1,14 @@
 # Feature: number
 
-Datatype: `string`
+Featuretype | Data type | Available for node types
+---  | --- | --- 
+[`Morphological`](home.md#morphological-features) | `string`  | [`word`](wordnodefeatures.md#readme)
 
-Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
+## Feature description
 
-Feature description: Gramatical number of the verb.
+Gramatical number of the verb.
 
-Possible values:
+## Feature values
 
 number (this feature) | Explanation | Frequency
 --- | --- | ---
