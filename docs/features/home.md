@@ -77,7 +77,6 @@ Name | Description | Examples
 
 Name | Description | Examples
 --- | --- | ---
-
 [clauserule](clauserule.md#readme) | Clause rule information | 
 [clausetype](clausetype.md#readme) | Clause type information | `verbless` `elided` `minor`
 [sp](sp.md#readme) | Part of Speech (abbreviated) | 
