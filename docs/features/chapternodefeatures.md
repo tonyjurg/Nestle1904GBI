@@ -1,6 +1,6 @@
 # Features for chapter nodes in Nestle1904GBI Text-Fabric Corpus
 ###### [Click here for list of all features](home.md#readme)
 
-Feature | Type | Short description
---- | --- | ---
-[chapter](chapter.md#readme) | int | Chapter number inside book
+Feature | Feature type | Data type | Short description
+--- | --- | --- | ---
+[chapter](chapter.md#readme) | [`Sectional`](home.md#Sectional-features) | integer | Chapter number inside book
