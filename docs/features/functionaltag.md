@@ -2,7 +2,7 @@
 
 Feature type | Data type | Available for node types
 ---  | --- | --- 
-[`Morphological`](home.md#Morphological-features) | `string`  | [`word`](wordnodefeatures.md#readme)
+[`Morphological`](home.md#morphological-features) | `string`  | [`word`](wordnodefeatures.md#readme)
 
 ## Feature description
 Functional morphological tag according to Sandborg-Petersen morphology.
