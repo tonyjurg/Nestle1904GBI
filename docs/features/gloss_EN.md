@@ -4,7 +4,7 @@ Featuretype | Data type | Available for node types
 ---  | --- | --- 
 [`Lexical`](home.md#Lexical-features) | `string`  | [`word`](wordnodefeatures.md#readme)
 
-## Feature description: 
+## Feature description
 
 English gloss.
 
