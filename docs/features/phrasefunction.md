@@ -1,8 +1,8 @@
 # Feature: phrasefunction
 
-Feature type | Data type | Available for node types
----  | --- | --- 
-[`Syntactic`](home.md#Syntactic-features) | `string` | [`phrase`](phrasenodefeatures.md#readme)
+Feature group | Feature type | Data type | Available for node types
+---  | --- | --- | ---
+[`Syntactic`](home.md#Syntactic-features) | `node` | `string` | [`phrase`](phrasenodefeatures.md#readme)
 
 ## Feature description
 Phrase function (abbreviated)
