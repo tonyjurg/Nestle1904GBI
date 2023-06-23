@@ -1,8 +1,8 @@
 # Feature: clause
 
-Feature type | Data type | Available for node types
----  | --- | --- 
-[`Sectional`](home.md#sectional-features) | `integer` | [`word`](wordnodefeatures.md#readme)  [`clause`](clausenodefeatures.md#readme)
+Feature group | Feature type | Data type | Available for node types
+---  | --- | --- | ---
+[`Sectional`](home.md#sectional-features) | `node` | `integer` | [`word`](wordnodefeatures.md#readme)  [`clause`](clausenodefeatures.md#readme)
 
 ## Feature description 
 
