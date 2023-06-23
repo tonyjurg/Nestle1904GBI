@@ -1,10 +1,11 @@
 # Feature: lemma
 
-Datatype: `string`
+Featuretype | Data type | Available for node types
+---  | --- | --- 
+[`Lexical`](home.md#Lexical-features) | `string`  | [`word`](wordnodefeatures.md#readme)
 
-Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
-
-Feature description: Lexical lemma. This conforms to Bible Dictionary of Ancient Greek (BDAG) and/or ANLEX by Friberg, Friberg, and Miller.
+## Feature description
+Lexical lemma according to Bible Dictionary of Ancient Greek (BDAG) and/or ANLEX by Friberg, Friberg, and Miller.
 
 ---
 ###### [Click here for list of all features](home.md#readme)
