@@ -2,7 +2,7 @@
 
 Featuretype | Data type | Nodes
 ---  | --- | --- 
-[`Orthograpic`](home.md##orthograpic-features) | `string`  | [`word`](wordnodefeatures.md#readme)
+[`Orthograpic`](home.md#orthograpic-features) | `string`  | [`word`](wordnodefeatures.md#readme)
 
 Feature description: After
 
