@@ -71,7 +71,7 @@ Name | Description | Examples
 [type](type.md#readme) | Gramatical type of noun or pronoun | `Common` `Personal`
 [voice](voice.md#readme) | Gramatical voice of the verb | 
 
-### Syntactic features
+## Syntactic features
 
 Name | Description | Examples
 --- | --- | ---
@@ -90,6 +90,6 @@ Name | Description
 ---|---
 [subj_ref](subj_ref.md#readme) | Subject reference (to nodeID in XML source data, not yet post-processes)
 
-### Statistical features
+## Statistical features
 
 T.B.D. 
