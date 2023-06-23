@@ -1,8 +1,8 @@
 # Feature: nodeID
 
-Featuretype | Data type | Available for node types
----  | --- | --- 
-[`Sectional`](home.md#sectional-features) | `string`  | [`word`](wordnodefeatures.md#readme)
+Feature group | Feature type | Data type | Available for node types
+---  | --- | --- | ---
+[`Sectional`](home.md#sectional-features) | `node` | `string`  | [`word`](wordnodefeatures.md#readme)
 
 ## Feature description 
 Node ID as in the [XML source data](https://github.com/tonyjurg/NA1904/tree/main/resources/sourcedata).
