@@ -9,7 +9,7 @@ Phrase function (long description)
 
 ## Feature values
 
-Long description (this feature) | Abbreviation (feature: [prhasefunction](phrasefunction.md#readme))
+Long description (this feature) | Abbreviation (feature: [phrasefunction](phrasefunction.md#readme))
 --- | --- 
 Adverbial function | ADV
 Indirect Object function | IO
