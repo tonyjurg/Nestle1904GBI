@@ -1,12 +1,12 @@
 # Feature: phrasetype
 
-Datatype: `string`
+Feature group | Feature type | Data type | Available for node types
+---  | --- | --- | --- 
+[`Syntactic`](home.md#syntactic-features) | `node` | `string` | [`phrase`](phrasenodefeatures.md#readme)
 
-Available for nodetype(s): [`phrase`](phrasenodefeatures.md#readme)
+## Feature description 
 
-Feature description: Phrase type information.
-
-Note: work in progress.
+Phrase type information.
 
 ---
 ###### [Click here for list of all features](home.md#readme)
