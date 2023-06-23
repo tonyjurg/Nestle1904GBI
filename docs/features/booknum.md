@@ -2,7 +2,7 @@
 
 Feature type | Data type | Available for node types
 ---  | --- | --- 
-[`Sectional`](home.md#Sectional-features) | `integer`  | [`word`](wordnodefeatures.md#readme) [`book`](booknodefeatures.md#readme)
+[`Sectional`](home.md#sectional-features) | `integer`  | [`word`](wordnodefeatures.md#readme) [`book`](booknodefeatures.md#readme)
 
 ## Feature description 
 
