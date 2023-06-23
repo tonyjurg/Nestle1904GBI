@@ -1,10 +1,12 @@
 # Feature: clause
 
-Datatype: `integer`
+Feature type | Data type | Available for node types
+---  | --- | --- 
+[`Sectional`](home.md#Sectional-features) | `integer` | [`word`](wordnodefeatures.md#readme)  [`clause`](clausenodefeatures.md#readme)
 
-Available for nodetype(s): [`word`](wordnodefeatures.md#readme)  [`clause`](clausenodefeatures.md#readme)
+## Feature description:  
 
-Feature description: Clause number (counted per chapter).
+Clause number (counted per chapter).
 
 ---
 ###### [Click here for list of all features](home.md#readme)
