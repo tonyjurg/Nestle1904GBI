@@ -1,8 +1,8 @@
 # Feature: After
 
-Datatype: `string`
-
-Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
+Featuretype | Data type | Nodes
+---  | --- | --- 
+[`Orthograpic`](home.md##orthograpic-features) | `string`  | [`word`](wordnodefeatures.md#readme)
 
 Feature description: After
 
