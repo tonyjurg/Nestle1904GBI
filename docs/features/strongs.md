@@ -1,8 +1,8 @@
 # Feature: strongs
 
-Featuretype | Data type | Available for node types
----  | --- | --- 
-[`Lexical`](home.md#Lexical-features) | `string`  | [`word`](wordnodefeatures.md#readme)
+Feature group | Feature type | Data type | Available for node types
+---  | --- | --- | ---
+[`Lexical`](home.md#lexical-features) | `node` | `string`  | [`word`](wordnodefeatures.md#readme)
 
 ## Feature description
 Strongs number (optionaly additional TVM number) 
