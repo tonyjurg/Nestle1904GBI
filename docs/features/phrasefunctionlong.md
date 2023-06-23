@@ -1,12 +1,13 @@
 # Feature: phrasefunctionlong
 
-Datatype: `string`
+Feature type | Data type | Available for node types
+---  | --- | --- 
+[`Syntactic`](home.md#Syntactic-features) | `string` | [`phrase`](phrasenodefeatures.md#readme)
 
-Available for nodetype(s): [`phrase`](phrasenodefeatures.md#readme)
+## Feature description 
+Phrase function (long description)
 
-Feature description: Phrase function (long description)
-
-Possible values:
+## Feature values
 
 Long description (this feature) | Abbreviation (feature: [prhasefunction](phrasefunction.md#readme))
 --- | --- 
@@ -18,6 +19,8 @@ Subject function | S
 Predicate function | P
 Verbal function | V
 Verbal Copula function | VC
+
+## Note
 
 See also the description in [MACULA Greek Treebank for the Nestle 1904 Greek New Testament.pdf](https://nbviewer.org/github/biblicalhumanities/greek-new-testament/blob/master/syntax-trees/nestle1904/doc/Nestle%201904%20Treebank%20Documentation.pdf) on page 5 and 6 (section 2.4 Syntactic Categories at Clause Level).
 
