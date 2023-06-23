@@ -1,8 +1,8 @@
 # Feature: oslots
 
-Feature type |  Data type | Available for node types
----  | --- | --- 
-[`Grid`](home.md#grid-features) | `integer`  | [`Word`](wordnodefeatures.md#readme) [`Phrase`](phrasenodefeatures.md#readme) [`Clause`](clausenodefeatures.md#readme) [`Sentence`](sentencenodefeatures.md#readme) [`Verse`](versenodefeatures.md#readme) [`Chapter`](chapternodefeatures.md#readme) [`Book`](booknodefeatures.md#readme)
+Feature group | Feature type |  Data type | Available for node types
+---  | --- | --- | ---
+[`Grid`](home.md#grid-features) | `edge` | `integer`  | [`Word`](wordnodefeatures.md#readme) [`Phrase`](phrasenodefeatures.md#readme) [`Clause`](clausenodefeatures.md#readme) [`Sentence`](sentencenodefeatures.md#readme) [`Verse`](versenodefeatures.md#readme) [`Chapter`](chapternodefeatures.md#readme) [`Book`](booknodefeatures.md#readme)
 
 ## Feature description 
 
