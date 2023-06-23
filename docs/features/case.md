@@ -1,8 +1,8 @@
 # Feature: case
 
-Featuretype | Data type | Available for node types
----  | --- | --- 
-[`Morphological`](home.md#morphological-features) | `string`  | [`word`](wordnodefeatures.md#readme)
+Feature group | Feature type | Data type | Available for node types
+---  | --- | --- | ---
+[`Morphological`](home.md#morphological-features) | `node` | `string`  | [`word`](wordnodefeatures.md#readme)
 
 ## Feature description
 Gramatical case for wordtypes noun, pronoun, adjective, article, or participle.
