@@ -1,7 +1,12 @@
 # Feature: otype
 
-Datatype: `string`
+Featuretype | Data type | Available for node types
+---  | --- | --- 
+[`Grid`](home.md#grid-features) |  configuration | see below
 
+## Feature description
+
+> The following relates to the BHS version of TF. It needs to be adapted!
 **node type**
 
 Types for text objects.
