@@ -1,9 +1,9 @@
 # Feature: splong
 
 
-Feature type | Data type | Available for node types
----  | --- | --- 
-[`Syntactic`](home.md#Syntactic-features) | `string` | [`word`](wordnodefeatures.md#readme)
+Feature group | Feature type | Data type | Available for node types
+---  | --- | --- | ---
+[`Syntactic`](home.md#syntactic-features) | `node` | `string` | [`word`](wordnodefeatures.md#readme)
 
 ## Feature description 
 
