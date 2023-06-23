@@ -20,7 +20,7 @@ Lookup of values for feature ln in [Louw-Nida Lexicon](https://www.laparola.net/
 
 ## Note
 
-See also: feature [lex_dom](lex_dom.md#readme)
+See also: feature [lex_dom](lex_dom.md#readme) (Lexical Domain).
 
 ---
 ###### [Click here for list of all features](home.md#readme)
