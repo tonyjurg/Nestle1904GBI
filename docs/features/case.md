@@ -1,12 +1,13 @@
 # Feature: case
 
-Datatype: `string`
+Featuretype | Data type | Available for node types
+---  | --- | --- 
+[`Morphological`](home.md#morphological-features) | `string`  | [`word`](wordnodefeatures.md#readme)
 
-Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
+## Feature description: 
+Gramatical case for wordtypes noun, pronoun, adjective, article, or participle.
 
-Feature description: Gramatical case for wordtypes noun, pronoun, adjective, article, or participle.
-
-Possible values:
+## Feature values:
 
 case 'short' (TBA) | case (this feature) | explanation | Frequency
 --- | --- | --- | ---
