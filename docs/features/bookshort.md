@@ -1,12 +1,14 @@
 # Feature: bookshort
 
-Datatype: `string`
+Featuretype | Data type | Available for node types
+---  | --- | --- 
+[`Sectional`](home.md#Sectional-features) | `string`  | [`word`](wordnodefeatures.md#readme) [`book`](booknodefeatures.md#readme)
 
-Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
+## Feature description: 
 
-Feature description: Book name (abbreviated)
+Book name (abbreviated)
 
-Possible values:
+## Feature values:
 
 Book short name (this feature) | book full name ([feature: book](book.md#readme)) | Book number ([feature: booknum](booknum.md#readme))
 --- | --- | --- 
