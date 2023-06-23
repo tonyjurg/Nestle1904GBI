@@ -2,7 +2,7 @@
 
 Feature type | Data type | Available for node types
 ---  | --- | --- 
-[`Syntactic`](home.md#Syntactic-features) | `string` | [`clause`](clausenodefeatures.md#readme)
+[`Syntactic`](home.md#syntactic-features) | `string` | [`clause`](clausenodefeatures.md#readme)
 
 ## Feature description 
 Clause rule information.
