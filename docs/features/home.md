@@ -1,45 +1,98 @@
-# All Text-Fabric Corpus Features for Nestle1904GBI Text-Fabric Corpus
+# Features for Nestle1904GBI Text-Fabric Corpus (by type)
 ###### Features per: [`Word`](wordnodefeatures.md#readme) [`Phrase`](phrasenodefeatures.md#readme) [`Clause`](clausenodefeatures.md#readme) [`Sentence`](sentencenodefeatures.md#readme) [`Verse`](versenodefeatures.md#readme) [`Chapter`](chapternodefeatures.md#readme) [`Book`](booknodefeatures.md#readme)
 
-Feature | Type | Short description
+This is the key to the meaning of the features of the
+[Nestle 1904 GBI dataset]({{repo}}).
+
+We organize the features in several groups, roughly analogous to the [types of objects](otype.md)
+we have:
+
+* [grid](#grid-features)
+* [sectional](#sectional-features)
+* [word](#word-features)
+* [lexeme](#lexeme-features)
+* [linguistic](#linguistic-features)
+* [relationships](#relationships)
+* [generic](#generic-features)
+
+## Grid features
+
+Name | Description| Examples
+---|---|---
+[otype](otype.md) | node type | `book` `verse` `clause` `phrase` `word`
+[oslots](oslots.md) | slot containment | `1` `1-11` `2010-2015,2020-2030`
+[otext](otext.md) | textapi | *no data, only specifications*  
+
+## Sectional features
+
+Name | Description | Examples
+---|---|---
+[book](book.md#readme) | Full book name | `Matthew` `Mark`
+[booknum](booknum.md#readme) | Book number (Matthew=1, ..., Revelation=27) | `1`  `27`  
+[bookshort](bookshort.md#readme) | Short book name | `MATT`
+[clause](clause.md#readme) | Clause number (counted per chapter) | `1` `2`
+[verse](verse.md#readme) | Verse number inside chapter | `1` `2`
+[chapter](chapter.md#readme) | Chapter number inside book | `1` `2`
+[nodeID](nodeID.md#readme) | Node ID (as in the XML source data) |
+[monad](monad.md#readme) | Monad | 
+[phrase](phrase.md#readme) | Phrase number (counted per chapter) | 
+[sentence](sentence.md#readme) | Sentence number (counted per chapter) | 
+
+## Lexical features
+
+Name| Description| Examples
+---|---|---
+[case](case.md#readme) | Gramatical case | `Nominative` `Genitive` `Dative`
+[degree](degree.md#readme) | Degree of an comparative or superlative adjective |
+[lemma](lemma.md#readme) | Lexical lemma (cf. BDAG) | 
+[gloss_EN](gloss_EN.md#readme) | English gloss | 
+[lex_dom](lex_dom.md#readme) | Lexical domain according to SDBG | 
+[ln](ln.md#readme) | Louw-Nida lexical classification | 
+[strongs](strongs.md#readme) | Strongs number |
+
+## Orthograpic features
+
+Name | Description | Examples
 --- | --- | ---
-[after](after.md#readme) | str | Space or punctuation after word
-[book](book.md#readme) | str | Full book name (fully spelled out)
-[booknum](booknum.md#readme) | int | Book number (Matthew=1, Mark=2, ..., Revelation=27)
-[bookshort](bookshort.md#readme) | str | Short book name (abbreviated)
-[case](case.md#readme) | str | Gramatical case (Nominative, Genitive, Dative, Accusative, Vocative)
-[chapter](chapter.md#readme) | int | Chapter number inside book
-[clause](clause.md#readme) | int | Clause number (counted per chapter)
-[clauserule](clauserule.md#readme) | str | Clause rule information
-[clausetype](clausetype.md#readme) | str | Clause type information (verb, verbless, elided, minor, etc.)
-[degree](degree.md#readme) | str | Degree of an comparative or superlative adjective.
-[formaltag](formaltag.md#readme) | str | Formal tag (Sandborg-Petersen morphology)
-[functionaltag](functionaltag.md) | str | Functional tag (Sandborg-Petersen morphology)
-[gloss_EN](gloss_EN.md#readme) | str | English gloss
-[gn](gn.md#readme) | str | Gramatical gender (Masculine, Feminine, Neuter)
-[lemma](lemma.md#readme) | str | Lexical lemma (cf. BDAG)
-[lex_dom](lex_dom.md#readme) | str | Lexical domain according to Semantic Dictionary of Biblical Greek, SDBG (not present everywhere)
-[ln](ln.md#readme) | str | Louw-Nida lexical classification (not present everywhere)
-[monad](monad.md#readme) | int | Monad
-[mood](mood.md#readme) | str | Gramatical mood of a verb (Indicative, Optative, etc)
-[nodeID](nodeID.md#readme) | str | Node ID (as in the XML source data, not yet post-processes)
-[normalized](normalized.md#readme) | str | Surface word stripped of punctations
-[nu](nu.md#readme) | str | Gramatical number of a noun (Singular, Plural)
-[number](number.md#readme) | str | Gramatical number of a verb (Singular, Plural)
-[otype](otype.md#readme) | str | - 
-[person](person.md#readme) | str | Gramatical person of the verb (first, second, third)
-[phrase](phrase.md#readme) | int | Phrase number (counted per chapter)
-[phrasefunction](phrasefunction.md#readme) | str | Phrase function (abbreviated)
-[phrasefunction_long](phrasefunction_long.md#readme) | str | Phrase function (long description)
-[phrasetype](phrasetype.md#readme) | str | Phrase type information
-[sentence](sentence.md#readme) | int | Sentence number (counted per chapter)
-[sentencetype](sentencetype.md#readme) | str |  Sentence type information
-[sp](sp.md#readme) | str | Part of Speech (abbreviated)
-[sp_full](sp_full.md#readme) | str | Part of Speech (long description)
-[strongs](strongs.md#readme) | str | Strongs number
-[subj_ref](subj_ref.md#readme) | str | Subject reference (to nodeID in XML source data, not yet post-processes)
-[tense](tense.md#readme) | str | Gramatical tense of the verb (e.g. Present, Aorist)
-[type](type.md#readme) | str | Gramatical type of noun or pronoun (e.g. Common, Personal)
-[verse](verse.md#readme) | int | Verse number inside chapter
-[voice](voice.md#readme) | str | Gramatical voice of the verb
-[word](word.md#readme) | str | Word as it appears in the text
+[after](after.md#readme) | Space or punctuation after word | 
+[normalized](normalized.md#readme) | Surface word stripped of punctations |
+[word](word.md#readme) | Word as it appears in the text
+
+## Morphological features
+
+Name | Description | Examples
+--- | --- | ---
+[formaltag](formaltag.md#readme) | Formal tag (Sandborg-Petersen morphology) | 
+[functionaltag](functionaltag.md) | Functional tag (Sandborg-Petersen morphology) | 
+[nu](nu.md#readme) | Gramatical number of a noun | `Singular` `Plural`
+[number](number.md#readme) | Gramatical number of a verb | `Singular` `Plural`
+[mood](mood.md#readme) | Gramatical mood of a verb | `Indicative` `Optative `
+[gn](gn.md#readme) | Gramatical gender | `Masculine` `Feminine` `Neuter`
+[person](person.md#readme) | Gramatical person of the verb | `first` `second` `third`
+[tense](tense.md#readme) | Gramatical tense of the verb | `Present` `Aorist`
+[type](type.md#readme) | Gramatical type of noun or pronoun | `Common` `Personal`
+[voice](voice.md#readme) | Gramatical voice of the verb | 
+
+### Syntactic features
+
+Name | Description | Examples
+--- | --- | ---
+
+[clauserule](clauserule.md#readme) | Clause rule information | 
+[clausetype](clausetype.md#readme) | Clause type information | `verbless` `elided` `minor`
+[sp](sp.md#readme) | Part of Speech (abbreviated) | 
+[sp_full](sp_full.md#readme) | Part of Speech (long description) | 
+[phrasefunction](phrasefunction.md#readme) | Phrase function (abbreviated) | 
+[phrasefunction_long](phrasefunction_long.md#readme) | Phrase function (long description) | 
+[phrasetype](phrasetype.md#readme) | Phrase type information | 
+[sentencetype](sentencetype.md#readme) | Sentence type information | 
+
+## Relational features
+
+Name | Description
+---|---
+[subj_ref](subj_ref.md#readme) | Subject reference (to nodeID in XML source data, not yet post-processes)
+
+### Statistical features
+
+T.B.D. 
