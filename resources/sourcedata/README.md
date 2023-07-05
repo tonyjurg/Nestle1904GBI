@@ -1,8 +1,8 @@
 # Sourcedata
 
 This directory contains a copy of the GBI trees XML files used for the conversion. There are two versions:
-* [October 27, 2022](apr_6_2023)
-* [April 6, 2023](apr_6_2023)
+* [October 27, 2022](apr_6_2023#readme)
+* [April 6, 2023](apr_6_2023#readme)
 
 These set of files can be used in combination with the converter to recreate the TextFabric product.
 
