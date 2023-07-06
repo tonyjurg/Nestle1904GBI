@@ -19,7 +19,7 @@ Name | Description| Examples
 ---|---|---
 [oslots](oslots.md) | slot containment | `1` `1-11` `2010-2015,2020-2030`
 [otext](otext.md) | configuration for sections, structure, and text formats (textapi) | *no data, only specifications*  
-[otype](otype.md) | node type | `book` `verse` `clause` `phrase` `word`
+[otype](otype.md) | Object definitons of nodes | `book` `verse` `clause` `phrase` `word`
 
 ## Sectional features
 
