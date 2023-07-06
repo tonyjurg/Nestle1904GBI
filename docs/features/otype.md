@@ -9,10 +9,8 @@ Feature group | Feature type | Data type | Available for node types
 > The following relates to the BHS version of TF. It needs to be adapted!
 **node type**
 
-Types for text objects.
-As text objects are represented by nodes in
-[Text-Fabric]({{tfd}}),
-we shall use both *object* and *node* without much consistency.  
+Definition of object types.
+ 
 
 type|kind|description
 ---|---|---
@@ -37,7 +35,7 @@ type|description
 # Section types
 
 The section types correspond to the various divisional units in the Bible.
-The Hebrew Bible is divided in books, books are divided in chapters, chapters are divided in verses, and verses in half-verses.
+The Greek New Testament is divided in books, books are divided in chapters, chapters are divided in verses, and verses in half-verses.
 The sectional types
 `book`, `chapter`, `verse`, and `half_verse`
 specify features which indicate which book, chapter, verse, half-verse their objects refer to.
@@ -48,7 +46,7 @@ It carries also the [book](book.md) feature to indicate the book of which it is 
 Analogously, the `verse` object carries the [verse](verse.md) feature, which contains the number of the chapter,
 and the [book](book.md) and [chapter](chapter.md) features.
 Additionally, the `verse` object also carries [label](label.md), which contains a label string indicating the passage.
-However, the `half_verse` object only carries the [half_verse](label.md) feature, which contains a key for the half-verse.
+
 
 # Word type
 
@@ -59,55 +57,7 @@ Words are not identified with strings, because there are various
 string representations of the words, none of which is canonical. All word occurrences are numbered
 with a slot number.
 
-There are many features that have related forms, e.g. `vbe`, `g_vbe` and `g_vbe_utf8`.
-The `g_` versions have *graphical* values, meaning that it contains the *pointing*,
-i.e. all diacritics that occur in the full text.
-For the purpose if this documentation, we shall use the contrast *consonantal* (without diacritics)
-and *pointed* (with diacritics).
-The `_utf8` versions contain UNICODE representations of the values, using the Hebrew code block.
-The non `_utf8` versions contain ASCII representations of the values, according to the
-[BHSA transliteration]({{tfd}}/writing/hebrew.html).
 
-The text of a word occurrence is in
-[g_word](g_word.md) (pointed, transliterated) and [g_word_utf8](g_word_utf8.md) (pointed, Hebrew),
-[g_cons](g_cons.md) (consonantal, transliterated) and [g_cons_utf8](g_cons_utf8.md) (consonantal, Hebrew).
-None of these features contains material from in between words.
-In order to get inter-word material, use 
-[trailer_utf8](trailer_utf8.md).
-
-Word occurrences corresponds to lexemes, i.e. dictionary entries, for which we have a separate object type.
-For the textual representation of lexemes we have a variety of features, in order to get their 
-consonantal values:
-
-code|description
----|---
-[lex](lex.md) | transcription
-[lex0](lex0.md) | transcription without disambiguation characters at the end
-[lex_utf8](lex_utf8.md) | Hebrew
-
-or their vocalized values:
-
-code|description
----|---
-[g_lex](g_lex.md) | transcription
-[g_lex_utf8](g_lex_utf8.md) | Hebrew
-
-# Lexeme type
-
-The type `lex` corresponds to lexemes. A lexeme object occupies the slots of all its occurrences.
-It does not fit into the hierarchy, because these objects will very rarely lie embedded in another object.
-Except if a lexeme is rare.
-
-##### Hint
-> Have a look at
-[start]({{tut}}/start.ipynb).
-so see how you could exploit this object type to find
-lexemes that are unique to books or chapters very easily.
-
-##### Caution
-> Precisely because of the non-embedding of lexemes in other object types, its use
-in MQL queries is limited. In Text-Fabric there are no problems.
-See the note in [gloss](gloss.md).
 
 # Linguistic types
 
