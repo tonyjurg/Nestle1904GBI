@@ -60,8 +60,8 @@ Name | Description | Examples
 --- | --- | ---
 [case](case.md#readme) | Gramatical case | `Nominative` `Genitive` `Dative`
 [degree](degree.md#readme) | Degree of an comparative or superlative adjective |
-[formaltag](formaltag.md#readme) | Formal tag (Sandborg-Petersen morphology) | 
-[functionaltag](functionaltag.md) | Functional tag (Sandborg-Petersen morphology) | 
+[formaltag](formaltag.md#readme) | Formal tag (Sandborg-Petersen morphology) | `N-GSM` `CONJ`
+[functionaltag](functionaltag.md) | Functional tag (Sandborg-Petersen morphology) | `V-AAI-3S`
 [gn](gn.md#readme) | Gramatical gender | `Masculine` `Feminine` `Neuter`
 [mood](mood.md#readme) | Gramatical mood of a verb | `Indicative` `Optative `
 [nu](nu.md#readme) | Gramatical number of a noun | `Singular` `Plural`
