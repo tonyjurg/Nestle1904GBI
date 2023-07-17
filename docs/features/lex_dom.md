@@ -1,7 +1,7 @@
 # Feature: lex_dom
 
 Feature group | Feature type | Data type | Available for node types
----  | --- | --- 
+---  | --- | --- | ---
 [`Lexical`](home.md#lexical-features) | `node` | `string`  | [`word`](wordnodefeatures.md#readme)
 
 ## Feature description
