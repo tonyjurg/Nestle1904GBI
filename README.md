@@ -9,7 +9,7 @@ The source data for the conversion are the XML node files representing the macul
 The following directories contain the Text-Fabric data:
  * [app](app#readme): app config data.
  * [tf](tf#readme): the actual dataset.
- * [doc](docs/home.md#readme): the documentation for the dataset (it is also the root for the github pages for this project).
+ * [doc](docs/home.md#readme): the documentation for the dataset (it is also the root for the [github pages](https://tonyjurg.github.io/Nestle1904GBI/) for this project).
  
  Additionaly provided:
  * [resources](resources#readme): data and tools used for production.
