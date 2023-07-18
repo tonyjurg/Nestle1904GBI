@@ -1,6 +1,6 @@
-# Text-Fabric Nestle 1904 Greek New Testament (based on GBI XML node)
+[![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
 
-### Notice: this is an ongoing project. ###
+# Text-Fabric Nestle 1904 Greek New Testament (based on GBI XML node)
 
 See Jupyter Notebook of conversion process on [nbviewer](https://nbviewer.org/github/tonyjurg/NA1904/blob/1d314c138e67aa0e9ed8387c4d9cb92687c56b01/resources/converter/CreateTFfromXML.ipynb).
 
