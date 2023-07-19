@@ -20,7 +20,7 @@ The following example Jupyter Notebooks contain use cases for this Text-Fabric d
 
 ## Syntactical 
 
-* [Genitive_objectivus_or_subjectivus](https://nbviewer.org/github/tonyjurg/Nestle1904GBI/blob/main/docs/usecases/genitive_objectivus_or_subjectivus.ipynb)
+* [Genitive objectivus or subjectivus](https://nbviewer.org/github/tonyjurg/Nestle1904GBI/blob/main/docs/usecases/genitive_objectivus_or_subjectivus.ipynb)
 * [The Granville Sharp rule](https://nbviewer.org/github/tonyjurg/Nestle1904GBI/blob/main/docs/usecases/Granville_Sharp_rule.ipynb)
 * [Articulated proper nouns](https://nbviewer.org/github/tonyjurg/Nestle1904GBI/blob/main/docs/usecases/articulated_proper_nouns.ipynb)
 * [Constituents order and phrase structure](https://nbviewer.org/github/tonyjurg/Nestle1904GBI/blob/main/docs/usecases/constituents_order_and_phrase_structure.ipynb)
