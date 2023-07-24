@@ -13,7 +13,7 @@ Feature | Feature group |Data type | Short description
 [degree](degree.md#readme) | [`Morphological`](home.md#morphological-features) | `string` | Degree of an comparative or superlative adjective
 [formaltag](formaltag.md#readme) | [`Morphological`](home.md#morphological-features) | `string` | Formal tag (Sandborg-Petersen morphology)
 [functionaltag](functionaltag.md#readme) | [`Morphological`](home.md#morphological-features)| `string` | Functional tag (Sandborg-Petersen morphology)
-[gloss_EN](gloss_EN.md#readme) | [`Lexical`](home.md#lexical-features) | `string` | English gloss
+[gloss](gloss.md#readme) | [`Lexical`](home.md#lexical-features) | `string` | English gloss
 [gn](gn.md#readme) | [`Morphological`](home.md#morphological-features) | `string` | Gramatical gender (Masculine, Feminine, Neuter)
 [lemma](lemma.md#readme) | [`Lexical`](home.md#lexical-features) | `string` | Lexeme (lemma)
 [lex_dom](lex_dom.md#readme) | [`Lexical`](home.md#lexical-features) | `string` | Lexical domain according to Semantic Dictionary of Biblical Greek, SDBG
