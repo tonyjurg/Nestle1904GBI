@@ -22,7 +22,7 @@ typeDisplay:
     style: ""
   word:
     featuresBare:
-      - gloss_EN
+      - gloss
     features:
       - lemma
       - strongs
@@ -37,7 +37,7 @@ interfaceDefaults:
   # used by tf browser
 provenanceSpec:
   corpus: "Nestle 1904 (GBI nodes)"
-  version: "0.3"
+  version: "0.4"
   org: "tonyjurg"
   repro: "Nestle1904GBI"
   webUrl: "https://bibleol.3bmoodle.dk/text/show_text/nestle1904/<1>/<2>/<3>"
