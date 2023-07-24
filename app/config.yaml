@@ -11,6 +11,7 @@ dataDisplay:
   - ''
   excludedFeatures:
   - reference
+  textFormat: text-orig-full
 # sectionSep1: #this is to display sections well in table
 # sectionSep2: #this is to display sections well in table
 # showVerseInTuple: 
@@ -41,4 +42,4 @@ provenanceSpec:
   org: "tonyjurg"
   repro: "Nestle1904GBI"
   webUrl: "https://bibleol.3bmoodle.dk/text/show_text/nestle1904/<1>/<2>/<3>"
-
+writing: grc
