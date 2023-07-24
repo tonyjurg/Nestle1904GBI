@@ -5,6 +5,7 @@ The following example Jupyter Notebooks contain use cases for this Text-Fabric d
 ## Basic / general
 
 * [Load Text-Fabric in Jupyter notebook](https://nbviewer.org/github/tonyjurg/Nestle1904GBI/blob/main/docs/usecases/load_text_fabric.ipynb)
+* [Start Text-Fabric browser in Jupyter notebook](https://nbviewer.org/github/tonyjurg/Nestle1904GBI/blob/main/docs/usecases/starting_tf_browser.ipynb)
 * [Print a specific verse](https://nbviewer.org/github/tonyjurg/Nestle1904GBI/blob/main/docs/usecases/print_verse.ipynb)
 * [Some system statistics](https://nbviewer.org/github/tonyjurg/Nestle1904GBI/blob/main/docs/usecases/Some_system_statistics.ipynb)
 * [Some corpus statistics](https://nbviewer.org/github/tonyjurg/Nestle1904GBI/blob/main/docs/usecases/Some_corpus_statistics.ipynb)
