@@ -38,7 +38,7 @@ typeDisplay:
     label: '#{phrase}'
     style: ""
 interfaceDefaults:
-  fmt: layout-orig-full
+  fmt: text-orig-full
   # used by tf browser
 provenanceSpec:
   corpus: "Nestle 1904 (GBI nodes)"
