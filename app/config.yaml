@@ -17,6 +17,10 @@ dataDisplay:
 # showVerseInTuple: 
 # textFormats:
 # docs: reference to transcription.md
+docs:
+  docPage: about
+  featureBase: '{docBase}/transcription.md'
+  featurePage: transcription
 typeDisplay:
   book:
     label: '{book}'
