@@ -1,4 +1,4 @@
-# Feature: gloss_EN
+# Feature: gloss
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | ---
