@@ -40,7 +40,7 @@ Name | Description | Examples
 
 Name| Description| Examples
 ---|---|---
-[gloss_EN](gloss_EN.md#readme) | English gloss | 
+[gloss](gloss.md#readme) | English gloss | 
 [lemma](lemma.md#readme) | Lexical lemma (cf. BDAG) |
 [lex_dom](lex_dom.md#readme) | Lexical domain according to SDBG | 
 [ln](ln.md#readme) | Louw-Nida lexical classification | 
