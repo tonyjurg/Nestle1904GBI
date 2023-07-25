@@ -1,6 +1,8 @@
 # Examples of using the Text-Fabric dataset
 
-The following example Jupyter Notebooks contain use cases for this Text-Fabric dataset. The Notebooks are grouped, somewhat arbitrarily, based on focus areas. **Please note that some of these notebooks are still under development.**
+The following example Jupyter Notebooks contain use cases and demonstrations for this Text-Fabric dataset. The Notebooks are grouped, somewhat arbitrarily, based on specific focus areas and topics.
+
+**Please note that some of these notebooks are still under development.**
 
 ## Basic / general
 
