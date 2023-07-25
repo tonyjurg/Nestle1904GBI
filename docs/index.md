@@ -11,8 +11,8 @@ See [here](https://archive.org/details/the-greek-new-testament-nestle-1904-us-ed
 
 ## Sections on this site
 
-[About Text-Fabric](tf.md)
-[About this dataset](about.md)
-[feature descriptions](features/home.md)
-[using Text-Fabric](usage.md)
-[Provenance, Legal Notes, and License](legal.md)
+* [About Text-Fabric](tf.md)
+* [About this dataset](about.md)
+* [Feature descriptions](features/home.md)
+* [Using Text-Fabric](usage.md)
+* [Provenance, Legal Notes, and License](legal.md)
