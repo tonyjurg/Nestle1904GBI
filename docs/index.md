@@ -9,6 +9,6 @@ Input to this conversion are the XML node files representing the macula-greek fo
 
 See [here](https://archive.org/details/the-greek-new-testament-nestle-1904-us-edition/mode/2up) a scan of the orginal publication: Nestle, Eberhard. Η Καινή Διαθήκη Novum Testamentum Graece (New York: Fleming H. Revell Company, 1904).
 
-## Text Fabric
+## Text-Fabric
 
 [feature descriptions](features/home.md)
