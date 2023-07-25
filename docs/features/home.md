@@ -78,7 +78,7 @@ Name | Description | Examples
 [clauserule](clauserule.md#readme) | Clause rule information | 
 [clausetype](clausetype.md#readme) | Clause type information | `verbless` `elided` `minor`
 [phrasefunction](phrasefunction.md#readme) | Phrase function (abbreviated) | 
-[phrasefunction_long](phrasefunction_long.md#readme) | Phrase function (long description) | 
+[phrasefunctionlong](phrasefunctionlong.md#readme) | Phrase function (long description) | 
 [phrasetype](phrasetype.md#readme) | Phrase type information | 
 [sentencetype](sentencetype.md#readme) | Sentence type information | 
 [sp](sp.md#readme) | Part of Speech (abbreviated) | 
