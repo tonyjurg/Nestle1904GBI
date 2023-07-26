@@ -9,7 +9,7 @@ Degree of an comparative or superlative adjective.
 
 ## Feature values
 
-degree (this feature) | description | Frequency
+Values| Description | Frequency
 --- | --- | ---
 Comparitative | Comparitative adjective | 313
 Superlative | Superlative adjective | 200
