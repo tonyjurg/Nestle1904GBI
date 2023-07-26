@@ -1,8 +1,10 @@
 # Features for Nestle1904GBI Text-Fabric Corpus (by feature type)
 ###### Features per: [`Word`](wordnodefeatures.md#readme) [`Phrase`](phrasenodefeatures.md#readme) [`Clause`](clausenodefeatures.md#readme) [`Sentence`](sentencenodefeatures.md#readme) [`Verse`](versenodefeatures.md#readme) [`Chapter`](chapternodefeatures.md#readme) [`Book`](booknodefeatures.md#readme)
 
+In Text-Fabric, a "feature" refers to attributes associated with nodes, which represent linguistic elements in the text, including words, word groups, sentences, and verses. These features contain additional information specific to these nodes, facilitating diverse linguistic analyses and data extraction.
+
 This is the key to the meaning of the features of the
-[Nestle 1904 GBI dataset](https://github.com/tonyjurg/Nestle1904GBI). The available features can be taken together in the following groups: 
+[Nestle 1904 GBI dataset](https://github.com/tonyjurg/Nestle1904GBI). The available features can be taken grouped together as follows: 
 
 * [Grid features](#grid-features)
 * [Sectional features](#sectional-features)
@@ -11,7 +13,6 @@ This is the key to the meaning of the features of the
 * [Morphological features](#morphological-features)
 * [Syntactic features](#syntactic-features)
 * [Relational features](#relational-features)
-* [Statistical features](#statistical-features)
 
 ## Grid features
 
@@ -78,7 +79,7 @@ Name | Description | Examples
 [clauserule](clauserule.md#readme) | Clause rule information | 
 [clausetype](clausetype.md#readme) | Clause type information | `verbless` `elided` `minor`
 [phrasefunction](phrasefunction.md#readme) | Phrase function (abbreviated) | 
-[phrasefunction_long](phrasefunction_long.md#readme) | Phrase function (long description) | 
+[phrasefunctionlong](phrasefunctionlong.md#readme) | Phrase function (long description) | 
 [phrasetype](phrasetype.md#readme) | Phrase type information | 
 [sentencetype](sentencetype.md#readme) | Sentence type information | 
 [sp](sp.md#readme) | Part of Speech (abbreviated) | 
@@ -89,7 +90,3 @@ Name | Description | Examples
 Name | Description
 ---|---
 [subj_ref](subj_ref.md#readme) | Subject reference (to nodeID in XML source data, not yet post-processes)
-
-## Statistical features
-
-T.B.D. 

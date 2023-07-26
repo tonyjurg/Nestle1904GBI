@@ -6,12 +6,8 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-> The following relates to the BHS version of TF. It needs to be adapted!
-**node type**
-
 Definition of object types.
  
-
 type|kind|description
 ---|---|---
 `word`         |slot          |single word, fills a *slot*; sometimes words are not separated by a space
@@ -45,8 +41,6 @@ A `chapter` object carries the [chapter](chapter.md) feature, which contains the
 It carries also the [book](book.md) feature to indicate the book of which it is a chapter.
 Analogously, the `verse` object carries the [verse](verse.md) feature, which contains the number of the chapter,
 and the [book](book.md) and [chapter](chapter.md) features.
-Additionally, the `verse` object also carries [label](label.md), which contains a label string indicating the passage.
-
 
 # Word type
 
@@ -57,17 +51,9 @@ Words are not identified with strings, because there are various
 string representations of the words, none of which is canonical. All word occurrences are numbered
 with a slot number.
 
-
-
 # Linguistic types
 
 Linguistic types correspond to syntactical entities such as sentences, clauses and phrases.
-The BHSA distinguishes between *functional* and *distributional* variants of them.
-The functional object types are `sentence`, `clause`, and `phrase`.
-They correspond to possibly discontinuous stretches of text that function as a unit.
-The distributional object types are `sentence_atom`, `clause_atom`, and `phrase_atom`.
-They are continuous stretches of text within their functional counterparts.
-So the functional objects consist of sequences of the corresponding distributional objects, and any gaps in
-the functional object fall neatly between their distributional atoms.
+
 
 
