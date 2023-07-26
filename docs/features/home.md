@@ -13,7 +13,6 @@ This is the key to the meaning of the features of the
 * [Morphological features](#morphological-features)
 * [Syntactic features](#syntactic-features)
 * [Relational features](#relational-features)
-* [Statistical features](#statistical-features)
 
 ## Grid features
 
@@ -91,7 +90,3 @@ Name | Description | Examples
 Name | Description
 ---|---
 [subj_ref](subj_ref.md#readme) | Subject reference (to nodeID in XML source data, not yet post-processes)
-
-## Statistical features
-
-T.B.D. 
