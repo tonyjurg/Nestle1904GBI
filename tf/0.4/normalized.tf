@@ -6,7 +6,6 @@
 @Converter version=0.4
 @Convertor source=https://github.com/tonyjurg/Nestle1904GBI/tree/main/resources/converter
 @Data source=MACULA Greek Linguistic Datasets, available at https://github.com/Clear-Bible/macula-greek/tree/main/Nestle1904/nodes
-@Description=Surface word stripped of punctations
 @Editors=Eberhart Nestle (1904)
 @Source description=Greek New Testment (British Foreign Bible Society, 1904)
 @Source format=XML (GBI tree node data)
@@ -14,9 +13,10 @@
 @Title=Greek New Testament (Nestle 1904 GBI)
 @XML source date=April 6, 2023
 @XML source location=https://github.com/tonyjurg/Nestle1904GBI/tree/main/resources/sourcedata/apr_6_2023
+@description=Surface word stripped of punctations
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-07-24T14:27:14Z
+@dateWritten=2023-07-26T14:46:57Z
 
 Βίβλος
 γενέσεως
