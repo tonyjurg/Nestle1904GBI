@@ -1,8 +1,10 @@
 # Features for Nestle1904GBI Text-Fabric Corpus (by feature type)
 ###### Features per: [`Word`](wordnodefeatures.md#readme) [`Phrase`](phrasenodefeatures.md#readme) [`Clause`](clausenodefeatures.md#readme) [`Sentence`](sentencenodefeatures.md#readme) [`Verse`](versenodefeatures.md#readme) [`Chapter`](chapternodefeatures.md#readme) [`Book`](booknodefeatures.md#readme)
 
+In Text-Fabric, a "feature" refers to attributes associated with nodes, which represent linguistic elements in the text, including words, word groups, sentences, and verses. These features contain additional information specific to these nodes, facilitating diverse linguistic analyses and data extraction.
+
 This is the key to the meaning of the features of the
-[Nestle 1904 GBI dataset](https://github.com/tonyjurg/Nestle1904GBI). The available features can be taken together in the following groups: 
+[Nestle 1904 GBI dataset](https://github.com/tonyjurg/Nestle1904GBI). The available features can be taken grouped together as follows: 
 
 * [Grid features](#grid-features)
 * [Sectional features](#sectional-features)
