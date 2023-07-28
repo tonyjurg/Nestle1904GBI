@@ -6,7 +6,7 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-Surface word stripped of punctations.
+Normalized Greek text (changed accents and diacritics to their standard forms). Also trailing punctuations are removed.
 
 ---
 ###### [Click here for list of all features](home.md#readme)
