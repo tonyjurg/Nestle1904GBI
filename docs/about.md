@@ -40,9 +40,11 @@ Text-Fabric implementation | Starting data | Production tool | Syntactic informa
 [tfgreek2](https://github.com/saulocantanhede/tfgreek2) | [‘Low Fat Tree’](https://github.com/tonyjurg/Nestle1904LFT/tree/main/resources/xml) | [tf.convert.xml](https://annotation.github.io/text-fabric/tf/convert/xml.html#tf.convert.xml)] | 'Full' | 'hybrid'
 [Nestle1904](https://github.com/ETCBC/nestle1904) | [‘Low Fat Tree’](https://github.com/tonyjurg/Nestle1904LFT/tree/main/resources/xml) | [tf.convert.xml](https://annotation.github.io/text-fabric/tf/convert/xml.html#tf.convert.xml)] | 'Full' | 'hybrid'
 
-## Example showing the difference betwen GBI and LFT
+## Syntax tree presentation (GBI versus LFT)
 
-One of main differences between the GBI and LFT Text-Fabric implementation is the handling and presenation of syntactical information. The effects can be demonstrated by the two images depicting the graphical representation of John 1:1.
+An important aspect of the 'Nestle 1904 Text-Fabric conversion project' was to create a dataset that would allow for rendering syntax trees. A syntax tree is a graphical representation that depicts the syntactic structure of a sentence or phrase. It is a hierarchical tree-like structure that illustrates how different words in a sentence are grammatically connected to each other. In a syntax tree, each word (or morpheme) is represented as a node, and the relationships between words are depicted as branches or edges connecting these nodes. The tree starts with the main clause or the root node and branches out to represent subordinate clauses, phrases, and individual words. The tree structure reflects the hierarchical arrangement of grammatical elements within the sentence. The syntax tree provides valuable insights into the sentence's grammatical structure, including the roles of nouns, verbs, adjectives, prepositions, conjunctions, and other parts of speech. It helps linguists, language learners, and researchers analyze the sentence's syntax, identify grammatical patterns, and understand how words function within the sentence.
+
+Regarding data structuring, distinct approaches were adopted for the Nestle1904GBI and the Nestle1904LFT Text-Fabric datasets. These choices, as outlined in the table provided in previous section, not only affect query structuring but also influence the presentation of results. The syntax tree representations of John 1:1 provided below offer a clear illustration of these differences.
 
 **The Nestle1904GBI implementation**
 
