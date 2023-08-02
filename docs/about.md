@@ -54,6 +54,8 @@ Regarding data structuring, distinct approaches were adopted for the Nestle1904G
 
 <img src="assets/images/john1v1LFT.jpg" alt="John 1v1 in Nestle1904LFT Text-Fabric">
 
+## Validity of data
 
+When using a dataset for analysis or research, it is essential to assess whether it is fit for the intended purpose. In the case of this dataset, there is a crucial aspect to keep in mind. The dataset is based on an open-source project and utilizes the [Nestle 1904 edition](https://archive.org/details/the-greek-new-testament-nestle-1904-us-edition) of the Greek text of the New Testament (or more accurately, [the 1913 reprint](https://archive.org/details/hkainediathekete00lond). See also [this FAQ](https://sites.google.com/site/nestle1904/faq)). This version was chosen because its copyright has expired, making it available in the Public Domain. It is worth noting that the current standard version used in academic settings is the [Nestle-Aland edition 28](https://www.academic-bible.com/en/online-bibles/novum-testamentum-graece-na-28/read-the-bible-text/). Despite this, the Nestle 1904 provided by this Text-Fabric implementtion, is the closest version in terms of the ‘principal text’ available in the public domain, and suitable to perform syntactical analysis. 
 
 
