@@ -1,6 +1,6 @@
 # Examples of using the Text-Fabric dataset
 
-The following example Jupyter Notebooks contain use cases and demonstrations for this Text-Fabric dataset. The Notebooks are grouped, somewhat arbitrarily, based on specific focus areas and topics.
+The following are several use-case examples that demonstrate the utilization of the Text-Fabric dataset, which is implemented as a Python package. While Text-Fabric can be employed in any stand-alone Python script, it is commonly utilized from within a [Jupyter Notebook](https://jupyter.org) — an interactive web-based computational environment enabling users to create and share documents with live code, visualizations, and text, thus facilitating the inclusion of explanatory notes alongside queries and results obtained from Text-Fabric. The Notebooks are grouped into specific focus areas and topics, albeit somewhat arbitrarily.
 
 **Please note that some of these notebooks are still under development.**
 
