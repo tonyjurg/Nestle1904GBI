@@ -13,23 +13,26 @@ This Github repository houses a comprehensive dataset for the Greek New Testamen
 ## Eberhard Nestle 
 <!--
 <style>
-  .image-container {
-    margin: 5px;
-    float: right;
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    gap: 5px;
   }
 
-  @media (max-width: 600px) {
-    .image-container {
-      float: none;
-    }
+  .image-container {
+    width: 150px;
+    margin: 5px;
   }
 </style>
 -->
-<div class="image-container">
-    <img src="assets/images/Eberhard_Nestle.jpg" width="150" style="float: right;" alt="Eberhard Nestle (photo: Public Domain)">
-</div>
-<div>
+<div class="container">
+  <div class="image-container">
+    <img src="assets/images/Eberhard_Nestle.jpg" width="150" alt="Eberhard Nestle (photo: Public Domain)">
+  </div>
+  <div>
     Links to the source data by Eberhard Nestle:<br><br>    
 <ul><li><a href="https://archive.org/details/the-greek-new-testament-nestle-1904-us-edition/mode/2up">scan of the original publication</a>: Nestle, Eberhard. Η Καινή Διαθήκη Novum Testamentum Graece (New York: Fleming H. Revell Company, 1904).
 </li><li><a href="https://archive.org/details/hkainediathekete00lond">Reprint of 1913</a>: Nestle, Eberhard. Η Καινή Διαθήκη, test with critical apparatus (London: London British and Foreign Bible Society, 1913).</li></ul>
+  </div>
 </div>
