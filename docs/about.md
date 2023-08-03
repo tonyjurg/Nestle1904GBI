@@ -14,7 +14,7 @@ Each version utilizes a different conversion method and/or employs different sou
 
 Each of these Text-Fabric implementations has distinct features and was created differently. The fundamental differences are in the following areas:
 
-1. Starting data (XML input data):
+1. Type of source data (XML input data):
 * [‘GBI nodes’](https://github.com/tonyjurg/Nestle1904GBI/tree/main/resources/sourcedata)
 *	[‘Low Fat Tree’](https://github.com/tonyjurg/Nestle1904LFT/tree/main/resources/xml)
 
@@ -33,7 +33,7 @@ Each of these Text-Fabric implementations has distinct features and was created 
 
 The following table shows how each of the previous mentioned Text-Fabric implementations relate to these areas:
 
-Text-Fabric implementation | Starting data | Production tool | Syntactic information | Handling syntactic info
+Text-Fabric implementation | Source data | Production tool | Syntactic information | Handling syntactic info
 --- | --- | --- | --- | ---
 [Nestle1904GBI](https://tonyjurg.github.io/Nestle1904GBI/) | [‘GBI nodes’](https://github.com/tonyjurg/Nestle1904GBI/tree/main/resources/sourcedata) | [tf.convert.walker](https://annotation.github.io/text-fabric/tf/convert/walker.html#tf.convert.walker) | ‘Basic’ | 'interpretation' 
 [Nestle1904LFT](https://tonyjurg.github.io/Nestle1904LFT/) | [‘Low Fat Tree’](https://github.com/tonyjurg/Nestle1904LFT/tree/main/resources/xml) | [tf.convert.walker](https://annotation.github.io/text-fabric/tf/convert/walker.html#tf.convert.walker) | 'Full' | ‘as found’ 
