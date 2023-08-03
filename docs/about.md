@@ -20,7 +20,7 @@ Each of these Text-Fabric implementations has distinct features and was created 
 
 2. Production tools used to perform the conversion to Text-Fabric:
 *	Module [tf.convert.walker](https://annotation.github.io/text-fabric/tf/convert/walker.html#tf.convert.walker) with dedicated director function).
-*	Module [tf.convert.xml](https://annotation.github.io/text-fabric/tf/convert/xml.html#tf.convert.xml)].
+*	Module [tf.convert.xml](https://annotation.github.io/text-fabric/tf/convert/xml.html#tf.convert.xml).
 
 3. Level of syntactical information:
 *	‘Basic implementation’: limited syntactical information (e.g., ‘subject’, ‘object’).
