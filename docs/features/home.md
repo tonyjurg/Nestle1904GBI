@@ -9,7 +9,7 @@ This is the key to the meaning of the features of the
 * [Grid features](#grid-features)
 * [Sectional features](#sectional-features)
 * [Lexical features](#lexical-features)
-* [Orthograpic features](#orthograpic-features)
+* [Orthographic features](#orthographic-features)
 * [Morphological features](#morphological-features)
 * [Syntactic features](#syntactic-features)
 * [Relational features](#relational-features)
@@ -47,7 +47,7 @@ Name| Description| Examples
 [ln](ln.md#readme) | Louw-Nida lexical classification | 
 [strongs](strongs.md#readme) | Strongs number |
 
-## Orthograpic features
+## Orthographic features
 
 Name | Description | Examples
 --- | --- | ---
