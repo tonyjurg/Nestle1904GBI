@@ -3,7 +3,7 @@
 
 Feature | Feature group |Data type | Short description
 --- | --- | --- | ---
-[after](after.md#readme) | [`Orthograpic`](home.md#orthograpic-features) | `string` | space or punctuation after word
+[after](after.md#readme) | [`Orthographic`](home.md#orthographic-features) | `string` | space or punctuation after word
 [book](book.md#readme) | [`Sectional`](home.md#sectional-features) | `string` |  Book name (fully spelled out)
 [booknum](booknum.md#readme) | [`Sectional`](home.md#sectional-features) | `integer` |  NT book number (Matthew=1, Mark=2, ..., Revelation=27)
 [bookshort](bookshort.md#readme) | [`Sectional`](home.md#sectional-features) | `string` | Book name (abbreviated)
@@ -21,7 +21,7 @@ Feature | Feature group |Data type | Short description
 [monad](monad.md#readme) | [`Sectional`](home.md#sectional-features) | `integer` | Monad
 [mood](mood.md#readme) | [`Morphological`](home.md#morphological-features) | `string` | Gramatical mood of a verb (Indicative, Optative, etc.)
 [nodeID](nodeID.md#readme) | [`Sectional`](home.md#sectional-features) | `string` | Node ID (as in the XML source data, not yet post-processes)
-[normalized](normalized.md#readme) | [`Orthograpic`](home.md#orthograpic-features) | `string` | Surface word stripped of punctations
+[normalized](normalized.md#readme) | [`Orthographic`](home.md#orthographic-features) | `string` | Surface word stripped of punctations
 [nu](nu.md#readme) | [`Morphological`](home.md#morphological-features) | `string` | Gramatical number (Singular, Plural)
 [number](number.md#readme) | [`Morphological`](home.md#morphological-features) | `string` | Gramatical number of the verb
 [person](person.md#readme) | [`Morphological`](home.md#morphological-features) | `string` | Gramatical person of the verb (first, second, third)
@@ -35,4 +35,4 @@ Feature | Feature group |Data type | Short description
 [type](type.md#readme) | [`Morphological`](home.md#morphological-features) | `string` | Gramatical type of noun or pronoun (e.g. Common, Personal)
 [verse](verse.md#readme) | [`Sectional`](home.md#sectional-features) | `integer` | Verse number inside chapter
 [voice](voice.md#readme) | [`Morphological`](home.md#morphological-features) | `string` | Gramatical voice of the verb
-[word](word.md#readme) | [`Orthograpic`](home.md#orthograpic-features) | `string` | Word as it appears in the text
+[word](word.md#readme) | [`Orthographic`](home.md#orthographic-features) | `string` | Word as it appears in the text
