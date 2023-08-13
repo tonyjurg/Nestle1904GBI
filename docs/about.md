@@ -58,6 +58,30 @@ The Nestle1904GBI implementation presents the syntactical structure in its most 
 The Nestle1904LFT implementation stays very close to the underlying XML source data. Interpretation and modification of data has been limited to the bare minimum. The Nestle1904LFT implementation lacks the explict use of concepts like 'clause' or 'phrases' and only  uses the concept 'word group'. These 'word groups' can function as 'clause', 'phrase', a combination of conjunctions and clauses or other groups like apposition containers.
 <img src="assets/images/john1v1LFT.jpg" alt="John 1v1 in Nestle1904LFT Text-Fabric">
 
+## The tfgreek2 / Nestle1904 (future ETCBC) implementation
+
+This Text-Fabric dataset includes both the original 'wg' nodes containing word group data from the source XML, as well as the interpreted forms where each 'wg' node has been transformed into either a 'clause', 'phrase', or 'subphrase' node based on the original 'wg' data. By means of this interpretation, this dataset provides extensive additional information. Consequently, various syntax tree displays are possible. The subsequent subsections illustrate the three distinct views,  highlighting their fundamental differences
+
+
+### View 1: the combined view 
+
+The following image shows the first clause of John 1:1. This view dislays all nodes included in the Text-Fabric data set for that this section of text. As can be seen, it contains a lot of elements.
+
+<img src="assets/images/John1v1ETCBC-all.png">
+
+### View 2: syntactic view
+
+When the display of 'word group' nodes is switched off, the tree contains all syntactical relevant detail, presented in a much easier to understand manner. The resulting syntax tree has some resemblance with the Nestle1904GBI implantation. Would the path of ‘syntactic interpretation’ be progressed further on that implementation, it would indeed have resulted in a similar presentation.
+
+<img src="assets/images/John1v1ETCBC-syntax.png">
+
+### View 3: XML source view
+
+When the display of 'clauses', 'phrases' and 'subphrases' is switched off, the tree is presented as found in the XML source data. The resulting syntax tree is similar with the Nestle1904LFT implantation. The main visual difference is that in the display of the Nestle1904LFT by default the syntactic details were displayed for each word group node
+
+<img src="assets/images/John1v1ETCBC-source.png">
+
+
 ## Validity of data
 
 When using a dataset for analysis or research, it is essential to assess whether it is fit for the intended purpose. In the case of this dataset, there is a crucial aspect to keep in mind. The dataset is based on an open-source project and utilizes the [Nestle 1904 edition](https://archive.org/details/the-greek-new-testament-nestle-1904-us-edition) of the Greek text of the New Testament (or more accurately, [the 1913 reprint](https://archive.org/details/hkainediathekete00lond). See also [this FAQ](https://sites.google.com/site/nestle1904/faq)). This version was chosen because its copyright has expired, making it available in the Public Domain. It is worth noting that the current standard version used in academic settings is the [Nestle-Aland edition 28](https://www.academic-bible.com/en/online-bibles/novum-testamentum-graece-na-28/read-the-bible-text/). Despite this, the Nestle 1904 provided by this Text-Fabric implementtion, is the closest version in terms of the ‘principal text’ available in the public domain, and suitable to perform syntactical analysis. 
