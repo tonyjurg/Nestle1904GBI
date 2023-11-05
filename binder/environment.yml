@@ -1,0 +1,6 @@
+name: Nestle1904-binder-environment
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - text-fabric
