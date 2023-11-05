@@ -1,6 +1,0 @@
-name: Nestle1904-binder-environment
-channels:
-  - default
-dependencies:
-  - python=3.8
-  - text-fabric
