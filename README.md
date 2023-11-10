@@ -11,7 +11,7 @@
 
 This repository contains the sourcedata, conversion tools and final dataset of a Text-Fabric implementation of the Nestle 1904 Greek New Testament (based on GBI XML node).
 
-The source data for the conversion are the XML node files representing the macula-greek version of Eberhard Nestle's 1904 Greek New Testament (British Foreign Bible Society 1904). The starting dataset is formatted according to Syntax diagram markup by the Global Bible Initiative (GBI).   The most recent source data can be found on github https://github.com/Clear-Bible/macula-greek/tree/main/Nestle1904/nodes. 
+The source data for the conversion are the XML node files representing the macula-greek version of Eberhard Nestle's 1904 Greek New Testament (British Foreign Bible Society 1904). The starting dataset is formatted according to Syntax diagram markup initially prepared by the Asia Bible Society and currently made available by [Biblica, Inc](https://www.biblica.com/). The most recent source data can be found on [github](https://github.com/Clear-Bible/macula-greek/tree/main/Nestle1904/nodes). 
 
 The following directories contain the Text-Fabric data:
  * [app](app#readme): app config data.
