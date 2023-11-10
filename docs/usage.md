@@ -6,7 +6,7 @@ The following are several use-case examples that demonstrate the utilization of 
 
 ## Basic / general
 
-* [Load Text-Fabric in Jupyter notebook](https://nbviewer.org/github/tonyjurg/Nestle1904GBI/blob/main/docs/usecases/load_text_fabric.ipynb)
+* [Load Text-Fabric in Jupyter notebook](https://nbviewer.org/github/tonyjurg/Nestle1904GBI/blob/main/docs/usecases/load_text_fabric.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tonyjurg/Nestle1904GBI/HEAD?labpath=%2Fdocs%2Fusecases%2load_text_fabric.ipynb)
 * [Start Text-Fabric browser in Jupyter notebook](https://nbviewer.org/github/tonyjurg/Nestle1904GBI/blob/main/docs/usecases/starting_tf_browser.ipynb)
 * [Print a specific verse](https://nbviewer.org/github/tonyjurg/Nestle1904GBI/blob/main/docs/usecases/print_verse.ipynb)
 * [Some system statistics](https://nbviewer.org/github/tonyjurg/Nestle1904GBI/blob/main/docs/usecases/Some_system_statistics.ipynb)
