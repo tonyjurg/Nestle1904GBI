@@ -16,11 +16,17 @@ dataDisplay:
 # sectionSep2: #this is to display sections well in table
 # showVerseInTuple: 
 # textFormats:
-# docs: reference to transcription.md
+docs:
+  docPage: about
+  featureBase: '{docBase}/features/home.md'
+  featurePage: Features for Nestle1904GBI
 typeDisplay:
   book:
     label: '{book}'
     style: ""
+  verse:
+    label: '{book} {chapter} {verse}'
+    style: ''
   word:
     featuresBare:
       - gloss
@@ -38,8 +44,11 @@ interfaceDefaults:
   # used by tf browser
 provenanceSpec:
   corpus: "Nestle 1904 (GBI nodes)"
+  doi: zenodo.notyet
   version: "0.4"
   org: "tonyjurg"
   repro: "Nestle1904GBI"
   webUrl: "https://learner.bible/text/show_text/nestle1904/<1>/<2>/<3>"
+  webHint: Show this on the website
+  webLang: en
 writing: grc
