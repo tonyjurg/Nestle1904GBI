@@ -6,7 +6,7 @@ The following are several use-case examples that demonstrate the utilization of 
 
 ## Basic / general
 
-* [Load Text-Fabric in Jupyter notebook](https://nbviewer.org/github/tonyjurg/Nestle1904GBI/blob/main/docs/usecases/load_text_fabric.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tonyjurg/Nestle1904GBI/HEAD?labpath=%2Fdocs%2Fusecases%2load_text_fabric.ipynb)
+* [Load Text-Fabric in Jupyter notebook](https://nbviewer.org/github/tonyjurg/Nestle1904GBI/blob/main/docs/usecases/load_text_fabric.ipynb) 
 * [Start Text-Fabric browser in Jupyter notebook](https://nbviewer.org/github/tonyjurg/Nestle1904GBI/blob/main/docs/usecases/starting_tf_browser.ipynb)
 * [Print a specific verse](https://nbviewer.org/github/tonyjurg/Nestle1904GBI/blob/main/docs/usecases/print_verse.ipynb)
 * [Some system statistics](https://nbviewer.org/github/tonyjurg/Nestle1904GBI/blob/main/docs/usecases/Some_system_statistics.ipynb)
@@ -28,3 +28,8 @@ The following are several use-case examples that demonstrate the utilization of 
 * [Articulated proper nouns](https://nbviewer.org/github/tonyjurg/Nestle1904GBI/blob/main/docs/usecases/articulated_proper_nouns.ipynb)
 * [Constituents order and phrase structure](https://nbviewer.org/github/tonyjurg/Nestle1904GBI/blob/main/docs/usecases/constituents_order_and_phrase_structure.ipynb)
 * [Repetition of nouns](https://nbviewer.org/github/tonyjurg/Nestle1904GBI/blob/main/docs/usecases/repetition_of_nouns.ipynb)
+
+# Note
+
+The links above open a static version of the Jupyter Notebook. You can also open the notebook in an interactive environment which allows for running the actual code yourself without the need to install anything on your computer.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tonyjurg/Nestle1904GBI/HEAD?labpath=%2Fdocs%2Fusecases%2FOverview_usecases.ipynb)
