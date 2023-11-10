@@ -18,7 +18,7 @@ adverb | adv | 6147 |
 conjunction | conj | 18227 | `καὶ` `δὲ` `ὅτι`
 determiner | det | 19786 | `τὸν` `ταῖς` `ὁ`
 interjection | intj | 15 | `Ὦ` `ναί`
-noun | noun | 28455 | 
+noun | noun | 28455 | `Βίβλος` `Ἰησοῦ`
 numeral | num | 476 | `Ἑπτά` `πέντε`
 preposition | prep | 10914 | `περὶ` `εἰς`
 particle | ptcl | 773 | 
