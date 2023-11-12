@@ -89,8 +89,8 @@ Name | Description | Examples
 
 Name | Description
 ---|---
+[subj_ref](subj_ref.md#readme) | Subject reference (to nodeID in XML source data, not yet post-processes)
 
 ## The concept 'features' in Text-Fabric
 
 Text-Fabric, true to its name, implements the concepts of 'warp' and 'weft', inspired by textile weaving, to represent its data. The 'warp' denotes the foundational structured data, encompassing linguistic annotations like words, and phrases, while the 'weft' refers to the additional layers of information, known as features. These features encompass linguistic data, annotations, and metadata, seamlessly woven into the 'warp' data, resulting in a clear separation between structure and content. This approach enables Text-Fabric to efficiently handle complex linguistic datasets with versatility.
-[subj_ref](subj_ref.md#readme) | Subject reference (to nodeID in XML source data, not yet post-processes)
