@@ -10,7 +10,7 @@ This feature includes either a regular space character or a punctuation mark fol
 
 ## Feature values 
 
-Value | Description | Unicode punctuation | Frequency
+Value | Description | Unicode codepoint | Frequency
 ---  | --- | --- | ---
 ` ` | Space | [`&#32`](https://www.codetable.net/decimal/32)  |  119272
 `, ` | Comma  | [`&#44`](https://www.codetable.net/decimal/44)   | 9441
@@ -18,6 +18,10 @@ Value | Description | Unicode punctuation | Frequency
 `· ` | Midle Dot | [`&#183`](https://www.codetable.net/decimal/183) | 2355
 `; ` | Semicolon | [`&#59`](https://www.codetable.net/decimal/59) | 969
 `— ` | Em Dash | [`&#8212`](https://www.codetable.net/decimal/8212) | 30
+
+## Source description
+
+Determined from the value of the XML tag `node` representing a word.
 
 ---
 ###### [Click here for list of all features](home.md#readme)

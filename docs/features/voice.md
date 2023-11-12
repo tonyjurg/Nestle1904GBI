@@ -22,5 +22,9 @@ Passive | The subject of the verb is being acted upon | 3493
 
 Planned for future version: active, middle, passive, middle_or_passive, middle_deponent, passive_deponent, middle_or_passive_deponent, impersonal_active, and no_voice. Possibly by just adding a feature 'deponent'?
 
+## Source description
+
+Taken from the (optional) XML attribute `Voice` for each element `node` representing a word.
+
 ---
 ###### [Click here for list of all features](home.md#readme)

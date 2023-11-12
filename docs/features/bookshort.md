@@ -40,6 +40,9 @@ Jas | James | 20
 Jude | Jude | 26
 Rev | Revelation | 27
 
+## Source description
+
+Calculated, based upon attribute `ref` for each element `node` indicating a word.
 
 ---
 ###### [Click here for list of all features](home.md#readme)

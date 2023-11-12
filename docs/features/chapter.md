@@ -8,5 +8,9 @@ Feature group | Feature type | Data type | Available for node types
 
 Chapter number inside book.
 
+## Source description
+
+Calculated, based upon XML attribute `ref` for each element `node` indicating a word.
+
 ---
 ###### [Click here for list of all features](home.md#readme)

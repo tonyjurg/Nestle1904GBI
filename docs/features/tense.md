@@ -21,7 +21,11 @@ Future | Describing a simple or ongoing action in the future | 1626
 
 
 ## Note
+
 The 'future perfect' tense (Describing a completed action in the future) is not found in the text.
 
+## Source description
+
+Taken from the (optional) XML attribute `Tense` for each element `node` representing a word.
 ---
 ###### [Click here for list of all features](home.md#readme)

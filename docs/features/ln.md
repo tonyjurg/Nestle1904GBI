@@ -22,5 +22,9 @@ Lookup of values for feature ln in [Louw-Nida Lexicon](https://www.laparola.net/
 
 See also: feature [lex_dom](lex_dom.md#readme) (Lexical Domain).
 
+## Source description
+
+Taken from the XML attribute `LN` for each element `node` representing a word.
+
 ---
 ###### [Click here for list of all features](home.md#readme)

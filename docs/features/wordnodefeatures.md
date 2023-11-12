@@ -26,9 +26,9 @@ Feature | Feature group |Data type | Short description | Example
 [number](number.md#readme) | [`Morphological`](home.md#morphological-features) | `string` | Gramatical number of the verb |
 [person](person.md#readme) | [`Morphological`](home.md#morphological-features) | `string` | Gramatical person of the verb | first, second, third
 [phrase](phrase.md#readme) | [`Sectional`](home.md#sectional-features) | `integer` | Phrase number (counted per chapter) |
-[sentence](sentence.md#readme) | [`Sectional`](home.md#sectional-features) | `integer` | Sentence number (counted per chapter) |
-[sp](sp.md#readme) | [`Syntactical`](home.md#syntactical-features) | `string` | Part of Speech (abbreviated) |
-[splong](splong.md#readme) | [`Syntactical`](home.md#syntactical-features) | `string` | Part of Speech (long description) |
+[sentence](sentence.md#readme) | [`Sectional`](home.md#sectional-features) | `integer` | Sentence number (counted per chapter) | 
+[sp](sp.md#readme) | [`Syntactical`](home.md#syntactical-features) | `string` | Part of Speech (abbreviated) | `adj` `det` `verb`
+[splong](splong.md#readme) | [`Syntactical`](home.md#syntactical-features) | `string` | Part of Speech (long description) | `particle` `interjection`
 [strongs](strongs.md#readme) | [`Lexical`](home.md#lexical-features) | `string` | Strongs number |
 [subj_ref](subj_ref.md#readme) | [`Relational`](home.md#relational-features) | `string` | Subject reference (to nodeID in XML source data) |
 [tense](tense.md#readme) | [`Morphological`](home.md#morphological-features) | `string` | Gramatical tense of the verb | Present, Aorist

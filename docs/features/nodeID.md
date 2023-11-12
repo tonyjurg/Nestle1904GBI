@@ -6,6 +6,8 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description 
 
+NodeId for a word node.
+
 ```
 An 11-digit unique id in the format
 
@@ -15,7 +17,13 @@ An 11-digit unique id in the format
          VVV    => zero-padded verse
             WWW => zero-padded word index (instance within the verse)
 ```
-Node ID as in the [XML source data](https://github.com/tonyjurg/NA1904/tree/main/resources/sourcedata).
+## Note
+
+The XML source data also include nodeId values for clauses and phrases, but this data is not included in this Text-Fabric dataset. 
+
+## Source description
+
+Taken from the XML attribute `nodeId` for each element `node` representing a word.
 
 ---
 ###### [Click here for list of all features](home.md#readme)
