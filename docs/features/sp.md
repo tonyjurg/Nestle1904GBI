@@ -29,7 +29,7 @@ See also the description in [MACULA Greek Treebank for the Nestle 1904 Greek New
 
 ## Source description
 
-Taken from XML attribute `Cat` for each element `node` representing a word.
+Taken from the XML attribute `Cat` for each element `node` representing a word.
 
 ---
 ###### [Click here for list of all features](home.md#readme)
