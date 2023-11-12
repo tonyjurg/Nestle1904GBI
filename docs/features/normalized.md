@@ -10,7 +10,7 @@ Normalized Greek text (changed accents and diacritics to their standard forms). 
 
 ## Source description
 
-Taken from XML attribute `NormalizedForm` for each element `node` representing a word.
+Taken from the XML attribute `NormalizedForm` for each element `node` representing a word.
 
 ---
 ###### [Click here for list of all features](home.md#readme)
