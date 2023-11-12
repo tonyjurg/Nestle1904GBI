@@ -21,7 +21,7 @@ Value | Description | Unicode codepoint | Frequency
 
 ## Source description
 
-Determined from value of the XML tag `node` representing a word.
+Determined from the value of the XML tag `node` representing a word.
 
 ---
 ###### [Click here for list of all features](home.md#readme)
