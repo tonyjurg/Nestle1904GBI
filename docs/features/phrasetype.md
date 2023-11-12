@@ -8,6 +8,10 @@ Feature group | Feature type | Data type | Available for node types
 
 Phrase type information.
 
+## Source description
+
+Taken from XML attribute `Cat` for each element `node` representing a prhase.
+
 ---
 ###### [Click here for list of all features](home.md#readme)
 
