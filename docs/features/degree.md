@@ -15,5 +15,9 @@ Comparitative | Comparitative adjective | 313
 Superlative | Superlative adjective | 200
 '' | Empty for any other adjectives or other wordtypes | 137266
 
+## Source description
+
+Taken from (optional) XML attribute `Degree` for each element `node` representing a word.
+
 ---
 ###### [Click here for list of all features](home.md#readme)
