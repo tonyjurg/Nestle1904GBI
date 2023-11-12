@@ -40,5 +40,9 @@ Book number (this feature) | Book short name ([feature: bookshort](bookshort.md#
 26 | Jude | Jude
 27 | Rev | Revelation
 
+## Source description
+
+Calculated value.
+
 ---
 ###### [Click here for list of all features](home.md#readme)
