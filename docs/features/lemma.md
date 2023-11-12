@@ -10,7 +10,7 @@ Lexical lemma in Unicode format according to Bible Dictionary of Ancient Greek (
 
 ## Source description
 
-Taken from XML attribute `UnicodeLemma` for each element `node` representing a word.
+Taken from the XML attribute `UnicodeLemma` for each element `node` representing a word.
 
 ---
 ###### [Click here for list of all features](home.md#readme)
