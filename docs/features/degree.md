@@ -17,7 +17,7 @@ Superlative | Superlative adjective | 200
 
 ## Source description
 
-Taken from (optional) XML attribute `Degree` for each element `node` representing a word.
+Taken from the (optional) XML attribute `Degree` for each element `node` representing a word.
 
 ---
 ###### [Click here for list of all features](home.md#readme)
