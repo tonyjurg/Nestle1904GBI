@@ -20,7 +20,7 @@ voc | Vocative | Adressee of speech | 649
 
 ## Source description
 
-Taken from XML (optional) attribute `case` for each element `node` representing a word.
+Taken from the (optional) XML attribute `case` for each element `node` representing a word.
 
 ---
 ###### [Click here for list of all features](home.md#readme)
