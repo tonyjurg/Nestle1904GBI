@@ -13,7 +13,7 @@ See [biblicalhumanities/Nestle1904/morph/parsing.txt](https://github.com/biblica
 
 ## Source description
 
-Taken from (optional) XML attribute `FormalTag` for each element `node` representing a word.
+Taken from the (optional) XML attribute `FormalTag` for each element `node` representing a word.
 
 ---
 ###### [Click here for list of all features](home.md#readme)
