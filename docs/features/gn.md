@@ -18,7 +18,7 @@ n | Neuter | grammatical gender is neuter | 13753
 
 ## Source description
 
-Taken from (optional) XML attribute `Gender` for each element `node` representing a word.
+Taken from the (optional) XML attribute `Gender` for each element `node` representing a word.
 
 ---
 ###### [Click here for list of all features](home.md#readme)
