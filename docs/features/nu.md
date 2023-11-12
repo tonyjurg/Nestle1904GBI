@@ -18,7 +18,7 @@ Singular | Singular | 69846
 
 ## Source description
 
-Taken from (optional) XML attribute `Number` for each element `node` representing a word.
+Taken from the (optional) XML attribute `Number` for each element `node` representing a word.
 
 ---
 ###### [Click here for list of all features](home.md#readme)
