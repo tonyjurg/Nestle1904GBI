@@ -16,7 +16,7 @@ Note from [biblicalhumanities/Nestle1904](https://github.com/biblicalhumanities/
 
 ## Source description
 
-Taken from XML attribute `StrongNumber` for each element `node` representing a word.
+Taken from the XML attribute `StrongNumber` for each element `node` representing a word.
 
 ---
 ###### [Click here for list of all features](home.md#readme)
