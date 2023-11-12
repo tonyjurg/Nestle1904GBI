@@ -8,5 +8,9 @@ Feature group | Feature type | Data type | Available for node types
 
 Clause number (counted per chapter).
 
+## Source description
+
+Calculated during data generation.
+
 ---
 ###### [Click here for list of all features](home.md#readme)
