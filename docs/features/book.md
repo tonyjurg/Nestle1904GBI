@@ -42,7 +42,7 @@ Rev | Revelation | 27
 
 ## Source description
 
-Taken from XML attribute `ref` for each element `node` indicating a word.
+Taken from XML attribute `ref` for each tag `node` indicating a word.
 
 ---
 ###### [Click here for list of all features](home.md#readme)
