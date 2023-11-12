@@ -24,5 +24,9 @@ It is important to realize that the granularity of feature `lex_dom` is less tha
 
 See also feature [ln](ln.md#readme).
 
+## Source description
+
+Taken from XML attribute `LexDomain` for each element `node` representing a word.
+
 ---
 ###### [Click here for list of all features](home.md#readme)
