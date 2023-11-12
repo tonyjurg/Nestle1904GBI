@@ -1,6 +1,5 @@
 # Here is the information for creating a config.yaml: https://annotation.github.io/text-fabric/tf/advanced/settings.html
 # Here is a good example: https://github.com/annotation/app-bhsa/blob/master/code/config.yaml
-# check whether a list with (- - - ) works or whether I need to do a list with commas "a, b, c"
 apiVersion: 3
 dataDisplay:
   noneValues: 
@@ -17,9 +16,10 @@ dataDisplay:
 # showVerseInTuple: 
 # textFormats:
 docs:
-  docPage: about
-  featureBase: '{docBase}/features/home.md'
-  featurePage: Features for Nestle1904GBI
+  docBase: https://tonyjurg.github.io/Nestle1904GBI
+  docPage: index
+  featureBase: https://tonyjurg.github.io/Nestle1904GBI/features
+  featurePage: home
 typeDisplay:
   book:
     label: '{book}'
@@ -28,16 +28,17 @@ typeDisplay:
     label: '{book} {chapter} {verse}'
     style: ''
   word:
+    label: '#{word}' 
     featuresBare:
       - gloss
     features:
       - lemma
       - strongs
   clause:
-    label: '#{clause}'
+    label: '#{clause} {clausetype} {clauserule} '
     style: ""
   phrase:
-    label: '#{phrase}'
+    label: '#{phrase} {phrasetype} {phrasefunction}'
     style: ""
 interfaceDefaults:
   fmt: text-orig-full
