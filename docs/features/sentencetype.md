@@ -6,7 +6,7 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description 
 
-Sentence type information (currently not implemented!)
+Sentence type information (currently not implemented).
 
 ---
 ###### [Click here for list of all features](home.md#readme)
