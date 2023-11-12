@@ -23,5 +23,9 @@ Proper | Name of a person, place, thing, etc. | 4639
 Relative |  | 1674
 '' | Empty for wordtypes other than noun or pronoun | 93321
 
+
+## Source description
+
+Taken from the (optional) XML attribute `Type` for each element `node` representing a word.
 ---
 ###### [Click here for list of all features](home.md#readme)
