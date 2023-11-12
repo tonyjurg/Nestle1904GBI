@@ -18,5 +18,9 @@ nom | Nominative | Generaly indicating the subject | 24197
 voc | Vocative | Adressee of speech | 649
 '' | '' | Empty for any other word type | 58261
 
+## Source description
+
+Taken from XML (optional) attribute `case` for each element `node` indicating a word.
+
 ---
 ###### [Click here for list of all features](home.md#readme)
