@@ -24,7 +24,7 @@ See also: feature [lex_dom](lex_dom.md#readme) (Lexical Domain).
 
 ## Source description
 
-Taken from XML attribute `LN` for each element `node` representing a word.
+Taken from the XML attribute `LN` for each element `node` representing a word.
 
 ---
 ###### [Click here for list of all features](home.md#readme)
