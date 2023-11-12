@@ -23,7 +23,7 @@ The XML source data also include nodeId values for clauses and phrases, but this
 
 ## Source description
 
-Taken from XML attribute `nodeId` for each element `node` representing a word.
+Taken from the XML attribute `nodeId` for each element `node` representing a word.
 
 ---
 ###### [Click here for list of all features](home.md#readme)
