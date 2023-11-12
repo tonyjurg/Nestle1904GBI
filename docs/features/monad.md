@@ -14,7 +14,7 @@ The values for feature `monad` in this Text-Fabric dataset match with the ones f
 
 ## Source description
 
-Calculated during datacreation.
+Calculated during data creation.
 
 ---
 ###### [Click here for list of all features](home.md#readme)
