@@ -19,7 +19,7 @@ Third | Third person (either singular or plural) | 12747
 
 ## Source description
 
-Taken from (optional) XML attribute `Person` for each element `node` representing a word.
+Taken from the (optional) XML attribute `Person` for each element `node` representing a word.
 
 ---
 ###### [Click here for list of all features](home.md#readme)
