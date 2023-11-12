@@ -16,10 +16,10 @@ dataDisplay:
 # showVerseInTuple: 
 # textFormats:
 docs:
-  docBase: https://tonyjurg.github.io/Nestle1904GBI
-  docPage: index
-  featureBase: https://tonyjurg.github.io/Nestle1904GBI/features
-  featurePage: home
+  docBase: 'https://tonyjurg.github.io/Nestle1904GBI'
+  docPage: 'index'
+  featureBase: 'https://tonyjurg.github.io/Nestle1904GBI/features'
+  featurePage: 'home'
 typeDisplay:
   book:
     label: '{book}'
