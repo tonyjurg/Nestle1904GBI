@@ -20,7 +20,6 @@ ptc | Participle | (pseudo mood) | 6653
 sbj | Subjunctive | expresses a probable or desired action | 1856
 '' | '' | Any other wordtype | 109422
 
-
 ## Source description
 
 Taken from (optional) XML attribute `Mood` for each element `node` representing a word.
