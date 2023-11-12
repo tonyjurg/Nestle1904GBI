@@ -9,5 +9,9 @@ Form-oriented morphological tag according to Sandborg-Petersen morphology.
 
 See [biblicalhumanities/Nestle1904/morph/parsing.txt](https://github.com/biblicalhumanities/Nestle1904/blob/master/morph/parsing.txt) for detailed information.
 
+## Source description
+
+Taken from (optional) XML attribute `FormalTag` for each element `node` representing a word.
+
 ---
 ###### [Click here for list of all features](home.md#readme)
