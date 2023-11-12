@@ -16,5 +16,9 @@ m | Masculine | grammatical gender is masculine | 41486
 n | Neuter | grammatical gender is neuter | 13753
 '' | '' | empty for any other wordtype | 63804
 
+## Source description
+
+Taken from (optional) XML attribute `Gender` for each element `node` representing a word.
+
 ---
 ###### [Click here for list of all features](home.md#readme)
