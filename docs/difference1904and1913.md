@@ -6,7 +6,7 @@ Observation by Saulo de Oliveira Cantanhêde:
  
 See also the comparison of the introductions found in the 1904 and 1913 editions, shown side-by-side in the following image.
 
-<img src="images/difference1904and1913.png">
+<img src="assets/images/difference1904and1913.png">
 
 
 
