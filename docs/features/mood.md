@@ -22,7 +22,7 @@ sbj | Subjunctive | expresses a probable or desired action | 1856
 
 ## Source description
 
-Taken from (optional) XML attribute `Mood` for each element `node` representing a word.
+Taken from the (optional) XML attribute `Mood` for each element `node` representing a word.
 
 ---
 ###### [Click here for list of all features](home.md#readme)
