@@ -6,7 +6,11 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-Normalized Greek text (changed accents and diacritics to their standard forms). Also trailing punctuations are removed.
+Normalized Greek text (changed accents and diacritics to their standard forms). Any punctuations are also removed.
+
+## Source description
+
+Taken from XML attribute `NormalizedForm` for each element `node` representing a word.
 
 ---
 ###### [Click here for list of all features](home.md#readme)
