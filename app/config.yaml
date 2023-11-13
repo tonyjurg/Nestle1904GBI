@@ -16,40 +16,40 @@ dataDisplay:
 # showVerseInTuple: 
 # textFormats:
 docs:
-  docBase: 'https://tonyjurg.github.io/Nestle1904GBI'
-  docPage: 'index'
-  featureBase: 'https://tonyjurg.github.io/Nestle1904GBI/features'
-  featurePage: 'home'
+  docBase: "https://tonyjurg.github.io/Nestle1904GBI"
+  docPage: "index"
+  featureBase: "https://tonyjurg.github.io/Nestle1904GBI/features"
+  featurePage: "home"
 typeDisplay:
   book:
-    label: '{book}'
+    label: "{book}"
     style: ""
   verse:
-    label: '{book} {chapter} {verse}'
+    label: "{book} {chapter} {verse}"
     style: ''
   word:
-    label: '#{word}' 
+    label: "#{word}" 
     featuresBare:
       - gloss
     features:
       - lemma
       - strongs
   clause:
-    label: '#{clause} {clausetype} {clauserule} '
+    label: "#{clause} {clausetype} {clauserule}"
     style: ""
   phrase:
-    label: '#{phrase} {phrasetype} {phrasefunction}'
+    label: "#{phrase} {phrasetype} {phrasefunction}"
     style: ""
 interfaceDefaults:
   fmt: text-orig-full
   # used by tf browser
 provenanceSpec:
-  corpus: "Nestle 1904 (GBI nodes)"
+  corpus: "Nestle 1904 Greek New Testament (GBI nodes)"
   doi: zenodo.notyet
   version: "0.4"
   org: "tonyjurg"
   repro: "Nestle1904GBI"
   webUrl: "https://learner.bible/text/show_text/nestle1904/<1>/<2>/<3>"
-  webHint: Show this on the website
+  webHint: "Show this on the Bible Online Learner website"
   webLang: en
 writing: grc
