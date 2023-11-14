@@ -51,7 +51,7 @@ Name| Description| Examples
 
 Name | Description | Examples
 --- | --- | ---
-[after](after.md#readme) | Space or punctuation after word | 
+[after](after.md#readme) | Space or punctuation after word | ` ` `.` `;` `-` 
 [normalized](normalized.md#readme) | Surface word stripped of punctations |
 [word](word.md#readme) | Word as it appears in the text
 
