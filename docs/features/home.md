@@ -60,7 +60,7 @@ Name | Description | Examples
 Name | Description | Examples
 --- | --- | ---
 [case](case.md#readme) | Gramatical case | `Nominative` `Genitive` `Dative`
-[degree](degree.md#readme) | Degree of an comparative or superlative adjective |
+[degree](degree.md#readme) | Degree of an comparative or superlative adjective | `Comparitative` `Superlative`
 [formaltag](formaltag.md#readme) | Formal tag (Sandborg-Petersen morphology) | `N-GSM` `CONJ`
 [functionaltag](functionaltag.md) | Functional tag (Sandborg-Petersen morphology) | `V-AAI-3S`
 [gn](gn.md#readme) | Gramatical gender | `Masculine` `Feminine` `Neuter`
@@ -70,7 +70,7 @@ Name | Description | Examples
 [person](person.md#readme) | Gramatical person of the verb | `first` `second` `third`
 [tense](tense.md#readme) | Gramatical tense of the verb | `Present` `Aorist`
 [type](type.md#readme) | Gramatical type of noun or pronoun | `Common` `Personal`
-[voice](voice.md#readme) | Gramatical voice of the verb | 
+[voice](voice.md#readme) | Gramatical voice of the verb | `Active` `Middle`
 
 ## Syntactic features
 
@@ -82,8 +82,8 @@ Name | Description | Examples
 [phrasefunctionlong](phrasefunctionlong.md#readme) | Phrase function (long description) | 
 [phrasetype](phrasetype.md#readme) | Phrase type information | 
 [sentencetype](sentencetype.md#readme) | Sentence type information | 
-[sp](sp.md#readme) | Part of Speech (abbreviated) | 
-[splong](splong.md#readme) | Part of Speech (long description) | 
+[sp](sp.md#readme) | Part of Speech (abbreviated) | `noun` `conj` `det`
+[splong](splong.md#readme) | Part of Speech (long description) | `adverb` `interjection`
 
 ## Relational features
 
