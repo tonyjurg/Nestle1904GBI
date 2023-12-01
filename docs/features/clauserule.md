@@ -7,9 +7,6 @@ Feature group | Feature type | Data type | Available for node types
 ## Feature description 
 The label of the rule used during parsing of the treebank.
 
-## Note
-Feature under discussion. This may be changed in next versions.
-
 ## Source description
 
 Taken from the XML attribute `Rule` for each element `node` representing a clause.
