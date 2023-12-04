@@ -14,6 +14,6 @@ Also in this directory are a few Jupyter Notebooks related to handling of the so
  * [Comparing attributes 'unicode', 'normalized' in the XML data](unicode_normalized_tagvalue_comparison.ipynb).
 
 The following notebooks are not directly related to the creation of the Text-Fabric dataset, but are added to analyse some aspects of the GBI source data.
- * [Calculate PCFG parameters](calculate PCFG parameters.ipynb)
- * [Calculate SVO-VSO, etc](calculate SVO-VSO-etc.ipynb)
+ * [Calculate PCFG parameters](calculate_PCFG_parameters.ipynb).
+ * [Calculate SVO-VSO, etc](calculate_SVO-VSO-etc.ipynb").
 
