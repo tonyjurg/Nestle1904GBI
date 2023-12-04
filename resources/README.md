@@ -15,5 +15,5 @@ Also in this directory are a few Jupyter Notebooks related to handling of the so
 
 The following notebooks are not directly related to the creation of the Text-Fabric dataset, but are added to analyse some aspects of the GBI source data.
  * [Calculate PCFG parameters](calculate_PCFG_parameters.ipynb).
- * [Calculate SVO-VSO, etc](calculate_SVO-VSO-etc.ipynb").
+ * [Calculate SVO-VSO, etc](calculate_SVO-VSO-etc.ipynb).
 
