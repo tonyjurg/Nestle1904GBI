@@ -17,26 +17,29 @@ In addition to datasets from Clear, MACULA contains data from the following data
 
 ## License
 
-### Creative Commons Attribution 4.0 International (CC BY 4.0)
+## Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 This is a human-readable summary of (and not a substitute for) the [license](http://creativecommons.org/licenses/by/4.0/).
 
-#### You are free to:
+### You are free to:
 
- * **Share** — copy and redistribute the material in any medium or format
- * **Adapt** — remix, transform, and build upon the material
-for any purpose, even commercially.
+  * Download the data and use it: process, copy, modify;
+  * Use the data to create new software applications;
+  * Use the data for research and publish any amount of results;
 
 The licensor cannot revoke these freedoms as long as you follow the license terms.
 
-#### Under the following terms:
+### Under the following terms:
 
- * **Attribution** — You must attribute the work as follows: "MACULA Greek Linguistic Datasets, available at https://github.com/Clear-Bible/macula-greek/". You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-
+ * **Attribution**
+   * When deriving software or a dataset, attribute the work as follows: "Nestle1904GBI, available at https://github.com/tonyjurg/Nestle1904GBI". You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+   * When you publish this data or results you obtained from them, you have to comply with the following: give proper attribution to the data used by citing this persistent identifier: *To Be Added*.
+      
 **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-#### Notices:
+### Notices:
 
 You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
 
 No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+
