@@ -7,7 +7,7 @@
 @Convertor source=https://github.com/tonyjurg/Nestle1904GBI/tree/main/resources/converter
 @Data source=MACULA Greek Linguistic Datasets, available at https://github.com/Clear-Bible/macula-greek/tree/main/Nestle1904/nodes
 @Editors=Eberhart Nestle (1904)
-@Source description=Greek New Testment (British Foreign Bible Society, 1904)
+@SourceDescription=Greek New Testment (British Foreign Bible Society, 1904)
 @Source format=XML (GBI tree node data)
 @TextFabric version=11.4.10
 @Title=Greek New Testament (Nestle 1904 GBI)
