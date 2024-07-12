@@ -1,13 +1,16 @@
+title: Nestle 1904 GNT (GBI Nodes)
+description: TextFabric dataset for Greek New Testament based upon Nestle 1904 (GBI Nodes dataset)
+show_downloads: false
+url: https://tonyjurg.github.io/Nestle1904GBI
+
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 - jekyll-sitemap
 - jekyll-search
 - jekyll-feed
-
-title: Nestle 1904 GNT (GBI Nodes)
-description: TextFabric dataset for Greek New Testament based upon Nestle 1904 (GBI Nodes dataset)
-show_downloads: false
+- jekyll-seo-tag
 
 jekyll-seo-tag:
   title: "Nestle 1904 GBI"
