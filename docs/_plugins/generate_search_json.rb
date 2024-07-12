@@ -8,7 +8,7 @@ module Jekyll
     def generate(site)
       items = []
 
-      Dir.glob('_site/docs/**/*.html').each do |file|
+      Dir.glob('*/*.html').each do |file|
         doc = Nokogiri::HTML(File.read(file))
         content = doc.css('body').text.gsub(/<\/?[^>]*>/, "") # Remove HTML tags
         title = doc.at_css('title')&.text || 'No Title'
