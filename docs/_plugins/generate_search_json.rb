@@ -10,6 +10,7 @@ module Jekyll
       items = []
 
       Dir.glob('_site/**/*.md').each do |file|
+        puts "Processing file: #{file}"  # Debug output
         markdown = File.read(file)
         html = Kramdown::Document.new(markdown).to_html
         doc = Nokogiri::HTML(html)
