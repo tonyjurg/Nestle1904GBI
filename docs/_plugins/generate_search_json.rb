@@ -1,5 +1,6 @@
 require 'json'
 require 'kramdown'
+require 'nokogiri'
 
 module Jekyll
   class SearchJsonGenerator < Generator
