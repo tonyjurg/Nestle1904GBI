@@ -8,11 +8,13 @@ module Jekyll
     def generate(site)
       items = []
 
-      Dir.glob('*/*.html').each do |file|
-        doc = Nokogiri::HTML(File.read(file))
-        content = doc.css('body').text.gsub(/<\/?[^>]*>/, "") # Remove HTML tags
-        title = doc.at_css('title')&.text || 'No Title'
-        url = file.gsub('_site', '')
+      site.pages.each do |page|
+        next unless page.path.start_with?('docs/') && page.extname == '.html'
+
+        doc = Nokogiri::HTML(page.content)
+        content = doc.css('body').text.gsub(/<\/?[^>]*>/, "")
+        title = doc.at_css('title')&.text || page.data['title'] || 'No Title'
+        url = page.url
 
         items << {
           title: title,
@@ -21,7 +23,7 @@ module Jekyll
         }
       end
 
-      File.open(File.join(site.dest, '../search.json'), 'w') do |f|
+      File.open(File.join(site.dest, 'search.json'), 'w') do |f|
         f.write(JSON.pretty_generate(items))
       end
     end
