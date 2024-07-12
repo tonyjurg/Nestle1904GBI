@@ -2,13 +2,19 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 - jekyll-sitemap
+- jekyll-search
 
 title: Nestle 1904 GNT (GBI Nodes)
 description: TextFabric dataset for Greek New Testament based upon Nestle 1904 (GBI Nodes dataset)
 show_downloads: false
 
-gems:
-  - jekyll-seo-tag
-
 jekyll-seo-tag:
   title: "Nestle 1904 GBI"
+
+jekyll-search:
+  title: "Search"
+  excerpt: "Search the documentation"
+  placeholder: "Search..."
+  label: "Results"
+  no_results_message: "No results found"
+  minimum_length: 3
