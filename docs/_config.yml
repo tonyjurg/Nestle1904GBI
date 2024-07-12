@@ -6,3 +6,9 @@ plugins:
 title: Nestle 1904 GNT (GBI Nodes)
 description: TextFabric dataset for Greek New Testament based upon Nestle 1904 (GBI Nodes dataset)
 show_downloads: false
+
+gems:
+  - jekyll-seo-tag
+
+jekyll-seo-tag:
+  title: "Nestle 1904 GBI"
