@@ -27,3 +27,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - _plugins
+
+collections:
+  docs:
+    output: true
