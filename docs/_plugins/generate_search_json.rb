@@ -1,5 +1,5 @@
 require 'json'
-require 'nokogiri'
+require 'kramdown'
 
 module Jekyll
   class SearchJsonGenerator < Generator
@@ -8,13 +8,13 @@ module Jekyll
     def generate(site)
       items = []
 
-      site.pages.each do |page|
-        next unless page.path.start_with?('docs/') && page.extname == '.html'
-
-        doc = Nokogiri::HTML(page.content)
+      Dir.glob('_site/**/*.md').each do |file|
+        markdown = File.read(file)
+        html = Kramdown::Document.new(markdown).to_html
+        doc = Nokogiri::HTML(html)
         content = doc.css('body').text.gsub(/<\/?[^>]*>/, "")
-        title = doc.at_css('title')&.text || page.data['title'] || 'No Title'
-        url = page.url
+        title = File.basename(file, ".md").capitalize
+        url = file.gsub('_site', '').gsub('.md', '.html')
 
         items << {
           title: title,
