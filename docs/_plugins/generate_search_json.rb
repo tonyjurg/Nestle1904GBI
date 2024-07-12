@@ -9,14 +9,13 @@ module Jekyll
     def generate(site)
       items = []
 
-      Dir.glob('_site/**/*.md').each do |file|
-        puts "Processing file: #{file}"  # Debug output
-        markdown = File.read(file)
-        html = Kramdown::Document.new(markdown).to_html
-        doc = Nokogiri::HTML(html)
+      site.pages.each do |page|
+        next unless page.path.start_with?('docs/') && page.extname == '.html'
+
+        doc = Nokogiri::HTML(page.content)
         content = doc.css('body').text.gsub(/<\/?[^>]*>/, "").strip
-        title = File.basename(file, ".md").capitalize
-        url = file.gsub('_site', '').gsub('.md', '.html')
+        title = page.data['title'] || page.basename_without_ext
+        url = page.url
 
         items << {
           title: title,
