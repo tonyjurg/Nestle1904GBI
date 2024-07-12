@@ -14,7 +14,7 @@ module Jekyll
         }
       end
 
-      File.open('search.json', 'w') do |f|
+      File.open('../search.json', 'w') do |f|
         f.write(JSON.pretty_generate(items))
       end
     end
