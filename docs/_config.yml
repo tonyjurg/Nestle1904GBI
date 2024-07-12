@@ -18,3 +18,8 @@ jekyll-search:
   label: "Results"
   no_results_message: "No results found"
   minimum_length: 3
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - _plugins
