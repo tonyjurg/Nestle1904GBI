@@ -23,6 +23,6 @@ The following directories contain the Text-Fabric data:
  * [usecases](docs/usecases#readme): examples of using this dataset.
 
  
-See <a href="https://archive.org/details/the-greek-new-testament-nestle-1904-us-edition/mode/2up" target="_blank">here</a> a scan of the orginal publication: Nestle, Eberhard. Η Καινή Διαθήκη Novum Testamentum Graece (New York: Fleming H. Revell Company, 1904). The 1913 reprint is available <a href="https://archive.org/details/hkainediathekete00lond" target="_blank">here</a>.
+See <a href="https://archive.org/details/the-greek-new-testament-nestle-1904-us-edition/mode/2up" target="_blank">here</a> a scan of the orginal publication: Nestle, Eberhard. Η Καινή Διαθήκη Novum Testamentum Graece (New York: Fleming H. Revell Company, 1904). The 1913 reprint (7th edition) is available <a href="https://archive.org/details/hkainediathekete00lond" target="_blank">here</a>.
  
  Attribution: "MACULA Greek Linguistic Datasets, available at <a href="https://github.com/Clear-Bible/macula-greek/" target="_blank">GitHub</a>.  See [here](resources/sourcedata#readme) for licence of the source data.
