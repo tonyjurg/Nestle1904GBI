@@ -1,8 +1,9 @@
 # License
-
-## Creative Commons Attribution 4.0 International (CC BY 4.0)
+This software and data are provided 'as-is' under the following Creative Commons license, without any express or implied warranty. In no event shall the authors be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
 
 <img src="resources/images/CC-BY-40.png" style="float: right;">
+
+## Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 This is a human-readable summary of (and not a substitute for) the [license](http://creativecommons.org/licenses/by/4.0/).
 
