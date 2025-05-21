@@ -3,7 +3,7 @@
 # Text-Fabric Nestle 1904 Greek New Testament (based on GBI XML node)
 
 <div class="box" style="border: 1px solid #333;">
-<b>Important:</b> This Text-Fabric version has been superseded by the functionaly enhanced <A HREF="https://centerblc.github.io/N1904/">N1904‑TF</A> dataset. This repository is archived as a reference implementation.
+<b>Important:</b> This Text-Fabric version has been superseded by the functionaly enhanced <A HREF="https://centerblc.github.io/N1904/">N1904‑TF</A> dataset. This repository is archived as an earlier reference implementation.
 </div>
 
 ## Quick starters
