@@ -1,3 +1,7 @@
+[![status: superseded](https://img.shields.io/badge/status-superseded-red?logo=github&logoColor=white)](https://centerblc.github.io/N1904/) 
+
+> **IMPORTANT:** This Text-Fabric version has been superseded by the functionaly enhanced <A HREF="https://centerblc.github.io/N1904/">N1904-TF</A> dataset. This repository is archived as an earlier reference implementation.
+
 # Provenance Nestle 1904 Text-Fabric (GBI)
 
 Greek New Testament, edited by Eberhard Nestle, published in 1904 by the British and Foreign Bible Society. Transcription by Diego Santos, morphology by Ulrik Sandborg-Petersen, markup by Jonathan Robie. 

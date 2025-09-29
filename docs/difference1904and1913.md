@@ -1,3 +1,7 @@
+[![status: superseded](https://img.shields.io/badge/status-superseded-red?logo=github&logoColor=white)](https://centerblc.github.io/N1904/) 
+
+> **IMPORTANT:** This Text-Fabric version has been superseded by the functionaly enhanced <A HREF="https://centerblc.github.io/N1904/">N1904-TF</A> dataset. This repository is archived as an earlier reference implementation.
+
 # Difference between the 1904 and the 1913 edition
 
 Observation by Saulo de Oliveira Cantanhêde:

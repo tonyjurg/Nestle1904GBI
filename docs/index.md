@@ -1,3 +1,8 @@
+[![status: superseded](https://img.shields.io/badge/status-superseded-red?logo=github&logoColor=white)](https://centerblc.github.io/N1904/) 
+
+> **IMPORTANT:** This Text-Fabric version has been superseded by the functionaly enhanced <A HREF="https://centerblc.github.io/N1904/">N1904-TF</A> dataset. This repository is archived as an earlier reference implementation.
+
+
 # Text-Fabric version of the Greek New Testament (GBI)
 
 This Github repository houses a comprehensive dataset for the Greek New Testament (Nestle 1904), enabling  linguistic and textual analytics through the Python package [Text-Fabric](tf.md). One of the main features is the ability to present the Greek text as a syntax tree, reflecting the hierarchical arrangement of grammatical elements within the sentence. 

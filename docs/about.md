@@ -1,3 +1,7 @@
+[![status: superseded](https://img.shields.io/badge/status-superseded-red?logo=github&logoColor=white)](https://centerblc.github.io/N1904/) 
+
+> **IMPORTANT:** This Text-Fabric version has been superseded by the functionaly enhanced <A HREF="https://centerblc.github.io/N1904/">N1904-TF</A> dataset. This repository is archived as an earlier reference implementation.
+
 # About this dataset
 
 This repository is part of a set of repositories dedicated to storing the code and data generated for the 'Nestle 1904 Text-Fabric conversion project'. One of the objectives of this project is to create a high-quality Text-Fabric presentation of the Treebank Nestle 1904 Greek New Testament, resembling the Text-Fabric implementation of the Hebrew Old Testament ([BHSA](https://github.com/ETCBC/bhsa)). The project is a collaboration between [Eep Talstra Center ofr Biblical Computing (ETCBC)](https://github.com/ETCBC) at the Vrije Universiteit Amsterdam and [Center for Biblical Languages and Computing (CBLC)](https://github.com/CenterBLC) at Andrews University.
